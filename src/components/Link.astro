@@ -1,0 +1,11 @@
+---
+interface Props extends astroHTML.JSX.AnchorHTMLAttributes {
+  href: string;
+  text: string;
+}
+
+const { href, text, class: styles } = Astro.props;
+---
+
+<a class:list={["underline hover:text-amber-700", styles]} href={href}>{text}</a
+>

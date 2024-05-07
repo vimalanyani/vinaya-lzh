@@ -1,7 +1,31 @@
 ---
 import Layout from "../layouts/Layout.astro";
+import Link from "../components/Link.astro";
+import getAllBookRuleData, { rulePaths } from "../utils/getAllBookRuleData";
+
+const mgVnRulePages = await getAllBookRuleData({ rulePath: "/mg/vb" });
 ---
 
 <Layout title="LZH Vinaya">
-  <main></main>
+  <main>
+    <h1 class="text-6xl">LZH Vinaya Translations</h1>
+
+    <h2 class="mt-12 text-4xl text-neutral-800">
+      {mgVnRulePages[0].school}
+      <p class="text-2xl leading-8">{mgVnRulePages[0].book}</p>
+    </h2>
+
+    <ul class="my-4 text-2xl leading-10">
+      {
+        mgVnRulePages.map((rule) => (
+          <li>
+            <Link
+              href={rulePaths.mgbv + "/" + rule.file}
+              text={rule.rule_class + " " + rule.rule_no}
+            />
+          </li>
+        ))
+      }
+    </ul>
+  </main>
 </Layout>

@@ -1,5 +1,37 @@
 # vinaya-lzh
 
+An MVP project, with _super_ rough round the edges data prep and presentation.
+
+## Data prep
+
+In it's current prototype form, `data_prep.py` needs to be run from its containing directory with relative input and output paths:
+
+```sh
+cd src/data
+python3 data_prep.py --input_dir ./mg/vb/src --output_dir ./mg/vb/json --school "Mahāsaṅghika Vinaya" --book "Bhikkhunī Vibhaṅga"
+```
+
+The rule data “schema“ appied in `data_prep.py` is defined in `src/data/types.ts` and consumed `src/utils/getAllBookRuleData.ts` and fed down through the app.
+
+### ¡Note!:
+
+- `data_prep.py` used to transform the source `txt` files into `json` consumed by the site has been modled on one sample file and it's assumptions may not be universal!
+- the project assumes text files have have been renamed with leading zeros.
+
+## Deployment
+
+Deployed with GitHub Pages. Specifics to come!
+
+## Things that could be done:
+
+- update font-family for improved special character handling in all font sizes. 
+- data validation
+- define design system
+- componentize rule page
+- content sectioning
+- actions
+- loads more stuff!
+
 ## Astro Starter Kit: Basics
 
 ```sh
