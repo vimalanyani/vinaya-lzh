@@ -7,5 +7,7 @@ interface Props extends astroHTML.JSX.AnchorHTMLAttributes {
 const { href, text, class: styles } = Astro.props;
 ---
 
-<a class:list={["underline hover:text-amber-700", styles]} href={href}>{text}</a
+<a
+  class:list={["underline hover:text-amber-700", styles]}
+  href={"/vinaya-lzh" + href}>{text}</a
 >

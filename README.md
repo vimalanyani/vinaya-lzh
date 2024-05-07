@@ -29,6 +29,7 @@ Deployed with GitHub Pages. Specifics to come!
 - define design system
 - componentize rule page
 - content sectioning
+- 404 page
 - actions
 - loads more stuff!
 
