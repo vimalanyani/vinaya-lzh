@@ -1,0 +1,4049 @@
+#. Translation Template For SuttaCentral
+msgid ""
+msgstr ""
+"Project-Id-Version: suttas 1\n"
+"Report-Msgid-Bugs-To: sujato@gmail.com\n"
+"POT-Creation-Date: 2017-07-03 15:07+0018\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: SuttaCentral\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+#. <html><head><meta charset="UTF-8"><meta author="CBETA"></head><body><div id="text" lang="lzh"><section class="sutta" id="lzh-mg-bi-pm"><article><div class="hgroup"><p class="division latin">
+msgctxt "lzh-mg-bi-pm:1.1"
+msgid "Taishō vol.22 no.1427 [cf.no.1425]"
+msgstr "Taishō vol.22 no.1427 [cf.no.1425]"
+
+#. </p><p class="latin">
+msgctxt "lzh-mg-bi-pm:2.1"
+msgid "Mahāsaṅghika Bhikkhunī Pātimokkha"
+msgstr "Mahāsaṅghika Bhikkhunī Pātimokkha"
+
+#. </p><h1>
+msgctxt "lzh-mg-bi-pm:3.1"
+msgid "摩訶僧祇比丘尼戒本"
+msgstr "Mahāsaṅghika Bhikkhunī Pātimokkha"
+
+#. </h1><p class="subheading">
+msgctxt "lzh-mg-bi-pm:4.1"
+msgid "東晉平陽沙門法顯共覺賢譯"
+msgstr "Translated by the renunciates Faxian and Buddhabhadra in Pingyang during the Eastern Jin dynasty."
+
+#. </p></div><h2>
+#. <span class="add"><a id="intro" class="latin">
+msgctxt "lzh-mg-bi-pm:5.1"
+msgid "Introduction"
+msgstr "Introduction"
+
+#. </a></span>
+#. </h2><p><a class="sc" id="1"></a>
+msgctxt "lzh-mg-bi-pm:6.1"
+msgid "阿梨耶僧聽。冬時一月過少一夜。餘有一夜三月在。老死至近佛法欲滅。諸阿梨耶。為得道故一心勤精進。所以者何。諸佛一心勤精進故得阿耨多羅三藐三菩提。何況餘助道法。未受具足者已出。僧今和合先作何事<span class=\"t-note\">(一人應答布薩說戒)</span>。"
+msgstr "“May the noble sangha listen. The first month of the winter season has already passed, except for one night. One night and three months remain. Old age and death are drawing near, and the Buddha’s dhamma will extinguish. Venerables, to realize the path, strive single-mindedly with diligence. Why? Because the Buddhas have striven single-mindedly with diligence, they have realized unsurpassed perfect enlightenment. Moreover, they are helping those on the dhamma path. Those who have not yet received the full ordination have already left. The sangha is now in harmony. What are we doing first? <span class=\"t-note\">(One person should answer: ‘The uposatha precepts’ recitation.)</span>"
+
+#. </p><p>
+msgctxt "lzh-mg-bi-pm:7.1"
+msgid "諸阿梨耶不來。諸比丘尼說欲及清淨。"
+msgstr "Some venerables have not come. May the bhikkhunīs convey their consent and purity."
+
+#. </p><blockquote class="gatha"><p><a class="sc" id="2"></a>
+msgctxt "lzh-mg-bi-pm:8.1"
+msgid "合十指爪掌　　供養釋師子"
+msgstr "Joining the palms and the ten fingers together we venerate the Sakyan lion."
+
+#. <br>
+msgctxt "lzh-mg-bi-pm:8.2"
+msgid "我今欲說戒　　僧當一心聽"
+msgstr "I now want to recite the precepts, may the sangha listen single-mindedly."
+
+#. <br>
+msgctxt "lzh-mg-bi-pm:8.3"
+msgid "乃至小罪中　　心應大怖畏"
+msgstr "Even towards the small offenses, our hearts should feel great fear."
+
+#. <br>
+msgctxt "lzh-mg-bi-pm:8.4"
+msgid "有罪一心悔　　後更莫復犯"
+msgstr "Having committed an offense, one should single-mindedly repent, and not transgress again later."
+
+#. <br>
+msgctxt "lzh-mg-bi-pm:8.5"
+msgid "心馬馳惡道　　放逸難禁制"
+msgstr "The horse-like mind runs down the evil paths, negligence is difficult to restrain."
+
+#. <br>
+msgctxt "lzh-mg-bi-pm:8.6"
+msgid "佛說切戒行　　亦如利轡勒"
+msgstr "The Buddha said that we must practise the precepts, as beneficial bridle and reins."
+
+#. <br>
+msgctxt "lzh-mg-bi-pm:8.7"
+msgid "佛口說教誡　　善者能信受"
+msgstr "The Buddha gave these instructions, so that the good can attain faith."
+
+#. <br>
+msgctxt "lzh-mg-bi-pm:8.8"
+msgid "是人馬調順　　能破煩惱軍"
+msgstr "That person is like an obedient horse, that can destroy the army of defilements."
+
+#. <br>
+msgctxt "lzh-mg-bi-pm:8.9"
+msgid "若不受教<span class=\"gaiji\">勅<!--gaiji,敕,1[束*力],2&#x52C5;,3--> </span>　　亦不愛樂戒"
+msgstr "If one does not receive these teachings, and does not feel love and happiness towards the precepts,"
+
+#. <br>
+msgctxt "lzh-mg-bi-pm:8.10"
+msgid "是人馬不調　　沒在煩惱軍"
+msgstr "That person is like an untamed horse, that will founder against the army of defilements."
+
+#. <br>
+msgctxt "lzh-mg-bi-pm:8.11"
+msgid "若人守護戒　　如<span class=\"gaiji\">犛<!--gaiji,犛,1[犛-未+牙],2&#x246C6;,3--> </span>牛愛尾"
+msgstr "If someone protects the precepts like a yak its tail,"
+
+#. <br>
+msgctxt "lzh-mg-bi-pm:8.12"
+msgid "繫心不放逸　　亦如猴著鎖"
+msgstr "With their mind restrained without any negligence, like a locked-up monkey,"
+
+#. <br>
+msgctxt "lzh-mg-bi-pm:8.13"
+msgid "日夜勤精進　　求實智慧故"
+msgstr "Making an intense effort day and night to seek true wisdom,"
+
+#. <br>
+msgctxt "lzh-mg-bi-pm:8.14"
+msgid "是人佛法中　　能得清淨命"
+msgstr "That person can attain a pure life in the Buddha’s dhamma."
+
+#. </p></blockquote><h2>
+#. <span class="add"><a id="nidana" class="latin">
+msgctxt "lzh-mg-bi-pm:9.1"
+msgid "nidāna"
+msgstr "nidāna"
+
+#. </a></span>
+#. </h2><p><a class="sc" id="3"></a>
+msgctxt "lzh-mg-bi-pm:10.1"
+msgid "諸阿梨耶僧聽。今十五日布薩說波羅提木叉。若僧時到。僧忍聽。相當一心共作布薩說波羅提木叉。白如是。諸阿梨耶。今共布薩說波羅提木叉。僧一心善聽。有罪者應發露。若無罪者默然。默然故當知諸阿梨耶清淨。如一一比丘尼問答。是比丘尼眾中三唱亦如是。若比丘尼。如是比丘尼眾中第二第三唱。憶有罪者不發露得故妄語罪。諸阿梨耶。故妄語罪佛說遮道法。比丘尼於是中欲求清淨。憶有罪應發露。發露則安隱。不發露罪益深。諸阿梨耶。已說波羅提木叉序。今問諸阿梨耶。是中清淨不。第二第三如是問。諸阿梨耶。是中清淨默然故。是事如是持。"
+msgstr "May the noble sangha listen. Today is the uposatha of the 15th day, a pātimokkha recitation. If the right time has come for the sangha, the sangha should give their approval. It is appropriate that we single-mindedly carry out the uposatha, and recite the pātimokkha together. This is the motion. Venerables, now we will do the uposatha, and recite the pātimokkha. May the sangha single-mindedly listen well. Those who have an offense should disclose it. If you have no offense, you should remain silent. By your silence I will know that the venerables are pure. When I call out three times in the midst of the bhikkhunī assembly, it is the same as if the bhikkhunīs were cross-examined individually. If a bhikkhunī, when I call out like this in the midst of the bhikkhunī assembly a second and a third time, remembers that she has an offense, but doesn’t disclose it, she incurs the offense of intentional lying. Venerables, the Buddha has said that the offense of intentional lying obstructs the dhamma path. A bhikkhunī who desires purification herein, and remembers an offense, should disclose it. Disclosing it leads to peace. Through hiding and not disclosing it, the offense increases. Venerables, I have recited the introduction to the pātimokkha. Now I ask the venerables: ‘Are you pure herein?’ A second and a third time, I ask this. The venerables are pure herein, therefore you are silent. This matter is remembered thus."
+
+#. </p><h2>
+#. <span class="add"><a id="pj" class="latin">
+msgctxt "lzh-mg-bi-pm:11.1"
+msgid "8 pārājika rules"
+msgstr "8 pārājika rules"
+
+#. </a></span>
+#. </h2><p>
+msgctxt "lzh-mg-bi-pm:12.1"
+msgid "諸阿梨耶。是八波羅夷法。半月半月波羅提木叉。中說。"
+msgstr "Venerables, these eight pārājika rules are recited every half-month in the pātimokkha."
+
+#. </p><h4>
+#. <span class="add"><a id="pj1" class="latin">
+msgctxt "lzh-mg-bi-pm:13.1"
+msgid "pārājika 1"
+msgstr "pārājika 1"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="4"></a>
+msgctxt "lzh-mg-bi-pm:14.1"
+msgid "若比丘尼。於和合二部僧中受具足戒。不還戒。戒羸不出。相行婬法。乃至共畜生。是比丘尼犯波羅夷罪不應共住。"
+msgstr "If a bhikkhunī who has received the full precepts in the midst of a harmonious twofold sangha, who has not returned the precepts, who has not disclosed her weakness in the precepts, engages in sexual intercourse, even together with an animal, that bhikkhunī commits a pārājika offense, and should not live in community."
+
+#. </p><h4>
+#. <span class="add"><a id="pj2" class="latin">
+msgctxt "lzh-mg-bi-pm:15.1"
+msgid "pārājika 2"
+msgstr "pārājika 2"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="5"></a>
+msgctxt "lzh-mg-bi-pm:16.1"
+msgid "若比丘尼。於聚落若空地。不與取隨盜。物王或捉或殺或縛或擯出言。咄女人。汝賊汝癡。比丘尼如是不與取波羅夷不應共住。"
+msgstr "If a bhikkhunī in a village or the wilderness takes what is not given to steal it, an object for which the king would either arrest or kill or bind or exile her, saying: ‘Hey, woman! You criminal, you fool!,’—a bhikkhunī who in this way takes what is not given is pārājika, and should not live in community."
+
+#. </p><h4>
+#. <span class="add"><a id="pj3" class="latin">
+msgctxt "lzh-mg-bi-pm:17.1"
+msgid "pārājika 3"
+msgstr "pārājika 3"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="6"></a>
+msgctxt "lzh-mg-bi-pm:18.1"
+msgid "若比丘尼。自手奪人命。求持刀與殺者。教死歎死。咄人用惡活為死勝生。作如是意如是想。方便歎譽死快。因是死非餘。是比丘尼波羅夷不應共住。"
+msgstr "If a bhikkhunī with her own hand takes someone’s life, seeks and takes a knife to give to an assasin, teaches death, or praises death, saying: ‘Hey you, what use is this bad life? Death is better than living on!,’ if, having such intentions and thoughts, she praises and glorifies the pleasure of death with skillful means, and someone dies for this reason and no other, that bhikkhunī is pārājika, and should not live in community."
+
+#. </p><h4>
+#. <span class="add"><a id="pj4" class="latin">
+msgctxt "lzh-mg-bi-pm:19.1"
+msgid "pārājika 4"
+msgstr "pārājika 4"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="7"></a>
+msgctxt "lzh-mg-bi-pm:20.1"
+msgid "若比丘尼。未知未了自稱得過人法聖知見殊勝。我如是知如是見。彼於後時若檢校若不檢校犯罪。欲求清淨故便作是言。阿梨耶。我不知言知不見言見。空誑不實語除增上慢。是比丘尼得波羅夷不應共住。"
+msgstr "If a bhikkhunī, not yet knowing and understanding, claims to have attained a superhuman state, noble extraordinary knowledge and vision: ‘I know in this way, I see in this way,’ and at a later time, whether she is being examined or not examined about committing the offense, desiring purification, she says: ‘Venerables, I, not knowing said I know, not seeing said I see. It was empty, deceited, untrue speech,’ except in a case of superiority conceit, that bhikkhunī incurs a pārājika, and should not live in community." 
+
+#. </p><h4>
+#. <span class="add"><a id="pj5" class="latin">
+msgctxt "lzh-mg-bi-pm:21.1"
+msgid "pārājika 5"
+msgstr "pārājika 5"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:22.1"
+msgid "若比丘尼漏心。漏心男子邊。肩以下膝以上摩觸受樂者。是比丘尼波羅夷不應共住。"
+msgstr "If a bhikkhunī with a defiled mind, feels pleasure from being rubbed and touched below the shoulders and above the knees by a man with a defiled mind, that bhikkhunī is pārājika, and should not live in community."
+
+
+#. </p><h4>
+#. <span class="add"><a id="pj6" class="latin">
+msgctxt "lzh-mg-bi-pm:23.1"
+msgid "pārājika 6"
+msgstr "pārājika 6"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:24.1"
+msgid "若比丘尼漏心。漏心男子伸手內住共語。受捉手捉衣。來歡喜請坐。曲身就共期去。是比丘尼波羅夷不應共住。"
+msgstr "If a bhikkhunī with a defiled mind stays within arm’s reach of a man with a defiled mind, talks with him, lets him hold her hand, hold her robes, is happy when he comes, asks him to sit down, turns her body, and goes to appointments with him, that bhikkhunī is pārājika, and should not live in community."
+
+#. </p><h4>
+#. <span class="add"><a id="pj7" class="latin">
+msgctxt "lzh-mg-bi-pm:25.1"
+msgid "pārājika 7"
+msgstr "pārājika 7"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="8"></a>
+msgctxt "lzh-mg-bi-pm:26.1"
+msgid "若比丘尼。知比丘犯重罪不向人說。是比丘尼若離處若死若罷道。後作是言。我先知是比丘尼犯重罪。不向人說。不欲令他知。是比丘尼波羅夷不應共住。"
+msgstr "If a bhikkhunī knows that another bhikkhu[ni] has committed a grave offense, and does not tell anyone, and if that second bhikkhunī leaves that place, or dies, or disrobes, she afterwards says: ‘I knew before that that bhikkhunī committed a grave offense, and didn’t tell anyone. I didn’t want to let others know,’ that bhikkhunī is pārājika, and should not live in community."
+
+#. </p><h4>
+#. <span class="add"><a id="pj8" class="latin">
+msgctxt "lzh-mg-bi-pm:27.1"
+msgid "pārājika 8"
+msgstr "pārājika 8"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="9"></a>
+msgctxt "lzh-mg-bi-pm:28.1"
+msgid "若比丘尼。知僧和合如法如比尼與比丘作舉羯磨。未作如法而隨順。諸比丘尼應諫是比丘尼。阿梨耶。是比丘。僧和合如法如比尼。作舉羯磨。未作如法莫隨順。是比丘尼。諸比丘尼諫時作是語。我不隨順誰當隨順。諸比丘尼如是第二第三諫。捨是事好。若不捨者。是比丘尼波羅夷不應共住。"
+msgstr "If a bhikkhunī knows that the sangha in harmony has carried out an act of suspension against a bhikkhu according to dhamma and vinaya, and that he has not yet acted according to dhamma, and follows him, the bhikkhunīs should admonish that bhikkhunī: ‘Venerable, the sangha in harmony has carried out an act of suspension against that bhikkhu according to dhamma and vinaya, and he has not yet acted according to dhamma. Don’t follow him.’ If that bhikkhunī, when admonished by the bhikkhunīs, says: ‘If I do not follow him, who will follow him?,’ the bhikkhunīs should admonish her like this a second and a third time. If she gives up this matter, it is fine. If not, that bhikkhunī is pārājika, and should not live in community." 
+
+#. </p><hr><p><a class="sc" id="10"></a>
+msgctxt "lzh-mg-bi-pm:29.1"
+msgid "諸阿梨耶。已說八波羅夷法若比丘尼犯一一法。是比丘尼不應共住。如前後亦如是。比丘尼得波羅夷罪不應共住。今問諸阿梨耶。是中清淨不第二第三亦如是問諸阿梨耶。是中清淨默然故。是事如是持。"
+msgstr "Venerables, the eight pārājika rules have been recited. If a bhikkhunī has committed any of these offenses, she should not live in community. As before, so afterwards. That bhikkhunī incurs a pārājika offense, and should not live in community. Now I ask the venerables: ‘Are you pure herein?’ A second and a third time, I ask this. The venerables are pure herein, therefore you are silent. This matter is remembered thus."
+
+#. </p><h2>
+#. <span class="add"><a id="ss" class="latin">
+msgctxt "lzh-mg-bi-pm:30.1"
+msgid "19 saṅghādisesa rules"
+msgstr "19 saṅghādisesa rules"
+
+#. </a></span>
+#. </h2><p>
+msgctxt "lzh-mg-bi-pm:31.1"
+msgid "諸阿梨耶。是十九僧伽婆尸沙法。半月半月波羅提木叉中說。"
+msgstr "Venerables, these 19 saṅghādisesa rules are recited every half-month in the pātimokkha."
+
+#. </p><h4>
+#. <span class="add"><a id="ss1" class="latin">
+msgctxt "lzh-mg-bi-pm:32.1"
+msgid "saṅghādisesa 1"
+msgstr "saṅghādisesa 1"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:33.1"
+msgid "若比丘尼。受使行和合男女。若取婦若私通。乃至須臾頃。是法初罪僧伽婆尸沙。"
+msgstr "If a bhikkhunī accepts to act as a messenger to unite a man and a woman, whether for a marriage or an affair, even for just one moment, it is an immediate sanghadisesa offense."
+
+#. </p><h4>
+#. <span class="add"><a id="ss2" class="latin">
+msgctxt "lzh-mg-bi-pm:34.1"
+msgid "saṅghādisesa 2"
+msgstr "saṅghādisesa 2"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="11"></a>
+msgctxt "lzh-mg-bi-pm:35.1"
+msgid "若比丘尼。瞋恨不喜故。於清淨無罪比丘尼。以無根波羅夷法謗。欲破彼比丘尼淨行。彼於後時若檢校若不檢校便作是言。是事無根。我住瞋恨故作是語。是法初罪僧伽婆尸沙。"
+msgstr "If a bhikkhunī out of hostility and dissatisfaction, slanders a pure, innocent bhikkhunī with an unfounded pārājika offense, wanting to destroy that bhikkhunī’s monastic life, and at a later time, whether examined or not examined, says: ‘This matter is unfounded. I said this because I was harbouring hostility,’ it is an immediate saṅghādisesa offense."
+
+#. </p><h4>
+#. <span class="add"><a id="ss3" class="latin">
+msgctxt "lzh-mg-bi-pm:36.1"
+msgid "saṅghādisesa 3"
+msgstr "saṅghādisesa 3"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="12"></a>
+msgctxt "lzh-mg-bi-pm:37.1"
+msgid "若比丘尼。瞋恨不喜故。以異分中小小事非波羅夷。比丘尼以波羅夷法謗。欲破彼梵行。彼於後時若檢校若不檢校以異分中小小事。是比丘尼住瞋恨故。是法初罪僧伽婆尸沙。"
+msgstr "If a bhikkhunī, out of hostility and dissatisfaction, slanders a bhikkhunī, who is not pārājika, with a pārājika offense because of a minor issue from a different matter, wanting to destroy her monastic life, and at a later time, whether examined or not examined about that minor issue from a different matter, that bhikkhunī says that she (spoke) because she harboured hostility, it is an immediate saṅghādisesa offense.<note: “spoke” 說 is only found in the vibhaṅga version of the rule.>"
+
+#. </p><h4>
+#. <span class="add"><a id="ss4" class="latin">
+msgctxt "lzh-mg-bi-pm:38.1"
+msgid "saṅghādisesa 4"
+msgstr "saṅghādisesa 4"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:39.1"
+msgid "若比丘尼諍訟相言。若俗人若出家人晝日須臾。乃至與園民沙彌共<span class=\"gaiji\">鬪<!--gaiji,鬥,1[鬥@(豆*寸)],2&#x9B2A;,3--> </span>相言。是法初罪僧伽婆尸沙。"
+msgstr "If a bhikkhunī files a court case against householders or renunciates, all day or just a moment, or even just disputes with monastery attendants and sāmaṇeras, it is an immediate saṅghādisesa offense."
+
+#. </p><h4>
+#. <span class="add"><a id="ss5" class="latin">
+msgctxt "lzh-mg-bi-pm:40.1"
+msgid "saṅghādisesa 5"
+msgstr "saṅghādisesa 5"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:41.1"
+msgid "若比丘尼。無比丘尼伴行不得出聚落界。除餘時。餘時者。不欲病是名餘時。是法初罪僧伽婆尸沙。"
+msgstr "If a bhikkhunī walks without a bhikkhunī companion, she may not leave the village boundary, except at a suitable time. A suitable time means: if it is involuntary, or if she is sick. This is called a suitable time. This is an immediate saṅghādisesa offense."
+
+#. </p><h4>
+#. <span class="add"><a id="ss6" class="latin">
+msgctxt "lzh-mg-bi-pm:42.1"
+msgid "saṅghādisesa 6"
+msgstr "saṅghādisesa 6"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:43.1"
+msgid "若比丘尼。離比丘尼一夜宿。除餘時。餘時者。若病時賊亂圍城時。是名餘時。是法初罪僧伽婆尸沙。"
+msgstr "If a bhikkhunī spends a night away from other bhikkhunīs, except at a suitable time, —a suitable time means: if she is sick, or if the city is surrounded by criminals and rebels. This is called a suitable time,— it is an immediate saṅghādisesa offense."
+
+#. </p><h4>
+#. <span class="add"><a id="ss7" class="latin">
+msgctxt "lzh-mg-bi-pm:44.1"
+msgid "saṅghādisesa 7"
+msgstr "saṅghādisesa 7"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:45.1"
+msgid "若比丘尼。其主不聽而度。是法初罪僧伽婆尸沙。"
+msgstr "If a bhikkhunī ordains someone whose guardian has not allowed it, it is an immediate saṅghādisesa offense."
+
+#. </p><h4>
+#. <span class="add"><a id="ss8" class="latin">
+msgctxt "lzh-mg-bi-pm:46.1"
+msgid "saṅghādisesa 8"
+msgstr "saṅghādisesa 8"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:47.1"
+msgid "若比丘尼。知他犯罪女眾親欲治而度。除餘時。餘時者。先外道度是名餘時。是法初罪僧伽婆尸沙。"
+msgstr "If a bhikkhunī knows that a woman has committed a crime, and that her assembled relatives want to punish her, and ordains her, except at a suitable time, —A suitable time means: if she has first been ordained by non-Buddhist renunciates. This is called a suitable time,— it is an immediate saṅghādisesa offense."
+
+#. </p><h4>
+#. <span class="add"><a id="ss9" class="latin">
+msgctxt "lzh-mg-bi-pm:48.1"
+msgid "saṅghādisesa 9"
+msgstr "saṅghādisesa 9"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:49.1"
+msgid "若比丘尼。於船渡處獨渡河者。是法初罪僧伽婆尸沙。"
+msgstr "If a bhikkhunī crosses a river alone at a ferry crossing place, it is an immediate saṅghādisesa offense."
+
+#. </p><h4>
+#. <span class="add"><a id="ss10" class="latin">
+msgctxt "lzh-mg-bi-pm:50.1"
+msgid "saṅghādisesa 10"
+msgstr "saṅghādisesa 10"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:51.1"
+msgid "若比丘尼。知比丘尼僧和合如法比尼作舉羯磨。未作如法。先不語僧自與捨。是法初罪僧伽婆尸沙<span class=\"t-counter\">(十事竟)</span>。"
+msgstr "If a bhikkhunī knows that the bhikkhunī sangha in harmony has carried out an act of suspension according to dhamma and vinaya (against someone) who has not yet acted according to dhamma, and she herself lifts it, without first speaking with the sangha, it is an immediate saṅghādisesa offense. <span class=\"t-counter\">(End of 10 rules)</span>"
+
+#. </p><h4>
+#. <span class="add"><a id="ss11" class="latin">
+msgctxt "lzh-mg-bi-pm:52.1"
+msgid "saṅghādisesa 11"
+msgstr "saṅghādisesa 11"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:53.1"
+msgid "若比丘尼無漏心。漏心男子邊取衣<span class=\"gaiji\">鉢<!--gaiji,缽,1[金*本],2&#x9262;,3--> </span>飲食疾病湯藥者。是法初罪僧伽婆尸沙。"
+msgstr "If a bhikkhunī with an undefiled mind, receives robes, bowls, drinks, food, liquid remedies and medicines for the sick from a man with a defiled mind, it is an immediate saṅghādisesa offense."
+
+#. </p><h4>
+#. <span class="add"><a id="ss12" class="latin">
+msgctxt "lzh-mg-bi-pm:54.1"
+msgid "saṅghādisesa 12"
+msgstr "saṅghādisesa 12"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="13"></a>
+msgctxt "lzh-mg-bi-pm:55.1"
+msgid "若比丘尼語比丘尼作是語。可取此男子施。漏心不漏心何預汝事。但汝莫漏心。可取施已隨因緣用。諸比丘尼應諫是比丘尼。莫作是語。應取是施。男子漏心不漏心何預人事。但使汝無漏心。可取施已隨因緣用。如是應第二第三諫。捨是事好。若不捨者僧伽婆尸沙。"
+msgstr "If a bhikkhunī says to another bhikkhunī: ‘You can receive the offering of this man. Defiled or undefiled mind, how’s that your business? As long as you don’t have a defiled mind, you may accept the offering, and use it appropriately,’ the bhikkhunīs should admonish that bhikkhunī: ‘Don’t say: $You should receive the offering. A man’s defiled or undefiled mind, how’s that anyone’s business? Just make your mind undefiled, then you may accept the offering, and use it appropriately$, Like this she should be admonished a second and a third time. If she gives up this matter, it is fine. If she doesn’t give it up, it is a saṅghādisesa.<note: The vibhaṅga states that this is an immediate saṅghādisesa offense, even though it includes three admonishments. The pātimokkha doesn’t say whether it is immediate or after three admonishments, which is very unusual. In the Sthāviravāda schools, the parallels to this rule are all immediate offenses. So it seems that this rule was later expanded to include three admonishments, but the text was not fully adjusted.>"
+
+#. </p><h4>
+#. <span class="add"><a id="ss13" class="latin">
+msgctxt "lzh-mg-bi-pm:56.1"
+msgid "saṅghādisesa 13"
+msgstr "saṅghādisesa 13"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="14"></a>
+msgctxt "lzh-mg-bi-pm:57.1"
+msgid "若比丘尼。欲破和合僧故。執持破僧事共諍。諸比丘尼應語是比丘尼。阿梨耶。莫破和合僧勤方便執持破僧事共諍。當與僧同事。何以故。僧和合歡喜不諍。共一學如水乳合。如法說安樂住。是比丘尼。諸比丘尼諫時。堅持不捨者。應第二第三諫。捨者善。若不捨者。是法乃至三諫。僧伽婆尸沙。"
+msgstr "If a bhikkhunī, because she wants to split the sangha in harmony, strives with expedient means, holds on to matters which split the sangha, and quarrels with others, the bhikkhunīs should say to that bhikkhunī: ‘Venerable, don’t split the sangha in harmony by striving with expedient means, holding on to matters which split the sangha, and quarreling with others. You should conduct matters together with the sangha. Why? A sangha in harmony is happy and doesn’t quarrel. We should train together, mix like water and milk, speak according to dhamma, and live comfortably.’ If that bhikkhunī when admonished by the bhikkhunīs persists firmly, and doesn’t give it up, she should be admonished a second and a third time. If she gives up this matter, it is fine. If not, this rule is a saṅghādisesa after three admonishments."
+
+#. </p><h4>
+#. <span class="add"><a id="ss14" class="latin">
+msgctxt "lzh-mg-bi-pm:58.1"
+msgid "saṅghādisesa 14"
+msgstr "saṅghādisesa 14"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="15"></a>
+msgctxt "lzh-mg-bi-pm:59.1"
+msgid "若諸比丘尼同意相助。若一若二若眾多。同語同見欲破和合僧。是比丘尼。諸比丘尼諫時。是同意比丘尼言。阿梨耶。莫說是比丘尼好惡。何以故。是法語比丘尼律語比丘尼。是比丘尼所說。皆是我等所欲。是比丘尼所見欲忍可事。我等亦欲忍可。是比丘尼知說非不知說。諸比丘尼應諫是同意比丘尼。阿梨耶莫作是語。法語比丘尼律語比丘尼。何以故。此非法語比丘尼律語比丘尼。阿梨耶。莫助破僧事當樂和合僧。何以故。僧和合歡喜不諍。共一學如水乳合。如法說安樂住。是比丘尼。諸比丘尼諫時。堅持不捨者。應第二第三諫。捨是事善。若不捨是法乃至三諫。僧伽婆尸沙。"
+msgstr "If bhikkhunīs with the same intentions help each other, whether one, two, or many, speaking in the same way and having the same views, wanting to split the sangha in harmony, and if, when the other bhikkhunīs admonish the bhikkhunī (of the previous rule), these bhikkhunīs with the same intentions say: ‘Venerables, don’t say whether that bhikkhunī is good or bad. Why? That bhikkhunī speaks the dhamma and the vinaya. Whatever that bhikkhunī says, is what we also wish for. That bhikkhunī’s views, and the things she wishes for and agrees to, are what we also wish for and agree to. That bhikkhunī speaks with knowledge, not without knowledge,’ then the other bhikkhunīs should admonish the bhikkhunīs with the same intentions: ‘Venerables, don’t say: “That bhikkhunī speaks the dhamma and the vinaya.” Why? That bhikkhunī does not speak the dhamma and the vinaya. Venerables, don’t support matters that split the sangha. You should take pleasure in harmony in the sangha. Why? A sangha in harmony is happy and doesn’t quarrel. We should train together, mix like water and milk, speak according to dhamma, and live comfortably.’ If these bhikkhunīs when admonished by the bhikkhunīs persist firmly, and don’t give it up, they should be admonished a second and a third time. If they give up this matter, it is fine. If not, this rule is a saṅghādisesa after three admonishments."
+
+#. </p><h4>
+#. <span class="add"><a id="ss15" class="latin">
+msgctxt "lzh-mg-bi-pm:60.1"
+msgid "saṅghādisesa 15"
+msgstr "saṅghādisesa 15"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="16"></a>
+msgctxt "lzh-mg-bi-pm:61.1"
+msgid "若比丘尼瞋恚非理謗僧。作如是言。僧隨愛隨瞋隨怖隨癡。僧依愛瞋怖癡。是故呵責。是比丘尼。諸比丘尼應諫作是言。阿梨耶。莫作是語。僧隨愛隨瞋隨怖隨癡。僧依愛瞋怖癡。何以故。僧不隨愛瞋怖癡。汝莫瞋恚非理謗僧。是比丘尼。諸比丘尼諫時。堅持不捨者。應第二第三諫。捨是事好。若不捨。是法乃至三諫。僧伽婆尸沙。"
+msgstr "If a bhikkhunī resentfully and unreasonably slanders the sangha, saying: ‘The sangha follows desire, aversion, fear, and delusion. The sangha is relying on desire, aversion, fear, and delusion. For this reason they criticize me,’ the bhikkhunīs should admonish her: ‘Venerable, don’t say: “The sangha follows desire, aversion, fear, and delusion. The sangha is relying on desire, aversion, fear, and delusion.” Why? The sangha doesn’t follow desire, aversion, fear, and delusion. Don’t resentfully and unreasonably slander the sangha.’ If that bhikkhunī when admonished by the bhikkhunīs persists firmly, and doesn’t give it up, she should be admonished a second and a third time. If she gives up this matter, it is fine. If not, this rule is a saṅghādisesa after three admonishments."
+
+#. </p><h4>
+#. <span class="add"><a id="ss16" class="latin">
+msgctxt "lzh-mg-bi-pm:62.1"
+msgid "saṅghādisesa 16"
+msgstr "saṅghādisesa 16"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="17"></a>
+msgctxt "lzh-mg-bi-pm:63.1"
+msgid "若比丘尼。自用戾語。諸比丘尼共法中如法如律教。便自用意作是言。汝莫語我若好若惡。我亦不語汝若好若惡。諸比丘尼應諫彼比丘尼言。阿梨耶。諸比丘尼共法中如法如律教。汝莫自用語。諸比丘尼教汝。汝當信受。汝亦應如法如律教諸比丘尼。何以故。如來弟子中展轉相教展轉相諫。共罪中出故善法得增長。是比丘尼。諸比丘尼諫時。堅持不捨者。應第二第三諫。捨是事善。若不捨是法乃至三諫。僧伽婆尸沙。"
+msgstr "If a bhikkhunī speaks obstinately and contrarily when bhikkhunīs of the same affiliation teach her in accordance with dhamma and vinaya, and with obstinate intentions, says: ‘Don’t say whether I’m good or bad. I also don’t say whether you are good or bad,’ the bhikkhunīs should admonish that bhikkhunī: ‘Venerable, don’t speak obstinately when the bhikkhunīs of the same affiliation teach you according to dhamma and vinaya. When the bhikkhunīs teach you, you should accept it faithfully. You should also teach the bhikkhunīs according to dhamma and vinaya. Why? The disciples of the Tathāgata teach each other and admonish each other, to come out of shared offenses and to achieve growth in wholesome states.’ If that bhikkhunī when admonished by the bhikkhunīs persists firmly, and doesn’t give it up, she should be admonished a second and a third time. If she gives up this matter, it is fine. If not, this rule is a saṅghādisesa after three admonishments."
+
+#. </p><h4>
+#. <span class="add"><a id="ss17" class="latin">
+msgctxt "lzh-mg-bi-pm:64.1"
+msgid "saṅghādisesa 17"
+msgstr "saṅghādisesa 17"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="18"></a>
+msgctxt "lzh-mg-bi-pm:65.1"
+msgid "若二比丘尼習近住。迭相覆過。諸比丘尼應諫是比丘尼言。阿梨耶。莫習近住迭相覆過。習近住不生善法。是比丘尼。諸比丘尼諫時。堅持不捨應第二第三諫。捨是事善。若不捨是法乃至三諫。僧伽婆尸沙。"
+msgstr "If two bhikkhunīs live closely together, and hide each other’s transgressions, the bhikkhunīs should admonish those bhikkhunīs: ‘Venerables, don’t live closely together, and hide each other’s transgressions. Living closely together doesn’t give rise to wholesome states.’ If those bhikkhunīs, when admonished by the bhikkhunīs, persist firmly, and don’t give it up, they should be admonished a second and a third time. If they give up this matter, it is fine. If not, this rule is a saṅghādisesa after three admonishments."
+
+#. </p><h4>
+#. <span class="add"><a id="ss18" class="latin">
+msgctxt "lzh-mg-bi-pm:66.1"
+msgid "saṅghādisesa 18"
+msgstr "saṅghādisesa 18"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="19"></a>
+msgctxt "lzh-mg-bi-pm:67.1"
+msgid "若比丘尼見相遠住。便勸作是言。當習近住迭相藏過。莫相離住不妨生長善法。餘人亦有如是相近住者。僧不能遮。輕易汝故相禁制耳。諸比丘尼應諫是比丘尼言。阿梨耶。某甲某甲相遠住。莫勸習近住迭相覆過。習近住不妨生善法。莫作是語。餘人亦有習近住。僧不能遮。輕易汝故相禁制耳。是比丘尼。諸比丘尼諫時。堅持不捨者。應第二第三諫。捨是事善。若不捨者。是法乃至三諫。僧伽婆尸沙。"
+msgstr "If a bhikkhunī sees that they are living apart from each other, and instructs them: ‘You should live closely together, and cover up each other’s offenses. Don’t live away from each other. It doesn’t obstruct the arising of wholesome states. There are also other people who live closely together like this, and the sangha is unable to stop them. It’s just because they don’t take you seriously that they restrain you,’ the bhikkhunīs should admonish that bhikkhunī: ‘Venerable, So-and-so and So-and-so live apart from each other. Don’t instruct them to live closely together, to hide each other’s transgressions, and (claim that) living closely together won’t obstruct the arising of wholesome states. Don’t say: “There are also other people who live closely together like this, and the sangha is unable to stop them. It’s just because they don’t take you seriously, that they restrain you.”’ If that bhikkhunī when admonished by the bhikkhunīs persists firmly, and doesn’t give it up, she should be admonished a second and a third time. If she gives it up, it is fine. If not, this rule is a saṅghādisesa after three admonishments."
+
+#. </p><h4>
+#. <span class="add"><a id="ss19" class="latin">
+msgctxt "lzh-mg-bi-pm:68.1"
+msgid "saṅghādisesa 19"
+msgstr "saṅghādisesa 19"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="20"></a>
+msgctxt "lzh-mg-bi-pm:69.1"
+msgid "若比丘尼。瞋恚欲捨戒。作是言。我捨佛捨法捨僧。捨說捨共住共食。捨經論捨沙門尼釋種。用是沙門尼釋種為。餘更有勝處。我於彼中修梵行。諸比丘尼應諫是比丘尼言。阿梨耶。莫瞋恚捨戒作是言。我捨佛乃至捨沙門尼釋種。捨佛者不善。諸比丘尼如是諫時。故堅持不捨者應第二第三諫。捨是事好。若不捨是法乃至三諫。僧伽婆尸沙<span class=\"t-counter\">(十九事竟)</span>。"
+msgstr "If a bhikkhunī resentfully wants to renounce the precepts, and says: ‘I renounce the Buddha, renounce the dhamma, renounce the sangha, renounce speaking, renounce living in community, renounce eating together, renounce the discourses and treatises, and renounce the Sakyan renunciates. What use are these Sakyan renunciates to me? There are other superior places. I will practise the monastic life there,’ the bhikkhunīs should admonish her: ‘Venerable, don’t resentfully renounce the precepts, and say: “I renounce the Buddha, … I renounce the Sakyan renunciates.” Renouncing the Buddha is not good.’ If she, when admonished by the bhikkhunīs like this, persists firmly, and doesn’t give it up, she should be admonished a second and a third time. If she gives up this matter, it is fine. If not, this rule is a saṅghādisesa after three admonishments. <span class=\"t-counter\">(End of 19 rules.)</span>"
+
+#. </p><hr><p><a class="sc" id="21"></a>
+msgctxt "lzh-mg-bi-pm:70.1"
+msgid "諸阿梨耶已說十九僧伽婆尸沙法十一初罪八乃至三諫若比丘尼犯一一罪。半月二部眾中行摩那埵。次到阿浮呵那二十眾二部僧中應出罪。稱可眾人意。二十人中若少一人。此比丘尼不名出罪。諸比丘比丘尼應呵責。是名時。今問諸阿梨耶。是中清淨不。第二第三亦如是問。諸阿梨耶。是中清淨默然故。是事如是持。"
+msgstr "Venerables, the 19 saṅghādisesa rules have been recited; 11 immediate offenses and eight offenses after the third admonishment.<note: The vibhaṅga states that there are 12 immediate offenses and seven offenses after the third admonishment.> If a bhikkhunī has committed any of these offenses, she should undergo probation<note: Mānatta.> for half a month before both assemblies. She then reaches the rehabilitation<note: Abbhāna>. A sangha of 20 in both assemblies should rehabilitate her, if it pleases all the members of the assembly. If there is one person less than 20, the bhikkhunī does not count as rehabilitated, and the bhikkhus and bhikkhunīs should be criticized. This is called the suitable time. Now I ask the venerables: ‘Are you pure herein?’ A second and a third time, I ask this. The venerables are pure herein, therefore you are silent. This matter is remembered thus’."
+
+#. </p><h2>
+#. <span class="add"><a id="np" class="latin">
+msgctxt "lzh-mg-bi-pm:71.1"
+msgid "30 nissaggiya pācittiya rules"
+msgstr "30 nissaggiya pācittiya rules"
+
+#. </a></span>
+#. </h2><p>
+msgctxt "lzh-mg-bi-pm:72.1"
+msgid "諸阿梨耶。是三十尼薩耆波夜提法。半月半月波羅提木叉中說。"
+msgstr "Venerables, these 30 nissaggiya pācittiya rules are recited every half-month in the pātimokkha."
+
+#. </p><h4>
+#. <span class="add"><a id="np1" class="latin">
+msgctxt "lzh-mg-bi-pm:73.1"
+msgid "nissaggiya pācittiya 1"
+msgstr "nissaggiya pācittiya 1"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:74.1"
+msgid "若比丘尼。衣已竟迦絺那衣已捨。若得長衣得至十日畜。若過者尼薩耆波夜提。"
+msgstr "If a bhikkhunī, when the robes have been finished, and the kaṭhina robe has been relinquished, obtains a spare robe, she may keep it for up to ten days. If she exceeds that, it is a nissaggiya pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="np2" class="latin">
+msgctxt "lzh-mg-bi-pm:75.1"
+msgid "nissaggiya pācittiya 2"
+msgstr "nissaggiya pācittiya 2"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:76.1"
+msgid "若比丘尼衣已竟迦絺那衣已捨。五衣中若離一一衣餘處一宿。除僧羯磨尼薩耆波夜提。"
+msgstr "If a bhikkhunī, when the robes have been finished, and the kaṭhina robe has been relinquished, spends a night in another place away from any of her five robes, unless the sangha has done a formal act, it is a nissaggiya pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="np3" class="latin">
+msgctxt "lzh-mg-bi-pm:77.1"
+msgid "nissaggiya pācittiya 3"
+msgstr "nissaggiya pācittiya 3"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="22"></a>
+msgctxt "lzh-mg-bi-pm:78.1"
+msgid "若比丘尼。衣已竟迦絺那衣已捨。若得非時衣。比丘尼若須應取疾作衣受。若不足者有望處。為滿故聽一月畜。若過畜者。足不足尼薩耆波夜提。"
+msgstr "If a bhikkhunī, when the robes have been finished, and the kaṭhina robe has been relinquished, obtains out-of-season cloth, that bhikkhunī should receive it if she needs it, and quickly make it into a robe. If it is not sufficient and there is an expectation to complete it, she is allowed to keep it for one month. If she keeps it longer, whether is is sufficient or not, it is a nissaggiya pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="np4" class="latin">
+msgctxt "lzh-mg-bi-pm:79.1"
+msgid "nissaggiya pācittiya 4"
+msgstr "nissaggiya pācittiya 4"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:80.1"
+msgid "若比丘尼。自手捉生色似色。若使人捉舉染著者。尼薩耆波夜提。"
+msgstr "If a bhikkhunī takes gold and silver with her own hand, or has others take it or pick it up out of defiled attachement, it is a nissaggiya pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="np5" class="latin">
+msgctxt "lzh-mg-bi-pm:81.1"
+msgid "nissaggiya pācittiya 5"
+msgstr "nissaggiya pācittiya 5"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:82.1"
+msgid "若比丘尼。種種賣買尼薩耆波夜提。"
+msgstr "If a bhikkhunī engages in all kinds of trade, it is a nissaggiya pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="np6" class="latin">
+msgctxt "lzh-mg-bi-pm:83.1"
+msgid "nissaggiya pācittiya 6"
+msgstr "nissaggiya pācittiya 6"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:84.1"
+msgid "◎若比丘尼。從非親里居士居士婦乞衣。尼薩耆波夜提。除餘時。餘時者。失衣時。是名餘時。"
+msgstr "If a bhikkhunī asks for a robe from an unrelated male or female householder, it is a nissaggiya pācittiya, except at a suitable time. A suitable time means: when her robe has been lost. This is called ‘a suitable time’."
+
+#. </p><h4>
+#. <span class="add"><a id="np7" class="latin">
+msgctxt "lzh-mg-bi-pm:85.1"
+msgid "nissaggiya pācittiya 7"
+msgstr "nissaggiya pācittiya 7"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:86.1"
+msgid "若比丘尼失衣時。得從非親里居士居士婦乞衣。若自恣與得取上下衣。過是受者。尼薩耆波夜提。"
+msgstr "If a bhikkhunī has lost her robe, she may ask for a robe from an unrelated male or female householder. If they invite her and give, she may take an upper and a lower robe. If she accepts more, it is a nissaggiya pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="np8" class="latin">
+msgctxt "lzh-mg-bi-pm:87.1"
+msgid "nissaggiya pācittiya 8"
+msgstr "nissaggiya pācittiya 8"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="23"></a>
+msgctxt "lzh-mg-bi-pm:88.1"
+msgid "若居士居士婦為比丘尼辦衣價。如是言。我辦如是衣價。買如是衣。與某甲比丘尼。是比丘尼。先不自恣請。為好故便往勸言。善哉優婆夷。辦如是衣價。買如是色衣與我。若得衣者。尼薩耆波夜提。"
+msgstr "If a male or female householder prepares a robe fund for a bhikkhunī, and says: ‘I have prepared such-and-such a robe fund to buy such-and-such a robe to give to bhikkhunī So-and-so,’ and if that bhikkhunī without having first been invited to ask, in order to get something good, goes and instructs them: ‘Excellent, lay follower! Prepare such-and-such a robe fund to buy a robe of such-and-such kind to give to me,’ and if she obtains the robe, it is a nissaggiya pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="np9" class="latin">
+msgctxt "lzh-mg-bi-pm:89.1"
+msgid "nissaggiya pācittiya 9"
+msgstr "nissaggiya pācittiya 9"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="24"></a>
+msgctxt "lzh-mg-bi-pm:90.1"
+msgid "為比丘尼故若二居士居士婦。各各辦衣價。如是言。我等辦如是如是衣價。買如是如是衣。與某甲比丘尼。是比丘尼。先不自恣請。為好故便到居士所言。為我各各辦如是如是衣價。共作一衣與我為好故。若得是衣。尼薩耆波夜提。"
+msgstr "If two male or female householders each prepare a robe fund for a bhikkhunī, and say: ‘We have prepared such-and-such a robe fund to buy such-and-such a robe to give to bhikkhunī So-and-so,’ and if that bhikkhunī without having first been invited to ask, in order to get something good, goes and says to these householders: ‘You have each prepared such-and-such a robe fund for me. Make one robe together to give to me,’ in order to get something good, and if she obtains the robe, it is a nissaggiya pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="np10" class="latin">
+msgctxt "lzh-mg-bi-pm:91.1"
+msgid "nissaggiya pācittiya 10"
+msgstr "nissaggiya pācittiya 10"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="25"></a>
+msgctxt "lzh-mg-bi-pm:92.1"
+msgid "為比丘尼故若王若大臣。遣使送衣直與比丘尼。使到比丘尼所白言。阿梨耶。是衣直。若王若大臣所送。阿梨耶。應受是衣價。是比丘尼。應語使如是言。諸比丘尼法。不應受是衣價。我須衣時。得清淨衣者。得自手受作比丘尼衣畜。使語比丘尼。阿梨耶。有執事人。常為諸比丘尼執事不。是比丘尼。應示使執事人。若園民。若優婆塞。應語使到。言善哉執事。如是如是衣價。買如是如是衣。與某甲比丘尼。是比丘尼須衣時。當來當與衣。是使若自勸喻。若使人勸喻已。還到比丘尼所白言。阿梨耶。所示執事人。我已勸喻作衣。阿梨耶須衣時往取。當與阿梨耶衣。須衣比丘尼。應到執事所索衣。應作是言。我須衣我須衣。第二第三亦如是索。若得衣者好。若不得。第四第五第六應在執事前默然立。若得衣者善。若不得。過是求。若得衣。尼薩耆波夜提。若不得衣。隨衣價來處自去。若遣使應作是言。汝為某甲比丘尼送衣價。是比丘尼竟不得用。汝自知。莫使失。是事法爾。"
+msgstr "If, for a bhikkhunī, a king or a high official sends a messenger with a robe fund to give to a bhikkhunī, and if that messenger, when they come to the bhikkhunī, say: ‘Venerable, this robe fund was sent by a king or a high official. Venerable, you should accept this robe fund,’ the bhikkhunī should say to the messenger: ‘Under the bhikkhunī rules, I should not accept this robe fund. When I need a robe, I obtain a pure cloth that I may accept with my own hands, make into a bhikkhunī robe, and keep.’ If the messenger then says to the bhikkhunī: ‘Venerable, is there a manager who always takes care of matters for the bhikkhunīs?,’ the bhikkhunī should point out the manager, either a monastery attendant, or a lay person, to the messenger, or should tell them. When the messenger has gone there, he says: ‘Excellent, manager. There is such-and-such a robe fund to buy such-and-such a robe to give to bhikkhunī So-and-so. When that bhikkhunī needs a robe, she will come, and you should give the robe.’ After the messenger has either personally given the instructions, or has sent others to give the instructions, he returns to the bhikkhunī, and says: ‘Venerable, I have instructed the manager you indicated to make a robe. When the venerable needs a robe, she should go and receive one. They should give the venerable a robe.’ When the bhikkhunī needs a robe, she should go to the manager and ask for the robe. She should say: ‘I need a robe. I need a robe.’ For a second and a third time, she should again say this. If she obtains the robe, it is fine. If she doesn’t obtain it, she may stand silently in front of the manager for a forth, fifth, and sixth time. If she obtains the robe, it is fine. If she doesn’t obtain it, and ask more times, if she then obtains the robe, it is a nissaggiya pācittiya. If she doesn’t obtain the robe, she should either go herself to the place from where the robe fund was sent, or send a messenger to say: ‘You sent a robe fund for bhikkhunī So-and-so. That bhikkhunī has not been able to use it in the end. You should know that, so it doesn’t cause you a loss.’ This procedure should be done thus."
+
+#. </p><h4>
+#. <span class="add"><a id="np11" class="latin">
+msgctxt "lzh-mg-bi-pm:93.1"
+msgid "nissaggiya pācittiya 11"
+msgstr "nissaggiya pācittiya 11"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:94.1"
+msgid "若比丘尼。為床褥乞。而自作衣<span class=\"gaiji\">鉢<!--gaiji,缽,1[金*本],2&#x9262;,3--> </span>飲食疾病湯藥者。尼薩耆波夜提。"
+msgstr "If a bhikkhunī asks for beds and mats, but then herself exchanges them for robes, bowls, drinks, food, or liquid remedies and medicines for the sick for herself, it is a nissaggiya pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="np12" class="latin">
+msgctxt "lzh-mg-bi-pm:95.1"
+msgid "nissaggiya pācittiya 12"
+msgstr "nissaggiya pācittiya 12"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:96.1"
+msgid "若比丘尼。人為作是與。而作彼用者。尼薩耆波夜提。"
+msgstr "If a bhikkhunī uses offerings from people for a certain purpose to do something else, it is a nissaggiya pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="np13" class="latin">
+msgctxt "lzh-mg-bi-pm:97.1"
+msgid "nissaggiya pācittiya 13"
+msgstr "nissaggiya pācittiya 13"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:98.1"
+msgid "若比丘尼為食乞作衣<span class=\"gaiji\">鉢<!--gaiji,缽,1[金*本],2&#x9262;,3--> </span>飲食湯藥受用者。尼薩耆波夜提。"
+msgstr "If a bhikkhunī asks for food, exchanges it for robes, bowls, drinks, food, liquid remedies, and medicines, and uses them, it is a nissaggiya pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="np14" class="latin">
+msgctxt "lzh-mg-bi-pm:99.1"
+msgid "nissaggiya pācittiya 14"
+msgstr "nissaggiya pācittiya 14"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:100.1"
+msgid "若比丘尼畜長<span class=\"gaiji\">鉢<!--gaiji,缽,1[金*本],2&#x9262;,3--> </span>尼薩耆波夜提。"
+msgstr "If a bhikkhunī keeps a spare bowl, it is a nissaggiya pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="np15" class="latin">
+msgctxt "lzh-mg-bi-pm:101.1"
+msgid "nissaggiya pācittiya 15"
+msgstr "nissaggiya pācittiya 15"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:102.1"
+msgid "若比丘尼畜長衣尼薩耆波夜提。"
+msgstr "If a bhikkhunī keeps a spare robe, it is a nissaggiya pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="np16" class="latin">
+msgctxt "lzh-mg-bi-pm:103.1"
+msgid "nissaggiya pācittiya 16"
+msgstr "nissaggiya pācittiya 16"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:104.1"
+msgid "若比丘尼。於住止處棄故僧伽梨唱言。有欲取者取。後還奪者。尼薩耆波夜提。"
+msgstr "If a bhikkhunī throws away an old saṅghāṭī at a dwelling place, and announces: ‘If someone wants to take it, take it,’ and afterwards takes it back by force, it is a nissaggiya pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="np17" class="latin">
+msgctxt "lzh-mg-bi-pm:105.1"
+msgid "nissaggiya pācittiya 17"
+msgstr "nissaggiya pācittiya 17"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:106.1"
+msgid "若比丘尼。故僧伽梨若自擿若使人擿。過五六日不自縫不使人縫。除病尼薩耆波夜提。"
+msgstr "If a bhikkhunī either herself unsews an old saṅghāṭī, or has others unsew it, and doesn’t sew it back together or has others sew it, for more than five or six days, unless she is sick, it is a nissaggiya pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="np18" class="latin">
+msgctxt "lzh-mg-bi-pm:107.1"
+msgid "nissaggiya pācittiya 18"
+msgstr "nissaggiya pācittiya 18"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:108.1"
+msgid "若比丘尼。語式叉摩尼言。與我衣當與汝受具足。取衣已不與受具足者。尼薩耆波夜提。"
+msgstr "If a bhikkhunī says to a sikkhamānā: ‘Give me a robe, and I will give you the full ordination,’ and if she takes the robe but doesn’t give the full ordination, it is a nissaggiya pācittiya."
+
+
+#. </p><h4>
+#. <span class="add"><a id="np19" class="latin">
+msgctxt "lzh-mg-bi-pm:109.1"
+msgid "nissaggiya pācittiya 19"
+msgstr "nissaggiya pācittiya 19"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:120.1"
+msgid "若比丘尼。過四羯利沙槃市重衣。尼薩耆波夜提。"
+msgstr "If a bhikkhunī buys a heavy robe for more than four kārṣāpaṇas, it is a nissaggiya pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="np20" class="latin">
+msgctxt "lzh-mg-bi-pm:111.1"
+msgid "nissaggiya pācittiya 20"
+msgstr "nissaggiya pācittiya 20"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:112.1"
+msgid "若比丘尼過兩羯利沙槃半。市細輕衣者。尼薩耆波夜提。"
+msgstr "If a bhikkhunī buys a thin, light robe for more than two and a half kārṣāpaṇas, it is a nissaggiya pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="np21" class="latin">
+msgctxt "lzh-mg-bi-pm:113.1"
+msgid "nissaggiya pācittiya 21"
+msgstr "nissaggiya pācittiya 21"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:114.1"
+msgid "若比丘尼。長<span class=\"gaiji\">鉢<!--gaiji,缽,1[金*本],2&#x9262;,3--> </span>得十日畜。若過者尼薩耆波夜提。"
+msgstr "If a bhikkhunī has a spare bowl, she may keep it for ten days. If she exceeds that, it is a nissaggiya pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="np22" class="latin">
+msgctxt "lzh-mg-bi-pm:115.1"
+msgid "nissaggiya pācittiya 22"
+msgstr "nissaggiya pācittiya 22"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="26"></a>
+msgctxt "lzh-mg-bi-pm:116.1"
+msgid "若比丘尼。所用<span class=\"gaiji\">鉢<!--gaiji,缽,1[金*本],2&#x9262;,3--> </span>減五綴。更乞新<span class=\"gaiji\">鉢<!--gaiji,缽,1[金*本],2&#x9262;,3--> </span>為好故。尼薩耆波夜提。是<span class=\"gaiji\">鉢<!--gaiji,缽,1[金*本],2&#x9262;,3--> </span>應僧中捨。比丘尼眾中。最下<span class=\"gaiji\">鉢<!--gaiji,缽,1[金*本],2&#x9262;,3--> </span>應與應如是教。汝比丘尼受是<span class=\"gaiji\">鉢<!--gaiji,缽,1[金*本],2&#x9262;,3--> </span>乃至破是事法爾。"
+msgstr "If a bhikkhunī with a used bowl with less than five mends, asks for a new bowl in order to get something good, it is a nissaggiya pācittiya. That bowl should be given up in the midst of the sangha. The bhikkhunī sangha’s most inferior bowl should be given to her, and she should be instructed: ‘You, bhikkhunī, should accept this bowl until it breaks.’ This procedure should be done thus."
+
+#. </p><h4>
+#. <span class="add"><a id="np23" class="latin">
+msgctxt "lzh-mg-bi-pm:117.1"
+msgid "nissaggiya pācittiya 23"
+msgstr "nissaggiya pācittiya 23"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:118.1"
+msgid "若比丘尼病所應服藥酥油蜜石蜜生酥及脂如是病比丘尼聽畜七日服。過七日有殘不捨而服者。尼薩耆波夜提。"
+msgstr "If a bhikkhunī is sick, the medicines to be taken are ghee, oil, honey, sugar, fresh butter and fat. Such a sick bhikkhunī is allowed to keep and take them for seven days. If after seven days, there are leftovers, and she doesn’t give them up, but still takes them, it is a nissaggiya pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="np24" class="latin">
+msgctxt "lzh-mg-bi-pm:119.1"
+msgid "nissaggiya pācittiya 24"
+msgstr "nissaggiya pācittiya 24"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:120.1"
+msgid "若比丘尼。與比丘尼衣。後瞋恨不喜。若自奪若使人奪作是言。比丘尼還我衣來不與汝。得衣者尼薩耆波夜提。"
+msgstr "If a bhikkhunī gives a robe to another bhikkhunī, and if later out of hostility and dissatisfaction, she and either herself takes it back by force, or has others take it back, and says: ‘Bhikkhunī, return my robe, it’s not given to you,’ and if she obtains the robe, it is a nissaggiya pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="np25" class="latin">
+msgctxt "lzh-mg-bi-pm:121.1"
+msgid "nissaggiya pācittiya 25"
+msgstr "nissaggiya pācittiya 25"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:122.1"
+msgid "若比丘尼。種種販賣生色似色者。尼薩耆波夜提。"
+msgstr "If a bhikkhunī engages in all kinds of sales with gold and silver, it is a nissaggiya pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="np26" class="latin">
+msgctxt "lzh-mg-bi-pm:123.1"
+msgid "nissaggiya pācittiya 26"
+msgstr "nissaggiya pācittiya 26"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:124.1"
+msgid "若比丘尼。自行乞縷。使非親里織師織者。尼薩耆波夜提。"
+msgstr "If a bhikkhunī goes to ask for thread herself to have it woven by unrelated weavers, it is a nissaggiya pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="np27" class="latin">
+msgctxt "lzh-mg-bi-pm:125.1"
+msgid "nissaggiya pācittiya 27"
+msgstr "nissaggiya pācittiya 27"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="27"></a>
+msgctxt "lzh-mg-bi-pm:126.1"
+msgid "若居士居士婦。使織師為比丘尼織作衣。是比丘尼先不請。便往勸織師言。汝知不。此衣為我作。汝好織令緻長廣。當與汝錢錢直食食直。是比丘尼如是勸。與錢錢直食食直得衣者尼薩耆波夜提。"
+msgstr "If male or female householders have weavers weave a robe for a bhikkhunī, that bhikkhunī without first having been invited, goes and instructs the weavers: ‘Do you know that this robe is made for me? Weave it well to make it fine, long and wide. I will give you money, things of monetary value, food, or food funds.’ If that bhikkhunī instructs them like this, gives money, things of monetary value, food, or food funds, and obtains the robe, it is a nissaggiya pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="np28" class="latin">
+msgctxt "lzh-mg-bi-pm:127.1"
+msgid "nissaggiya pācittiya 28"
+msgstr "nissaggiya pācittiya 28"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:128.1"
+msgid "若比丘尼。十日未滿。夏三月得急施衣。比丘尼須者得取畜至衣時。若過時畜尼薩耆波夜提。"
+msgstr "If a bhikkhunī, ten days before the end of the three summer months (i.e. the vassa), obtains an urgent robe offering, the bhikkhunī should take it if she needs it, and keep it until the robe season. If she keeps it longer, it is a nissaggiya pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="np29" class="latin">
+msgctxt "lzh-mg-bi-pm:129.1"
+msgid "nissaggiya pācittiya 29"
+msgstr "nissaggiya pācittiya 29"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:130.1"
+msgid "若比丘尼。知他市得而抄買者。尼薩耆波夜提。"
+msgstr "If a bhikkhunī knows that someone has bought something, but snatches and buys it, it is a nissaggiya pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="np30" class="latin">
+msgctxt "lzh-mg-bi-pm:131.1"
+msgid "nissaggiya pācittiya 30"
+msgstr "nissaggiya pācittiya 30"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:132.1"
+msgid "若比丘尼。知他物向僧自迴向已。尼薩耆波夜提<span class=\"t-counter\">(三十事竟)</span>。"
+msgstr "If a bhikkhunī knows that an item is for the sangha, and she diverts it to herself, it is a nissaggiya pācittiya. <span class=\"t-counter\">(End of 30 rules.)</span>"
+
+#. </p><hr><p><a class="sc" id="28"></a>
+msgctxt "lzh-mg-bi-pm:133.1"
+msgid "諸阿梨耶。已說三十尼薩耆波夜提法。今問諸阿梨耶。是中清淨不。第二第三亦如是問。諸阿梨耶。是中清淨默然故。是事如是持。"
+msgstr "Venerables, the 30 nissaggiya pācittiya rules have been recited. Now I ask the venerables: ‘Are you pure herein?’ A second and a third time, I ask this. The venerables are pure herein, therefore you are silent. This matter is remembered thus."
+
+#. </p><h2>
+#. <span class="add"><a id="pc" class="latin">
+msgctxt "lzh-mg-bi-pm:134.1"
+msgid "141 pācittiya rules"
+msgstr "141 pācittiya rules"
+
+#. </a></span>
+#. </h2><p>
+msgctxt "lzh-mg-bi-pm:135.1"
+msgid "諸阿梨耶。是百四十一波夜提法。半月半月波羅提木叉中說。"
+msgstr "Venerables, these 141 pācittiya rules are recited every half-month in the pātimokkha."
+
+#. </p><h3>
+msgctxt "lzh-mg-bi-pm:136.1"
+msgid "<span class=\"add latin\">Chapter 1</span>"
+msgstr "<span class=\"add latin\">Chapter 1</span>"
+
+#. </h3><h4>
+#. <span class="add"><a id="pc1" class="latin">
+msgctxt "lzh-mg-bi-pm:137.1"
+msgid "pācittiya 1"
+msgstr "pācittiya 1"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:138.1"
+msgid "若比丘尼。知而妄語波夜提。"
+msgstr "If a bhikkhunī knowingly lies, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc2" class="latin">
+msgctxt "lzh-mg-bi-pm:139.1"
+msgid "pācittiya 2"
+msgstr "pācittiya 2"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:140.1"
+msgid "若比丘尼。種類形相語波夜提。"
+msgstr "If a bhikkhunī comments on someone else’s appearance in various ways, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc3" class="latin">
+msgctxt "lzh-mg-bi-pm:141.1"
+msgid "pācittiya 3"
+msgstr "pācittiya 3"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:142.1"
+msgid "若比丘尼。兩舌者波夜提。"
+msgstr "If a bhikkhunī speaks divisively, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc4" class="latin">
+msgctxt "lzh-mg-bi-pm:143.1"
+msgid "pācittiya 4"
+msgstr "pācittiya 4"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:144.1"
+msgid "若比丘尼。知僧如法如律滅諍事已更發起言。此羯磨不了當更作。作是因緣不異波夜提。"
+msgstr "If a bhikkhunī knows that the sangha has already settled a disputed matter according to dhamma and vinaya, still takes it up again, and says: ‘This formal act isn’t resolved, we should do it again,’ if she does it for this reason and no other, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc5" class="latin">
+msgctxt "lzh-mg-bi-pm:145.1"
+msgid "pācittiya 5"
+msgstr "pācittiya 5"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:146.1"
+msgid "若比丘尼。故奪畜生命波夜提。"
+msgstr "If a bhikkhunī intentionally takes the life of an animal, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc6" class="latin">
+msgctxt "lzh-mg-bi-pm:147.1"
+msgid "pācittiya 6"
+msgstr "pācittiya 6"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:148.1"
+msgid "若比丘尼。教未受具戒人說句法波夜提。"
+msgstr "If a bhikkhunī teaches a not fully ordained person to recite dhamma sentence by sentence, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc7" class="latin">
+msgctxt "lzh-mg-bi-pm:149.1"
+msgid "pācittiya 7"
+msgstr "pācittiya 7"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:150.1"
+msgid "若比丘尼。自稱向未受具戒人得過人法。我如是知如是見。說實者波夜提。"
+msgstr "If a bhikkhunī praises herself in front of a not fully ordained person for having attained a superhuman state: ‘I know like this, I see like this,’ and if she speaks the truth, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc8" class="latin">
+msgctxt "lzh-mg-bi-pm:151.1"
+msgid "pācittiya 8"
+msgstr "pācittiya 8"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:152.1"
+msgid "若比丘尼。知他比丘尼<span class=\"gaiji\">麁<!--gaiji,麤,1[色-巴+鹿],2&#x9E81;,3--> </span>罪。向未受具戒人說。除僧羯磨波夜提。"
+msgstr "If a bhikkhunī knows that another bhikkhunī has committed a coarse offense, and tells it to a not fully ordained person, unless the sangha has done a formal act, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc9" class="latin">
+msgctxt "lzh-mg-bi-pm:153.1"
+msgid "pācittiya 9"
+msgstr "pācittiya 9"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:154.1"
+msgid "若比丘尼。僧應分物。先聽與而後遮言。阿梨耶。汝親友意迴僧物與波夜提。"
+msgstr "If a bhikkhunī, when the sangha wants to distribute items, first allows to give them, but later blocks it, and says: ‘Venerables, you distribute the sangha’s items according to notions of personal friendship,’ it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc10" class="latin">
+msgctxt "lzh-mg-bi-pm:155.1"
+msgid "pācittiya 10"
+msgstr "pācittiya 10"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="29"></a>
+msgctxt "lzh-mg-bi-pm:156.1"
+msgid "若比丘尼。半月誦波羅提木叉經時作是言。阿梨耶。用說是雜碎戒為使諸比丘尼生疑悔作是輕呵戒因緣不異波夜提<span class=\"t-counter\">(十事竟)</span>。"
+msgstr "If a bhikkhunī, when the pātimokkha sutta is being recited half-monthly, says: ‘Venerables, what use is the recitation of these trivial precepts that cause the bhikkhunīs to give rise to doubt and regret,’ and belittles and criticizes the precepts for this reason and no other, it is a pācittiya <span class=\"t-counter\">(End of 10 rules.)</span>"
+
+#. </p><h3>
+msgctxt "lzh-mg-bi-pm:157.1"
+msgid "<span class=\"add latin\">Chapter 2</span>"
+msgstr "<span class=\"add latin\">Chapter 2</span>"
+
+#. </h3><h4>
+#. <span class="add"><a id="pc11" class="latin">
+msgctxt "lzh-mg-bi-pm:158.1"
+msgid "pācittiya 11"
+msgstr "pācittiya 11"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:159.1"
+msgid "若比丘尼。壞種子破鬼村波夜提。"
+msgstr "If a bhikkhunī damages seeds and destroys plants, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc12" class="latin">
+msgctxt "lzh-mg-bi-pm:160.1"
+msgid "pācittiya 12"
+msgstr "pācittiya 12"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:161.1"
+msgid "若比丘尼。異語惱他波夜提。"
+msgstr "If a bhikkhunī irritates another with evasive speech, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc13" class="latin">
+msgctxt "lzh-mg-bi-pm:162.1"
+msgid "pācittiya 13"
+msgstr "pācittiya 13"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:163.1"
+msgid "若比丘尼。嫌責者波夜提。"
+msgstr "If a bhikkhunī rebukes someone, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc14" class="latin">
+msgctxt "lzh-mg-bi-pm:164.1"
+msgid "pācittiya 14"
+msgstr "pācittiya 14"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:165.1"
+msgid "若比丘尼。僧住處露地敷臥床坐床褥枕。若自敷若使人敷。去時不自舉不使人舉。波夜提。"
+msgstr "If a bhikkhunī herself lays out beds, seats, mats, and pillows outdoors in a sangha residence, or has others lay them out, and when she leaves neither picks them up herself nor has others pick them up, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc15" class="latin">
+msgctxt "lzh-mg-bi-pm:166.1"
+msgid "pācittiya 15"
+msgstr "pācittiya 15"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:167.1"
+msgid "若比丘尼。僧房內覆處自敷床褥若使人敷。去時不自舉不使人舉。波夜提。"
+msgstr "If a bhikkhunī herself lays out beds and mats in a covered place in a sangha building, or has others lay them out, and when she leaves neither picks them up herself, nor has others pick them up, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc16" class="latin">
+msgctxt "lzh-mg-bi-pm:168.1"
+msgid "pācittiya 16"
+msgstr "pācittiya 16"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:169.1"
+msgid "若比丘尼在僧房內。若自牽比丘尼出。若使人牽出。下至言比丘尼汝出去。作是語者波夜提。"
+msgstr "If a bhikkhunī herself throws out another bhikkhunī from a sangha building, or has others throw her out, or even just says: ‘Bhikkhunī, go away!,’ if she speaks like this, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc17" class="latin">
+msgctxt "lzh-mg-bi-pm:170.1"
+msgid "pācittiya 17"
+msgstr "pācittiya 17"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:171.1"
+msgid "若比丘尼。知僧房內比丘尼先敷床褥。後來敷欲擾亂故敷置。不樂者自當出去。作是因緣不異波夜提。"
+msgstr "If a bhikkhunī knows that another bhikkhunī has first laid out a bed and a mat in a sangha building, and later comes and also lays out and puts down (bedding) because she wants to make her agitated: ‘Whoever is unhappy should leave herself,’ if doing it for this reason and no other, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc18" class="latin">
+msgctxt "lzh-mg-bi-pm:172.1"
+msgid "pācittiya 18"
+msgstr "pācittiya 18"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:173.1"
+msgid "若比丘尼。僧房閣屋上敷尖<span class=\"gaiji\">脚<!--gaiji,腳,1[腳-谷+去],2&#x811A;,3--> </span>床。若坐若臥波夜提。"
+msgstr "If a bhikkhunī, when a bed with pointed feet has been set up on the upper level of a sleeping platform in a sangha building, sits or lies down there, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc19" class="latin">
+msgctxt "lzh-mg-bi-pm:174.1"
+msgid "pācittiya 19"
+msgstr "pācittiya 19"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:175.1"
+msgid "若比丘尼。知水有蟲澆草泥。若使人澆波夜提。"
+msgstr "If a bhikkhunī knows that there are insects in water, and pours it on grass or mud, or has others pour it, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc20" class="latin">
+msgctxt "lzh-mg-bi-pm:176.1"
+msgid "pācittiya 20"
+msgstr "pācittiya 20"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:177.1"
+msgid "若比丘尼。故令他比丘尼起疑悔須臾不樂。是因緣不異波夜提<span class=\"t-counter\">(二十事竟)</span>。"
+msgstr "If a bhikkhunī intentionally causes doubt and regret, or even just momentary unhappiness, to arise in another bhikkhunī, for this reason and no other, it is a pācittiya. <span class=\"t-counter\">(End of 20 rules.)</span>"
+
+#. </p><h3>
+msgctxt "lzh-mg-bi-pm:178.1"
+msgid "<span class=\"add latin\">Chapter 3</span>"
+msgstr "<span class=\"add latin\">Chapter 3</span>"
+
+#. </h3><h4>
+#. <span class="add"><a id="pc21" class="latin">
+msgctxt "lzh-mg-bi-pm:179.1"
+msgid "pācittiya 21"
+msgstr "pācittiya 21"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:180.1"
+msgid "若比丘尼施一食處。不病比丘尼應一食。過者波夜提。"
+msgstr "A bhikkhunī who is not sick should eat (only) one meal in a food distribution place. If she exceeds that, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc22" class="latin">
+msgctxt "lzh-mg-bi-pm:181.1"
+msgid "pācittiya 22"
+msgstr "pācittiya 22"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:182.1"
+msgid "若比丘尼處處食除餘時波夜提。餘時者病時施衣時是名餘時。"
+msgstr "If a bhikkhunī eats in several places except at a suitable time, it is a pācittiya. These are the suitable times: when she is sick, and at the time of giving robes. These are called ‘the suitable times’."
+
+#. </p><h4>
+#. <span class="add"><a id="pc23" class="latin">
+msgctxt "lzh-mg-bi-pm:183.1"
+msgid "pācittiya 23"
+msgstr "pācittiya 23"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:184.1"
+msgid "若比丘尼。淨施比丘比丘尼式叉摩那沙彌沙彌尼衣已後不捨而受用者波夜提。"
+msgstr "If a bhikkhunī makes a pure offering<note:vikappana.> of a robe to a bhikkhu, bhikkhunī, sikkhamānā, sāmaṇera, or sāmaṇerī, and later, when it has not been given up, uses it, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc24" class="latin">
+msgctxt "lzh-mg-bi-pm:185.1"
+msgid "pācittiya 24"
+msgstr "pācittiya 24"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:186.1"
+msgid "若比丘尼。知彼食已足。離坐不作殘食法。欲惱故勸食者。波夜提。"
+msgstr "If a bhikkhunī knows that another has already eaten enough, has left her seat, and has not carried out the procedure for leftover food, and instructs her to eat, because she wants to trouble her, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc25" class="latin">
+msgctxt "lzh-mg-bi-pm:187.1"
+msgid "pācittiya 25"
+msgstr "pācittiya 25"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:188.1"
+msgid "若比丘尼。不與不受著口中。除水及楊枝波夜提。"
+msgstr "If a bhikkhunī puts something that has not been offered and accepted into her mouth, except for water and willow twigs, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc26" class="latin">
+msgctxt "lzh-mg-bi-pm:189.1"
+msgid "pācittiya 26"
+msgstr "pācittiya 26"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:190.1"
+msgid "若比丘尼。非時食波夜提。"
+msgstr "If a bhikkhunī eats at the wrong time, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc27" class="latin">
+msgctxt "lzh-mg-bi-pm:191.1"
+msgid "pācittiya 27"
+msgstr "pācittiya 27"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:192.1"
+msgid "若比丘尼。停食食波夜提。"
+msgstr "If a bhikkhunī eats stored food, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc28" class="latin">
+msgctxt "lzh-mg-bi-pm:193.1"
+msgid "pācittiya 28"
+msgstr "pācittiya 28"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:194.1"
+msgid "若比丘尼。往白衣家。自恣與餅<span class=\"gaiji\">麨<!--gaiji,,1[麩-夫+少],2&#x9EA8;,3--> </span>得受兩三<span class=\"gaiji\">鉢<!--gaiji,缽,1[金*本],2&#x9262;,3--> </span>。出外共不病比丘尼食。若過受出外不共不病比丘尼食者。波夜提。"
+msgstr "If a bhikkhunī goes to the house of a lay person, and is invited to take cakes and rice flour, she may accept two or three bowlfuls. Having gone outside, she should eat them together with the bhikkhunīs who are not sick. If she accepts more, or doesn’t go outside to eat them together with the bhikkhunīs who are not sick, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc29" class="latin">
+msgctxt "lzh-mg-bi-pm:195.1"
+msgid "pācittiya 29"
+msgstr "pācittiya 29"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:196.1"
+msgid "若比丘尼。戲笑藏他衣<span class=\"gaiji\">鉢<!--gaiji,缽,1[金*本],2&#x9262;,3--> </span>尼師壇鍼筒。若使人藏波夜提。"
+msgstr "If a bhikkhunī just for fun hides another’s robe, bowl, sitting mat, or needle case, or has others hide them, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc30" class="latin">
+msgctxt "lzh-mg-bi-pm:197.1"
+msgid "pācittiya 30"
+msgstr "pācittiya 30"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:198.1"
+msgid "若比丘尼。別眾食。除餘時波夜提。餘時者。病時衣時行時船上時大眾時外道施食時<span class=\"t-counter\">(三十事竟)</span>。"
+msgstr "If a bhikkhunī eats in a separate group, except at a suitable time, it is a pācittiya. These are the suitable times: when she is sick, during robe-season, when travelling, when on a boat, when there is a great assembly, when non-Buddhist renunciates offer a meal. <span class=\"t-counter\">(End of 30 rules.)</span>"
+
+#. </p><h3>
+msgctxt "lzh-mg-bi-pm:199.1"
+msgid "<span class=\"add latin\">Chapter 4</span>"
+msgstr "<span class=\"add latin\">Chapter 4</span>"
+
+#. </h3><h4>
+#. <span class="add"><a id="pc31" class="latin">
+msgctxt "lzh-mg-bi-pm:200.1"
+msgid "pācittiya 31"
+msgstr "pācittiya 31"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:201.1"
+msgid "若比丘尼。無病為身然草木牛<span class=\"gaiji\">屎<!--gaiji,屎,1[尸@矢],2&#x21C41;,3--> </span>。若自然若使人然。除因緣波夜提。"
+msgstr "If a bhikkhunī who is not sick herself lights grass, wood, or cowdung for bodily comfort, or has others light them, unless there is a reason, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc32" class="latin">
+msgctxt "lzh-mg-bi-pm:202.1"
+msgid "pācittiya 32"
+msgstr "pācittiya 32"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:203.1"
+msgid "若比丘尼。與未受具戒人同屋過三宿者波夜提。"
+msgstr "If a bhikkhunī spends more than three nights in a room with a person who has not yet received the full ordination, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc33" class="latin">
+msgctxt "lzh-mg-bi-pm:204.1"
+msgid "pācittiya 33"
+msgstr "pācittiya 33"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:205.1"
+msgid "若比丘尼與羯磨欲已。後瞋恨不喜作是言。我不與欲不好與。此羯磨不成就。我不與此欲。波夜提。"
+msgstr "If a bhikkhunī has given consent to a formal act, and later, out of hostility and dissatisfaction, says: ‘I have not given consent, it has not been properly given. This formal act does not stand. I have not consented to this,’ it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc34" class="latin">
+msgctxt "lzh-mg-bi-pm:206.1"
+msgid "pācittiya 34"
+msgstr "pācittiya 34"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="30"></a>
+msgctxt "lzh-mg-bi-pm:207.1"
+msgid "若比丘尼語比丘尼言。阿梨耶。共入聚落。到彼當與汝食。若自與若使人與。後欲驅故便言汝去我。共汝住不樂。我獨住樂。作是因緣不異波夜提。"
+msgstr "If a bhikkhunī says to another bhikkhunī: ‘Venerable, let’s enter the village together. When we arrive there, I’ll give you food myself, or have others give you,’ but later, because she wants to send her away, says: ‘Go away, I’m not happy to stay with you. I’m happy when I’m alone,’ if doing it for this reason and no other, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc35" class="latin">
+msgctxt "lzh-mg-bi-pm:208.1"
+msgid "pācittiya 35"
+msgstr "pācittiya 35"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="31"></a>
+msgctxt "lzh-mg-bi-pm:209.1"
+msgid "若比丘尼作是語。阿梨耶。我知世尊說障道法。習此法者不能障道。諸比丘尼應諫言。阿梨耶。汝莫謗世尊。謗世尊者不善。世尊不作是語。世尊說障道法實障道。汝捨此惡事。如是諫時堅持不捨應第二第三諫。捨者善。若不捨。僧應作舉羯磨。是比丘尼波夜提。"
+msgstr "If a bhikkhunī says: ‘Venerables, I know that when one practices the things of which the World-honored One said that they obstruct the path, they don’t obstruct the path,’ the bhikkhunīs should admonish her: ‘Venerable, don’t slander the World-honored One. Slandering the World-honored One is not wholesome. The World-honored One didn’t say this. The things of which the World-honored One said that they obstruct the path, truly obstruct the path. Give up this unwholesome matter.’ If she, when admonished like this, persists firmly, and doesn’t give it up, she should be admonished a second and a third time. If she gives it up, it is fine. If not, the sangha should carry out an act of suspension, and that bhikkhunī commits a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc36" class="latin">
+msgctxt "lzh-mg-bi-pm:220.1"
+msgid "pācittiya 36"
+msgstr "pācittiya 36"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:211.1"
+msgid "若比丘尼知是比丘尼惡見不捨僧如法如律作舉羯磨。未作如法如律。共食共同室住波夜提。"
+msgstr "If a bhikkhunī knows that that bhikkhunī has not given up this unwholesome view, that the sangha has carried out an act of suspension according to dhamma and vinaya, and that she has not yet acted according to dhamma and vinaya, and eats with her, or lives in the same room with her, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc37" class="latin">
+msgctxt "lzh-mg-bi-pm:212.1"
+msgid "pācittiya 37"
+msgstr "pācittiya 37"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="32"></a>
+msgctxt "lzh-mg-bi-pm:213.1"
+msgid "若沙彌尼作是言。如來說婬欲是障道法。我知習婬欲不能障道。諸比丘尼應諫言。汝沙彌尼莫謗世尊。謗世尊者不善世尊不作是語。世尊說婬欲實障道。汝捨此惡見。如是諫時若堅持不捨者。應第二第三諫。若捨者善。若不捨者應驅出言。從今日。汝沙彌尼不應言佛是我師。亦不得共比丘尼三宿。汝去不得此中住。若比丘尼知沙彌尼惡見不捨驅出。未作如法誘喚畜養共食共住波夜提。"
+msgstr "If a sāmaṇerī says: ‘The Tathāgata said that sexual desire is an obstacle to the path. I know that engaging in sexual desire cannot obstruct the path,’ the bhikkhunīs should admonish her: ‘Sāmaṇerī, don’t slander the World-honored One. Slandering the World-honored One is not wholesome. The World-honored One didn’t say this. The World-honored One said that sexual desire truly obstructs the path. Give up this unwholesome view.’ If she, when admonished like this, persists firmly, and doesn’t give it up, she should be admonished a second and a third time. If she gives it up, it is fine. If not, they should expel her, and say: ‘From today on, sāmaṇerī, you should not say: “The Buddha is my teacher.” You also may not spend three nights with the bhikkhunīs. Go, you may not live here.’ If a bhikkhunī knows that the sāmaṇerī was expelled for not giving up this unwholesome view, and that she has not yet acted according to dhamma, and guides her, summons her, takes her as a student, supports her, eats with her, and lives with her, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc38" class="latin">
+msgctxt "lzh-mg-bi-pm:214.1"
+msgid "pācittiya 38"
+msgstr "pācittiya 38"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:215.1"
+msgid "若比丘尼得新衣。當三種壞色。若一一壞色青黑木蘭。若不若不作三種一一壞色受用者波夜提。"
+msgstr "If a bhikkhunī obtains a new robe, she should stain it with one of three kinds of colors: blue-green, black, or magnolia. If she does not stain it with one of these three kinds of colors, and uses the robe, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc39" class="latin">
+msgctxt "lzh-mg-bi-pm:216.1"
+msgid "pācittiya 39"
+msgstr "pācittiya 39"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="33"></a>
+msgctxt "lzh-mg-bi-pm:217.1"
+msgid "若比丘尼若寶若名寶園內自取若使人取除餘時波夜提。餘時者。比丘尼若寶若名寶。若自取若使人取作是。念有主求者與。是名餘時。"
+msgstr "If a bhikkhunī herself picks up a jewel or something called ‘a jewel’ in the park (monastery), or has others pick it up, except at a suitable time, it is a pācittiya. A suitable time means: If the bhikkhunī herself picks up a jewel or something called ‘a jewel’ in the park (monastery), or has others pick it up in this way, she should think: ‘If there is an owner who is looking for it, I will give it.’ This is called ‘a suitable time’."
+
+#. </p><h4>
+#. <span class="add"><a id="pc40" class="latin">
+msgctxt "lzh-mg-bi-pm:218.1"
+msgid "pācittiya 40"
+msgstr "pācittiya 40"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:219.1"
+msgid "若比丘尼。恐怖比丘尼波夜提<span class=\"t-counter\">(四十事竟)</span>。"
+msgstr "If a bhikkhunī frightens another bhikkhunī, it is a pācittiya. <span class=\"t-counter\">(End of 40 rules.)</span>"
+
+#. </p><h3>
+msgctxt "lzh-mg-bi-pm:220.1"
+msgid "<span class=\"add latin\">Chapter 5</span>"
+msgstr "<span class=\"add latin\">Chapter 5</span>"
+
+#. </h3><h4>
+#. <span class="add"><a id="pc41" class="latin">
+msgctxt "lzh-mg-bi-pm:221.1"
+msgid "pācittiya 41"
+msgstr "pācittiya 41"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:222.1"
+msgid "若比丘尼。知水有蟲而飲者波夜提。"
+msgstr "If a bhikkhunī knows that there are insects in the water, and drinks it, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc42" class="latin">
+msgctxt "lzh-mg-bi-pm:223.1"
+msgid "pācittiya 42"
+msgstr "pācittiya 42"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:224.1"
+msgid "若比丘尼。無衣外道出家男女自手與食波夜提。"
+msgstr "If a bhikkhunī gives food with her own hand to naked non-Buddhist ascetics, or male or female renunciates, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc43" class="latin">
+msgctxt "lzh-mg-bi-pm:225.1"
+msgid "pācittiya 43"
+msgstr "pācittiya 43"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:226.1"
+msgid "若比丘尼。知食家婬處坐波夜提。"
+msgstr "If a bhikkhunī knowingly sits in a place used for sex in a family ‘that is eating’, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc44" class="latin">
+msgctxt "lzh-mg-bi-pm:227.1"
+msgid "pācittiya 44"
+msgstr "pācittiya 44"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:228.1"
+msgid "若比丘尼。知食家屏處坐波夜提。"
+msgstr "If a bhikkhunī knowingly sits in a secluded place in a family ‘that is eating’, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc45" class="latin">
+msgctxt "lzh-mg-bi-pm:229.1"
+msgid "pācittiya 45"
+msgstr "pācittiya 45"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:230.1"
+msgid "若比丘尼。觀軍發行波夜提。"
+msgstr "If a bhikkhunī watches an army setting out, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc46" class="latin">
+msgctxt "lzh-mg-bi-pm:231.1"
+msgid "pācittiya 46"
+msgstr "pācittiya 46"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:232.1"
+msgid "若比丘尼。有因緣事得到軍中三宿。若過者波夜提。"
+msgstr "If a bhikkhunī has a reason and a matter, she may go to an army and spend three nights there. If she exceeds that, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc47" class="latin">
+msgctxt "lzh-mg-bi-pm:233.1"
+msgid "pācittiya 47"
+msgstr "pācittiya 47"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:234.1"
+msgid "若比丘尼。有因緣事得到軍中三宿。若看軍發行牙旗<span class=\"gaiji\">鬪<!--gaiji,鬥,1[鬥@(豆*寸)],2&#x9B2A;,3--> </span>勢波夜提。"
+msgstr "If a bhikkhunī has a reason and a matter, and may go to an army and spend three nights there, if she watches the army set out, hoist a flag, or fight, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc48" class="latin">
+msgctxt "lzh-mg-bi-pm:235.1"
+msgid "pācittiya 48"
+msgstr "pācittiya 48"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:236.1"
+msgid "若比丘尼。瞋恨不喜打比丘尼者波夜提。"
+msgstr "If a bhikkhunī strikes another bhikkhunī out of hostility and dissatisfaction, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc49" class="latin">
+msgctxt "lzh-mg-bi-pm:237.1"
+msgid "pācittiya 49"
+msgstr "pācittiya 49"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:238.1"
+msgid "若比丘尼。瞋恨不喜掌刀擬比丘尼者波夜提。"
+msgstr "If a bhikkhunī threatens another bhikkhunī with her palm as a weapon out of hostility and dissatisfaction, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc50" class="latin">
+msgctxt "lzh-mg-bi-pm:239.1"
+msgid "pācittiya 50"
+msgstr "pācittiya 50"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:240.1"
+msgid "若比丘尼。水中戲波夜提<span class=\"t-counter\">(五十事竟)</span>。"
+msgstr "If a bhikkhunī plays in water, it is a pācittiya. <span class=\"t-counter\">(End of 50 rules.)</span>"
+
+#. </p><h3>
+msgctxt "lzh-mg-bi-pm:241.1"
+msgid "<span class=\"add latin\">Chapter 6</span>"
+msgstr "<span class=\"add latin\">Chapter 6</span>"
+
+#. </h3><h4>
+#. <span class="add"><a id="pc51" class="latin">
+msgctxt "lzh-mg-bi-pm:242.1"
+msgid "pācittiya 51"
+msgstr "pācittiya 51"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:243.1"
+msgid "若比丘尼。以指相指波夜提。"
+msgstr "If a bhikkhunī points at others with the fingers, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc52" class="latin">
+msgctxt "lzh-mg-bi-pm:244.1"
+msgid "pācittiya 52"
+msgstr "pācittiya 52"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:245.1"
+msgid "若比丘尼。知賊眾期共道行。下至聚落中波夜提。"
+msgstr "If a bhikkhunī knowingly travels on the road together with a group of criminals by appointment, even just within a village, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc53" class="latin">
+msgctxt "lzh-mg-bi-pm:246.1"
+msgid "pācittiya 53"
+msgstr "pācittiya 53"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:247.1"
+msgid "若比丘尼。自手掘地若使人掘。指示語掘是地。波夜提。"
+msgstr "If a bhikkhunī digs the earth with her own hands, or has others dig it by pointing and saying: ‘Dig this earth,’ it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc54" class="latin">
+msgctxt "lzh-mg-bi-pm:248.1"
+msgid "pācittiya 54"
+msgstr "pācittiya 54"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:249.1"
+msgid "若比丘尼。四月別請應受。若過受波夜提。除更請長自恣請。"
+msgstr "If bhikkhunī receives a personal invitation for four months, she should accept it. If she accepts it for longer, it is a pācittiya, unless it is a repeated invitation, or a long invitation."
+
+#. </p><h4>
+#. <span class="add"><a id="pc55" class="latin">
+msgctxt "lzh-mg-bi-pm:250.1"
+msgid "pācittiya 55"
+msgstr "pācittiya 55"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="34"></a>
+msgctxt "lzh-mg-bi-pm:251.1"
+msgid "若比丘尼。語比丘尼言。阿梨耶。當學莫犯五眾罪。是言。我不隨汝語。若見餘阿梨耶寂根多聞持法深解。我當從諮問。彼有所說我當受行。除餘時作是語者波夜提。比丘欲得法利者應學。亦應問餘比丘尼。"
+msgstr "If a bhikkhunī, when the bhikkhunīs say: ‘Venerable, you should train without transgressing in the five groups of offenses,’ replies: ‘I won’t follow your words. If I see other venerables with tranquil faculties, who have learned much, who have memorized the dhamma, with deep understanding, I will consult and question them. I will practise what they say.’ If she speaks like this, except at a suitable time, it is a pācittiya. A bhikkhu(ni) who wants to obtain benefit from the dhamma should train. She should also ask other bhikkhunīs."
+
+#. </p><h4>
+#. <span class="add"><a id="pc56" class="latin">
+msgctxt "lzh-mg-bi-pm:252.1"
+msgid "pācittiya 56"
+msgstr "pācittiya 56"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:253.1"
+msgid "若比丘尼。飲酒咽咽波夜提。"
+msgstr "If a bhikkhunī drinks alcohol, each mouthful is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc57" class="latin">
+msgctxt "lzh-mg-bi-pm:254.1"
+msgid "pācittiya 57"
+msgstr "pācittiya 57"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:255.1"
+msgid "若比丘尼。輕他比丘尼波夜提。"
+msgstr "If a bhikkhunī belittles another bhikkhunī, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc58" class="latin">
+msgctxt "lzh-mg-bi-pm:256.1"
+msgid "pācittiya 58"
+msgstr "pācittiya 58"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:257.1"
+msgid "若比丘尼。諸比丘尼諍訟時。默然立聽。彼有說者我當憶持作是因緣不異波夜提。"
+msgstr "If a bhikkhunī, when other bhikkhunīs are quarreling and making accusations against each other, silently stands and listens, (thinking): ‘I will keep in mind what they say,’ doing it for this reason and no other, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc59" class="latin">
+msgctxt "lzh-mg-bi-pm:258.1"
+msgid "pācittiya 59"
+msgstr "pācittiya 59"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:259.1"
+msgid "若比丘尼僧欲斷事不與欲。出去不白。波夜提。"
+msgstr "If a bhikkhunī, when the sangha wants to settle matters, does not give consent, and leaves without speaking, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc60" class="latin">
+msgctxt "lzh-mg-bi-pm:260.1"
+msgid "pācittiya 60"
+msgstr "pācittiya 60"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="35"></a>
+msgctxt "lzh-mg-bi-pm:261.1"
+msgid "若比丘尼。半月說波羅提木叉經時作是言。我今始知是法入修多羅半月波羅提木叉中說。諸比丘尼知彼比丘尼本若二若三。說波羅提木叉經中坐況復多。彼比丘尼不以不知故無罪。隨所犯罪如法治。應呵言。阿梨耶。汝失善利。半月說波羅提木叉。汝不尊重不一心念。不攝耳聽法。呵已波夜提<span class=\"t-counter\">(六十事竟)</span>。"
+msgstr "If a bhikkhunī, during the half-monthly pātimokkha sutta recitation, says: ‘I now only know that this rule is included in the sutta, and recited every half-month in the pātimokkha,’ and if the bhikkhunīs know that that bhikkhunī already sat in the recitation of the pātimokkha sutta two, three or even more times, that bhikkhunī is not free from offense because she did not know. She should be dealt with according to dhamma depending on the offense she committed, and should be criticized: ‘Venerable, you lost good benefits. During the half-monthly pātimokkha recitation, you are not respectful, don’t single-mindedly pay attention, and don’t lend an ear to hear the dhamma.’ After criticizing her, it is a pācittiya. <span class=\"t-counter\">(End of 60 rules.)</span>"
+
+#. </p><h3>
+msgctxt "lzh-mg-bi-pm:262.1"
+msgid "<span class=\"add latin\">Chapter 7</span>"
+msgstr "<span class=\"add latin\">Chapter 7</span>"
+
+#. </h3><h4>
+#. <span class="add"><a id="pc61" class="latin">
+msgctxt "lzh-mg-bi-pm:263.1"
+msgid "pācittiya 61"
+msgstr "pācittiya 61"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:264.1"
+msgid "若比丘尼。同食處。食前食後不白比丘尼。行至餘家。除衣時波夜提。"
+msgstr "If a bhikkhunī, when (the bhikkunis) eat together somewhere, goes to other houses before or after the meal without informing another bhikkhunī, unless it is robe-season, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc62" class="latin">
+msgctxt "lzh-mg-bi-pm:265.1"
+msgid "pācittiya 62"
+msgstr "pācittiya 62"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:266.1"
+msgid "若比丘尼。入剎利灌頂王宮夫人寶物未藏下至過門限波夜提。"
+msgstr "If a bhikkhunī enters the palace of a head-anointed khattiya king when the queen and the jewels have not yet been hidden, even if she just crosses the doorsill, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc63" class="latin">
+msgctxt "lzh-mg-bi-pm:267.1"
+msgid "pācittiya 63"
+msgstr "pācittiya 63"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:268.1"
+msgid "若比丘尼。骨牙角作鍼筒。破已波夜提。"
+msgstr "If a bhikkhunī uses bone, ivory, or horn to make a needle case, it is a pācittiya, after it has been broken."
+
+#. </p><h4>
+#. <span class="add"><a id="pc64" class="latin">
+msgctxt "lzh-mg-bi-pm:269.1"
+msgid "pācittiya 64"
+msgstr "pācittiya 64"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:270.1"
+msgid "若比丘尼作床<span class=\"gaiji\">脚<!--gaiji,腳,1[腳-谷+去],2&#x811A;,3--> </span>。應量作長修伽陀八指。除入梐。若過截已波夜提。"
+msgstr "If a bhikkhunī makes bed feet, she should make them according to the measurements: eight sugata fingerbreadths in length, without the part that is inserted in the frame. If she exceeds that, it is a pācittiya, after they have been cut off."
+
+#. </p><h4>
+#. <span class="add"><a id="pc65" class="latin">
+msgctxt "lzh-mg-bi-pm:271.1"
+msgid "pācittiya 65"
+msgstr "pācittiya 65"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:272.1"
+msgid "若比丘尼。兜羅綿貯褥。若坐若臥。出已波夜提。"
+msgstr "If a bhikkhunī stuffs mats with tūla-cotton for sitting or for sleeping, it is a pācittiya, after it has been taken out."
+
+#. </p><h4>
+#. <span class="add"><a id="pc66" class="latin">
+msgctxt "lzh-mg-bi-pm:273.1"
+msgid "pācittiya 66"
+msgstr "pācittiya 66"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:274.1"
+msgid "若比丘尼。作尼師壇應量。作長二修伽陀磔手。廣一磔手半。更益一磔手。若過截已波夜提。"
+msgstr "If a bhikkhunī makes a sitting cloth, she should make it according to the measurements: two sugata handspans in length, and one and a half handspans in width. One handspan can be added. If she exceeds that, it is a pācittiya, after it has been cut off."
+
+#. </p><h4>
+#. <span class="add"><a id="pc67" class="latin">
+msgctxt "lzh-mg-bi-pm:275.1"
+msgid "pācittiya 67"
+msgstr "pācittiya 67"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:276.1"
+msgid "若比丘尼。作覆瘡衣。應量作長四修伽陀磔手。廣二磔手半。若過截已波夜提。"
+msgstr "If a bhikkhunī makes a wound-covering cloth, she should make it according to the measurements: four sugata handspans in length, and two and a half handspans in width. If she exceeds that, it is a pācittiya, after it has been cut off."
+
+#. </p><h4>
+#. <span class="add"><a id="pc68" class="latin">
+msgctxt "lzh-mg-bi-pm:277.1"
+msgid "pācittiya 68"
+msgstr "pācittiya 68"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:278.1"
+msgid "若比丘尼。效如來衣量等作衣。若過量截已波夜提。如來衣量長九修伽陀磔手。廣六磔手。"
+msgstr "If a bhikkhunī makes a robe as big as the Tathāgata’s robe measurements, or bigger, it is a pācittiya, after it has been cut off. The Tathāgata’s robe measurements are nine sugata handspans in length, six handspans in width."
+
+#. </p><h4>
+#. <span class="add"><a id="pc69" class="latin">
+msgctxt "lzh-mg-bi-pm:279.1"
+msgid "pācittiya 69"
+msgstr "pācittiya 69"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:280.1"
+msgid "若比丘尼。瞋恨不喜。無根僧伽婆尸法謗波夜提。"
+msgstr "If a bhikkhunī, out of hostility and dissatisfaction, slanders someone with an unfounded saṅghādisesa offense, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc70" class="latin">
+msgctxt "lzh-mg-bi-pm:281.1"
+msgid "pācittiya 70"
+msgstr "pācittiya 70"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:282.1"
+msgid "若比丘尼。知物向僧迴向與人波夜提<span class=\"t-counter\">(七十事竟)</span>。"
+msgstr "If a bhikkhunī knows that an item is for the sangha, and she diverts it to an individual, it is a pācittiya. <span class=\"t-counter\">(End of 70 rules.)</span>"
+
+#. </p><h3>
+msgctxt "lzh-mg-bi-pm:283.1"
+msgid "<span class=\"add latin\">Chapter 8</span>"
+msgstr "<span class=\"add latin\">Chapter 8</span>"
+
+#. </h3><h4>
+#. <span class="add"><a id="pc71" class="latin">
+msgctxt "lzh-mg-bi-pm:284.1"
+msgid "pācittiya 71"
+msgstr "pācittiya 71"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:285.1"
+msgid "若比丘尼。不語主而著他衣波夜提。"
+msgstr "If a bhikkhunī wears someone else’s robe without telling the owner, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc72" class="latin">
+msgctxt "lzh-mg-bi-pm:286.1"
+msgid "pācittiya 72"
+msgstr "pācittiya 72"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:287.1"
+msgid "若比丘尼。自手與俗人外道沙門衣波夜提。"
+msgstr "If a bhikkhunī gives a renunciate’s robe with her own hands to lay people or non-Buddhist renunciates, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc73" class="latin">
+msgctxt "lzh-mg-bi-pm:288.1"
+msgid "pācittiya 73"
+msgstr "pācittiya 73"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:289.1"
+msgid "若比丘尼。作安陀會應量作長。四修伽陀磔手廣二磔手。若過作截已波夜提。"
+msgstr "If a bhikkhunī makes a lower robe (antaravāsaka), she should make it according to the measurements: four sugata handspans in length, two handspans in width. If she makes it larger, it is to be cut off, and it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc74" class="latin">
+msgctxt "lzh-mg-bi-pm:290.1"
+msgid "pācittiya 74"
+msgstr "pācittiya 74"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:291.1"
+msgid "若比丘尼。僧祇支應量作。長四修伽陀磔手廣二磔手。若過作截已波夜提。"
+msgstr "A bhikkhunī should make the vest (saṅkaccika) according to the measurements: four sugata handspans in length, two handspans in width. If she makes it larger, it is to be cut off, and it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc75" class="latin">
+msgctxt "lzh-mg-bi-pm:292.1"
+msgid "pācittiya 75"
+msgstr "pācittiya 75"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:293.1"
+msgid "若比丘尼。作雨浴衣應量作。長四修伽陀磔手廣二磔手。若過作截已波夜提。"
+msgstr "If a bhikkhunī makes a rains bathing robe, she should make it according to the measurements: four sugata handspans in length, two handspans in width. If she makes it larger, it is to be cut off, and it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc76" class="latin">
+msgctxt "lzh-mg-bi-pm:294.1"
+msgid "pācittiya 76"
+msgstr "pācittiya 76"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:295.1"
+msgid "若比丘尼。詣不能辦衣家。為僧乞伽絺那衣波夜提。"
+msgstr "If a bhikkhunī goes to a household that cannot prepare a robe, and asks for a kaṭhina robe for the sangha, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc77" class="latin">
+msgctxt "lzh-mg-bi-pm:296.1"
+msgid "pācittiya 77"
+msgstr "pācittiya 77"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:297.1"
+msgid "若比丘尼。不病所受持衣不隨身者波夜提。"
+msgstr "If a bhikkhunī who is not sick does not take her determined robes with her, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc78" class="latin">
+msgctxt "lzh-mg-bi-pm:298.1"
+msgid "pācittiya 78"
+msgstr "pācittiya 78"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:299.1"
+msgid "若比丘尼。得佉陀尼食蒲闍尼食。更煮使人煮。更熬使人熬。更煎使人煎。不病比丘尼食者波夜提。"
+msgstr "If a bhikkhunī receives staple or non-staple food, and she still cooks it or has others cook it, boils it or has others boil it, or frys it or has others fry it, and if that bhikkhunī eats it when she is not sick, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc79" class="latin">
+msgctxt "lzh-mg-bi-pm:300.1"
+msgid "pācittiya 79"
+msgstr "pācittiya 79"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:301.1"
+msgid "若比丘尼。比丘食以水扇供給波夜提。"
+msgstr "If a bhikkhunī, when a bhikkhu is eating, offers him water or a fan, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc80" class="latin">
+msgctxt "lzh-mg-bi-pm:302.1"
+msgid "pācittiya 80"
+msgstr "pācittiya 80"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:303.1"
+msgid "若比丘尼。食蒜者波夜提<span class=\"t-counter\">(八十事竟)</span>。"
+msgstr "If a bhikkhunī eats garlic, it is a pācittiya. <span class=\"t-counter\">(End of 80 rules.)</span>"
+
+#. </p><h3>
+msgctxt "lzh-mg-bi-pm:304.1"
+msgid "<span class=\"add latin\">Chapter 9</span>"
+msgstr "<span class=\"add latin\">Chapter 9</span>"
+
+#. </h3><h4>
+#. <span class="add"><a id="pc81" class="latin">
+msgctxt "lzh-mg-bi-pm:305.1"
+msgid "pācittiya 81"
+msgstr "pācittiya 81"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:306.1"
+msgid "若比丘尼。俗人外道自手與食波夜提。"
+msgstr "If a bhikkhunī gives food with her own hands to lay people or non-Buddhist renunciates, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc82" class="latin">
+msgctxt "lzh-mg-bi-pm:307.1"
+msgid "pācittiya 82"
+msgstr "pācittiya 82"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:308.1"
+msgid "若比丘尼。作醫師活命波夜提。"
+msgstr "If a bhikkhunī earns a living as a doctor, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc83" class="latin">
+msgctxt "lzh-mg-bi-pm:309.1"
+msgid "pācittiya 83"
+msgstr "pācittiya 83"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:320.1"
+msgid "若比丘尼。授俗人外道醫方者波夜提。"
+msgstr "If a bhikkhunī teaches lay people and non-Buddhist renunciates medicinal treatments, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc84" class="latin">
+msgctxt "lzh-mg-bi-pm:311.1"
+msgid "pācittiya 84"
+msgstr "pācittiya 84"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:312.1"
+msgid "若比丘尼。為俗人作者波夜提。"
+msgstr "If a bhikkhunī works for lay people, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc85" class="latin">
+msgctxt "lzh-mg-bi-pm:313.1"
+msgid "pācittiya 85"
+msgstr "pācittiya 85"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:314.1"
+msgid "若比丘尼。知食家先不語而入者波夜提。"
+msgstr "If a bhikkhunī knowingly doesn’t call out first before entering a house where people are ‘eating’ (having sex), it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc86" class="latin">
+msgctxt "lzh-mg-bi-pm:315.1"
+msgid "pācittiya 86"
+msgstr "pācittiya 86"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:316.1"
+msgid "若比丘尼。與俗人外道習近住若竟日若須臾。下至園民沙彌波夜提。"
+msgstr "If a bhikkhunī lives closely together with lay people and non-Buddhist renunciates, or even with monastery attendants and sāmaṇeras, whether all day or just for a moment, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc87" class="latin">
+msgctxt "lzh-mg-bi-pm:317.1"
+msgid "pācittiya 87"
+msgstr "pācittiya 87"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:318.1"
+msgid "若比丘尼。自<span class=\"gaiji\">呪<!--gaiji,咒,1[口*兄],2&#x546A;,3--> </span>誓他者波夜提。"
+msgstr "If a bhikkhunī curses herself or others by swearing, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc88" class="latin">
+msgctxt "lzh-mg-bi-pm:319.1"
+msgid "pācittiya 88"
+msgstr "pācittiya 88"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:320.1"
+msgid "若比丘尼。自打而啼泣淚者波夜提。"
+msgstr "If a bhikkhunī hits herself, and then weeps and cries, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc89" class="latin">
+msgctxt "lzh-mg-bi-pm:321.1"
+msgid "pācittiya 89"
+msgstr "pācittiya 89"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:322.1"
+msgid "若比丘尼。語比丘尼作是言。阿梨耶。共往某甲家。彼於後不忍某甲比丘尼。無因緣不審諦聞。而呵責者波夜提。"
+msgstr "If a bhikkhunī says to another bhikkhunī: ‘Venerable, let’s go together to such-and-such a family,’ and if afterwards she cannot stand that bhikkhunī and groundlessly, without investigating carefully and listening to her, criticizes her, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc90" class="latin">
+msgctxt "lzh-mg-bi-pm:323.1"
+msgid "pācittiya 90"
+msgstr "pācittiya 90"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:324.1"
+msgid "若比丘尼。慳嫉心護他家者波夜提<span class=\"t-counter\">(九十事竟)</span>。"
+msgstr "If a bhikkhunī protects households out of stinginess and jealousy, it is a pācittiya. <span class=\"t-counter\">(End of 90 rules.)</span>"
+
+#. </p><h3>
+msgctxt "lzh-mg-bi-pm:325.1"
+msgid "<span class=\"add latin\">Chapter 10</span>"
+msgstr "<span class=\"add latin\">Chapter 10</span>"
+
+#. </h3><h4>
+#. <span class="add"><a id="pc91" class="latin">
+msgctxt "lzh-mg-bi-pm:326.1"
+msgid "pācittiya 91"
+msgstr "pācittiya 91"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:327.1"
+msgid "若比丘尼。對面呵罵比丘者波夜提。"
+msgstr "If a bhikkhunī criticizes and scolds a bhikkhu face to face, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc92" class="latin">
+msgctxt "lzh-mg-bi-pm:328.1"
+msgid "pācittiya 92"
+msgstr "pācittiya 92"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:329.1"
+msgid "若比丘尼。減十二雨畜弟子者波夜提。"
+msgstr "If a bhikkhunī of less than 12 rains takes on a student, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc93" class="latin">
+msgctxt "lzh-mg-bi-pm:330.1"
+msgid "pācittiya 93"
+msgstr "pācittiya 93"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:331.1"
+msgid "若比丘尼。滿十二雨。十法不具足而畜弟子者波夜提。"
+msgstr "If a bhikkhunī who has 12 full rains but who does not fulfill the 10 requirements takes on a student, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc94" class="latin">
+msgctxt "lzh-mg-bi-pm:332.1"
+msgid "pācittiya 94"
+msgstr "pācittiya 94"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:333.1"
+msgid "若比丘尼。十法具足。不羯磨而畜弟子者波夜提。"
+msgstr "If a bhikkhunī who fulfills the 10 requirements takes on a student without a formal act, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc95" class="latin">
+msgctxt "lzh-mg-bi-pm:334.1"
+msgid "pācittiya 95"
+msgstr "pācittiya 95"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:335.1"
+msgid "若比丘尼。知他犯戒捉戶鉤開他房戶共男子住。與受具足者波夜提。"
+msgstr "If a bhikkhunī knows that someone has broken the precepts, taken a door hook, opened the door to her room, and stayed together with a man, and gives her the full ordination, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc96" class="latin">
+msgctxt "lzh-mg-bi-pm:336.1"
+msgid "pācittiya 96"
+msgstr "pācittiya 96"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:337.1"
+msgid "若比丘尼。與減二十雨童女。受具足者波夜提。"
+msgstr "If a bhikkhunī gives the full ordination to a girl who is less than 20 years old, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc97" class="latin">
+msgctxt "lzh-mg-bi-pm:338.1"
+msgid "pācittiya 97"
+msgstr "pācittiya 97"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:339.1"
+msgid "若比丘尼。滿二十歲童女。不與學戒而與受具足者波夜提。"
+msgstr "If a bhikkhunī gives the full ordination to a 20 year old girl who has not been given the training precepts, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc98" class="latin">
+msgctxt "lzh-mg-bi-pm:340.1"
+msgid "pācittiya 98"
+msgstr "pācittiya 98"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:341.1"
+msgid "若比丘尼。受學戒不滿學。與受具足者波夜提。"
+msgstr "If a bhikkhunī gives the full ordination to someone who has received the training precepts, but has not fully trained in them, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc99" class="latin">
+msgctxt "lzh-mg-bi-pm:342.1"
+msgid "pācittiya 99"
+msgstr "pācittiya 99"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:343.1"
+msgid "若比丘尼。學戒滿。不羯磨與受具足者波夜提。"
+msgstr "If a bhikkhunī gives the full ordination to someone, who has fully trained in the precepts, without a formal act, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc100" class="latin">
+msgctxt "lzh-mg-bi-pm:344.1"
+msgid "pācittiya 100"
+msgstr "pācittiya 100"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:345.1"
+msgid "若比丘尼。適他婦減十二雨。與受具足者波夜提<span class=\"t-counter\">(一百事竟)</span>。"
+msgstr "If a bhikkhunī gives the full ordination to a married woman who is less than 12 years old, it is a pācittiya. <span class=\"t-counter\">(End of 100 rules.)</span>"
+
+#. </p><h3>
+msgctxt "lzh-mg-bi-pm:346.1"
+msgid "<span class=\"add latin\">Chapter 11</span>"
+msgstr "<span class=\"add latin\">Chapter 11</span>"
+
+#. </h3><h4>
+#. <span class="add"><a id="pc101" class="latin">
+msgctxt "lzh-mg-bi-pm:347.1"
+msgid "pācittiya 101"
+msgstr "pācittiya 101"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:348.1"
+msgid "若比丘尼。適他婦滿十二雨。不學戒與受具足者波夜提。"
+msgstr "If a bhikkhunī gives the full ordination to a married woman who is 12 years old but who does not train in the precepts, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc102" class="latin">
+msgctxt "lzh-mg-bi-pm:349.1"
+msgid "pācittiya 102"
+msgstr "pācittiya 102"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:350.1"
+msgid "若比丘尼。已適他婦受學戒不滿學。與受具足者波夜提。"
+msgstr "If a bhikkhunī gives the full ordination to a married woman who has received the training precepts but has not fully trained in them, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc103" class="latin">
+msgctxt "lzh-mg-bi-pm:351.1"
+msgid "pācittiya 103"
+msgstr "pācittiya 103"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:352.1"
+msgid "若比丘尼。已適他婦學戒滿不羯磨與受具足者波夜提。"
+msgstr "If a bhikkhunī gives the full ordination to a married woman, who has completed training in the precepts, without a formal act, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc104" class="latin">
+msgctxt "lzh-mg-bi-pm:353.1"
+msgid "pācittiya 104"
+msgstr "pācittiya 104"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:354.1"
+msgid "若比丘尼。與弟子受具足已。應二年教誡。若不教者波夜提。"
+msgstr "If a bhikkhunī has given the full ordination to a student, she should teach and instruct her for two years. If she does not teach her, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc105" class="latin">
+msgctxt "lzh-mg-bi-pm:355.1"
+msgid "pācittiya 105"
+msgstr "pācittiya 105"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:356.1"
+msgid "若比丘尼。受具足已。應二年供給隨逐和上尼。若不供給隨逐波夜提。"
+msgstr "If a bhikkhunī has received the full ordination, she should attend on and follow her preceptor for two years. If she does not attend on and follow her, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc106" class="latin">
+msgctxt "lzh-mg-bi-pm:357.1"
+msgid "pācittiya 106"
+msgstr "pācittiya 106"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:358.1"
+msgid "若比丘尼。年年畜弟子波夜提。"
+msgstr "If a bhikkhunī takes on a student every year, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc107" class="latin">
+msgctxt "lzh-mg-bi-pm:359.1"
+msgid "pācittiya 107"
+msgstr "pācittiya 107"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:360.1"
+msgid "若比丘尼。一眾清淨停宿受具足波夜提。"
+msgstr "If a bhikkhunī waits overnight before giving the full ordination to someone who has been purified in one sangha, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc108" class="latin">
+msgctxt "lzh-mg-bi-pm:361.1"
+msgid "pācittiya 108"
+msgstr "pācittiya 108"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:362.1"
+msgid "若比丘尼。度弟子有事。不自送不使人送。下至五六由旬波夜提。"
+msgstr "If a bhikkhunī, when there is an issue with the student to whom she has given the going forth, does not send her away herself, nor has others send her away, less than five or six yojanas, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc109" class="latin">
+msgctxt "lzh-mg-bi-pm:363.1"
+msgid "pācittiya 109"
+msgstr "pācittiya 109"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:364.1"
+msgid "若比丘尼。諸比丘尼作是語。阿梨耶。十法不具足度弟子應教誡。而反嫌責者波夜提。"
+msgstr "If a bhikkhunī, when the bhikkhunīs say to her: ‘Venerable, not fulfilling the 10 requirements, you give the going forth to students. You should teach and instruct them,’  rebukes them back, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc110" class="latin">
+msgctxt "lzh-mg-bi-pm:365.1"
+msgid "pācittiya 110"
+msgstr "pācittiya 110"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:366.1"
+msgid "若比丘尼語式叉摩尼言。學戒滿。當與汝受具足。後不與受不使人受。又不遣去者波夜提<span class=\"t-counter\">(百一十事竟)</span>。"
+msgstr "If a bhikkhunī says to a sikkhamānā: ‘When you are fully trained in the precepts, I will give you the full ordination,’ but later doesn’t give it, doesn’t have others give it, and also doesn’t send her away, it is a pācittiya. <span class=\"t-counter\">(End of 110 rules.)</span>"
+
+#. </p><h3>
+msgctxt "lzh-mg-bi-pm:367.1"
+msgid "<span class=\"add latin\">Chapter 12</span>"
+msgstr "<span class=\"add latin\">Chapter 12</span>"
+
+#. </h3><h4>
+#. <span class="add"><a id="pc111" class="latin">
+msgctxt "lzh-mg-bi-pm:368.1"
+msgid "pācittiya 111"
+msgstr "pācittiya 111"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:369.1"
+msgid "若比丘尼。不病載乘者波夜提。"
+msgstr "If a bhikkhunī who is not sick rides in a vehicle, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc112" class="latin">
+msgctxt "lzh-mg-bi-pm:370.1"
+msgid "pācittiya 112"
+msgstr "pācittiya 112"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:371.1"
+msgid "若比丘尼。不病持傘蓋著革屣者波夜提。"
+msgstr "If a bhikkhunī who is not sick holds an umbrella, and wears leather sandals, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc113" class="latin">
+msgctxt "lzh-mg-bi-pm:372.1"
+msgid "pācittiya 113"
+msgstr "pācittiya 113"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:373.1"
+msgid "若比丘尼。過量佉啁床褥上。若坐若臥波夜提。"
+msgstr "If a bhikkhunī sits or lies on a couch bed<note: khaṭvā> with mats that exceeds the measurements, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc114" class="latin">
+msgctxt "lzh-mg-bi-pm:374.1"
+msgid "pācittiya 114"
+msgstr "pācittiya 114"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:375.1"
+msgid "若比丘尼。同敷床褥臥波夜提。"
+msgstr "If bhikkhunīs together lay out a bed and a mat, and lie down, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc115" class="latin">
+msgctxt "lzh-mg-bi-pm:376.1"
+msgid "pācittiya 115"
+msgstr "pācittiya 115"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:377.1"
+msgid "若比丘尼。僧房床褥不捨而去波夜提。"
+msgstr "If a bhikkhunī goes away without giving up her bed and her mat in a sangha room, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc116" class="latin">
+msgctxt "lzh-mg-bi-pm:378.1"
+msgid "pācittiya 116"
+msgstr "pācittiya 116"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:379.1"
+msgid "若比丘尼。先不白。入比丘僧伽藍者波夜提。"
+msgstr "If a bhikkhunī enters a bhikkhu monastery without informing them first, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc117" class="latin">
+msgctxt "lzh-mg-bi-pm:380.1"
+msgid "pācittiya 117"
+msgstr "pācittiya 117"
+
+#. </a></span>
+#. </h4><p><a class="sc" id="36"></a>
+msgctxt "lzh-mg-bi-pm:381.1"
+msgid "若比丘尼。知食家婬處宿除餘時波夜提。餘時者。風時雨時奪命時傷梵行時。是名餘時。"
+msgstr "If a bhikkhunī knowingly spends the night in a place used for sex in a family ‘that is eating’, except at a suitable time, it is a pācittiya. These are the suitable times: when it’s windy or rainy, when killing is going on, or there is a threat of being raped. These are called ‘the suitable times’."
+
+#. </p><h4>
+#. <span class="add"><a id="pc118" class="latin">
+msgctxt "lzh-mg-bi-pm:382.1"
+msgid "pācittiya 118"
+msgstr "pācittiya 118"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:383.1"
+msgid "若比丘尼。無商人伴向異國行波夜提。"
+msgstr "If a bhikkhunī wanders to another country without a group of merchants, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc119" class="latin">
+msgctxt "lzh-mg-bi-pm:384.1"
+msgid "pācittiya 119"
+msgstr "pācittiya 119"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:385.1"
+msgid "若比丘尼。自境界內觀園林故墟波夜提。"
+msgstr "If a bhikkhunī visits a park, a grove, or ancient ruins in her own country, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc120" class="latin">
+msgctxt "lzh-mg-bi-pm:386.1"
+msgid "pācittiya 120"
+msgstr "pācittiya 120"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:387.1"
+msgid "若比丘尼。共一比丘空靜處坐波夜提<span class=\"t-counter\">(百二十事竟)</span>。"
+msgstr "If a bhikkhunī sits together with one bhikkhu in an empty, quiet place, it is a pācittiya. <span class=\"t-counter\">(End of 120 rules.)</span>"
+
+#. </p><h3>
+msgctxt "lzh-mg-bi-pm:388.1"
+msgid "<span class=\"add latin\">Chapter 13</span>"
+msgstr "<span class=\"add latin\">Chapter 13</span>"
+
+#. </h3><h4>
+#. <span class="add"><a id="pc121" class="latin">
+msgctxt "lzh-mg-bi-pm:389.1"
+msgid "pācittiya 121"
+msgstr "pācittiya 121"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:390.1"
+msgid "若比丘尼。與丈夫屏處坐者波夜提。"
+msgstr "If a bhikkhunī sits with a man in a secluded place, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc122" class="latin">
+msgctxt "lzh-mg-bi-pm:391.1"
+msgid "pācittiya 122"
+msgstr "pācittiya 122"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:392.1"
+msgid "若比丘尼。與男子伸手內住。若耳語波夜提。"
+msgstr "If a bhikkhunī stays withing arm’s reach of a man, and whispers in his ear, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc123" class="latin">
+msgctxt "lzh-mg-bi-pm:393.1"
+msgid "pācittiya 123"
+msgstr "pācittiya 123"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:394.1"
+msgid "若比丘尼。知闇中男子坐。無燈而入波夜提。"
+msgstr "If a bhikkhunī knows that a man is sitting in the dark without a lamp, and enters there, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc124" class="latin">
+msgctxt "lzh-mg-bi-pm:395.1"
+msgid "pācittiya 124"
+msgstr "pācittiya 124"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:396.1"
+msgid "若比丘尼。觀伎樂行波夜提。"
+msgstr "If a bhikkhunī goes to watch a musical performance, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc125" class="latin">
+msgctxt "lzh-mg-bi-pm:397.1"
+msgid "pācittiya 125"
+msgstr "pācittiya 125"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:398.1"
+msgid "若比丘尼。<span class=\"gaiji\">鬪<!--gaiji,鬥,1[鬥@(豆*寸)],2&#x9B2A;,3--> </span>諍不和合住。眾主不料理斷滅者波夜提。"
+msgstr "If bhikkhunīs are quarelling and don’t live in harmony, and the group’s leader doesn’t take action to settle it, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc126" class="latin">
+msgctxt "lzh-mg-bi-pm:399.1"
+msgid "pācittiya 126"
+msgstr "pācittiya 126"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:400.1"
+msgid "若比丘尼。俗人婦女塗香油揩摩洗浴。除病時波夜提。"
+msgstr "If a bhikkhunī has a lay woman apply perfume and oil, and massage and wash her, unless she is sick, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc127" class="latin">
+msgctxt "lzh-mg-bi-pm:401.1"
+msgid "pācittiya 127"
+msgstr "pācittiya 127"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:402.1"
+msgid "若比丘尼。不病使比丘尼揩摩洗浴者波夜提。"
+msgstr "If a bhikkhunī who is not sick has another bhikkhunī massage and wash her, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc128" class="latin">
+msgctxt "lzh-mg-bi-pm:403.1"
+msgid "pācittiya 128"
+msgstr "pācittiya 128"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:404.1"
+msgid "若比丘尼。不病令沙彌尼揩摩者波夜提。"
+msgstr "If a bhikkhunī who is not sick has a sāmaṇerī massage her, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc129" class="latin">
+msgctxt "lzh-mg-bi-pm:405.1"
+msgid "pācittiya 129"
+msgstr "pācittiya 129"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:406.1"
+msgid "若比丘尼。不病令式叉摩尼揩摩者波夜提。"
+msgstr "If a bhikkhunī who is not sick has a sikkhamānā massage her, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc130" class="latin">
+msgctxt "lzh-mg-bi-pm:407.1"
+msgid "pācittiya 130"
+msgstr "pācittiya 130"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:408.1"
+msgid "若比丘尼。不病令俗人婦女揩摩者波夜提<span class=\"t-counter\">(一百三十事竟)</span>。"
+msgstr "If a bhikkhunī who is not sick has a lay woman massage her, it is a pācittiya. <span class=\"t-counter\">(End of 130 rules.)</span>"
+
+#. </p><h3>
+msgctxt "lzh-mg-bi-pm:409.1"
+msgid "<span class=\"add latin\">Chapter 14</span>"
+msgstr "<span class=\"add latin\">Chapter 14</span>"
+
+#. </h3><h4>
+#. <span class="add"><a id="pc131" class="latin">
+msgctxt "lzh-mg-bi-pm:410.1"
+msgid "pācittiya 131"
+msgstr "pācittiya 131"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:411.1"
+msgid "若比丘尼。半月清淨布薩。不恭敬者波夜提。"
+msgstr "If a bhikkhunī does not respect the half-monthly purity uopsatha, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc132" class="latin">
+msgctxt "lzh-mg-bi-pm:412.1"
+msgid "pācittiya 132"
+msgstr "pācittiya 132"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:413.1"
+msgid "若比丘尼。半月僧教誡。而不恭敬不來波夜提。"
+msgstr "If a bhikkhunī does not respect and does not attend the half-monthly instruction of the sangha, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc133" class="latin">
+msgctxt "lzh-mg-bi-pm:414.1"
+msgid "pācittiya 133"
+msgstr "pācittiya 133"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:415.1"
+msgid "若比丘尼。膝已上肩已下隱處有癰瘡。先不白。聽男子破洗者波夜提。"
+msgstr "If a bhikkhunī has an abscess in a hidden place above the knees, below the shoulders, and without first informing someone and being permitted, has a man open and wash it, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc134" class="latin">
+msgctxt "lzh-mg-bi-pm:416.1"
+msgid "pācittiya 134"
+msgstr "pācittiya 134"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:417.1"
+msgid "若比丘尼。安居中遊行者波夜提。"
+msgstr "If a bhikkhunī wanders during the rains retreat, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc135" class="latin">
+msgctxt "lzh-mg-bi-pm:418.1"
+msgid "pācittiya 135"
+msgstr "pācittiya 135"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:419.1"
+msgid "若比丘尼。安居竟不遊行者波夜提。"
+msgstr "If a bhikkhunī does not wander after the end of the rains retreat, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc136" class="latin">
+msgctxt "lzh-mg-bi-pm:420.1"
+msgid "pācittiya 136"
+msgstr "pācittiya 136"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:421.1"
+msgid "若比丘尼。語比丘尼作是語。阿梨耶。此處安居。後嫌呵惱觸波夜提。"
+msgstr "If a bhikkhunī says to another bhikkhunī: ‘Venerable, spend the rains retreat in this place,’ and later criticizes and irritates her, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc137" class="latin">
+msgctxt "lzh-mg-bi-pm:422.1"
+msgid "pācittiya 137"
+msgstr "pācittiya 137"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:423.1"
+msgid "若比丘尼。知比丘尼先安居已。後來若自嬈亂。使人嬈亂波夜提。"
+msgstr "If a bhikkhunī knows that another bhikkhunī has entered the rains retreat first, arrives later, and either disturbs her herself, or has others disturb her, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc138" class="latin">
+msgctxt "lzh-mg-bi-pm:424.1"
+msgid "pācittiya 138"
+msgstr "pācittiya 138"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:425.1"
+msgid "若比丘尼。隔牆不觀。擲棄不淨波夜提。"
+msgstr "If a bhikkhunī without observing throws impure things over a partition wall, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc139" class="latin">
+msgctxt "lzh-mg-bi-pm:426.1"
+msgid "pācittiya 139"
+msgstr "pācittiya 139"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:427.1"
+msgid "若比丘尼。生草上大小便波夜提。"
+msgstr "If a bhikkhunī defecates or urinates on fresh grass, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc140" class="latin">
+msgctxt "lzh-mg-bi-pm:428.1"
+msgid "pācittiya 140"
+msgstr "pācittiya 140"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:429.1"
+msgid "若比丘尼。水中大小便波夜提。"
+msgstr "If a bhikkhunī defecates or urinates in water, it is a pācittiya."
+
+#. </p><h4>
+#. <span class="add"><a id="pc141" class="latin">
+msgctxt "lzh-mg-bi-pm:430.1"
+msgid "pācittiya 141"
+msgstr "pācittiya 141"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:431.1"
+msgid "若比丘尼。知眾利迴與一眾波夜提<span class=\"t-counter\">(一百四十一事竟)</span>。"
+msgstr "If a bhikkhunī knowingly diverts donations for one group to another group, it is a pācittiya. <span class=\"t-counter\">(End of 141 rules.)</span>"
+
+#. </p><hr><p><a class="sc" id="37"></a>
+msgctxt "lzh-mg-bi-pm:432.1"
+msgid "諸阿梨耶。已說百四十一波夜提法。今問諸阿梨耶。是中清淨不。第二第三亦如是問。諸阿梨耶。是中清淨默然故。是事如是持。"
+msgstr "Venerables, the 141 pācittiya rules have been recited. Now I ask the venerables: ‘Are you pure herein?’ A second and a third time, I ask this. The venerables are pure herein, therefore you are silent. This matter is remembered thus."
+
+#. </p><h2>
+#. <span class="add"><a id="pd" class="latin">
+msgctxt "lzh-mg-bi-pm:433.1"
+msgid "8 pātidesanīya rules"
+msgstr "8 pātidesanīya rules"
+
+#. </a></span>
+#. </h2><p>
+msgctxt "lzh-mg-bi-pm:434.1"
+msgid "諸阿梨耶。是八波羅提提舍尼法半月半月波羅提木叉中說。"
+msgstr "Venerables, these eight pātidesanīya rules are recited every half-month in the pātimokkha."
+
+#. <a class="sc" id="38"></a></p><h4>
+#. <span class="add"><a id="pd1" class="latin">
+msgctxt "lzh-mg-bi-pm:435.1"
+msgid "pātidesanīya 1"
+msgstr "pātidesanīya 1"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:436.1"
+msgid "◎ 若比丘尼。不病為身白衣家乞酥。若使人乞若噉若食。是比丘尼應向餘比丘尼悔過。如是言。阿梨耶。我墮可呵法。此法悔過。是波羅提提舍尼法。"
+msgstr "If a bhikkhunī who is not sick asks a lay person for ghee, or has others ask, to chew or to eat for herself, that bhikkhunī should confess to the other bhikkhunīs: ‘Venerables, I have fallen into an offense to be criticized. I confess this offense.’ This is a pātidesanīya rule."
+
+#. </p><h4>
+#. <span class="add"><a id="pd2" class="latin">
+msgctxt "lzh-mg-bi-pm:437.1"
+msgid "pātidesanīya 2"
+msgstr "pātidesanīya 2"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:438.1"
+msgid "如是 二油"
+msgstr "As above, no. 2, oil."
+
+#. </p><h4>
+#. <span class="add"><a id="pd3" class="latin">
+msgctxt "lzh-mg-bi-pm:439.1"
+msgid "pātidesanīya 3"
+msgstr "pātidesanīya 3"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:440.1"
+msgid "如是 三蜜"
+msgstr "As above, no. 3, honey."
+
+#. </p><h4>
+#. <span class="add"><a id="pd4" class="latin">
+msgctxt "lzh-mg-bi-pm:441.1"
+msgid "pātidesanīya 4"
+msgstr "pātidesanīya 4"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:442.1"
+msgid "如是 四石蜜"
+msgstr "As above, no. 4, sugar."
+
+#. </p><h4>
+#. <span class="add"><a id="pd5" class="latin">
+msgctxt "lzh-mg-bi-pm:443.1"
+msgid "pātidesanīya 5"
+msgstr "pātidesanīya 5"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:444.1"
+msgid "如是 五乳"
+msgstr "As above, no. 5, milk."
+
+#. </p><h4>
+#. <span class="add"><a id="pd6" class="latin">
+msgctxt "lzh-mg-bi-pm:445.1"
+msgid "pātidesanīya 6"
+msgstr "pātidesanīya 6"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:446.1"
+msgid "如是 六酪"
+msgstr "As above, no. 6, curds."
+
+#. </p><h4>
+#. <span class="add"><a id="pd7" class="latin">
+msgctxt "lzh-mg-bi-pm:447.1"
+msgid "pātidesanīya 7"
+msgstr "pātidesanīya 7"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:448.1"
+msgid "如是 七魚"
+msgstr "As above, no. 7, fish."
+
+#. </p><h4>
+#. <span class="add"><a id="pd8" class="latin">
+msgctxt "lzh-mg-bi-pm:449.1"
+msgid "pātidesanīya 8"
+msgstr "pātidesanīya 8"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:450.1"
+msgid "如是 八肉"
+msgstr "As above, no. 8, meat."
+
+#. </p><hr><p><a class="sc" id="39"></a>
+msgctxt "lzh-mg-bi-pm:451.1"
+msgid "諸阿梨耶。已說八波羅提提舍尼法。今問諸阿梨耶。是中清淨不。第二第三亦如是問。諸阿梨耶是中清淨默然故。是事如是持。"
+msgstr "Venerables, the eight pātidesanīya rules have been recited. Now I ask the venerables: ‘Are you pure herein?’ A second and a third time, I ask this. The venerables are pure herein, therefore you are silent. This matter is remembered thus."
+
+#. </p><h2>
+#. <span class="add"><a id="sk" class="latin">
+msgctxt "lzh-mg-bi-pm:452.1"
+msgid "77 sekhiya rules"
+msgstr "77 sekhiya rules"
+
+#. </a></span>
+#. </h2><p>
+msgctxt "lzh-mg-bi-pm:453.1"
+msgid "諸阿梨耶。是眾學法。半月半月波羅提木叉中說。"
+msgstr "Venerables, these many training rules are recited every half-month in the pātimokkha."
+
+#. </p><h4>
+#. <span class="add"><a id="sk1" class="latin">
+msgctxt "lzh-mg-bi-pm:454.1"
+msgid "sekhiya 1"
+msgstr "sekhiya 1"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:455.1"
+msgid "不下著內衣"
+msgstr "Not to wear the inner robe too low."
+
+#. </p><h4>
+#. <span class="add"><a id="sk2" class="latin">
+msgctxt "lzh-mg-bi-pm:456.1"
+msgid "sekhiya 2"
+msgstr "sekhiya 2"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:457.1"
+msgid "不高著內衣"
+msgstr "Not to wear the inner robe too high."
+
+#. </p><h4>
+#. <span class="add"><a id="sk3" class="latin">
+msgctxt "lzh-mg-bi-pm:458.1"
+msgid "sekhiya 3"
+msgstr "sekhiya 3"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:459.1"
+msgid "不參差著內衣"
+msgstr "Not to wear the inner robe unevenly."
+
+#. </p><h4>
+#. <span class="add"><a id="sk4" class="latin">
+msgctxt "lzh-mg-bi-pm:460.1"
+msgid "sekhiya 4"
+msgstr "sekhiya 4"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:461.1"
+msgid "不百<span class=\"gaiji\">襵<!--gaiji,,1[袖-由+聶],2&#x8975;,3--> </span>著內衣"
+msgstr "Not to wear the inner robe in a hundred pleats."
+
+#. </p><h4>
+#. <span class="add"><a id="sk5" class="latin">
+msgctxt "lzh-mg-bi-pm:462.1"
+msgid "sekhiya 5"
+msgstr "sekhiya 5"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:463.1"
+msgid "不石留華著內衣"
+msgstr "Not to wear the inner robe like a pomegranate flower."
+
+#. </p><h4>
+#. <span class="add"><a id="sk6" class="latin">
+msgctxt "lzh-mg-bi-pm:464.1"
+msgid "sekhiya 6"
+msgstr "sekhiya 6"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:465.1"
+msgid "不麥飯團著內衣"
+msgstr "Not to wear the inner robe like a ball of oats."
+
+#. </p><h4>
+#. <span class="add"><a id="sk7" class="latin">
+msgctxt "lzh-mg-bi-pm:466.1"
+msgid "sekhiya 7"
+msgstr "sekhiya 7"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:467.1"
+msgid "不魚尾著內衣"
+msgstr "Not to wear the inner robe like a fish tail."
+
+#. </p><h4>
+#. <span class="add"><a id="sk8" class="latin">
+msgctxt "lzh-mg-bi-pm:468.1"
+msgid "sekhiya 8"
+msgstr "sekhiya 8"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:469.1"
+msgid "不多羅樹葉著內衣"
+msgstr "Not to wear the inner robe like a tāla palm leaf."
+
+#. </p><h4>
+#. <span class="add"><a id="sk9" class="latin">
+msgctxt "lzh-mg-bi-pm:470.1"
+msgid "sekhiya 9"
+msgstr "sekhiya 9"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:471.1"
+msgid "不象鼻著內衣<span class=\"t-note\">(此上九戒丹本及本律大僧戒中並無)</span>。"
+msgstr "Not to wear the inner robe like an elephant’s trunk. <span class=\"t-note\">(These above nine precepts are not found in the Khitan edition and in the monks’ rules of this vinaya edition.)</span>"
+
+#. </p><h4>
+#. <span class="add"><a id="sk10" class="latin">
+msgctxt "lzh-mg-bi-pm:472.1"
+msgid "sekhiya 10"
+msgstr "sekhiya 10"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:473.1"
+msgid "齊整著內衣應當學<span class=\"t-counter\">(十事竟)</span>。"
+msgstr "To wear the inner robe orderly adjusted should be trained.<span class=\"t-counter\">(End of 10 rules.)</span>"
+
+#. </p><h4>
+#. <span class="add"><a id="sk11" class="latin">
+msgctxt "lzh-mg-bi-pm:474.1"
+msgid "sekhiya 11"
+msgstr "sekhiya 11"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:475.1"
+msgid "不下披衣應當學。"
+msgstr "Not to wrap the robe around too low should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk12" class="latin">
+msgctxt "lzh-mg-bi-pm:476.1"
+msgid "sekhiya 12"
+msgstr "sekhiya 12"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:477.1"
+msgid "不高披衣應當學。"
+msgstr "Not to wrap the robe around too high should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk13" class="latin">
+msgctxt "lzh-mg-bi-pm:478.1"
+msgid "sekhiya 13"
+msgstr "sekhiya 13"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:479.1"
+msgid "不婆羅天披衣應當學。"
+msgstr "Not to wrap the robe around like a guardian deva should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk14" class="latin">
+msgctxt "lzh-mg-bi-pm:480.1"
+msgid "sekhiya 14"
+msgstr "sekhiya 14"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:481.1"
+msgid "不婆藪天披衣應當學<span class=\"t-note\">(此上四戒丹本及本律大僧戒中並無)</span>。"
+msgstr "Not to wrap the robe around like a vasu-deva should be trained. <span class=\"t-note\">(These above four precepts are not found in the Khitan edition and in the monks’ rules of this vinaya edition.)</span>"
+
+#. </p><h4>
+#. <span class="add"><a id="sk15" class="latin">
+msgctxt "lzh-mg-bi-pm:482.1"
+msgid "sekhiya 15"
+msgstr "sekhiya 15"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:483.1"
+msgid "齊整披衣應當學。"
+msgstr "To wrap the robe around orderly adjusted should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk16" class="latin">
+msgctxt "lzh-mg-bi-pm:484.1"
+msgid "sekhiya 16"
+msgstr "sekhiya 16"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:485.1"
+msgid "好覆身入家內應當學。"
+msgstr "To enter lay houses with the body well covered should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk17" class="latin">
+msgctxt "lzh-mg-bi-pm:486.1"
+msgid "sekhiya 17"
+msgstr "sekhiya 17"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:487.1"
+msgid "諦視入家內應當學。"
+msgstr "To enter lay houses carefully looking should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk18" class="latin">
+msgctxt "lzh-mg-bi-pm:488.1"
+msgid "sekhiya 18"
+msgstr "sekhiya 18"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:489.1"
+msgid "小聲入家內應當學。"
+msgstr "To enter lay houses quietly should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk19" class="latin">
+msgctxt "lzh-mg-bi-pm:490.1"
+msgid "sekhiya 19"
+msgstr "sekhiya 19"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:491.1"
+msgid "不得笑入家內應當學。"
+msgstr "Not to enter lay houses laughing should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk20" class="latin">
+msgctxt "lzh-mg-bi-pm:492.1"
+msgid "sekhiya 20"
+msgstr "sekhiya 20"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:493.1"
+msgid "不得覆頭入家內應當學。"
+msgstr "Not to enter lay houses with the head covered should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk21" class="latin">
+msgctxt "lzh-mg-bi-pm:494.1"
+msgid "sekhiya 21"
+msgstr "sekhiya 21"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:495.1"
+msgid "不得反抄衣入家內應當學。"
+msgstr "Not to enter lay houses with the robe inside out should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk22" class="latin">
+msgctxt "lzh-mg-bi-pm:496.1"
+msgid "sekhiya 22"
+msgstr "sekhiya 22"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:497.1"
+msgid "不得<span class=\"gaiji\">脚<!--gaiji,腳,1[腳-谷+去],2&#x811A;,3--> </span>指行入家內應當學。"
+msgstr "Not to enter lay houses walking on the toes should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk23" class="latin">
+msgctxt "lzh-mg-bi-pm:498.1"
+msgid "sekhiya 23"
+msgstr "sekhiya 23"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:499.1"
+msgid "不得叉腰入家內應當學。"
+msgstr "Not to enter lay houses with the arms akimbo should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk24" class="latin">
+msgctxt "lzh-mg-bi-pm:500.1"
+msgid "sekhiya 24"
+msgstr "sekhiya 24"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:501.1"
+msgid "不得搖身入家內應當學。"
+msgstr "Not to enter lay houses swaying the body should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk25" class="latin">
+msgctxt "lzh-mg-bi-pm:502.1"
+msgid "sekhiya 25"
+msgstr "sekhiya 25"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:503.1"
+msgid "不得搖頭入家內應當學。"
+msgstr "Not to enter lay houses swaying the head should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk26" class="latin">
+msgctxt "lzh-mg-bi-pm:504.1"
+msgid "sekhiya 26"
+msgstr "sekhiya 26"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:505.1"
+msgid "不得掉臂入家內應當學。"
+msgstr "Not to enter lay houses swinging the arms should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk27" class="latin">
+msgctxt "lzh-mg-bi-pm:506.1"
+msgid "sekhiya 27"
+msgstr "sekhiya 27"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:507.1"
+msgid "好覆身家內坐應當學。"
+msgstr "To sit in lay houses with the body well covered should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk28" class="latin">
+msgctxt "lzh-mg-bi-pm:508.1"
+msgid "sekhiya 28"
+msgstr "sekhiya 28"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:509.1"
+msgid "諦視家內坐應當學。"
+msgstr "To sit in lay houses carefully looking should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk29" class="latin">
+msgctxt "lzh-mg-bi-pm:510.1"
+msgid "sekhiya 29"
+msgstr "sekhiya 29"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:511.1"
+msgid "小聲家內坐應當學。"
+msgstr "To sit in lay houses quietly should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk30" class="latin">
+msgctxt "lzh-mg-bi-pm:512.1"
+msgid "sekhiya 30"
+msgstr "sekhiya 30"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:513.1"
+msgid "不得笑坐家內應當學。"
+msgstr "Not to sit in lay houses laughing should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk31" class="latin">
+msgctxt "lzh-mg-bi-pm:514.1"
+msgid "sekhiya 31"
+msgstr "sekhiya 31"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:515.1"
+msgid "不得覆頭坐家內應當學。"
+msgstr "Not to sit in lay houses with the head covered should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk32" class="latin">
+msgctxt "lzh-mg-bi-pm:516.1"
+msgid "sekhiya 32"
+msgstr "sekhiya 32"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:517.1"
+msgid "不得反抄衣坐家內應當學。"
+msgstr "Not to sit in lay houses with the robe inside out should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk33" class="latin">
+msgctxt "lzh-mg-bi-pm:518.1"
+msgid "sekhiya 33"
+msgstr "sekhiya 33"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:519.1"
+msgid "不得抱膝坐家內應當學。"
+msgstr "Not to sit in lay houses clasping the knees should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk34" class="latin">
+msgctxt "lzh-mg-bi-pm:520.1"
+msgid "sekhiya 34"
+msgstr "sekhiya 34"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:521.1"
+msgid "不得交<span class=\"gaiji\">脚<!--gaiji,腳,1[腳-谷+去],2&#x811A;,3--> </span>坐家內應當學。"
+msgstr "Not to sit in lay houses with the feet crossed should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk35" class="latin">
+msgctxt "lzh-mg-bi-pm:522.1"
+msgid "sekhiya 35"
+msgstr "sekhiya 35"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:523.1"
+msgid "不得叉腰坐家內應當學。"
+msgstr "Not to sit in lay houses with the arms akimbo should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk36" class="latin">
+msgctxt "lzh-mg-bi-pm:524.1"
+msgid "sekhiya 36"
+msgstr "sekhiya 36"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:525.1"
+msgid "不得動手足坐家內應當學。"
+msgstr "Not to sit in lay houses moving the hands and feet should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk37" class="latin">
+msgctxt "lzh-mg-bi-pm:526.1"
+msgid "sekhiya 37"
+msgstr "sekhiya 37"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:527.1"
+msgid "一心受食應當學。"
+msgstr "To accept food mindfully should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk38" class="latin">
+msgctxt "lzh-mg-bi-pm:528.1"
+msgid "sekhiya 38"
+msgstr "sekhiya 38"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:529.1"
+msgid "羹飯等受應當學。"
+msgstr "To accept soup and rice equally should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk39" class="latin">
+msgctxt "lzh-mg-bi-pm:530.1"
+msgid "sekhiya 39"
+msgstr "sekhiya 39"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:531.1"
+msgid "不得口中迴食食應當學。"
+msgstr "Not to eat turning food in the mouth should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk40" class="latin">
+msgctxt "lzh-mg-bi-pm:532.1"
+msgid "sekhiya 40"
+msgstr "sekhiya 40"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:533.1"
+msgid "不得偏刳食應當學。"
+msgstr "Not to eat scooping up food unequally should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk41" class="latin">
+msgctxt "lzh-mg-bi-pm:534.1"
+msgid "sekhiya 41"
+msgstr "sekhiya 41"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:535.1"
+msgid "不得吐舌食應發學。"
+msgstr "Not to eat sticking out the tongue should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk42" class="latin">
+msgctxt "lzh-mg-bi-pm:536.1"
+msgid "sekhiya 42"
+msgstr "sekhiya 42"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:537.1"
+msgid "不得大團飯食應當學。"
+msgstr "Not to eat with large balls of food should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk43" class="latin">
+msgctxt "lzh-mg-bi-pm:538.1"
+msgid "sekhiya 43"
+msgstr "sekhiya 43"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:539.1"
+msgid "不得張口待飯食應當學。"
+msgstr "Not to wait for food with the mouth open when eating should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk44" class="latin">
+msgctxt "lzh-mg-bi-pm:540.1"
+msgid "sekhiya 44"
+msgstr "sekhiya 44"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:541.1"
+msgid "不得挑團飯食應當學。"
+msgstr "Not to pick from a ball of food when eating should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk45" class="latin">
+msgctxt "lzh-mg-bi-pm:542.1"
+msgid "sekhiya 45"
+msgstr "sekhiya 45"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:543.1"
+msgid "不得齧半食應當學。"
+msgstr "Not to bite off halves when eating should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk46" class="latin">
+msgctxt "lzh-mg-bi-pm:544.1"
+msgid "sekhiya 46"
+msgstr "sekhiya 46"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:545.1"
+msgid "不得含食語應當學。"
+msgstr "Not to speak with food in the mouth should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk47" class="latin">
+msgctxt "lzh-mg-bi-pm:546.1"
+msgid "sekhiya 47"
+msgstr "sekhiya 47"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:547.1"
+msgid "不得指抆<span class=\"gaiji\">鉢<!--gaiji,缽,1[金*本],2&#x9262;,3--> </span>食應當學。"
+msgstr "Not to wipe the bowl with the finger when eating should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk48" class="latin">
+msgctxt "lzh-mg-bi-pm:548.1"
+msgid "sekhiya 48"
+msgstr "sekhiya 48"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:549.1"
+msgid "不得舐手食應當學。"
+msgstr "Not to eat licking the hand should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk49" class="latin">
+msgctxt "lzh-mg-bi-pm:550.1"
+msgid "sekhiya 49"
+msgstr "sekhiya 49"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:551.1"
+msgid "不得嗽指食應當學。"
+msgstr "Not to eat sucking on the fingers should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk50" class="latin">
+msgctxt "lzh-mg-bi-pm:552.1"
+msgid "sekhiya 50"
+msgstr "sekhiya 50"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:553.1"
+msgid "不得<span class=\"gaiji\">[口*專]<!--gaiji,,1[口*專],2,3--> </span> <span class=\"gaiji\">[口*集]<!--gaiji,,1[口*集],2&#x35F1;,3--> </span>作聲食應當學。"
+msgstr "Not to eat making a ‘capucapu’ noise should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk51" class="latin">
+msgctxt "lzh-mg-bi-pm:554.1"
+msgid "sekhiya 51"
+msgstr "sekhiya 51"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:555.1"
+msgid "不得吸食食應當學。"
+msgstr "Not to slurp up food while eating should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk52" class="latin">
+msgctxt "lzh-mg-bi-pm:556.1"
+msgid "sekhiya 52"
+msgstr "sekhiya 52"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:557.1"
+msgid "不得全吞食應當學。"
+msgstr "Not to eat swallowing (the food) whole should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk53" class="latin">
+msgctxt "lzh-mg-bi-pm:558.1"
+msgid "sekhiya 53"
+msgstr "sekhiya 53"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:559.1"
+msgid "不得落飯食應當學。"
+msgstr "Not to drop food while eating should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk54" class="latin">
+msgctxt "lzh-mg-bi-pm:560.1"
+msgid "sekhiya 54"
+msgstr "sekhiya 54"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:561.1"
+msgid "不得振手食應當學。"
+msgstr "Not to shake the hand while eating should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk55" class="latin">
+msgctxt "lzh-mg-bi-pm:562.1"
+msgid "sekhiya 55"
+msgstr "sekhiya 55"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:563.1"
+msgid "不得嫌心看比坐<span class=\"gaiji\">鉢<!--gaiji,缽,1[金*本],2&#x9262;,3--> </span>食應當學。"
+msgstr "Not to look at and compare a sitting person’s bowl with dissatisfaction while eating should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk56" class="latin">
+msgctxt "lzh-mg-bi-pm:564.1"
+msgid "sekhiya 56"
+msgstr "sekhiya 56"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:565.1"
+msgid "端心視<span class=\"gaiji\">鉢<!--gaiji,缽,1[金*本],2&#x9262;,3--> </span>食應當學。"
+msgstr "Observing the bowl with an upright mind while eating should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk57" class="latin">
+msgctxt "lzh-mg-bi-pm:566.1"
+msgid "sekhiya 57"
+msgstr "sekhiya 57"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:567.1"
+msgid "不病不得為己索食應當學。"
+msgstr "Not to ask for food for oneself when not sick should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk58" class="latin">
+msgctxt "lzh-mg-bi-pm:568.1"
+msgid "sekhiya 58"
+msgstr "sekhiya 58"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:569.1"
+msgid "不得以飯覆羹更望得應當學。"
+msgstr "Not to cover the soups with rice hoping to get more should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk59" class="latin">
+msgctxt "lzh-mg-bi-pm:570.1"
+msgid "sekhiya 59"
+msgstr "sekhiya 59"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:571.1"
+msgid "不得以膩手受飲器應當學。"
+msgstr "Not to receive drinking utensils with a dirty hand should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk60" class="latin">
+msgctxt "lzh-mg-bi-pm:572.1"
+msgid "sekhiya 60"
+msgstr "sekhiya 60"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:573.1"
+msgid "不得以<span class=\"gaiji\">鉢<!--gaiji,缽,1[金*本],2&#x9262;,3--> </span>中殘食棄地應當學。"
+msgstr "Not to throw food leftover in the bowl on the ground should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk61" class="latin">
+msgctxt "lzh-mg-bi-pm:574.1"
+msgid "sekhiya 61"
+msgstr "sekhiya 61"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:575.1"
+msgid "人坐比丘尼立不得為說法除病應當學。"
+msgstr "Not to teach dhamma to a person who is sitting when the bhikkhunī is standing, unless they are sick, should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk62" class="latin">
+msgctxt "lzh-mg-bi-pm:576.1"
+msgid "sekhiya 62"
+msgstr "sekhiya 62"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:577.1"
+msgid "人臥比丘尼坐不得為說法除病應當學。"
+msgstr "Not to teach dhamma to a person lying down when the bhikkhunī is sitting, unless they are sick, should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk63" class="latin">
+msgctxt "lzh-mg-bi-pm:578.1"
+msgid "sekhiya 63"
+msgstr "sekhiya 63"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:579.1"
+msgid "人在高床比丘尼卑床不得為說法除病應當學。"
+msgstr "Not to teach dhamma to a person sitting on a high bed when the bhikkhunī is sitting on a low bed, unless they are sick, should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk64" class="latin">
+msgctxt "lzh-mg-bi-pm:580.1"
+msgid "sekhiya 64"
+msgstr "sekhiya 64"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:581.1"
+msgid "不得為著革屣人說法除病應當學。"
+msgstr "Not to teach dhamma to a person wearing leather sandals, unless they are sick, should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk65" class="latin">
+msgctxt "lzh-mg-bi-pm:582.1"
+msgid "sekhiya 65"
+msgstr "sekhiya 65"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:583.1"
+msgid "不得為著屐人說法除病應當學。"
+msgstr "Not to teach dhamma to a person wearing wooden sandals, unless they are sick, should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk66" class="latin">
+msgctxt "lzh-mg-bi-pm:584.1"
+msgid "sekhiya 66"
+msgstr "sekhiya 66"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:585.1"
+msgid "不得為覆頭人說法除病應當學。"
+msgstr "Not to teach dhamma to a person with their head covered, unless they are sick, should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk67" class="latin">
+msgctxt "lzh-mg-bi-pm:586.1"
+msgid "sekhiya 67"
+msgstr "sekhiya 67"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:587.1"
+msgid "不得為纏頭人說法除病應當學。"
+msgstr "Not to teach dhamma to a person with their head wrapped, unless they are sick, should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk68" class="latin">
+msgctxt "lzh-mg-bi-pm:588.1"
+msgid "sekhiya 68"
+msgstr "sekhiya 68"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:589.1"
+msgid "不得為抱膝蹲人說法除病應當學。"
+msgstr "Not to teach dhamma to a person who sits clasping their knees, unless they are sick, should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk69" class="latin">
+msgctxt "lzh-mg-bi-pm:590.1"
+msgid "sekhiya 69"
+msgstr "sekhiya 69"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:591.1"
+msgid "不得為翹<span class=\"gaiji\">脚<!--gaiji,腳,1[腳-谷+去],2&#x811A;,3--> </span>人說法除病應當學。"
+msgstr "Not to teach dhamma to a person with their feet lifted up, unless they are sick, should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk70" class="latin">
+msgctxt "lzh-mg-bi-pm:592.1"
+msgid "sekhiya 70"
+msgstr "sekhiya 70"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:593.1"
+msgid "不得為持刀人說法除病應當學。"
+msgstr "Not to teach dhamma to a person holding a knife, unless they are sick, should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk71" class="latin">
+msgctxt "lzh-mg-bi-pm:594.1"
+msgid "sekhiya 71"
+msgstr "sekhiya 71"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:595.1"
+msgid "不得為持弓箭人說法除病應當學。"
+msgstr "Not to teach dhamma to a person holding bow and arrow, unless they are sick, should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk72" class="latin">
+msgctxt "lzh-mg-bi-pm:596.1"
+msgid "sekhiya 72"
+msgstr "sekhiya 72"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:597.1"
+msgid "不得為持杖人說法除病應當學。"
+msgstr "Not to teach dhamma to a person holding a staff, unless they are sick, should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk73" class="latin">
+msgctxt "lzh-mg-bi-pm:598.1"
+msgid "sekhiya 73"
+msgstr "sekhiya 73"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:599.1"
+msgid "不得為持蓋人說法除病應當學。"
+msgstr "Not to teach dhamma to a person holding an umbrella, unless they are sick, should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk74" class="latin">
+msgctxt "lzh-mg-bi-pm:600.1"
+msgid "sekhiya 74"
+msgstr "sekhiya 74"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:601.1"
+msgid "在後不為在前人說法除病應當學。"
+msgstr "Not to teach dhamma to a person in front when one is behind, unless they are sick, should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk75" class="latin">
+msgctxt "lzh-mg-bi-pm:602.1"
+msgid "sekhiya 75"
+msgstr "sekhiya 75"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:603.1"
+msgid "不得為騎乘人說法除病應當學。"
+msgstr "Not to teach dhamma to a person riding in a vehicle, unless they are sick, should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk76" class="latin">
+msgctxt "lzh-mg-bi-pm:604.1"
+msgid "sekhiya 76"
+msgstr "sekhiya 76"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:605.1"
+msgid "在道外不為道中人說法除病應當學。"
+msgstr "Not to teach dhamma to a person on the path when one is off the path, unless they are sick, should be trained."
+
+#. </p><h4>
+#. <span class="add"><a id="sk77" class="latin">
+msgctxt "lzh-mg-bi-pm:606.1"
+msgid "sekhiya 77"
+msgstr "sekhiya 77"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:607.1"
+msgid "不得立大小便除病應當學<span class=\"t-counter\">(七十七事竟)</span>。"
+msgstr "Not to defecate or urinate while standing, unless one is sick, should be trained. <span class=\"t-counter\">(End of 77 rules.)</span>"
+
+#. </p><hr><p><a class="sc" id="40"></a>
+msgctxt "lzh-mg-bi-pm:608.1"
+msgid "諸阿梨耶。已說眾學法。今問諸阿梨耶。是中清淨不。第二第三亦如是問。諸阿梨耶。是中清淨默然故。是事如是持。"
+msgstr "Venerables, the many training rules have been recited. Now I ask the venerables: ‘Are you pure herein?’ A second and a third time, I ask this. The venerables are pure herein, therefore you are silent. This matter is remembered thus."
+
+#. </p><h2>
+#. <span class="add"><a id="as" class="latin">
+msgctxt "lzh-mg-bi-pm:609.1"
+msgid "7 adhikaraṇasamathas"
+msgstr "7 adhikaraṇasamathas"
+
+#. </a></span>
+#. </h2><p>
+msgctxt "lzh-mg-bi-pm:610.1"
+msgid "諸阿梨耶。是七滅諍法。半月半月波羅提木叉中說。"
+msgstr "Venerables, these seven rules for settling disputes are recited every half-month in the pātimokkha."
+
+#. </p><h4>
+#. <span class="add"><a id="as1" class="latin">
+msgctxt "lzh-mg-bi-pm:611.1"
+msgid "adhikaraṇasamatha 1"
+msgstr "adhikaraṇasamatha 1"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:612.1"
+msgid "若隨事隨順人。應與現前毘尼人與。現前毘尼。"
+msgstr "People should be dealt with according to the situation. To a person who should be given a removal in the presence, give a removal in the presence."
+
+#. </p><h4>
+#. <span class="add"><a id="as2" class="latin">
+msgctxt "lzh-mg-bi-pm:613.1"
+msgid "adhikaraṇasamatha 2"
+msgstr "adhikaraṇasamatha 2"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:614.1"
+msgid "應與憶念毘尼人。與憶念毘尼。"
+msgstr "To a person who should given a removal through mindfulness, give a removal through mindfulness."
+
+#. </p><h4>
+#. <span class="add"><a id="as3" class="latin">
+msgctxt "lzh-mg-bi-pm:615.1"
+msgid "adhikaraṇasamatha 3"
+msgstr "adhikaraṇasamatha 3"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:616.1"
+msgid "應與不癡毘尼人。與不癡毘尼。"
+msgstr "To a person who should be given a removal through non-confusion, give a removal through non-confusion."
+
+#. </p><h4>
+#. <span class="add"><a id="as4" class="latin">
+msgctxt "lzh-mg-bi-pm:617.1"
+msgid "adhikaraṇasamatha 4"
+msgstr "adhikaraṇasamatha 4"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:618.1"
+msgid "應與自言治人。與自言治。"
+msgstr "Deal with a person who should be dealt with according to what they have admitted, according to what they have admitted."
+
+#. </p><h4>
+#. <span class="add"><a id="as5" class="latin">
+msgctxt "lzh-mg-bi-pm:619.1"
+msgid "adhikaraṇasamatha 5"
+msgstr "adhikaraṇasamatha 5"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:620.1"
+msgid "應與<span class=\"gaiji\">覔<!--gaiji,覓,1[不/見],2&#x8994;,3--> </span>罪相人。與覓罪相。"
+msgstr "To a person who should be given a mark of seeking offenses, give a mark of seeking offenses."
+
+#. </p><h4>
+#. <span class="add"><a id="as6" class="latin">
+msgctxt "lzh-mg-bi-pm:621.1"
+msgid "adhikaraṇasamatha 6"
+msgstr "adhikaraṇasamatha 6"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:622.1"
+msgid "應與多處覓人與多處覓。"
+msgstr "Deal with a person who should be dealt with by asking in many places, by asking in many places."
+
+#. </p><h4>
+#. <span class="add"><a id="as7" class="latin">
+msgctxt "lzh-mg-bi-pm:623.1"
+msgid "adhikaraṇasamatha 7"
+msgstr "adhikaraṇasamatha 7"
+
+#. </a></span>
+#. </h4><p>
+msgctxt "lzh-mg-bi-pm:624.1"
+msgid "應與如草布地比尼人。與如草布地比尼。"
+msgstr "To a person who should be given a removal like grass spread on the ground, give a removal like grass spread on the ground."
+
+#. </p><hr><p><a class="sc" id="41"></a>
+msgctxt "lzh-mg-bi-pm:625.1"
+msgid "諸阿梨耶。已說七滅諍法。今問諸阿梨耶。是中清淨不。第二第三亦如是問。諸阿梨耶。是中清淨默然故。是事如是持。"
+msgstr "Venerables, the seven rules for settling disputes have been recited. Now I ask the venerables: ‘Are you pure herein?’ A second and a third time, I ask this. The venerables are pure herein, therefore you are silent. This matter is remembered thus. "
+
+#. </p><h2>
+#. <span class="add"><a id="conc" class="latin">
+msgctxt "lzh-mg-bi-pm:626.1"
+msgid "Conclusion"
+msgstr "Conclusion"
+
+#. </a></span>
+#. </h2><p>
+msgctxt "lzh-mg-bi-pm:627.1"
+msgid "諸阿梨耶。已說波羅提木叉序。"
+msgstr "Venerables, the introduction to the pātimokkha has been recited."
+
+#. </p><p>
+msgctxt "lzh-mg-bi-pm:628.1"
+msgid "已說八波羅夷法。"
+msgstr "The eight pārājika rules have been recited."
+
+#. </p><p>
+msgctxt "lzh-mg-bi-pm:629.1"
+msgid "已說十九僧伽婆尸沙法。"
+msgstr "The 19 saṅghādisesa rules have been recited."
+
+#. </p><p>
+msgctxt "lzh-mg-bi-pm:630.1"
+msgid "已說三十尼薩耆波夜提法。"
+msgstr "The 30 nissaggiya pācittiya rules have been recited."
+
+#. </p><p>
+msgctxt "lzh-mg-bi-pm:631.1"
+msgid "已說百四十一波夜提法。"
+msgstr "The 141 pācittiya rules have been recited."
+
+#. </p><p>
+msgctxt "lzh-mg-bi-pm:632.1"
+msgid "已說八波羅提提舍尼法。"
+msgstr "The eight pātidesanīya rules have been recited."
+
+#. </p><p>
+msgctxt "lzh-mg-bi-pm:633.1"
+msgid "已說眾學法。"
+msgstr "The many training rules have been recited."
+
+#. </p><p>
+msgctxt "lzh-mg-bi-pm:634.1"
+msgid "已說七滅諍法。"
+msgstr "The seven rules for settling disputes have been recited."
+
+#. </p><p><a class="sc" id="42"></a>
+msgctxt "lzh-mg-bi-pm:635.1"
+msgid "是事入佛經中。半月半月波羅提木叉中說。及餘隨道法。諸阿梨耶。一心歡喜不諍。一學一道如水乳合。安樂行應當學。"
+msgstr "In these matters, which are included in the Buddha’s suttas, and are recited every half month in the pātimokkha, as well as in the remaining rules that accord with the path, the venerables should train single-mindedly, happily, without quarreling, with the same training and the same path, mixing like water and milk, living peacefully and happily."
+
+#. </p><h2>
+#. <span class="add"><a id="conc-verses" class="latin">
+msgctxt "lzh-mg-bi-pm:636.1"
+msgid "Concluding verses"
+msgstr "Concluding verses"
+
+#. </a></span>
+#. </h2><p>
+msgctxt "lzh-mg-bi-pm:637.1"
+msgid "佛告比丘尼毘婆尸佛如來應供正遍知為寂靜僧。最初說波羅提木叉。"
+msgstr "The Buddha told the bhikkhunīs: Vipassī Buddha, the Tathāgata, worthy of offerings, the perfectly enlightened one, first spoke this pātimokkha to his quiet sangha:"
+
+#. </p><blockquote class="gatha"><p>
+msgctxt "lzh-mg-bi-pm:638.1"
+msgid "忍辱第一道　　涅槃佛稱最"
+msgstr "Patience is the best path, Nibbāna is praised most by the Buddhas,"
+
+#. <br>
+msgctxt "lzh-mg-bi-pm:638.2"
+msgid "出家惱他人　　不名為沙門"
+msgstr "One gone forth who disturbs others cannot be called a samaṇa."
+
+#. </p></blockquote><p>
+msgctxt "lzh-mg-bi-pm:639.1"
+msgid "尸棄佛如來應供正遍知為寂靜僧。最初說波羅提木叉。"
+msgstr "Sikhī Buddha, the Tathāgata, worthy of offerings, the perfectly enlightened one, first spoke this pātimokkha to his quiet sangha:"
+
+#. </p><blockquote class="gatha"><p>
+msgctxt "lzh-mg-bi-pm:640.1"
+msgid "譬如明眼人　　能避嶮惡道"
+msgstr "Just as a person with clear eyes can avoid the dangerous evil path."
+
+#. <br>
+msgctxt "lzh-mg-bi-pm:640.2"
+msgid "世有聰明人　　能遠離諸惡"
+msgstr "There are wise people in the world who can dwell far away from all evil."
+
+#. </p></blockquote><p>
+msgctxt "lzh-mg-bi-pm:641.1"
+msgid "毘葉婆佛如來應供正遍知。為寂靜僧最初說波羅提木叉。"
+msgstr "Vessabhū Buddha, the Tathāgata, worthy of offerings, the perfectly enlightened one, first spoke this pātimokkha to his quiet sangha:"
+
+#. </p><blockquote class="gatha"><p>
+msgctxt "lzh-mg-bi-pm:642.1"
+msgid "不惱不說過　　如戒所說行"
+msgstr "Without disturbing, without transgressing in speech, practising according to the laid-down precepts,"
+
+#. <br>
+msgctxt "lzh-mg-bi-pm:642.2"
+msgid "飯食知節量　　常樂在閑處"
+msgstr "Knowing the right measure of food, always living happily in seclusion,"
+
+#. <br>
+msgctxt "lzh-mg-bi-pm:642.3"
+msgid "心淨樂精進　　是名諸佛教"
+msgstr "Devoted to progress with a clear and happy mind, this is called the teaching of the Buddhas."
+
+#. </p></blockquote><p>
+msgctxt "lzh-mg-bi-pm:643.1"
+msgid "拘留孫佛如來應供正遍知。為寂靜僧最初說波羅提木叉。"
+msgstr "Kakusandha Buddha, the Tathāgata, worthy of offerings, the perfectly enlightened one, first spoke this pātimokkha to his quiet sangha:"
+
+#. </p><blockquote class="gatha"><p><a class="sc" id="43"></a>
+msgctxt "lzh-mg-bi-pm:644.1"
+msgid "譬如蜂採華　　不壞色與香"
+msgstr "Just as bees when they collect from flowers, do not damage their color or scent,"
+
+#. <br>
+msgctxt "lzh-mg-bi-pm:644.2"
+msgid "但取其味法　　比丘入聚落"
+msgstr "Just taking their flavor they depart; A bhikkhu entering a village"
+
+#. <br>
+msgctxt "lzh-mg-bi-pm:644.3"
+msgid "不破壞他事　　不觀作不作"
+msgstr "Should not damage the affairs of others, and not observe what is or isn’t being done."
+
+#. <br>
+msgctxt "lzh-mg-bi-pm:644.4"
+msgid "但自觀身行　　諦視善不善"
+msgstr "He should just contemplate his own bodily conduct, and carefully observe good and bad."
+
+#. </p></blockquote><p>
+msgctxt "lzh-mg-bi-pm:645.1"
+msgid "拘那含牟尼佛如來應供正遍知為寂靜僧最初說波羅提木叉。"
+msgstr "Koṇāgamana Buddha, the Tathāgata, worthy of offerings, the perfectly enlightened one, first spoke this pātimokkha to his quiet sangha:"
+
+#. </p><blockquote class="gatha"><p>
+msgctxt "lzh-mg-bi-pm:646.1"
+msgid "欲得好心莫放逸　　聖人善法當勤學"
+msgstr "Desiring to obtain a good mind, don’t be negligent, a noble one in the good dhamma should strive in the training."
+
+#. <br>
+msgctxt "lzh-mg-bi-pm:646.2"
+msgid "若有智寂一心人　　乃能無復憂愁患"
+msgstr "Someone with wisdom, and a quiet, one-pointed mind, need never again grieve and suffer."
+
+#. </p></blockquote><p>
+msgctxt "lzh-mg-bi-pm:647.1"
+msgid "迦葉佛如來應供正遍知。為寂靜僧最初說波羅提木叉。"
+msgstr "Kassapa Buddha, the Tathāgata, worthy of offerings, the perfectly enlightened one, first spoke this pātimokkha to his quiet sangha:"
+
+#. </p><blockquote class="gatha"><p>
+msgctxt "lzh-mg-bi-pm:648.1"
+msgid "一切惡莫作　　當具足善法"
+msgstr "Not doing all evil, fulfilling all good states,"
+
+#. <br>
+msgctxt "lzh-mg-bi-pm:648.2"
+msgid "自淨其志意　　是則諸佛教"
+msgstr "Purifying one’s will and mind, this is the teaching of the Buddhas."
+
+#. </p></blockquote><p>
+msgctxt "lzh-mg-bi-pm:649.1"
+msgid "釋迦牟尼佛如來應供正遍知。為寂靜僧最初說波羅提木叉。"
+msgstr "Sakyamuni Buddha, the Tathāgata, worthy of offerings, the perfectly enlightened one, first spoke this pātimokkha to his quiet sangha:"
+
+#. </p><blockquote class="gatha"><p><a class="sc" id="44"></a>
+msgctxt "lzh-mg-bi-pm:650.1"
+msgid "護身為善哉　　能護口亦善"
+msgstr "Protecting the body is good, protecting the speech is also good,"
+
+#. <br>
+msgctxt "lzh-mg-bi-pm:650.2"
+msgid "護意為善哉　　護一切亦善"
+msgstr "Protecting the mind is good, protecting everything is good."
+
+#. <br>
+msgctxt "lzh-mg-bi-pm:650.3"
+msgid "比丘護一切　　便得離眾苦"
+msgstr "A bhikkhu who protects everything, will be free from many sufferings."
+
+#. <br>
+msgctxt "lzh-mg-bi-pm:650.4"
+msgid "比丘守口意　　身不犯眾惡"
+msgstr "A bhikkhu who guards the speech, mind, and body, does not commit many evils."
+
+#. <br>
+msgctxt "lzh-mg-bi-pm:650.5"
+msgid "是三業道淨　　得聖所得道"
+msgstr "When these three courses of action are pure, one will attain path attained by the noble ones. "
+
+#. <br>
+msgctxt "lzh-mg-bi-pm:650.6"
+msgid "若人撾罵不還報　　於嫌恨人心不恨"
+msgstr "Not retaliating when people beat and scold, with a mind without hate towards hostile people,"
+
+#. <br>
+msgctxt "lzh-mg-bi-pm:650.7"
+msgid "於瞋人中心常淨　　見人為惡自不作"
+msgstr "With a mind ever pure among hateful people, on seeing others doing evil not doing it oneself."
+
+#. <br>
+msgctxt "lzh-mg-bi-pm:650.8"
+msgid "七佛為世尊　　能救護世間"
+msgstr "The seven Buddhas honored by the world, capable of saving and protecting the world, "
+
+#. <br>
+msgctxt "lzh-mg-bi-pm:650.9"
+msgid "是佛說戒經　　我已廣說竟"
+msgstr "These Buddhas spoke this precepts sutta, which I have now finished explaining in detail."
+
+#. <br>
+msgctxt "lzh-mg-bi-pm:650.10"
+msgid "諸佛及弟子　　恭敬是戒經"
+msgstr "The Buddhas and their disciples venerated this precepts sutta."
+
+#. <br>
+msgctxt "lzh-mg-bi-pm:650.11"
+msgid "恭敬戒經已　　各各相恭敬"
+msgstr "Having venerated this precepts sutta, they venerated each other,"
+
+#. <br>
+msgctxt "lzh-mg-bi-pm:650.12"
+msgid "慚愧得具足　　能得無為道"
+msgstr "And having fully developed conscience and prudence, they could attain the path of nibbāna."
+
+#. </p></blockquote><p>
+msgctxt "lzh-mg-bi-pm:651.1"
+msgid "已說波羅提木叉竟僧一心得布薩。"
+msgstr "The pātimokkha has been recited. The sangha has single-mindedly performed the uposatha.”"
+
+#. </p><h2>
+msgctxt "lzh-mg-bi-pm:652.1"
+msgid "摩訶僧祇比丘尼戒本"
+msgstr "Text of the Mahāsaṅghika Bhikkhunī precepts."
+
+
+
+#. </p></article><aside id="metaarea"><p>Translated by <span class="author">Vimalañāṇī Bhikkhunī</a> from the Mahāsaṅghika Bhikkhunī Pātimokkha. Translated from Indic to Chinese by 佛陀跋陀羅 (Buddhabhadra) and 法顯 (Faxian) in c. 412<span class="smallcaps">CE</span> from a manuscript sourced in Pāṭaliputra.</p><p>Digital edition from <span class="smallcaps"><a href="http://tripitaka.cbeta.org/zh-cn/T22n1427_001" target="_blank">CBETA</a></span>, revision 1.14, 23/4/2009. Based on the Taishō Shinshu Daizōkyō edition of the Chinese canon.</p><p>Note by Bhikkhu Sujato: I have added headings and rule numbers for the SuttaCentral edition.</p><p>Prepared for SuttaCentral by <span class="editor">Venerable Vimala</span>.</p></aside></section></div></body></html>
+msgctxt "lzh-mg-bi-pm:744.2"
+msgid ""
+msgstr ""

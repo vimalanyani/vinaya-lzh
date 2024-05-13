@@ -2,7 +2,15 @@
 
 An MVP project, with _super_ rough round the edges data prep and presentation.
 
-## Data prep
+## Data 
+
+- for all round ease, as much as possible / makes sense, follow SC structure, aliases/ids etc.
+    - Mahāsaṅghika Vinaya: https://suttacentral.net/pitaka/vinaya/lzh-mg-vi?lang=en
+
+- add category number to file names.
+- add leading zeros to file names where required.
+
+### Prep
 
 In it's current prototype form, `data_prep.py` needs to be run from its containing directory with relative input and output paths:
 
