@@ -52,6 +52,7 @@ def coerce_paragraphs(lines):
             split_lines[len(split_lines) - 1] = split_lines[len(split_lines) - 1] + " " + line
             previous_line_has_note = False
         else:
+            # TODO: REMOVE LINE SPLITTING
             separated_lines = re.split(r"(\s*—?“.+?”)", line.strip())
             split_lines.extend(separated_lines)
 
@@ -75,6 +76,30 @@ def parse_txt_content(file_path):
         "rule_no": id[7:],
         "sections": [],
     }
+    # header features (modeled on Mahāsaṅghika Vinaya) (eg pj1)
+    # - "摩訶僧祇律卷第" (fascicle indicator)
+        # - appears at at beginning AND end of each fascicle)
+        #  "東晉天竺三藏佛陀跋陀羅共法顯譯" - (Translated by info - ALWAYS THE SAME)
+        # fascicle end eg. ss11
+
+        # "明" - (AT START OF LINE ONLY) marker for "beginning of explanation" (eg pd1-8)
+
+    # subheadings "Story", "Ruling", "Explanation", "Verse"
+
+    # Rule beginning marker "Origin Story" (*reasonably* reliable)
+    # note marker "(<note:.*?>)" -(reliable)
+    # is chinese "。" (reliable)
+
+    # pc1-70
+    # custom handling
+ 
+    # notes
+    # - po files for pm seperate handling
+    # specific handling for gd, pn
+    # `\p{Han}` This assumes that your regex compiler meets requirement RL1.2 Properties from UTS#18 Unicode Regular Expressions. Perl and Java 7 both meet that spec, but many others do not.
+    # `\p{script=Han}`
+    # "verses:" 
+
     current_section = None
     chinese_buffer = []
     english_buffer = []
