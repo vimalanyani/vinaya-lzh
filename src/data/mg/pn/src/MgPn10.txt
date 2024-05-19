@@ -1,22 +1,22 @@
 MgPn10
 
 
-<beginchinese>佛住毘舍離。如跋陀羅比丘尼緣中廣說。佛言。不聽裸身浴。當用浴衣。不聽裸形入河若池水中浴。當著雨衣。若裸浴越比尼罪。若避隱處無人處裸浴無罪。是名浴衣法。<endchinese>
+<lzh>佛住毘舍離。如跋陀羅比丘尼緣中廣說。佛言。不聽裸身浴。當用浴衣。不聽裸形入河若池水中浴。當著雨衣。若裸浴越比尼罪。若避隱處無人處裸浴無罪。是名浴衣法。</lzh>
 
 The Buddha was staying at Vesālī. To be explained in detail as in the rule about Bhaddā bhikkhunī. The Buddha said: “It’s not allowed to bathe naked. She should use a bathing robe. It’s not allowed to enter a river or a pond naked to bathe. She should wear the rains robe. If she bathes naked, she breaks a minor vinaya rule. If she bathes naked in an avoided, hidden place or a place without people, there is no offense. This is called the rule on the bathing robe.”
 
 
 
 
-<beginh2>Summary Verse<endh2>
+<h2>Summary Verse</h2>
 
 
-<beginchinese>坐法并竹席 纏腰覆襏衣
+<lzh>坐法并竹席 纏腰覆襏衣
 著俗嚴飾具 合嚴飾具度
 使人園民女 僧祇支浴衣
-雜跋渠初竟<endchinese>
+雜跋渠初竟</lzh>
 
-<beginverse>The method of sitting, bamboo mats, binding around the hips, lingerie,
+<verse>The method of sitting, bamboo mats, binding around the hips, lingerie,
 Wearing worldly ornaments, bringing ornamented dresses when going forth,
 Servants, female attendants, the vest, the bathing robe,
-The first chapter is finished.<endverse>
+The first chapter is finished.</verse>

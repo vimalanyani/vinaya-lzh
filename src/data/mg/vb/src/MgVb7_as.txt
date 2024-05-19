@@ -1,11 +1,11 @@
 MgVb_ak
 
 
-<beginchinese>七滅諍法。現前比尼。憶念比尼。不癡比尼。自言比尼。覓罪相比尼。多覓比尼。布草比尼。
+<lzh>七滅諍法。現前比尼。憶念比尼。不癡比尼。自言比尼。覓罪相比尼。多覓比尼。布草比尼。
 
 法隨順法如上比丘中廣說。
 
-比丘尼波羅提木叉分別竟。<endchinese>
+比丘尼波羅提木叉分別竟。</lzh>
 
 The seven rules for settling disputes: Removal in the presence, removal through mindfulness, removal through non-confusion, removal according to what they have admitted, removal through “a mark of seeking offenses,” removal by asking many, and removal by spreading grass.
 
@@ -17,4 +17,4 @@ The dhammas and anudhammas are as explained in detail above in the bhikkhu rules
 
 
 
-<begindescription>The explanation of the bhikkhunī pātimokkha is finished.<enddescription>
+<en-division-end>The explanation of the bhikkhunī pātimokkha is finished.</en-division-end>

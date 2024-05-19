@@ -18,7 +18,7 @@ export async function getStaticPaths() {
   });
 }
 
-const { school, book, rule_class, rule_no, sections, prev_file, next_file } =
+const { school, book, rule_class, rule_no, body, prev_file, next_file } =
   Astro.props;
 ---
 
@@ -39,7 +39,7 @@ const { school, book, rule_class, rule_no, sections, prev_file, next_file } =
       </header>
 
       {
-        sections.map((section) => {
+        body.map((section) => {
           const { heading, parts } = section;
           return (
             <section class="my-8 leading-relaxed">

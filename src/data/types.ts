@@ -12,7 +12,7 @@ export interface RuleData {
   book: string;
   rule_class: string;
   rule_no: string;
-  sections: RuleSection[];
+  body: RuleSection[];
   file: string;
   prev_file: string | null;
   next_file: string | null;

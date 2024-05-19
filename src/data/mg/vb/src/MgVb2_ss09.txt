@@ -3,11 +3,11 @@ MgVb_ss9
 
 
 
-<beginh2>Origin Story<endh2>
+<h2>Origin Story</h2>
 
 
-<beginchinese>佛住舍衛城。爾時眾多女人在阿耆羅河彼岸。此岸比丘尼僧集。時偷蘭難陀比丘尼。脫衣放地截流浮渡。諸女人共相謂言。看是偷蘭難陀比丘尼浮渡而來。來已於露處坐已。須臾復還渡。諸女人嫌言。云何是偷蘭難陀比丘尼如凶惡人渡已復還。
-諸比丘尼聞已語大愛道。大愛道即以是事往白世尊。佛言。喚偷蘭難陀比丘尼來。來已佛言。此是惡事。汝云何於船渡處而獨浮渡。從今日後不聽於船渡處而獨浮渡。佛告大愛道。依止舍衛城。比丘尼皆悉令集。乃至已聞者當重聞。<endchinese>
+<lzh>佛住舍衛城。爾時眾多女人在阿耆羅河彼岸。此岸比丘尼僧集。時偷蘭難陀比丘尼。脫衣放地截流浮渡。諸女人共相謂言。看是偷蘭難陀比丘尼浮渡而來。來已於露處坐已。須臾復還渡。諸女人嫌言。云何是偷蘭難陀比丘尼如凶惡人渡已復還。
+諸比丘尼聞已語大愛道。大愛道即以是事往白世尊。佛言。喚偷蘭難陀比丘尼來。來已佛言。此是惡事。汝云何於船渡處而獨浮渡。從今日後不聽於船渡處而獨浮渡。佛告大愛道。依止舍衛城。比丘尼皆悉令集。乃至已聞者當重聞。</lzh>
 
 The Buddha was staying at Sāvatthī. At that time, a large group of women was staying on the far bank of the Aciravatī river. On the near bank, the bhikkhunī sangha had gathered. Then Thullanandā bhikkhunī removed her clothes, put them on the ground, and and swam over across the river. The women said to each other: “Look, this Thullanandā bhikkhunī comes swimming over.” When she had arrived, she sat in an open place, and after a short while, she crossed back over again. The women were upset and said: “Why did this Thullanandā bhikkhunī cross over and return again like an evil person?”
 When the bhikkhunīs heard this, they told Mahāpajāpatī, and she went to the World-honored One, and informed him of this matter. The Buddha said: “Summon Thullanandā bhikkhunī.” When she came, the Buddha said: “This is an unwholesome thing. Why did you swim over alone at a ferry crossing place? From now on, it’s no longer allowed to swim over alone at a ferry crossing place.” The Buddha told Mahāpajāpatī: “Convene all the bhikkhunīs living in the vicinity of Sāvatthī. … Those who have already heard it should listen again:
@@ -15,19 +15,19 @@ When the bhikkhunīs heard this, they told Mahāpajāpatī, and she went to the 
 
 
 
-<beginh2>Final Ruling<endh2>
+<h2>Final Ruling</h2>
 
 
-<beginchinese>若比丘尼於船渡處獨渡河者。是法初罪僧伽婆尸沙<endchinese>
+<lzh>若比丘尼於船渡處獨渡河者。是法初罪僧伽婆尸沙</lzh>
 
 If a bhikkhunī crosses a river alone at a ferry crossing place, it’s an immediate saṅghādisesa offense.”
 
 
 
 
-<beginh2>Explanation<endh2>
+<h2>Explanation</h2>
 
 
-<beginchinese>比丘尼者如上說。獨渡者出界到彼岸僧伽婆尸沙。<endchinese>
+<lzh>比丘尼者如上說。獨渡者出界到彼岸僧伽婆尸沙。</lzh>
 
 “A bhikkhunī” is as explained above. “Crossing alone” means leaving the territory and going to the far bank. This is a saṅghādisesa.

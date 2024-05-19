@@ -3,11 +3,11 @@ MgVb_pc90
 
 
 
-<beginh2>Origin Story<endh2>
+<h2>Origin Story</h2>
 
 
-<beginchinese>佛住舍衛城。爾時偷蘭難陀比丘尼。時到著衣持鉢。詣大家門前立。有比丘來乞食。作如是言。上尊眾可入此家。為尊者作食。與食已然後自食。若比丘尼來復言。阿梨耶入去。檀越為汝作食。施食已然後自食。或語言餘家亦有食。何必共在此。如是一切外道乞食皆如是慳嫉心護他家。
-諸比丘尼聞已語大愛道。乃至答言。實爾世尊。佛言。此是惡事。汝云何慳嫉心護他家。從今日已後不聽。佛告大愛道。依止舍衛城住比丘尼皆悉令集乃至已聞者當重聞。<endchinese>
+<lzh>佛住舍衛城。爾時偷蘭難陀比丘尼。時到著衣持鉢。詣大家門前立。有比丘來乞食。作如是言。上尊眾可入此家。為尊者作食。與食已然後自食。若比丘尼來復言。阿梨耶入去。檀越為汝作食。施食已然後自食。或語言餘家亦有食。何必共在此。如是一切外道乞食皆如是慳嫉心護他家。
+諸比丘尼聞已語大愛道。乃至答言。實爾世尊。佛言。此是惡事。汝云何慳嫉心護他家。從今日已後不聽。佛告大愛道。依止舍衛城住比丘尼皆悉令集乃至已聞者當重聞。</lzh>
 
 The Buddha was staying at Sāvatthī. At that time, Thullanandā bhikkhunī, when the right time had come, put on her robe, took her bowl, went to a great household, and stood in front of the gate. Bhikkhus came on almsround, and she said: “May the respected bhikkhu enter this house. They’re making food for the venerables. After food has been offered to you, I’ll eat myself.” When bhikkhunīs came, she spoke again: “May the venerables enter. The supporters are making food for you. After food has been offered to you, I’ll eat myself.” Sometimes she said: “Other households also have food. Why must everyone be here?” Like this, she protected that household out of stinginess and jealousy from all non-Buddhist renunciates on almsround. 
 When the bhikkhunīs heard this, they told Mahāpajāpatī, … She answered: “I really did this, World-honored One.” The Buddha said: “This is an unwholesome thing. Why did you protect households out of stinginess and jealousy? From now on, it’s no longer allowed.” The Buddha told Mahāpajāpatī: “Convene all the bhikkhunīs living in the vicinity of Sāvatthī. … Those who have already heard it should listen again:
@@ -15,33 +15,33 @@ When the bhikkhunīs heard this, they told Mahāpajāpatī, … She answered: �
 
 
 
-<beginh2>Final Ruling<endh2>
+<h2>Final Ruling</h2>
 
 
-<beginchinese>若比丘尼慳嫉心護他家者波夜提。<endchinese>
+<lzh>若比丘尼慳嫉心護他家者波夜提。</lzh>
 
 If a bhikkhunī protects households out of stinginess and jealousy, it’s a pācittiya.”
 
 
 
 
-<beginh2>Explanation<endh2>
+<h2>Explanation</h2>
 
 
-<beginchinese>比丘尼者如上說。家者四種姓家。慳嫉心者如偷蘭難陀比丘尼。波夜提者如上說。比丘尼不得慳嫉心護他家。若比丘比丘尼問者當語實。若外道問時若恐染著外道邪見而呵責者無罪。若比丘慳嫉心惜他家者越毘尼罪。是故世尊說。<endchinese>
+<lzh>比丘尼者如上說。家者四種姓家。慳嫉心者如偷蘭難陀比丘尼。波夜提者如上說。比丘尼不得慳嫉心護他家。若比丘比丘尼問者當語實。若外道問時若恐染著外道邪見而呵責者無罪。若比丘慳嫉心惜他家者越毘尼罪。是故世尊說。</lzh>
 
 “A bhikkhunī” is as explained above. “Households” means households of the four classes. “Stinginess and jealously” means like Thullanandā bhikkhunī. “Pācittiya” is as explained above. A bhikkhunī may not protect households out of stinginess and jealousy. If a bhikkhu or a bhikkhunī asks her, she should answer truthfully. If non-Buddhist renunciates ask, and she worries about their defiled, non-Buddhist wrong views, and she criticizes them, there is no offense. If a bhikkhu is reluctant to share households out of stinginess and jealousy, he breaks a minor vinaya rule. This is what the World-honored One said.
 
 
 
 
-<beginh2>Summary Verse<endh2>
+<h2>Summary Verse</h2>
 
 
-<beginchinese>手與食醫師 授方佐俗作
+<lzh>手與食醫師 授方佐俗作
 不語入習近 自呪自打啼
-呵責護他家 第九跋渠竟<endchinese>
+呵責護他家 第九跋渠竟</lzh>
 
-<beginverse>Giving food with one’s hand, doctor, teaching medicinal treatments, assisting lay people with work,
+<verse>Giving food with one’s hand, doctor, teaching medicinal treatments, assisting lay people with work,
 Entering without calling out, living closely together, cursing oneself, hitting oneself and weeping,
-Criticizing, protecting households, the ninth chapter is finished.<endverse>
+Criticizing, protecting households, the ninth chapter is finished.</verse>

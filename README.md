@@ -21,10 +21,26 @@ python3 data_prep.py --input_dir ./mg/vb/src --output_dir ./mg/vb/json --school 
 
 The rule data “schema“ appied in `data_prep.py` is defined in `src/data/types.ts` and consumed `src/utils/getAllBookRuleData.ts` and fed down through the app.
 
-### ¡Note!:
+#### source `txt` files:
 
-- `data_prep.py` used to transform the source `txt` files into `json` consumed by the site has been modled on one sample file and it's assumptions may not be universal!
-- the project assumes text files have have been renamed with leading zeros.
+- the source translation `txt` use the following custom markup:
+
+    ```html
+    <lzh-fascicle-start> ... </lzh-fascicle-start>
+    <!-- en-fascicle-start can be broken per line -->
+    <en-fascicle-start> ... </en-fascicle-start> 
+    <lzh-fascicle-end> ... </lzh-fascicle-end>
+    <en-fascicle-end> ... </en-fascicle-end>
+    <lzh-division-start> ... </lzh-division-start>
+    <en-division-start> ... </en-division-start>
+    <en-division-end> ... </en-division-end>
+    <lzh> ... </lzh>
+    <h2> ... </h2>
+    <note> ... </note>
+    <verse> ... </verse>
+    ```
+- source text files have have been renamed with leading zeros.
+
 
 ## Deployment
 

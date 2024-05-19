@@ -3,11 +3,11 @@ MgVb_pc118
 
 
 
-<beginh2>Origin Story<endh2>
+<h2>Origin Story</h2>
 
 
-<beginchinese>佛住舍衛城。爾時毘舍離比丘尼安居竟。欲向舍衛城禮拜世尊。到比丘精舍中。和南。我聞尊者欲詣舍衛城禮拜世尊審爾不。答言。何故問。我欲隨去。比丘言。世尊制戒。不得與比丘尼共道行又問。何時當發答言。某日。即記識其日。預持衣鉢於路側而待。比丘至其日食已而去。見比丘尼並相謂言。此比丘尼欲隨我等去。當急脚行。諸年少比丘尼奔走而逐。諸老病樂人不能得及。於後為賊所剝。
-諸比丘尼語大愛道。大愛道以是因緣往白世尊。乃至呼是比丘尼來。來已佛問。汝實爾不。答言實爾。佛言。汝云何無商人伴。於空逈處向餘國行。從今已後不聽。佛告大愛道。依止舍衛城比丘尼皆悉令集。乃至已聞者當重聞。<endchinese>
+<lzh>佛住舍衛城。爾時毘舍離比丘尼安居竟。欲向舍衛城禮拜世尊。到比丘精舍中。和南。我聞尊者欲詣舍衛城禮拜世尊審爾不。答言。何故問。我欲隨去。比丘言。世尊制戒。不得與比丘尼共道行又問。何時當發答言。某日。即記識其日。預持衣鉢於路側而待。比丘至其日食已而去。見比丘尼並相謂言。此比丘尼欲隨我等去。當急脚行。諸年少比丘尼奔走而逐。諸老病樂人不能得及。於後為賊所剝。
+諸比丘尼語大愛道。大愛道以是因緣往白世尊。乃至呼是比丘尼來。來已佛問。汝實爾不。答言實爾。佛言。汝云何無商人伴。於空逈處向餘國行。從今已後不聽。佛告大愛道。依止舍衛城比丘尼皆悉令集。乃至已聞者當重聞。</lzh>
 
 The Buddha was staying at Sāvatthī. At that time, bhikkhunīs in Vesāli had finished their rains retreat, and wanted to go to Sāvatthī to pay respect to the World-honored One. They went to a bhikkhu temple and said: “Venerables, we heard that the venerables want to go to Sāvatthī to pay respect to the World-honored One. Is that really so?” They answered: “Why do you ask?” “We want to come along.” The bhikkhus said: “The World-honored One has laid down a precept that it’s not allowed to wander on a road together with a bhikkhunī.” They asked again: “At what time will you set out?” The bhikkhus answered: “On such-and-such a day.” Then the bhikkhunīs noted down that day. Just before, they took their robes and bowls, and waited at the roadside. When the day came, the bhikkhus set out after eating. On seeing the bhikkhunīs, they spoke with each other: “These bhikkhunīs want to come along with us. We’ll walk quickly.” The young bhikkhunīs ran after them, and chased them. The old and sick bhikkhunīs, and those who originally came from wealthy families, couldn’t reach them. Afterwards, they were robbed by criminals.
 The bhikkhunīs told Mahāpajāpatī, and for this reason, she went and informed the World-honored One. … “Summon those bhikkhunīs.” When they came, he asked them: “Did you really do this?” They answered: “We really did this.” The Buddha said: “Why did you wander to another country through empty, remote areas without a group of merchants? From now on, it’s no longer allowed.” The Buddha told Mahāpajāpatī: “Convene all the bhikkhunīs living in the vicinity of Sāvatthī. … Those who have already heard it should listen again:
@@ -15,19 +15,19 @@ The bhikkhunīs told Mahāpajāpatī, and for this reason, she went and informed
 
 
 
-<beginh2>Final Ruling<endh2>
+<h2>Final Ruling</h2>
 
 
-<beginchinese>若比丘尼無商人伴向異國行波夜提。<endchinese>
+<lzh>若比丘尼無商人伴向異國行波夜提。</lzh>
 
 If a bhikkhunī wanders to another country without a group of merchants, it’s a pācittiya.”
 
 
 
 
-<beginh2>Explanation<endh2>
+<h2>Explanation</h2>
 
 
-<beginchinese>比丘尼者如上說。無伴者無商人伴。餘國者異王境界。去者波夜提。若比丘尼欲行時。當先求商人伴。若前人言。阿梨耶但來。我當料理使令得去。當相望其人。若語大善視瞻不好者。不應隨去。更求善人將女婦者共去。若去時卒不得善察。至逈處方覺者不得便捨去。當待近聚落已方便捨去。若問言欲那去。當語言。我乞食耳。若比丘尼無商人伴行者得越毘尼罪。至所在波夜提。若比丘於空逈無商人伴行者得越毘尼罪。是故世尊說。<endchinese>
+<lzh>比丘尼者如上說。無伴者無商人伴。餘國者異王境界。去者波夜提。若比丘尼欲行時。當先求商人伴。若前人言。阿梨耶但來。我當料理使令得去。當相望其人。若語大善視瞻不好者。不應隨去。更求善人將女婦者共去。若去時卒不得善察。至逈處方覺者不得便捨去。當待近聚落已方便捨去。若問言欲那去。當語言。我乞食耳。若比丘尼無商人伴行者得越毘尼罪。至所在波夜提。若比丘於空逈無商人伴行者得越毘尼罪。是故世尊說。</lzh>
 
 “A bhikkhunī” is as explained above. “Without a group” means without a group of merchants. “Another country” means another king’s territory. If she goes, it’s a pācittiya. When a bhikkhunī wants to wander, she should first ask a group of merchants. If the leader says: “Venerable, just come along. I’ll make proper arrangements to make it possible for you to come along,” she should examine that person. If his speech is highly virtuous but he looks like a bad person, she shouldn’t go with him. She should continue to look for a virtuous person accompanied by women, and go with them. If when she’s wandering, she suddenly finds out that he’s not virtuous, and they have reached a remote area when she notices it, she may not leave him immediately. She should wait until they’re close to a village, and leave him there. If he asks: “Where do you want to go?,” she should say: “I’m just going on almsround.” If a bhikkhunī wanders without a group of merchants, she breaks a minor vinaya rule. When she reaches her destination, it’s a pācittiya. If a bhikkhu wanders through empty, remote areas without a group of merchants, he breaks a minor vinaya rule. This is what the World-honored One said.

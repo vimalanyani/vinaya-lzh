@@ -1,10 +1,10 @@
 MgVb_ss1
 
 
-<beginchinese>明十九僧殘法之一
-受使行如比丘中廣說。是故世尊說。<endchinese>
+<lzh-division-start>明十九僧殘法之一
+受使行如比丘中廣說。是故世尊說。</lzh-division-start>
 
-<begindescription>Explanation of the 19 saṅghādisesa rules, part 1.<enddescription>
+<en-division-start>Explanation of the 19 saṅghādisesa rules, part 1.</en-division-start>
 
 
 “Accepting to act as a messenger” is as explained in detail in the bhikkhu rules. This is what the World-honored One said. 
@@ -12,9 +12,9 @@ MgVb_ss1
 
 
 
-<beginh2>Final Ruling<endh2>
+<h2>Final Ruling</h2>
 
 
-<beginchinese>若比丘尼受使行。和合男女若取婦若私通。乃至須臾頃。是法初罪僧伽婆尸沙。<endchinese>
+<lzh>若比丘尼受使行。和合男女若取婦若私通。乃至須臾頃。是法初罪僧伽婆尸沙。</lzh>
 
 If a bhikkhunī accepts to act as a messenger to unite a man and a woman, whether for a marriage or an affair, even for just one moment, it’s an immediate sanghadisesa offense.

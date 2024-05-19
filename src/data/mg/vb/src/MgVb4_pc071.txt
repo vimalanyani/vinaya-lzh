@@ -3,10 +3,10 @@ MgVb_pc71
 
 
 
-<beginh2>Origin Story<endh2>
+<h2>Origin Story</h2>
 
 
-<beginchinese>佛住毘舍離。爾時跋陀羅伽毘比丘尼。不語依止弟子。輒著僧伽梨入聚落。有比丘尼呼言。某甲乞食去來。答言。阿梨耶。待我取僧伽梨。即求衣不見正見師衣作是念。師必著我衣去。即生念。師可得著我衣。我不得著師衣語言汝去。我不得去。何故耶。答言。我無衣。即語著汝師衣來。答言。我所尊重不敢著。汝自去一日失食。諸比丘尼語大愛道。大愛道即以是事往白世尊。佛言。喚是比丘尼來。來已佛問言。汝實爾不。答言實爾世尊。佛言。此是惡事。汝云何不語著他衣。從今已後不聽。佛告大愛道。依止比舍離住比丘尼皆悉令集。乃至已聞者當重聞。<endchinese>
+<lzh>佛住毘舍離。爾時跋陀羅伽毘比丘尼。不語依止弟子。輒著僧伽梨入聚落。有比丘尼呼言。某甲乞食去來。答言。阿梨耶。待我取僧伽梨。即求衣不見正見師衣作是念。師必著我衣去。即生念。師可得著我衣。我不得著師衣語言汝去。我不得去。何故耶。答言。我無衣。即語著汝師衣來。答言。我所尊重不敢著。汝自去一日失食。諸比丘尼語大愛道。大愛道即以是事往白世尊。佛言。喚是比丘尼來。來已佛問言。汝實爾不。答言實爾世尊。佛言。此是惡事。汝云何不語著他衣。從今已後不聽。佛告大愛道。依止比舍離住比丘尼皆悉令集。乃至已聞者當重聞。</lzh>
 
 The Buddha was staying at Vesālī. At that time, Bhaddā Kāpilānī bhikkhunī just put on the saṅghāṭī of the student depending on her without telling her, and entered the village. Then some bhikkhunīs called (the student): “So-and-so, come, lets go on alms round.” She answered: “Venerables, wait, I’ll fetch my saṅghāṭī.” She searched for the robe, but didn’t see it. Seeing her teacher’s robe, she thought: “My teacher must have left wearing my robe.” Then she thought: “It may be allowable for my teacher to wear my robe, but it’s not allowable for me to wear my teacher’s robe.” She said: “You go, I can’t go.” “Why?” She answered: “I don’t have a robe.” Then they said: “Wear your teacher’s robe, and come.” She answered: “Out of respect for her, I don’t dare to wear it. You go alone.” And that day she didn’t have food. 
 The bhikkhunīs told Mahāpajāpatī, and she went to the World-honored One, and informed him of this matter. The Buddha said: “Summon that bhikkhunī.” When she came, the Buddha asked her: “Did you really do this?” She answered: “I really did this, World-honored One.” The Buddha said: “This is an unwholesome thing. Why did you wear her robe without telling her? From now on, it’s no longer allowed.” The Buddha told Mahāpajāpatī: “Convene all the bhikkhunīs living in the vicinity of Vesālī. … Those who have already heard it should listen again:
@@ -14,24 +14,24 @@ The bhikkhunīs told Mahāpajāpatī, and she went to the World-honored One, and
 
 
 
-<beginh2>Final Ruling<endh2>
+<h2>Final Ruling</h2>
 
 
-<beginchinese>若比丘尼不語主而著他衣。波夜提。<endchinese>
+<lzh>若比丘尼不語主而著他衣。波夜提。</lzh>
 
 If a bhikkhunī wears someone else’s robe without telling the owner, it’s a pācittiya.”
 
 
 
 
-Explanations
+<h2>Explanation</h2>
 
 
-<beginchinese>比丘尼者如上說。不聽不語他而著弟子僧伽梨。若欲著時應語。我著汝衣。汝若行者可著我僧伽梨。如是一切衣。若欲浣衣染衣縫衣。有事緣著弟子衣者。當語言。汝住當與汝持食來。若比丘著他衣。不語者越比尼罪。是故世尊說。<endchinese>
+<lzh>比丘尼者如上說。不聽不語他而著弟子僧伽梨。若欲著時應語。我著汝衣。汝若行者可著我僧伽梨。如是一切衣。若欲浣衣染衣縫衣。有事緣著弟子衣者。當語言。汝住當與汝持食來。若比丘著他衣。不語者越比尼罪。是故世尊說。</lzh>
 
 “A bhikkhunī” is as explained above. It’s not allowed to wear a student’s saṅghāṭī without telling her. When one wants to wear it, one should say: “I’ll wear your robe. If you want to go out, you may wear my saṅghāṭī.” The same applies to all other robes. If one wants to wash, dye or sew a robe, or has a reason to wear a student’s robe, one should say: “You stay here, I’ll bring food for you.” If a bhikkhu wears someone else’s robe without telling them, he breaks a minor vinaya rule. This is what the World-honored One said.
 
 
-<beginchinese>摩訶僧祇律卷第三十七<endchinese>
+<lzh-fascicle-end>摩訶僧祇律卷第三十七</lzh-fascicle-end>
 
-<begindescription>Mahāsaṅghika Vinaya, 37th fascicle.<enddescription>
+<en-fascicle-end>Mahāsaṅghika Vinaya, 37th fascicle.</en-fascicle-end>

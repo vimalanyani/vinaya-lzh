@@ -3,11 +3,11 @@ MgVb_pc86
 
 
 
-<beginh2>Origin Story<endh2>
+<h2>Origin Story</h2>
 
 
-<beginchinese>佛住舍衛城。爾時迦梨比丘尼度梨車第三生女出家與俗人外道習近住。
-諸比丘尼語大愛道。大愛道即以是事具白世尊。佛言。呼比丘尼來。來已佛問比丘尼。汝實爾不。答言。實爾。世尊。佛言。此是惡事。從今日後。不聽習近住。佛告大愛道瞿曇彌。依止舍衛城比丘尼皆悉令集。乃至已聞者當重聞。<endchinese>
+<lzh>佛住舍衛城。爾時迦梨比丘尼度梨車第三生女出家與俗人外道習近住。
+諸比丘尼語大愛道。大愛道即以是事具白世尊。佛言。呼比丘尼來。來已佛問比丘尼。汝實爾不。答言。實爾。世尊。佛言。此是惡事。從今日後。不聽習近住。佛告大愛道瞿曇彌。依止舍衛城比丘尼皆悉令集。乃至已聞者當重聞。</lzh>
 
 The Buddha was staying at Sāvatthī. At that time, Kāli bhikkhunī gave the going forth to a Licchavi woman, who was born as the third child, and who lived closely together with lay people and non-Buddhist renunciates.
 The bhikkhunīs told Mahāpajāpatī, and she fully informed the World-honored One of this matter. The Buddha said: “Summon that bhikkhunī.” When she came, he asked her: “Did you really do this?” She answered: “I really did this, World-honored One.” The Buddha said: “This is an unwholesome thing. From now on, it’s no longer allowed to live closely together.” The Buddha told Mahāpajāpatī Gotamī: “Convene all the bhikkhunīs living in the vicinity of Sāvatthī. … Those who have already heard it should listen again:
@@ -15,19 +15,19 @@ The bhikkhunīs told Mahāpajāpatī, and she fully informed the World-honored O
 
 
 
-<beginh2>Final Ruling<endh2>
+<h2>Final Ruling</h2>
 
 
-<beginchinese>若比丘尼與俗人外道習近住。若竟日若須臾。下至園民沙彌波夜提。<endchinese>
+<lzh>若比丘尼與俗人外道習近住。若竟日若須臾。下至園民沙彌波夜提。</lzh>
 
 If a bhikkhunī lives closely together with lay people and non-Buddhist renunciates, or even with monastery attendants and sāmaṇeras, whether all day or just for a moment, it’s a pācittiya.”
 
 
 
 
-<beginh2>Explanation<endh2>
+<h2>Explanation</h2>
 
 
-<beginchinese>比丘尼者如上說。俗人者在家人。外道者出家外道。晝日者齊日沒。乃至須臾者須臾間。習近住者身習近住。口習近住。身口習近住。下至園民沙彌者波夜提。波夜提者如上說。若比丘尼習近住者波夜提。若比丘尼習近住展轉相樂住者。和上尼阿闍梨尼應離別送著異方。若比丘習近住者越比尼罪。是故世尊說。<endchinese>
+<lzh>比丘尼者如上說。俗人者在家人。外道者出家外道。晝日者齊日沒。乃至須臾者須臾間。習近住者身習近住。口習近住。身口習近住。下至園民沙彌者波夜提。波夜提者如上說。若比丘尼習近住者波夜提。若比丘尼習近住展轉相樂住者。和上尼阿闍梨尼應離別送著異方。若比丘習近住者越比尼罪。是故世尊說。</lzh>
 
 “A bhikkhunī” is as explained above. “Laypeople” means householders. “Non-Buddhist renunciates” means those gone forth in another religion. “All day” means until sunset. “Just for a moment” means within a moment. “Living closely together” means living closely together by body, by speech, or by body and speech. (If she does it) even with monastery attendants and sāmaṇeras, it’s a pācittiya. “Pācittiya” is as explained above. If a bhikkhunī lives closely together, it’s a pācittiya. If bhikkhunīs live closely together and take pleasure in each others company, their preceptors and teachers should separate them and send them to different places. If a bhikkhu lives closely together, he breaks a minor vinaya rule. This is what the World-honored One said.
