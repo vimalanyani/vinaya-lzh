@@ -3,7 +3,7 @@ MgVb_pc126
 
 
 
-Origin Story
+<beginh2>Origin Story<endh2>
 
 
 <beginchinese>佛住毘舍離。爾時有跋陀羅比丘尼。到親里家觀看洗浴。諸婦人言。我與阿梨耶揩身體使我得功德。此比丘尼端正。諸女人欲看其身體故。便聽使揩。即用種種香油塗身。諸比丘尼嫌言。出家人猶故多欲。
@@ -15,7 +15,7 @@ The bhikkhunīs told Mahāpajāpatī, … She answered: “I really did this, Wo
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼使俗人婦女塗香油揩摩洗浴。除病時波夜提。<endchinese>
@@ -25,7 +25,7 @@ If a bhikkhunī has a lay woman apply perfume and oil, and massage and wash her,
 
 
 
-Explanation
+<beginh2>Explanation<endh2>
 
 
 <beginchinese>比丘尼者如上說。俗人婦女者四種家女。揩摩洗浴者以種種香油揩摩洗浴。若老病者無罪。若不病揩摩洗浴波夜提。波夜提者如上說。若身體有瘡疥。得持藥揩摩洗浴。若熱病得摩耶披屑塗。若風病得以小麥屑塗。若雜病者以雜藥塗無罪。塗已不得在眾人中住。當在邊房。病差洗已當入。若比丘不病。使俗人揩摩越毘尼罪。是故世尊說。<endchinese>

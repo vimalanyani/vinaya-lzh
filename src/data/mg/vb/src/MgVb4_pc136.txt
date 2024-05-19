@@ -3,7 +3,7 @@ MgVb_pc136
 
 
 
-Origin Story
+<beginh2>Origin Story<endh2>
 
 
 <beginchinese>佛住舍衛城。爾時偷蘭難陀語樹提言。此間安居。即往檀越家歎譽。樹提比丘尼賢善持戒汝當供養。於是樹提威儀庠序。舉動視瞻不失儀法。見已生歡喜心。乃至後嫌訶惱觸。
@@ -15,7 +15,7 @@ For this reason, the bhikkhunīs went and informed the World-honored One. … Sh
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼語比丘尼作是語。阿梨耶。此處安居。後嫌訶惱觸波夜提。<endchinese>
@@ -25,7 +25,7 @@ If a bhikkhunī says to another bhikkhunī: “Venerable, spend the rains retrea
 
 
 
-Explanation
+<beginh2>Explanation<endh2>
 
 
 <beginchinese>若比丘尼語是中安居安居中惱觸。惱觸者。若自身口若使人身口惱觸。波夜提。若前人不持戒。畏作非法雖驅遣無罪。若式叉摩尼沙彌尼越比尼罪。乃至俗人越比尼心悔。是故世尊說。<endchinese>

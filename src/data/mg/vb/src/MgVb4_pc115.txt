@@ -3,7 +3,7 @@ MgVb_pc115
 
 
 
-Origin Story
+<beginh2>Origin Story<endh2>
 
 
 <beginchinese>佛住舍衛城。爾時伽梨比丘尼受僧房已閉戶而去。後客比丘尼上座來次第與房。見戶閉即嫌言。此僧房舍何以閉戶而去。
@@ -15,7 +15,7 @@ The bhikkhunīs told Mahāpajāpatī, … The Buddha said: “Summon that bhikkh
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼僧房床褥不捨而去波夜提。<endchinese>
@@ -25,7 +25,7 @@ If a bhikkhunī goes away without giving up her bed and her mat in a sangha room
 
 
 
-Explanation
+<beginh2>Explanation<endh2>
 
 
 <beginchinese>比丘尼者如上說。僧床褥者坐床臥床枕褥拘執。不捨者不還不白。餘處去者波夜提。波夜提者如上說。若比丘尼欲行去。當捨床褥。與知床褥人已而去。若不捨而去者波夜提。若房不空。尋有人住者越毘尼罪。是故世尊說。<endchinese>

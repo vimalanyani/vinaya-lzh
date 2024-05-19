@@ -3,7 +3,7 @@ MgVb_pc119
 
 
 
-Origin Story
+<beginh2>Origin Story<endh2>
 
 
 <beginchinese>佛住舍衛城。爾時比丘尼共女人。共到園池處看。諸女人在水邊飲食。比丘尼往故村舍中看。時有諸年少從林中出擾亂比丘尼。
@@ -15,7 +15,7 @@ The bhikkhunī told Mahāpajāpatī. … Those who have already heard it should 
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼自境界內。觀園林故墟波夜提。<endchinese>
@@ -25,7 +25,7 @@ If a bhikkhunī visits a park, a grove, or ancient ruins in her own country, it�
 
 
 
-Explanation
+<beginh2>Explanation<endh2>
 
 
 <beginchinese>比丘尼者如上說。境界內者自王境內。園者菴婆羅園。乃至阿提目多園。林者種種林樹。故墟者空屋宅中。觀看去者波夜提。波夜提者如上說。若比丘尼往園林墟宅中看去時越毘尼罪。到彼波夜提。若檀越婦女請共去者無罪。若比丘往丘墟園林觀看為樂者越毘尼罪。是故世尊說。<endchinese>

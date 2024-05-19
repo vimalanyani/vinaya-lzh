@@ -13,7 +13,7 @@ For an 18 year old woman who wants to receive the full ordination in the Tathāg
 
 
 
-Saṅghakamma
+<beginh2>Saṅghakamma<endh2>
 
 
 <beginchinese>阿梨耶僧聽。十八歲女某甲。欲於如來法律中受具足。若僧時到。僧某甲欲從僧乞二歲學戒。諸阿梨耶聽。某甲欲從僧乞二歲學戒。僧忍默然故。是事如是持。<endchinese>
@@ -33,7 +33,7 @@ That woman then comes into the sangha. She should bow with her head at the sangh
 
 
 
-Saṅghakamma
+<beginh2>Saṅghakamma<endh2>
 
 
 <beginchinese>尼羯磨師應作是說。阿梨耶僧聽。某甲女年滿十八已。從僧乞二歲學戒。若僧時到。僧與某甲二歲學戒。白如是。阿梨耶僧聽。某甲女年滿十八已。從僧乞二歲學戒。僧今與某甲二歲學戒。阿梨耶僧忍與某甲二歲學戒和上尼某甲者默然。若不忍便說。第一羯磨竟。第二第三亦如是說。僧已與某甲二歲學戒竟。僧忍默然故。是事如是持。<endchinese>
@@ -43,7 +43,7 @@ The master of ceremony should then say: “May the noble sangha listen. The woma
 
 <beginchinese>是式叉摩尼得二歲學戒已。應隨順行十八事。何等十八。一切大比丘尼下。一切沙彌尼上。於式叉摩尼不淨。於大尼淨。於大尼不淨。於式叉摩尼亦不淨。大尼得與式叉摩尼三宿。式叉摩尼得與沙彌尼三宿。式叉摩尼得與大尼授食。除火淨五生種取金銀及錢。自從沙彌尼受食。尼不得向說波羅夷乃至越毘尼罪。得語不婬不盜不殺不妄語如是等。式叉摩尼。至布薩自恣日入僧中。胡跪合掌作如是言。阿梨耶僧。我某甲清淨。僧憶念持。如是三說而去。後四波羅夷犯者。更從始學十九僧伽婆尸沙已下。若一一犯。隨所犯作突吉羅悔。若破五戒。隨犯日數更學。何等五。非時食。停食食。捉錢金銀。飲酒。著華香。是名十八事。<endchinese>
 
-When that sikkhamānā has received the training precepts for two years, she should follow and practise 18 matters. Which 18? She’s junior to all the full bhikkhunīs, and senior to all the sāmaṇerīs. What is impure for a sikkhamānā may be pure for a full bhikkhunī, what is impure for a bhikkhunī is also impure for a sikkhamānā. A bhikkhunī may spend three nights with a sikkhamānā. A sikkhamānā may spend three nights with a sāmaṇerī. A sikkhamānā may offer food to the bhikkhunīs, except for the five kinds of purifications of living seeds by fire (etc.)<note: Fruits have to be made allowable for consumption by monastics through a procedure that symbolically damages the seeds. This can be done with five methods, one of them being with fire.> and for taking gold, silver, and money.<note: This last part is missing in pācittiya 98.> She may accept food from sāmaṇerīs. Bhikkhunīs may not speak about the pārājikas … the minor vinaya rules to her. They may say: “Don’t have sexual intercourse, don’t steal, don’t kill, don’t lie, and so on.” On the uposatha or the pavāraṇā day, a sikkhamānā should go to the sangha, and she should say kneeling and with joined palms: “Noble sangha, I, So-and-so, am pure. The sangha should remember it.” She should speak like this three times and leave. If she breaks any of the last four pārājikas, she should train again from the beginning. If she breaks any rule from the 19 sanghadisesas down, then she should make a confession for a dukkaṭa. If she breaks the five precepts, her training is extended for as many days as she has broken them. Which five? To eat at the wrong time, to eat stored food, to receive money, gold, or silver, to drink alcohol, to wear flowers and perfumes. These are called the 18 rules.
+When that sikkhamānā has received the training precepts for two years, she should follow and practise 18 matters. Which 18? She’s junior to all the full bhikkhunīs, and senior to all the sāmaṇerīs. What is impure for a sikkhamānā may be pure for a full bhikkhunī, what is impure for a bhikkhunī is also impure for a sikkhamānā. A bhikkhunī may spend three nights with a sikkhamānā. A sikkhamānā may spend three nights with a sāmaṇerī. A sikkhamānā may offer food to the bhikkhunīs, except for the five kinds of purifications of living seeds by fire (etc.)<beginnote>Fruits have to be made allowable for consumption by monastics through a procedure that symbolically damages the seeds. This can be done with five methods, one of them being with fire.<endnote> and for taking gold, silver, and money.<beginnote>This last part is missing in pācittiya 98.<endnote> She may accept food from sāmaṇerīs. Bhikkhunīs may not speak about the pārājikas … the minor vinaya rules to her. They may say: “Don’t have sexual intercourse, don’t steal, don’t kill, don’t lie, and so on.” On the uposatha or the pavāraṇā day, a sikkhamānā should go to the sangha, and she should say kneeling and with joined palms: “Noble sangha, I, So-and-so, am pure. The sangha should remember it.” She should speak like this three times and leave. If she breaks any of the last four pārājikas, she should train again from the beginning. If she breaks any rule from the 19 sanghadisesas down, then she should make a confession for a dukkaṭa. If she breaks the five precepts, her training is extended for as many days as she has broken them. Which five? To eat at the wrong time, to eat stored food, to receive money, gold, or silver, to drink alcohol, to wear flowers and perfumes. These are called the 18 rules.
 
 
 <beginchinese>是式叉摩尼二歲學戒滿已。欲於如來法律中受具足者。和上尼應白僧乞畜弟子羯磨。尼羯磨師應作是說。<endchinese>
@@ -53,7 +53,7 @@ When that sikkhamānā has completed the two-year training in the precepts, and 
 
 
 
-Saṅghakamma
+<beginh2>Saṅghakamma<endh2>
 
 
 <beginchinese>阿梨耶僧聽。某甲式叉摩尼二歲學戒滿二十欲於如來法律中受具足。若僧時到。僧和上尼某甲欲從僧乞畜弟子羯磨。阿梨耶僧聽。某甲欲從僧乞畜眾羯磨。僧忍默然故。是事如是持。<endchinese>
@@ -78,7 +78,7 @@ That sikkhamānā who has completed the two-year training in the precepts, is 20
 
 
 
-Saṅghakamma
+<beginh2>Saṅghakamma<endh2>
 
 
 <beginchinese>阿梨耶僧聽。某甲從某甲受具足。若僧時到。僧某甲和上尼某甲某甲。能空靜處作教師。諸阿梨耶僧聽。某甲和上尼某甲某甲空靜處作教師。僧忍默然故。是事如是持。<endchinese>
@@ -103,7 +103,7 @@ You don’t have all kinds of diseases like these in your body, do you: Scabies,
 
 
 
-Saṅghakamma
+<beginh2>Saṅghakamma<endh2>
 
 
 <beginchinese>阿梨耶僧聽。某甲從某甲受具足。某甲已空靜處教問訖。若僧時到。僧某甲和上尼某甲聽入僧中。阿梨耶僧聽。某甲和上尼某甲聽入僧中。僧忍默然故。是事如是持。<endchinese>
@@ -118,7 +118,7 @@ That person comes into the sangha. She should bow with her head at the sangha’
 
 
 
-Saṅghakamma
+<beginh2>Saṅghakamma<endh2>
 
 
 <beginchinese>阿梨耶僧聽。某甲從某甲受具足。某甲已空靜處教問訖。若僧時到。僧某甲和上尼某甲。欲從僧乞受具足。諸阿梨耶聽。某甲和上尼。某甲欲從僧乞受具足。僧忍默然故是事如是持。羯磨師應教乞。阿梨耶僧聽。我某甲從和尚尼某甲受具足。阿闍梨某甲已空靜處教問訖。我某甲和上尼某甲。今從僧乞受具足。唯願僧哀愍故與我受具足。如是至三。羯磨師應作是說。阿梨耶僧聽。某甲從某甲受具足。某甲已空靜處教問訖已。從僧乞受具足。若僧時到。僧某甲和上尼某甲。我欲於僧中問遮法。阿梨耶僧聽。某甲和上尼某甲。我欲於僧中問遮法。僧忍默然故是事如是持。<endchinese>
@@ -133,7 +133,7 @@ Saṅghakamma
 
 
 
-Saṅghakamma
+<beginh2>Saṅghakamma<endh2>
 
 
 <beginchinese>阿梨耶僧聽。某甲從某甲受具足。某甲已空靜處教問訖已從僧乞受具足。父母夫主已聽。已求和上五衣鉢具。是女人二歲學戒滿已。作畜眾羯磨。自說清淨無遮法。若僧時到。僧某甲和上尼某甲。我欲於僧中說三依法。阿梨耶僧聽。某甲和上尼某甲。我欲於僧中說三依法。僧忍默然故。是事如是持。<endchinese>
@@ -158,7 +158,7 @@ Relying on fermented urine as medicine is a small thing, easy to obtain, fitting
 
 
 
-Saṅghakamma
+<beginh2>Saṅghakamma<endh2>
 
 
 <beginchinese>阿梨耶僧聽。某甲從某甲受具足。某甲已空靜處教問訖已。從僧乞受具足。父母夫主已聽。已求和上尼五衣鉢具。是女人二歲學戒滿已。作畜弟子羯磨。自說清淨無遮法。已堪忍三依若僧時到。僧與某甲受具足。和上尼某甲。白如是。阿梨耶僧聽。某甲從某甲受具足。某甲已空靜處教問訖已。從僧乞受具足。父母夫主已聽。已求和上五衣鉢具。是女人二歲學戒滿已。作畜弟子羯磨。自說清淨無遮法。已堪忍三依。僧今與某甲受具足。和上尼某甲。諸阿梨耶忍與某甲受具足。和上尼某甲。忍者僧默然。若不忍便說。是第一羯磨。第二第三亦如是說。僧已與某甲受具足竟。和上尼某甲。僧忍默然故。是事如是持。<endchinese>
@@ -178,7 +178,7 @@ When she has received the full ordination, the preceptor should take her to the 
 
 
 
-Saṅghakamma
+<beginh2>Saṅghakamma<endh2>
 
 
 <beginchinese>大德僧聽。某甲從某甲尼受具足。已比丘尼眾中清淨無遮法。尼某甲已從僧乞受具足。若僧時到。僧某甲和上尼某甲。欲從僧乞受具足。諸大德聽。某甲和上尼某甲。欲從僧乞受具足。僧忍默然故。是事如是持。<endchinese>
@@ -193,7 +193,7 @@ The master of ceremony should instruct her to say, kneeling and with joined palm
 
 
 
-Saṅghakamma
+<beginh2>Saṅghakamma<endh2>
 
 
 <beginchinese>大德僧聽。某甲從某甲受具足。已比丘尼眾中清淨無遮法。已從僧乞受具足。若僧時到。僧某甲和上尼某甲。我欲於僧中問遮法。諸大德僧聽。某甲和上尼某甲。我欲於僧中問遮法。僧忍默然故。是事如是持。<endchinese>
@@ -208,7 +208,7 @@ The master of ceremony should ask: “Now a time of sincerity has come, a time o
 
 
 
-Saṅghakamma
+<beginh2>Saṅghakamma<endh2>
 
 
 <beginchinese>大德僧聽。某甲從某甲受具足。已比丘尼眾中問清淨無遮法。已從僧乞受具足。父母夫主已聽。已求和上五衣鉢具。二歲學戒滿已。乞畜眾羯磨竟。自說清淨無遮法。若僧時到。僧某甲和尚尼某甲。我欲於僧中說三依。諸大德聽。某甲和上尼某甲。我欲於僧中說三依。僧忍默然故。是事如是持。<endchinese>
@@ -223,7 +223,7 @@ Good woman, please listen. These are the three supports that the Tathāgata, wor
 
 
 
-Saṅghakamma
+<beginh2>Saṅghakamma<endh2>
 
 
 <beginchinese>大德僧聽。某甲從某甲受具足。已比丘尼眾中清淨無遮法。已從僧乞受具足。父母夫主已聽。已求和上五衣鉢具。二歲學戒滿已。作乞畜眾羯磨竟。自說清淨無遮法已堪忍三依。若僧時到。僧與某甲受具足。和上尼某甲白如是。大德僧聽。某甲從某甲受具足。已比丘尼眾中清淨無遮法。已從僧乞受具足。父母夫主已聽。已求和上五衣鉢具。二歲學戒滿已。作乞畜眾羯磨竟。自說清淨無遮法。已堪忍三依。僧今與某甲受具足。和上尼某甲。諸大德忍與某甲受具足。和上尼某甲。忍者默然。若不忍便說。是第一羯磨。第二第三亦如是說。僧與某甲受具足竟。和上尼某甲僧忍默然故。是事如是持。<endchinese>
@@ -248,7 +248,7 @@ The Buddha was staying at Vesālī in the great wood, in the two-story monastery
 
 
 
-Saṅghakamma
+<beginh2>Saṅghakamma<endh2>
 
 
 <beginchinese>大德僧聽。法預比丘尼弟子某甲欲受具足。若來者畏傷梵行。若僧時到。僧法預比丘尼弟子某甲。欲從僧乞使受具足。諸大德僧聽。法預比丘尼弟子某甲欲乞使受具足。僧忍默然故。是事如是持。<endchinese>
@@ -263,7 +263,7 @@ The preceptor should say in the midst of the sangha, kneeling and with joined pa
 
 
 
-Saṅghakamma
+<beginh2>Saṅghakamma<endh2>
 
 
 <beginchinese>大德僧聽。法預比丘尼弟子某甲欲受具足。已比丘尼眾中受具足無遮法。若來者畏傷梵行。法預比丘尼為弟子某甲。已從僧乞使受具足。若僧時到。僧今羯磨。某甲某甲比丘為法預弟子某甲受具足。白如是。大德僧聽。法預比丘尼為弟子某甲受具足。已比丘尼眾中受具足無遮法。若來者畏傷梵行。法預比丘尼為弟子某甲。已從僧乞使受具足。僧今羯摩。某甲某甲比丘使為法預比丘尼弟子某甲受具足。諸大德忍羯磨某甲某甲比丘使為法預比丘尼弟子某甲受具足者默然。若不忍便說。是初羯磨。第二第三亦如是說。僧已羯磨某甲某甲比丘使為法預比丘尼弟子某甲受具足竟。僧忍默然故。是事如是持。<endchinese>
@@ -278,7 +278,7 @@ When these bhikkhus have accepted the formal act, they should go to the bhikkhun
 
 
 
-Saṅghakamma
+<beginh2>Saṅghakamma<endh2>
 
 
 <beginchinese>大德僧聽。某甲從某甲受具足。已比丘尼眾中受具足清淨無遮法。若來者畏傷梵行彼間住。和上尼某甲已從僧乞受具足。若僧時到。僧與某甲受具足。和上尼某甲。白如是。<endchinese>

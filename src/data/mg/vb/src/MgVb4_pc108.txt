@@ -3,7 +3,7 @@ MgVb_pc108
 
 
 
-Origin Story
+<beginh2>Origin Story<endh2>
 
 
 <beginchinese>佛住毘舍離。爾時迦梨比丘尼度梨車第三生女出家。與俗人外道習近住。諸比丘尼語迦梨比丘尼。汝知是弟子與俗人外道習近住。汝何故不別離送於異方。
@@ -15,7 +15,7 @@ The bhikkhunīs told Mahāpajāpatī, and she went to the World-honored One, and
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼度弟子有事。不自送不使人送。下至五六由旬波夜提。<endchinese>
@@ -25,7 +25,7 @@ If a bhikkhunī, when there is an issue with the student to whom she has given t
 
 
 
-Explanation
+<beginh2>Explanation<endh2>
 
 
 <beginchinese>比丘尼者如上說。度人者和上尼。弟子者共行弟子。有事者弟子欲罷道。若父母親里欲罷道。若婿若叔欲罷道。送者若不自送不使人送。下至五六由旬者極齊六。若弟子習近住者應送遊行。若身老病不能去者應囑人。當教誡汝可遊方多有功德。禮諸塔寺見好徒眾多所見聞我若不老者亦復欲去。若比丘共住弟子有事。不自送不使人送者得越毘尼罪。是故世尊說。<endchinese>

@@ -3,7 +3,7 @@ MgVb_pc110
 
 
 
-Origin Story
+<beginh2>Origin Story<endh2>
 
 
 <beginchinese>佛住舍衛城。爾時有學戒尼。語偷蘭難陀言。阿梨耶。我學戒滿。與我受具足。答言可爾。後學戒尼言。阿梨耶。我學戒滿與我受具足。聞是語已。自不與受不使人受。又不發遣。諸比丘尼言。汝先許與受具足。何以不與。聞此語猶故不與。
@@ -15,7 +15,7 @@ The bhikkhunīs told Mahāpajāpatī, and she fully informed the World-honored O
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼語式叉摩尼言。學戒滿當與汝受具足。後不與受不使人受。又不遣去者波夜提<endchinese>
@@ -25,7 +25,7 @@ If a bhikkhunī says to a sikkhamānā: ‘When you’re fully trained in the pr
 
 
 
-Explanation
+<beginh2>Explanation<endh2>
 
 
 <beginchinese>比丘尼者如上說。式叉摩尼者隨順行十八事二歲學。作是語者。如偷蘭難陀比丘尼許與受具足後不與受不使人受波夜提。波夜提者如上說。若比丘尼語式叉摩尼。當與汝受具足。若後無力者當使人受。若不自受不使人受者。應語令去更餘處受具足。若比丘尼許式叉摩尼受具足。後不與受者波夜提。若比丘許沙彌受具足。後不與受者得越毘尼罪。是故世尊說。<endchinese>

@@ -3,7 +3,7 @@ MgVb_pc116
 
 
 
-Origin Story
+<beginh2>Origin Story<endh2>
 
 
 <beginchinese>佛住舍衛城。爾時竭住母比丘尼。先不語卒爾而入竭住父比丘房。而摩其背。即反顧視之。見已言。咄咄遠我。比丘尼言。我先常與洗浴。今摩觸何苦。語言。本是俗人今日出家不得如先。
@@ -15,7 +15,7 @@ The bhikkhunīs told Mahāpajāpatī, and she went to the World-honored One, and
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼先不白入比丘僧伽藍者波夜提。<endchinese>
@@ -25,7 +25,7 @@ If a bhikkhunī enters a bhikkhu monastery without informing them first, it’s 
 
 
 
-Explanation
+<beginh2>Explanation<endh2>
 
 
 <beginchinese>比丘尼者如上說。比丘僧伽藍者下至一比丘住處。先不白者先不語不呼。入者如竭住母比丘尼波夜提。波夜提者如上說。若比丘尼欲入比丘住處者。當到門屋應先白和南比丘尼。白入願聽。比丘當籌量。若比丘尼賢善。自無事著衣服者聽入。若有事或泥作或裸露當語言。姊妹小住。應唱言。諸長老。比丘尼欲入各自著衣。若比丘尼不善無威儀者。應語莫入有事。若先不語最初入者波夜提。後來者無罪。不白而入者舉一足越毘尼罪。兩足波夜提。若還去者越毘尼罪。若比丘先不語而入比丘尼住處者越毘尼罪。應住門屋下遣淨人女語。是故世尊說。<endchinese>

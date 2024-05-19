@@ -5,14 +5,14 @@ MgVb_pc134
 東晉天竺三藏佛陀跋陀羅共法顯譯
 明一百四十一波夜提法之餘<endchinese>
 
-Mahāsaṅghika Vinaya, 40th fascicle.
-Translated by the Indian Tipiṭaka master Buddhabhadra together with Fǎxiǎn during the Eastern Jin dynasty.
-Explanation of the 141 pācittiya rules, last part.
+<begindescription>Mahāsaṅghika Vinaya, 40th fascicle.<enddescription>
+<begindescription>Translated by the Indian Tipiṭaka master Buddhabhadra together with Fǎxiǎn during the Eastern Jin dynasty.<enddescription>
+<begindescription>Explanation of the 141 pācittiya rules, last part.<enddescription>
 
 
 
 
-Origin Story
+<beginh2>Origin Story<endh2>
 
 
 <beginchinese>佛住舍衛城。爾時迦梨比丘尼。安居中受僧床褥已而捨遊行。
@@ -24,7 +24,7 @@ For this reason, the bhikkhunīs spoke with Mahāpajāpatī Gotamī. … She ans
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼。安居中遊行者波夜提。<endchinese>
@@ -34,7 +34,7 @@ If a bhikkhunī wanders during the rains retreat, it’s a pācittiya.”
 
 
 
-Explanation
+<beginh2>Explanation<endh2>
 
 
 <beginchinese>安居者。前安居。後安居。行者。下至聚落宿波夜提。波夜提者如上說。若比丘尼。安居中離界一宿波夜提。若王難餘方賊來。若恐奪命。若畏失梵行者去無罪。比丘尼安居中。無有求聽羯磨法為塔僧事而遊行。是故世尊說。<endchinese>

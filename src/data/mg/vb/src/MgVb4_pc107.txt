@@ -3,7 +3,7 @@ MgVb_pc107
 
 
 
-Origin Story
+<beginh2>Origin Story<endh2>
 
 
 <beginchinese>佛住王舍城。爾時樹提比丘尼欲與弟子受具足。語偷蘭難陀比丘尼言。阿梨耶。為我請僧與弟子受具足。後比丘尼僧與受具足。偷蘭難陀比丘尼請得六群比丘。樹提問言。為我請得僧未。答言已得。得誰答言。得六群比丘。語言。我不用。至明日更請善比丘受具足。
@@ -15,7 +15,7 @@ The bhikkhunīs told Mahāpajāpatī, and she went to the World-honored One, and
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼一眾清淨停宿受具足波夜提。<endchinese>
@@ -25,7 +25,7 @@ If a bhikkhunī waits overnight before giving the full ordination to someone who
 
 
 
-Explanation
+<beginh2>Explanation<endh2>
 
 
 <beginchinese>比丘尼者如上說。一眾清淨者。比丘尼眾中受具足。停宿者至明日。比丘眾中受具足波夜提。波夜提者如上說。不聽一眾清淨停宿受具足。復不聽輕眾。復不得請惡比丘眾與受具足。應當先求善比丘。若不可得當求半。若過半許而作羯磨。若王賊難。不得者停宿無罪。比丘亦不得輕眾。應得半。若過半而作羯磨。輕眾者得越毘尼罪。是故世尊說。<endchinese>

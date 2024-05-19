@@ -3,7 +3,7 @@ MgVb_pc111
 
 
 
-First Origin Story
+<beginh2>First Origin Story<endh2>
 
 
 <beginchinese>佛住毘舍離。爾時跋陀羅伽毘梨比丘尼載好上乘到親里家。為世人所嫌。云何沙門尼出家。故如俗人載好上乘多欲如是。
@@ -15,7 +15,7 @@ When the bhikkhunīs heard this, they told Mahāpajāpatī, and she fully inform
 
 
 
-Preliminary ruling
+<beginh2>Preliminary Ruling<endh2>
 
 
 <beginchinese>從今已後不聽。<endchinese>
@@ -25,7 +25,7 @@ From now on, it’s no longer allowed.”
 
 
 
-Second Origin Story
+<beginh2>Second Origin Story<endh2>
 
 
 <beginchinese>復次爾時釋種女。比丘尼道路行羸。老病不及伴後被賊。
@@ -41,7 +41,7 @@ The Buddha told Mahāpajāpatī: “Convene all the bhikkhunīs living in the vi
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼不病載乘者波夜提。<endchinese>
@@ -51,7 +51,7 @@ If a bhikkhunī who isn’t sick rides in a vehicle, it’s a pācittiya.”
 
 
 
-Explanation
+<beginh2>Explanation<endh2>
 
 
 <beginchinese>比丘尼者如上說。病者若老羸病若樂人不能行。世尊說無罪。乘者八種。乃至船乘是名八種。載者波夜提。不聽不病比丘尼載乘。病者不得載特牛乘。得載牸牛車及雌馬駱駝。若病不覺雌雄無罪。若乘船直度無罪。若上水若下水作因緣受持得去。若比丘不病載乘者。越毘尼罪。是故世尊說。<endchinese>
@@ -61,7 +61,7 @@ Explanation
 
 
 
-Summary Verse
+<beginh2>Summary Verse<endh2>
 
 
 <beginchinese>不滿不羯磨 和上不教誡
@@ -70,8 +70,8 @@ Summary Verse
 嫌責許具足 載乘最在後
 十一跋渠竟<endchinese>
 
-Not fully trained, without a formal act, a preceptor who doesn’t teach and instruct,
+<beginverse>Not fully trained, without a formal act, a preceptor who doesn’t teach and instruct,
 A student who doesn’t follow, taking on students every year,
 Waiting overnight to give the full ordination, not sending someone away when there’s an issue,
 Being angry and reproaching, agreeing to give the full ordination, and lastly riding in a vehicle, 
-The 11th chapter is finished.
+The 11th chapter is finished.<endverse>

@@ -3,7 +3,7 @@ MgVb_pc138
 
 
 
-Origin Story
+<beginh2>Origin Story<endh2>
 
 
 <beginchinese>佛住舍衛城。爾時有比丘尼。不先看牆外。擲棄大小便。時有婆羅門。新洗浴著新淨衣巷中行。正墮頭上。婆羅門瞋罵言。眾多人子沙門尼。污我如是。
@@ -15,7 +15,7 @@ The bhikkhunīs went and informed the Buddha. … She answered: “I really did 
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼。隔牆不觀擲棄不淨波夜提。<endchinese>
@@ -25,7 +25,7 @@ If a bhikkhunī without observing throws impure things over a partition wall, it
 
 
 
-Explanation
+<beginh2>Explanation<endh2>
 
 
 <beginchinese>隔牆者。隔籬牆。擲不淨者。大小便洟唾糞掃及洗手足水髮指甲。不觀者。不先看而擲。若欲擲棄物時當先諦視。若多人行者。當待斷乃擲。若行人希者。當彈指乃擲。若不視不彈指而擲者波夜提若比丘不視而擲者越比尼罪。是故世尊說。<endchinese>

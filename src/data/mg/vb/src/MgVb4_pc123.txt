@@ -3,7 +3,7 @@ MgVb_pc123
 
 
 
-Origin Story
+<beginh2>Origin Story<endh2>
 
 
 <beginchinese>佛住毘舍離。爾時跋陀羅比丘尼到親里家。與兄弟姊妹兒在闇處無燈。先不語卒爾而入。爾時親里羞慚。
@@ -15,7 +15,7 @@ The bhikkhunīs told Mahāpajāpatī, … She answered: “I really did this.”
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼知闇中有男子坐無燈而入波夜提。<endchinese>
@@ -25,7 +25,7 @@ If a bhikkhunī knows that a man is sitting in the dark without a lamp, and ente
 
 
 
-Explanation
+<beginh2>Explanation<endh2>
 
 
 <beginchinese>比丘尼者如上說。男子坐者常眠臥處。闇處者不相見處。無燈者無油燈及餘種種燈。入者波夜提。波夜提者如上說。不得入闇地男子坐處。若有因緣事須入者。若聞內人高聲大聲當入。若不聞語者應先遣人語若彈指若作燈明現相。有人呼入者當入。若不語不彈指不作燈明而入者波夜提。若比丘不語而入者越毘尼罪。是故世尊說。<endchinese>

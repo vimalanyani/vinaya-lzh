@@ -3,7 +3,7 @@ MgVb_pc137
 
 
 
-Origin Story
+<beginh2>Origin Story<endh2>
 
 
 <beginchinese>佛住舍衛城。爾時迦梨比丘尼。到欲安居時餘行去。受安居已還。房舍已分竟。方來索言。是我房舍還我。住者言我已受不可得。於是鬪諍。有善比丘尼呼言。阿梨耶。可就此房住。入已持巨摩柴草積聚房中。先住者言。阿梨耶。此不用物不須安。即言賢善。汝買得此房耶。答言。我當次得此僧房。若是僧房者我何以不安。於是以身口擾亂。
@@ -15,7 +15,7 @@ For this reason, the bhikkhunīs went and informed the World-honored One. … Sh
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼。知比丘尼先安居已後來。若自擾亂。若使人擾亂波夜提。<endchinese>
@@ -25,7 +25,7 @@ If a bhikkhunī knows that another bhikkhunī has entered the rains retreat firs
 
 
 
-Explanation
+<beginh2>Explanation<endh2>
 
 
 <beginchinese>知先安居者。前安居後安居。擾亂者。若自身口。若使他身口擾亂波夜提。若擾亂比丘尼波夜提。式叉摩尼沙彌尼越比尼罪。乃至俗人越比尼心悔。是故世尊說。<endchinese>

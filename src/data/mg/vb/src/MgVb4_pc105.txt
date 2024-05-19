@@ -3,7 +3,7 @@ MgVb_pc105
 
 
 
-Origin Story
+<beginh2>Origin Story<endh2>
 
 
 <beginchinese>佛住舍衛城。爾時比丘尼度弟子。弟子受具足已棄餘處去。時和上尼嫌言。世尊制戒應教誡弟子。弟子捨我去。我當教誡誰。
@@ -15,7 +15,7 @@ The bhikkhunīs told Mahāpajāpatī, and she fully informed the World-honored O
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼受具足已。應二年供給隨逐和上尼。若不供給隨逐波夜提。<endchinese>
@@ -25,7 +25,7 @@ If a bhikkhunī has received the full ordination, she should attend on and follo
 
 
 
-Explanation
+<beginh2>Explanation<endh2>
 
 
 <beginchinese>受具足者共住弟子。二年者二雨時。供給者供給和上尼。應隨逐者不遠離。不供給隨逐者波夜提。若和上尼不善持戒不欲學。弟子作是念。我和上尼但非威儀處行。我若隨逐或傷我梵行。欲全梵行故捨去無罪。若比丘。不供給和上隨侍越毘尼罪。是故世尊說。<endchinese>

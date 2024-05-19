@@ -3,7 +3,7 @@ MgVb_pc121
 
 
 
-Origin Story
+<beginh2>Origin Story<endh2>
 
 
 <beginchinese>佛住毘舍離。爾時跋陀羅比丘尼到親里家共兄弟姊妹兒於屏處坐。比丘尼嫌言。云何出家人。與俗人隱處坐。猶如俗人。
@@ -15,7 +15,7 @@ For this reason, they spoke with Mahāpajāpatī, … The Buddha said: “From n
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼與丈夫屏處坐波夜提。<endchinese>
@@ -25,7 +25,7 @@ If a bhikkhunī sits with a man in a secluded place, it’s a pācittiya.”
 
 
 
-Explanation
+<beginh2>Explanation<endh2>
 
 
 <beginchinese>波夜提者如上比丘中廣說。是故世尊說。<endchinese>
@@ -35,7 +35,7 @@ This pācittiya is explained in detail above in the rule about “a bhikkhu”. 
 
 
 
-Summary Verse
+<beginh2>Summary Verse<endh2>
 
 
 <beginchinese>持傘佉啁床 同敷床不捨
@@ -43,7 +43,7 @@ Summary Verse
 比丘靜處坐 男子亦復然
 十二跋渠竟<endchinese>
 
-Holding an umbrella, a couch bed, laying out beds, not giving up,
+<beginverse>Holding an umbrella, a couch bed, laying out beds, not giving up,
 Not informing, spending the night in a place for sex, without a group, visiting ancient ruins,
 Sitting with a bhikkhu in a quiet place, and likewise with a man,
-The 12th chapter is finished.
+The 12th chapter is finished.<endverse>

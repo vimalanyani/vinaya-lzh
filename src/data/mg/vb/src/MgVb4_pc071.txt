@@ -3,7 +3,7 @@ MgVb_pc71
 
 
 
-Origin Story
+<beginh2>Origin Story<endh2>
 
 
 <beginchinese>佛住毘舍離。爾時跋陀羅伽毘比丘尼。不語依止弟子。輒著僧伽梨入聚落。有比丘尼呼言。某甲乞食去來。答言。阿梨耶。待我取僧伽梨。即求衣不見正見師衣作是念。師必著我衣去。即生念。師可得著我衣。我不得著師衣語言汝去。我不得去。何故耶。答言。我無衣。即語著汝師衣來。答言。我所尊重不敢著。汝自去一日失食。諸比丘尼語大愛道。大愛道即以是事往白世尊。佛言。喚是比丘尼來。來已佛問言。汝實爾不。答言實爾世尊。佛言。此是惡事。汝云何不語著他衣。從今已後不聽。佛告大愛道。依止比舍離住比丘尼皆悉令集。乃至已聞者當重聞。<endchinese>
@@ -14,7 +14,7 @@ The bhikkhunīs told Mahāpajāpatī, and she went to the World-honored One, and
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼不語主而著他衣。波夜提。<endchinese>
@@ -34,4 +34,4 @@ Explanations
 
 <beginchinese>摩訶僧祇律卷第三十七<endchinese>
 
-Mahāsaṅghika Vinaya, 37th fascicle.
+<begindescription>Mahāsaṅghika Vinaya, 37th fascicle.<enddescription>

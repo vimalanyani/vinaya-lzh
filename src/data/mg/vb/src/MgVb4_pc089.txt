@@ -3,7 +3,7 @@ MgVb_pc89
 
 
 
-Origin Story
+<beginh2>Origin Story<endh2>
 
 
 <beginchinese>佛住舍衛城。爾時偷蘭難陀比丘尼到俗人家舍。稱說樹提比丘尼。賢善持戒精進。乃至威儀庠序左顧右視。著衣持鉢審諦安詳省於言語。天人供養。檀越見已生恭敬心。給施衣鉢飲食疾病湯藥。偷蘭難陀威儀不具足。著穿破垢衣。大腹乳脇露現。舉止卒暴多於言語。生不敬心不請與衣鉢飲食疾病湯藥。便作是言。我至檀越家稱歎樹提故得此供養。而樹提但道說我不好事故我不得供養。樹提言。阿梨耶。我不道說何故說。汝惡事。
@@ -15,7 +15,7 @@ When the bhikkhunīs heard this, they told Mahāpajāpatī, and she went to the 
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼語比丘尼作是言。阿梨耶。共往某甲家。彼於後不忍。某甲比丘尼無因緣不審諦聞而呵責者。波夜提。<endchinese>
@@ -25,7 +25,7 @@ If a bhikkhunī says to another bhikkhunī: “Venerable, let’s go together to
 
 
 
-Explanation
+<beginh2>Explanation<endh2>
 
 
 <beginchinese>比丘尼者如偷蘭難陀比丘尼。家者剎利家。婆羅門家。毘舍家。首陀家。後不忍者如樹提比丘尼。不忍事者九惱非處起瞋第十。無因緣者。不審諦聞後嫌責者波夜提。波夜提者如上說。若比丘尼不審諦聞而嫌責者波夜提。若比丘不審諦而呵責者越比尼罪。是故世尊說。<endchinese>

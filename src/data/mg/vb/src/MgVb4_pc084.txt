@@ -3,7 +3,7 @@ MgVb_pc84
 
 
 
-Origin Story
+<beginh2>Origin Story<endh2>
 
 
 <beginchinese>佛住舍衛城。爾時比舍佉鹿母請二部僧。時比丘尼晨朝往到其家語優婆夷言。汝今日請二部僧。我等當以何報之。鹿母言。阿梨耶。但誦經行道。便是報恩。答言實爾。然復更以餘事薄報。即共上閣取其劫貝。中有擘者。有紛者。中有紡者。成縷丸已而與之言。我欲報者今以作竟。優婆夷言此事非是報。欲報者食已坐禪受經誦經。是乃為報。
@@ -15,7 +15,7 @@ When the bhikkhunīs heard this, they told Mahāpajāpatī, and she fully inform
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼為俗人作者波夜提。<endchinese>
@@ -25,7 +25,7 @@ If a bhikkhunī works for lay people, it’s a pācittiya.”
 
 
 
-Explanation
+<beginh2>Explanation<endh2>
 
 
 <beginchinese>比丘尼者如上說。俗人者白衣家。為俗人作者擘劫貝紛劫貝及紡。若舂若磨若浣衣。如是比俗人家作者波夜提。波夜提者如上說。比丘尼不得為俗人作。若檀越欲供養佛故言。阿梨耶。佐我作供養具者。爾時得佐結華鬘。得佐研香。若比丘佐俗人作者越毘尼罪。是故世尊說。<endchinese>

@@ -3,7 +3,7 @@ MgVb_np12
 
 
 
-Origin Story
+<beginh2>Origin Story<endh2>
 
 
 <beginchinese>佛住舍衛城。爾時偷蘭難陀比丘尼著垢膩穿穴弊衣而行乞食。婦人見已語言。阿梨耶。我施衣直知衣。復有人言。我施鉢直知鉢。得已但作飲食用盡。不作衣鉢。有比丘尼乞食。婦人問言。偷蘭難陀我先與衣鉢直作未。報言。但作飲食。那得作衣鉢。
@@ -15,7 +15,7 @@ When the bhikkhunīs heard this, they told Mahāpajāpatī, and for this reason,
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼人為作是與。而作彼用者。尼薩耆波夜提。<endchinese>
@@ -25,7 +25,7 @@ If a bhikkhunī uses offerings from people for a certain purpose to do something
 
 
 
-Explanation
+<beginh2>Explanation<endh2>
 
 
 <beginchinese>比丘尼者如上說 為是與者。為衣為鉢直與 作餘用者。作飲食湯藥。尼薩耆波夜提。此物僧中捨波夜提悔過。若比丘尼人與衣直鉢直酥油直直衣直。應知衣鉢直。應知鉢酥直。應知酥油直。應知油。若作異用者尼薩耆波夜提。若檀越言隨意用無罪。若無所適為隨作無罪。若比丘人與衣直鉢直酥直油直衣直。應作衣乃至酥直知酥。若作異用者越比尼罪。若隨意用者無罪。無所適為者無罪。是故世尊說。<endchinese>

@@ -3,7 +3,7 @@ MgVb_pc130
 
 
 
-Origin Story
+<beginh2>Origin Story<endh2>
 
 
 <beginchinese>俗人婦女亦如是。乃至已聞者當重聞。<endchinese>
@@ -13,7 +13,7 @@ With a lay woman it’s also as above. … Those who have already heard it shoul
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼不病。令俗人婦女揩摩者波夜提。<endchinese>
@@ -23,7 +23,7 @@ If a bhikkhunī who isn’t sick has a lay woman massage her, it’s a pācittiy
 
 
 
-Explanation
+<beginh2>Explanation<endh2>
 
 
 <beginchinese>俗人婦女者四種姓家女人。揩摩如比丘尼中說。<endchinese>

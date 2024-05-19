@@ -3,7 +3,7 @@ MgVb_ss17
 
 
 
-Origin Story
+<beginh2>Origin Story<endh2>
 
 
 <beginchinese>佛住舍衛城。爾時有二比丘尼。一名真檀。是釋家女。二名欝多羅。身習近住。口習近住。身口習近住。迭相覆過。身習近者。共床眠共床坐同器食。迭互著衣共出共入。口習近者。染污心語迭相覆罪。此犯彼覆彼犯此覆。身口習近者。二事俱。比丘尼諫言。阿梨耶。莫身習近住口習近住。莫身口習近住。莫迭相覆過。何以故。不生善法。一諫二諫三諫不止。
@@ -15,7 +15,7 @@ The bhikkhunīs told Mahāpajāpatī, and for this reason, she then went and inf
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若二比丘尼習近住迭相覆過。諸比丘尼應諫是比丘尼言。阿梨耶。莫習近住迭相覆過。習近住不生善法。是比丘尼。諸比丘尼諫時。堅持不捨。應第二第三諫。捨是事善。若不捨是法乃至三諫。僧伽婆尸沙。<endchinese>

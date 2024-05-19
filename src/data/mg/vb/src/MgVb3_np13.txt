@@ -3,7 +3,7 @@ MgVb_np13
 
 
 
-Origin Story
+<beginh2>Origin Story<endh2>
 
 
 <beginchinese>佛住舍衛城。爾時偷蘭難陀比丘尼勸化作食。語婦人言。優婆夷。我欲與僧作食諸優婆夷信心歡喜與食直。作是言阿梨耶。至作食日語我我當來行食。比丘尼得已自作食及買衣鉢。餘殘作麁食。至其日自來行食。見已問言。阿梨耶我前與食直多。何故食麁乃爾。諸比丘尼言。何處得好食。但自作衣鉢食噉。
@@ -15,7 +15,7 @@ When the bhikkhunīs heard this, they told Mahāpajāpatī, and she went to the 
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼為食乞。作衣鉢飲食湯藥受用者。尼薩耆波夜提。<endchinese>
@@ -25,7 +25,7 @@ If a bhikkhunī asks for food, exchanges it for robes, bowls, drinks, food, liqu
 
 
 
-Explanation
+<beginh2>Explanation<endh2>
 
 
 <beginchinese>比丘尼者如上說。為食者為僧作食。乞者勸化求索。異用者衣鉢自飲食。尼薩耆波夜提。尼薩耆波夜提者如上說。若比丘尼為僧索作食。而自買衣鉢飲食者。尼薩耆波夜提。隨本所欲作應用作者。若迴前食作後食。迴後食作前食者。越比尼罪。若迴食直作床褥。若春夏冬衣分若食分隨先所向應用。而不稱施主本心與。越比尼罪。若比丘尼為僧勸化得食應盡作。若有長飲食酥油。應示檀越。檀越若持去者當默然。若言我與阿梨耶。應言與僧。復言我以自與僧竟。此與阿梨耶。如是取者無罪。是故說。<endchinese>

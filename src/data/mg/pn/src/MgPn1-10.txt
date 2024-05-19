@@ -1,9 +1,9 @@
 MgPn1
 
 
-<beginchinese>明雜跋渠初 <endchinese>
+<beginchinese>明雜跋渠初<endchinese>
 
-Beginning of the explanation of the collection of miscellaneous rules. 
+<begindescription>Beginning of the explanation of the collection of miscellaneous rules.<enddescription>
 
 
 <beginchinese>坐法者<endchinese>
@@ -110,7 +110,7 @@ The Buddha was staying at Vesālī. To be explained in detail as in the rule abo
 
 
 
-Summary Verse
+<beginh2>Summary Verse<endh2>
 
 
 <beginchinese>坐法并竹席 纏腰覆襏衣
@@ -118,7 +118,7 @@ Summary Verse
 使人園民女 僧祇支浴衣
 雜跋渠初竟<endchinese>
 
-The method of sitting, bamboo mats, binding around the hips, lingerie,
+<beginverse>The method of sitting, bamboo mats, binding around the hips, lingerie,
 Wearing worldly ornaments, bringing ornamented dresses when going forth,
 Servants, female attendants, the vest, the bathing robe,
-The first chapter is finished.
+The first chapter is finished.<endverse>

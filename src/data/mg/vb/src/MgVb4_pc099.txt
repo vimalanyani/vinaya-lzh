@@ -3,7 +3,7 @@ MgVb_pc99
 
 
 
-Origin Story
+<beginh2>Origin Story<endh2>
 
 
 <beginchinese>佛住舍衛城。爾時世尊制戒。不聽不滿學與受具足。爾時比丘尼十八雨童女學戒滿。二十雨與受具足。諸比丘尼嫌言。汝學戒滿不滿誰得知者。
@@ -15,7 +15,7 @@ For this reason, the bhikkhunīs spoke with Mahāpajāpatī. … The Buddha said
 
 
 
-Preliminary Ruling
+<beginh2>Preliminary Ruling<endh2>
 
 
 <beginchinese>從今已後。學戒滿二十雨童女。欲於如來法律中受具足作比丘尼者。先作求聽羯磨。應然後從僧乞學戒滿受具足羯磨。<endchinese>
@@ -25,7 +25,7 @@ Preliminary Ruling
 
 
 
-Saṅghakamma
+<beginh2>Saṅghakamma<endh2>
 
 
 <beginchinese>羯磨者應作是說。阿梨耶僧聽。某甲二十歲童女學戒滿。欲於如來法律中受具足。若僧時到。僧某甲欲從僧乞學滿受具足。阿梨耶僧聽。某甲二十歲童女學戒滿。欲從僧乞學滿受具足。僧忍默然故。是事如是持。
@@ -44,7 +44,7 @@ May the noble sangha listen. The 20 year old girl So-and-so has fully trained in
 
 
 
-Origin Story (continued)
+<beginh2>Origin Story (continued)<endh2>
 
 
 <beginchinese>佛告大愛道瞿曇彌。依止舍衛城比丘尼皆悉令集。乃至已聞者當重聞。<endchinese>
@@ -54,7 +54,7 @@ The Buddha told Mahāpajāpatī Gotamī: “Convene all the bhikkhunīs living i
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼學戒滿。不羯磨與受具足者波夜提。<endchinese>
@@ -64,7 +64,7 @@ If a bhikkhunī gives the full ordination to someone, who has fully trained in t
 
 
 
-Explanation
+<beginh2>Explanation<endh2>
 
 
 <beginchinese>學戒滿者二雨中隨順行十八事。不羯磨者不作羯磨。與受具足者波夜提。波夜提者如上說。是故世尊說。<endchinese>
@@ -74,4 +74,4 @@ Explanation
 
 <beginchinese>摩訶僧祇律卷第三十八<endchinese>
 
-Mahāsaṅghika Vinaya, 38th fascicle.
+<begindescription>Mahāsaṅghika Vinaya, 38th fascicle.<enddescription>

@@ -3,7 +3,7 @@ MgVb_np15
 
 
 
-Origin Story
+<beginh2>Origin Story<endh2>
 
 
 <beginchinese>佛住舍衛城如上廣說。乃至語言。汝欲居衣肆店耶。
@@ -15,7 +15,7 @@ When the bhikkhunīs heard this, they told Mahāpajāpatī, and she went to the 
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼畜長衣尼薩耆波夜提。<endchinese>
@@ -25,9 +25,9 @@ If a bhikkhunī keeps a spare robe, it’s a nissaggiya pācittiya.”
 
 
 
-Explanation
+<beginh2>Explanation<endh2>
 
 
 <beginchinese>比丘尼者如上說。衣者。欽婆羅衣［疊＊毛］衣憍奢耶衣芻摩衣舍那衣麻衣驅牟提衣。畜者。過限畜尼薩耆波夜提。尼薩耆波夜提者如上說。比丘尼聽畜二十衣。五衣受持。十五衣淨施已受用。若過是畜尼薩耆波夜提。比丘無限齊淨施受用無罪。是故世尊說。<endchinese>
 
-“A bhikkhunī” is as explained above. “A robe” means a woolen robe, a cotton robe, a silk robe, a linen robe, a sunn hemp robe, a hemp robe, and a robe woven with linen. “Storing” means storing more than the maximum is a nissaggiya pācittiya. “A nissaggiya pācittiya” is as explained above. A bhikkhunī may keep 20 robes: five determined robes, and 15 robes for use after having made a pure offering<note: Pāli: vikappana. This differs from the Pāli tradition, where items are placed under vikappana to be stored, and may not be used before vikappana has been lifted.>. If she keeps more, it’s a nissaggiya pācittiya. A bhikkhu may keep an unlimited number as pure offerings, and use them without offense. This is what the World-honored One said.
+“A bhikkhunī” is as explained above. “A robe” means a woolen robe, a cotton robe, a silk robe, a linen robe, a sunn hemp robe, a hemp robe, and a robe woven with linen. “Storing” means storing more than the maximum is a nissaggiya pācittiya. “A nissaggiya pācittiya” is as explained above. A bhikkhunī may keep 20 robes: five determined robes, and 15 robes for use after having made a pure offering<beginnote>Pāli: vikappana. This differs from the Pāli tradition, where items are placed under vikappana to be stored, and may not be used before vikappana has been lifted.<endnote>. If she keeps more, it’s a nissaggiya pācittiya. A bhikkhu may keep an unlimited number as pure offerings, and use them without offense. This is what the World-honored One said.

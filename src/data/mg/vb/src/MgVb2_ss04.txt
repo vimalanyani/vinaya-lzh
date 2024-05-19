@@ -3,7 +3,7 @@ MgVb_ss4
 
 
 
-Origin Story
+<beginh2>Origin Story<endh2>
 
 
 <beginchinese>佛住舍衛城。比丘尼僧伽藍。外道尼住處。中隔牆崩。爾時偷蘭難陀比丘尼語。外道尼言。汝當補治。汝等無羞人徒眾來往裸形出入。我此眾善好有慚羞。見汝等結使增長。彼答言。今是雨時不可得作。須雨時過當作。比丘尼言。今當駛作不得待後。彼言。我不能作。比丘尼瞋言。短壽。噉酒糟驢。汝敢不作。無慚無愧邪見不信。汝速治去。外道尼罵言。眾多人子大腹沙門尼。汝便殺我。終不與汝作。比丘尼即往斷事官所。具說上事。長壽為我勅彼作隔牆。時斷事官信於佛法。即錄外道尼來。來已語言。弊惡短壽噉酒糟驢邪見外道。何不作牆隔。汝等無羞裸形出入。是阿梨耶梵行人。設見汝等增長結使。汝急作去。若不作者當加汝罪。外道尼即作。晝成已夜雨便壞。如是夏三月作不能使成。於是外道嫌責語諸優婆塞言。看汝福田。倚恃官力驅我泥作三月。諸優婆塞婦女聞已語比丘尼。<endchinese>
@@ -18,7 +18,7 @@ When the bhikkhunīs heard this, they told Mahāpajāpatī, and she fully inform
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼諍訟相言。若俗人若出家人晝日須臾。乃至與園民沙彌共鬪相言。是法初罪僧伽婆尸沙。<endchinese>
@@ -28,9 +28,9 @@ If a bhikkhunī files a court case against lay people or renunciates, all day or
 
 
 
-Explanation
+<beginh2>Explanation<endh2>
 
 
 <beginchinese>比丘尼者如上說。諍訟者口諍訟。俗人者在家人。出家者。外道出家乃至闍致羅。晝日者。齊日沒。須臾者。乃至須臾頃。下至沙彌園民。初罪者。不待三諫。僧伽者。謂八波羅夷婆尸沙者。是罪有餘僧應羯磨治故。說僧伽婆尸沙。復次是事僧中發露悔過故。亦名僧伽婆尸沙。若比丘尼至王家斷事官所相言者。僧伽婆尸沙。道說偷蘭遮。若至優婆塞家信心家道說越比尼罪。心嫌者越比尼心悔。若比丘尼至王家相言越比尼罪。嫌說者越比尼心悔。是故世尊說。<endchinese>
 
-“A bhikkhunī” is as explained above. “Filing a court case” means verbally filing a court case. “Laypeople” means householders. “Renunciates” means non-Buddhist renunciates, … matted-hair ascetics<note:Jaṭilas>. “All day” means until sunset. “A moment” means … even just a moment, an instant. Or even just with sāmaṇeras and monastery attendants. “Immediate offense” means one doesn’t wait for three admonishments. “Saṅgha-” means the eight pārājikas. “-adisesa” means that (unlike the pārājikas) this offense has a remainder, and the sangha should deal with it through a formal act. Therefore it’s said “a saṅghādisesa”. Another explanation is that because this matter is disclosed and confessed in the midst of the sangha, it’s called a saṅghādisesa. If a bhikkhunī goes to a judge at the king’s court, and speaks with them about others, it’s a saṅghādisesa. If she explains something, it’s a thullaccaya. If she goes to a lay Buddhist’s family or to a faithful family to explain something, she breaks a minor vinaya rule. If she’s upset in her mind, she transgresses against vinaya and should mentally repent. If a bhikkhu<note: The text says bhikkhunī, but it’s a mistake.> goes to the king’s court to speak about others, he breaks a minor vinaya rule. If he speaks when he’s upset, he transgresses against vinaya and should mentally repent. This is what the World-honored One said. 
+“A bhikkhunī” is as explained above. “Filing a court case” means verbally filing a court case. “Laypeople” means householders. “Renunciates” means non-Buddhist renunciates, … matted-hair ascetics<beginnote>Jaṭilas<endnote>. “All day” means until sunset. “A moment” means … even just a moment, an instant. Or even just with sāmaṇeras and monastery attendants. “Immediate offense” means one doesn’t wait for three admonishments. “Saṅgha-” means the eight pārājikas. “-adisesa” means that (unlike the pārājikas) this offense has a remainder, and the sangha should deal with it through a formal act. Therefore it’s said “a saṅghādisesa”. Another explanation is that because this matter is disclosed and confessed in the midst of the sangha, it’s called a saṅghādisesa. If a bhikkhunī goes to a judge at the king’s court, and speaks with them about others, it’s a saṅghādisesa. If she explains something, it’s a thullaccaya. If she goes to a lay Buddhist’s family or to a faithful family to explain something, she breaks a minor vinaya rule. If she’s upset in her mind, she transgresses against vinaya and should mentally repent. If a bhikkhu<beginnote>The text says bhikkhunī, but it’s a mistake.<endnote> goes to the king’s court to speak about others, he breaks a minor vinaya rule. If he speaks when he’s upset, he transgresses against vinaya and should mentally repent. This is what the World-honored One said. 

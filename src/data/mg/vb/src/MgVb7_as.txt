@@ -17,4 +17,4 @@ The dhammas and anudhammas are as explained in detail above in the bhikkhu rules
 
 
 
-The explanation of the bhikkhunī pātimokkha is finished.
+<begindescription>The explanation of the bhikkhunī pātimokkha is finished.<enddescription>

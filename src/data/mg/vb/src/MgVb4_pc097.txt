@@ -3,7 +3,7 @@ MgVb_pc97
 
 
 
-Origin Story
+<beginh2>Origin Story<endh2>
 
 
 <beginchinese>佛住舍衛城。爾時世尊制戒。不聽減二十雨童女受具足。時諸比丘尼。滿二十雨童女與受具足。諸比丘尼嫌言。汝滿二十雨不滿二十雨。誰得知者。
@@ -15,7 +15,7 @@ The bhikkhunīs told Mahāpajāpatī, and she went to the World-honored One, and
 
 
 
-Preliminary Ruling
+<beginh2>Preliminary Ruling<endh2>
 
 
 <beginchinese>從今日已後。十八童女欲於如來法中受具足者。應從僧乞二年學戒。先作求聽羯磨已。然後得乞。<endchinese>
@@ -25,7 +25,7 @@ From this day on, an 18 year old girl who wants to receive the full ordination i
 
 
 
-Saṅghakamma
+<beginh2>Saṅghakamma<endh2>
 
 
 <beginchinese>羯磨人應作是說。阿梨耶僧聽。某甲十八歲童女。欲於如來法律中受具足。若僧時到。僧某甲欲從僧乞二年學戒。阿梨耶僧聽。某甲十八歲童女。欲從僧乞二年學戒。僧忍默然故。是事如是持。
@@ -39,7 +39,7 @@ The master of ceremony should then say: “May the noble sangha listen. The 18 y
 
 
 
-Origin Story (continued)
+<beginh2>Origin Story (continued)<endh2>
 
 
 <beginchinese>佛告大愛道瞿曇彌。依止舍衛城比丘尼皆悉令集。乃至已聞者當重聞。<endchinese>
@@ -49,7 +49,7 @@ The Buddha told Mahāpajāpatī Gotamī: “Convene all the bhikkhunīs living i
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼。滿二十歲童女不與學戒。而與具足者波夜提。<endchinese>
@@ -59,9 +59,9 @@ If a bhikkhunī gives the full ordination to a 20 year old girl who hasn’t bee
 
 
 
-Explanation
+<beginh2>Explanation<endh2>
 
 
 <beginchinese>滿二十歲者滿二十雨。滿二十雨減二十年。亦名滿二十雨。乃至後安居時生。後安居受自恣。數滿二十。是名滿。不與學戒者不與羯磨與學戒。是名不與。十法不具足亦名不與學戒。雖羯磨眾不成就。白不成就。羯磨不成就。若一一不成就。而與受具足者波夜提。是故世尊說。<endchinese>
 
-“Twenty years old” means 20 full rains. If she has 20 rains, but has less than 20 calendar years, it’s still called “20 full rains”. … born during the second rains, and been through the invitation ceremonies at the end of the second rains 20 times, this is called “full”. “Not been given the training precepts” means she hasn’t been given the formal act to give training precepts. This is called “not been given”. “Not fulfilling the 10 requirements” is also called “not been given the training precepts”. <note: This seems to refer to the preceptor, not to the girl.> Even if a formal act is carried out, if the assembly isn’t complete, or the motion isn’t complete, or the announcements are not complete; if any of these are not complete, and someone gives the full ordination, it’s a pācittiya. This is what the World-honored One said.
+“Twenty years old” means 20 full rains. If she has 20 rains, but has less than 20 calendar years, it’s still called “20 full rains”. … born during the second rains, and been through the invitation ceremonies at the end of the second rains 20 times, this is called “full”. “Not been given the training precepts” means she hasn’t been given the formal act to give training precepts. This is called “not been given”. “Not fulfilling the 10 requirements” is also called “not been given the training precepts”. <beginnote>This seems to refer to the preceptor, not to the girl.<endnote> Even if a formal act is carried out, if the assembly isn’t complete, or the motion isn’t complete, or the announcements are not complete; if any of these are not complete, and someone gives the full ordination, it’s a pācittiya. This is what the World-honored One said.

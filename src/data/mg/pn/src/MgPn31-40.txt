@@ -45,12 +45,12 @@ MgPn35
 比丘阿提呵魯阿那提訶魯非比丘尼。比丘尼阿提訶魯阿那提訶魯非比丘。<endchinese>
 
 When bhikkhus receive a kaṭhina robe, the act isn’t valid for the bhikkhunīs. When bhikkhunīs receive a kaṭhina robe, the act isn’t valid for the bhikkhus. When bhikkhus relinquish it, the act isn’t valid for the bhikkhunīs. When bhikkhunīs relinquish it, the act isn’t valid for the bhikkhus. 
-The bhikkhus’ offerings and non-offerings<note: The Chinese text transliterates “abhihāra-anabhihāra”. It seems that this is a misunderstanding of the Indic text from which it was translated. The Lokuttaravāda parallel says: “yo bhikṣūṇām abhihāro an-abhihāro so bhikṣuṇīnāṁ” (An offering to the bhikkhus isn’t an offering to the bhikkhunīs.) “An-abhihāro” therefore isn’t a thing, and should have been translated as “isn’t an offering” instead of transliterating it.> are not for the bhikkhunīs. The bhikkhunīs’ offerings and non-offerings are not for the bhikkhus.
+The bhikkhus’ offerings and non-offerings<beginnote>The Chinese text transliterates “abhihāra-anabhihāra”. It seems that this is a misunderstanding of the Indic text from which it was translated. The Lokuttaravāda parallel says: “yo bhikṣūṇām abhihāro an-abhihāro so bhikṣuṇīnāṁ” (An offering to the bhikkhus isn’t an offering to the bhikkhunīs.) “An-abhihāro” therefore isn’t a thing, and should have been translated as “isn’t an offering” instead of transliterating it.<endnote> are not for the bhikkhunīs. The bhikkhunīs’ offerings and non-offerings are not for the bhikkhus.
 
 
 
 
-Summary Verse
+<beginh2>Summary Verse<endh2>
 
 
 <beginchinese>覆鉢并寶鉢 開廁入浴室
@@ -58,10 +58,10 @@ Summary Verse
 非是比丘尼 比丘捨迦絺
 非是比丘尼 第四跋渠竟<endchinese>
 
-Covering the bowl, valuables in the bowl, an open toilet, entering a bathroom,
+<beginverse>Covering the bowl, valuables in the bowl, an open toilet, entering a bathroom,
 Living in the wilderness, bhikkhus receiving kaṭhina,
 not valid for bhikkhunīs, bhikkhus relinquishing kaṭhina,
-not valid for bhikkhunīs, the fourth chapter is finished.
+not valid for bhikkhunīs, the fourth chapter is finished.<endverse>
 
 
 
@@ -71,7 +71,7 @@ MgPn36
 
 <beginchinese>食於比丘不淨比丘尼淨。比丘尼不淨比丘淨。比丘得使比丘尼授食。除金銀及錢五生種火淨。比丘尼得從比丘受食。除金銀及錢火淨五生種。<endchinese>
 
-Food that is impure for bhikkhus may be pure for bhikkhunīs. Food that is impure for bhikkhunīs may be pure for bhikkhus. A bhikkhu may have a bhikkhunī offer food, but not gold, silver, money, and the five kinds of purifications of living seeds by fire (etc.). <note: Fruits have to be made allowable for consumption by monastics through a procedure that symbolically damages the seeds. This can be done with five methods, one of them being with fire.> A bhikkhunī may accept food from a bhikkhu, but not gold, silver, money, and the five kinds of purifications of living seeds by fire (etc.).
+Food that is impure for bhikkhus may be pure for bhikkhunīs. Food that is impure for bhikkhunīs may be pure for bhikkhus. A bhikkhu may have a bhikkhunī offer food, but not gold, silver, money, and the five kinds of purifications of living seeds by fire (etc.). <beginnote>Fruits have to be made allowable for consumption by monastics through a procedure that symbolically damages the seeds. This can be done with five methods, one of them being with fire.<endnote> A bhikkhunī may accept food from a bhikkhu, but not gold, silver, money, and the five kinds of purifications of living seeds by fire (etc.).
 
 
 
@@ -91,7 +91,7 @@ MgPn38
 
 <beginchinese>有三因緣非比丘尼。何等三。心決定壞威儀。有實事僧驅出。轉形為男。如比丘中說。<endchinese>
 
-There are three reasons for which someone is no longer a bhikkhunī. Which three? She decides to break proper conduct<note: i.e. puts on lay clothes, see pakiṇṇaka rule 29>, there are valid reasons for the sangha to expel her, or she turns into a man. To be explained as for the bhikkhus.
+There are three reasons for which someone is no longer a bhikkhunī. Which three? She decides to break proper conduct<beginnote>i.e. puts on lay clothes, see pakiṇṇaka rule 29<endnote>, there are valid reasons for the sangha to expel her, or she turns into a man. To be explained as for the bhikkhus.
 
 
 
@@ -116,25 +116,25 @@ The Buddha was staying at Sāvatthī. Both sanghas had been invited for a meal o
 
 
 
-Summary Verse
+<beginh2>Summary Verse<endh2>
 
 
 <beginchinese>二眾淨不同 三非比丘僧
 三非比丘尼 無殘八上座
 第五跋渠竟<endchinese>
 
-For the two sanghas purity isn’t the same, three reasons for not being a bhikkhu,
+<beginverse>For the two sanghas purity isn’t the same, three reasons for not being a bhikkhu,
 Three reasons for not being a bhikkhunī, no leftovers, the eight seniors,
-The fifth chapter is finished.
+The fifth chapter is finished.<endverse>
 
 
 
 
-Conclusion
+<beginh2>Conclusion<endh2>
 
 
 <beginchinese>比丘雜跋渠中。別住蒜傘蓋。乘刀治革屣同床臥坐伎樂九事應出不說。餘十三跋渠殘比丘尼別。五雜跋渠威儀中。阿練若浴室廁屋縫衣簟應出不說。餘盡同比丘尼。二部修多羅及學五百戒。世尊分別說戒序。八波羅夷。十九僧伽婆尸沙。三十尼薩耆波夜提。百四十一波夜提。八波羅提提舍尼。六十四眾學。七止諍法。法隨順法偈在後。比丘尼比尼竟。<endchinese>
 
-From the bhikkhus’ collection of miscellaneous rules (pakiṇṇaka), the nine rules on living apart, garlic, umbrellas, vehicles, wielding a knife, leather sandals, sleeping together on one bed, sitting together on one bed, and dancing and music, should be removed and not recited. The remaining of the other 13 chapters are different from the bhikkhunīs’ rules.<note: It’s not clear to me how it should make sense to remove nine rules, and then not share any of the rest. When comparing it with the Lokuttaravāda parallel, it seems obvious that this text is corrupted. The Lo gives instructions to remove the nine rules as above from various places in the bhikkhu pakiṇṇaka, and to replace them with other nine rules from the 12th chapter of the bhikkhu pakiṇṇaka. The 12th chapter is thus completely broken up, and integrated in the other chapters. Therefore, of the original 14 chapters, 13 remain, which are all shared between bhikkhus and bhikkhunīs.>
+From the bhikkhus’ collection of miscellaneous rules (pakiṇṇaka), the nine rules on living apart, garlic, umbrellas, vehicles, wielding a knife, leather sandals, sleeping together on one bed, sitting together on one bed, and dancing and music, should be removed and not recited. The remaining of the other 13 chapters are different from the bhikkhunīs’ rules.<beginnote>It’s not clear to me how it should make sense to remove nine rules, and then not share any of the rest. When comparing it with the Lokuttaravāda parallel, it seems obvious that this text is corrupted. The Lo gives instructions to remove the nine rules as above from various places in the bhikkhu pakiṇṇaka, and to replace them with other nine rules from the 12th chapter of the bhikkhu pakiṇṇaka. The 12th chapter is thus completely broken up, and integrated in the other chapters. Therefore, of the original 14 chapters, 13 remain, which are all shared between bhikkhus and bhikkhunīs.<endnote>
 Five rules from the Abhisamācārika should be removed and not recited: wilderness, bathrooms, toilets, sewing robes, and bamboo mats. The remaining are all shared with the bhikkhunīs. 
 These are the pātimokkhas for the two sanghas and the 500 training precepts that the World-honored One has revealed: the introduction, the eight eight pārājika rules, the 19 saṅghādisesa rules, the 30 nissaggiya pācittiya rules, the 141 pācittiya rules, the eight pātidesanīya rules, the 64 training rules (sekhiyas), the seven rules to settle disputes, the dhammas and anudhammas, and lastly the verses. End of the bhikkhunī vinaya.

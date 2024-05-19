@@ -8,7 +8,7 @@ The second, the third, and the fourth rules are as explained in detail in the bh
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼於聚落空地。不與取隨盜。物主或捉或殺或縛或擯出。咄女人汝賊汝癡耶。比丘尼如是不與取波羅夷。不應共住。<endchinese>
@@ -23,7 +23,7 @@ MgVb_pj3
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼自手奪人命。求持刀與殺者。教死歎死。咄人用惡活。為死勝生。作如是意如是想。方便歎譽死快。因是死非餘者。是比丘尼波羅夷。不應共住。<endchinese>
@@ -38,7 +38,7 @@ MgVb_pj4
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼未知未了。自稱得過人法。聖知見殊勝如是知如是見。彼於後時若撿挍若不撿挍犯罪。欲求清淨故便作是言。阿梨耶我不知言知不見言見空誑不實語除增上慢。是名比丘尼波羅夷不應共住。<endchinese>

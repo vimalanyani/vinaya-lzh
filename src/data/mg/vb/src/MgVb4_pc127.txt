@@ -3,7 +3,7 @@ MgVb_pc127
 
 
 
-Origin Story
+<beginh2>Origin Story<endh2>
 
 
 <beginchinese>佛住毘舍離。爾時世尊制戒。不聽俗人婦女揩摩洗浴。時跋陀羅比丘尼使比丘尼揩摩。
@@ -15,7 +15,7 @@ For this reason, the bhikkhunīs went and spoke with the World-honored One. … 
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼不病。使比丘尼揩摩洗浴者波夜提。<endchinese>
@@ -25,7 +25,7 @@ If a bhikkhunī who isn’t sick has another bhikkhunī massage and wash her, it
 
 
 
-Explanation
+<beginh2>Explanation<endh2>
 
 
 <beginchinese>若揩而不摩越毘尼罪。摩而不揩亦越毘尼罪。二俱者波夜提。若比丘不病。令比丘揩摩者越毘尼罪。是故世尊說。<endchinese>

@@ -3,12 +3,12 @@ MgVb_ss8
 
 
 
-First Origin Story
+<beginh2>First Origin Story<endh2>
 
 
 <beginchinese>佛住舍衛城。爾時阿摩羅邑力士婦。年少端正與人私通。其夫語言。汝莫復作。若作者我當如是如是治汝。其婦故作不止。其夫即伺。合男子捉取。便送與斷事官言。我婦與是人通。願官與我如法治罪。如法治罪者言。若女人共他私通者。應七日二眾前集。集會七日已於二家眾前中裂其身。官便語婦言。汝且還歸。若家有者。可往辦具布施飲食。若無者隨意。滿七日已當於二眾前中裂汝身。即便還家具辦飲食施於二眾。此婦於屏處啼泣。諸母人問言。汝何故啼耶。<endchinese>
 
-The Buddha was staying at Sāvatthī. At that time, there was a wife in a powerful household in the village Āmala who was young and graceful. She had an affair with someone else. Her husband said: “Don’t do it again. If you do it again, I’ll punish you in such-and-such a way.” His wife did as before without stopping. Her husband then investigated, and caught her when she was with the other man. He brought her to the judge and said: “My wife has an affair with this man. I ask the judge to allow me to punish her for her crime according to the law.” —“Punishing her for her crime according to the law” means if a woman has an affair with someone else, she should appear before the two gathered assemblies for seven days. After the seven-day gathering, her body should be ripped apart through the middle in front of the assemblies of the two families (i.e. the woman’s and her husband’s).— The judge then said to the wife: “You may return home. If you have things at home, you may go and prepare offerings of food and drinks. If you don’t have anything, you can do what you like. When the seven days are over, your body will be ripped apart through the middle in front of the two assemblies.” She then returned home, and prepared food and drinks to offer to the two assemblies. She then cried in a secluded place. Some women<note: 諸母人, lit. “motherly people” seems to be an overly literal rendering of “mātugāma”.> asked her: “Why do you cry?” 
+The Buddha was staying at Sāvatthī. At that time, there was a wife in a powerful household in the village Āmala who was young and graceful. She had an affair with someone else. Her husband said: “Don’t do it again. If you do it again, I’ll punish you in such-and-such a way.” His wife did as before without stopping. Her husband then investigated, and caught her when she was with the other man. He brought her to the judge and said: “My wife has an affair with this man. I ask the judge to allow me to punish her for her crime according to the law.” —“Punishing her for her crime according to the law” means if a woman has an affair with someone else, she should appear before the two gathered assemblies for seven days. After the seven-day gathering, her body should be ripped apart through the middle in front of the assemblies of the two families (i.e. the woman’s and her husband’s).— The judge then said to the wife: “You may return home. If you have things at home, you may go and prepare offerings of food and drinks. If you don’t have anything, you can do what you like. When the seven days are over, your body will be ripped apart through the middle in front of the two assemblies.” She then returned home, and prepared food and drinks to offer to the two assemblies. She then cried in a secluded place. Some women<beginnote>諸母人, lit. “motherly people” seems to be an overly literal rendering of “mātugāma”.<endnote> asked her: “Why do you cry?” 
 
 
 <beginchinese>答言。我那得不啼。滿七日已當於二眾前中裂我身。母人言。汝欲得活不。答言爾。便語言。汝往舍衛城迦梨比丘尼所。求索出家可得活。眾人酒醉。於是女人似如小出。即詣舍衛城問人言。比丘尼僧伽藍在何處。示處。入問人言。何者是迦梨比丘尼房。即示其處入已白言阿梨耶。我欲出家。問言。主聽汝未。答言。云何聽。比丘尼言。若未出嫁父母聽已。嫁者姑妐夫主叔聽。是則聽。答言。若爾者已自是聽。諸宗親都欲中裂我身棄捨竟。比丘尼言。若爾者已好放汝。即度出家受具足。<endchinese>
@@ -28,7 +28,7 @@ When the bhikkhunīs heard this, they told Mahāpajāpatī, and she fully inform
 
 
 
-Preliminary Ruling
+<beginh2>Preliminary Ruling<endh2>
 
 
 <beginchinese>從今日後。不聽犯罪女人眾欲治罪而度出家。<endchinese>
@@ -38,7 +38,7 @@ From now on, it’s no longer allowed to give the going forth to a woman who has
 
 
 
-Second Origin Story
+<beginh2>Second Origin Story<endh2>
 
 
 <beginchinese>復次釋迦揵提邑有女人。如上說。乃至語比丘尼言。度我出家。比丘尼言。先已有比如此犯罪不聽出家。復向餘比丘尼。都無度者。便向外道求出家。其人欲取治罪而不知處。聞在舍衛城外道已度出家。其夫念言。此婦本是優婆塞女。而今墮外道邪見即是治罪。便不復尋求。諸外道法飲米泔汁及盪釜水裸形無恥。而復妻掠無度。其婦厭患言。此非出家之法。即捨向比丘尼精舍。白言。我墮深坑崩岸當墮泥犁。唯願牽我出家。諸比丘尼無敢度者。便詣大愛道白言。阿梨耶。是我親里釋家女今墮深坑。願度我出家。
@@ -50,7 +50,7 @@ Mahāpajāpatī then went and informed the World-honored One of this matter. The
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼知犯罪女眾親欲治而度除餘時。餘時者。先外道度。是名餘時。是法初罪。<endchinese>
@@ -60,9 +60,9 @@ If a bhikkhunī knows that a woman has committed a crime, and that her assembled
 
 
 
-Explanation
+<beginh2>Explanation<endh2>
 
 
 <beginchinese>比丘尼者如上說。知者。若自知若從他聞。眾者。二眾集父母眾。夫家眾親者。婆羅門宗姓。剎利宗姓。毘舍宗姓。首陀羅宗姓。治罪者。或以薄裹而燒。或沙囊繫頸沈著水中或火燒頭。或截耳截鼻。或燒熱鐵烙小便道。或中裂其身。如是國法種種不同。除先在外道出家者。世尊說無罪外道者。尼揵帝梨檀遲伽。如是比外道。是法初罪僧伽婆尸沙者如上廣說。若比丘尼知犯罪女應治度出家越比尼罪。與學法者偷蘭遮受具足僧伽婆尸沙。是故世尊說。<endchinese>
 
-“A bhikkhunī” is as explained above. “Knowing” means she either knows herself or hears it from others. “Assembled” means the two assemblies gathered: her parental family and her husband’s family. “Relatives” means from brahmin, noble, merchant or worker families. “Punish for a crime” means wrapping her lightly and setting her on fire, tying a sand bag around her neck and drowning her, burning her head, cutting off her ears and nose, burning her vagina with glowing iron, or ripping her body apart through the middle. Like this there are all kinds of different national laws. “Except if she has first been given the going forth by non-Buddhist renunciates” means that the World-honored One said that there is no offense. “Non-Buddhist renunciates” means Jains, trident-bearing ascetics<note: Tre-daṇḍikās>, and similar non-Buddhist renunciates. This rule is an immediate saṅghādisesa offense. “A saṅghādisesa” is as explained in detail above. If a bhikkhunī knows that a woman has committed a crime and should be punished, and gives her the going forth, she breaks a minor vinaya rule. If she gives her the (sikkhamānā) training precepts, it’s a thullaccaya. If she gives her the full ordination, it’s a saṅghādisesa. This is what the World-honored One said.
+“A bhikkhunī” is as explained above. “Knowing” means she either knows herself or hears it from others. “Assembled” means the two assemblies gathered: her parental family and her husband’s family. “Relatives” means from brahmin, noble, merchant or worker families. “Punish for a crime” means wrapping her lightly and setting her on fire, tying a sand bag around her neck and drowning her, burning her head, cutting off her ears and nose, burning her vagina with glowing iron, or ripping her body apart through the middle. Like this there are all kinds of different national laws. “Except if she has first been given the going forth by non-Buddhist renunciates” means that the World-honored One said that there is no offense. “Non-Buddhist renunciates” means Jains, trident-bearing ascetics<beginnote>Tre-daṇḍikās<endnote>, and similar non-Buddhist renunciates. This rule is an immediate saṅghādisesa offense. “A saṅghādisesa” is as explained in detail above. If a bhikkhunī knows that a woman has committed a crime and should be punished, and gives her the going forth, she breaks a minor vinaya rule. If she gives her the (sikkhamānā) training precepts, it’s a thullaccaya. If she gives her the full ordination, it’s a saṅghādisesa. This is what the World-honored One said.

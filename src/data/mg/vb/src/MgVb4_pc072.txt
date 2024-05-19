@@ -5,14 +5,14 @@ MgVb_pc72
 東晉天竺三藏佛陀跋陀羅共法顯譯
 明一百四十一波夜提法之二<endchinese>
 
-Mahāsaṅghika Vinaya, 38th fascicle.
-Translated by the Indian Tipiṭaka master Buddhabhadra together with Fǎxiǎn during the Eastern Jin dynasty.
-Explanation of the 141 pācittiya rules, part two.
+<begindescription>Mahāsaṅghika Vinaya, 38th fascicle.<enddescription>
+<begindescription>Translated by the Indian Tipiṭaka master Buddhabhadra together with Fǎxiǎn during the Eastern Jin dynasty.<enddescription>
+<begindescription>Explanation of the 141 pācittiya rules, part two.<enddescription>
 
 
 
 
-Origin Story
+<beginh2>Origin Story<endh2>
 
 
 <beginchinese>佛住舍衛城。爾時有人名竭住。在外道中出家。父母在佛法中出家。時竭住。盛寒時無衣。往至母所禽獸而住。母即慈念。有新浣染作淨欝多羅僧。便脫與之。得已即著入酒店中坐。為世人所嫌。言此邪見噉酒糟驢。而著聖人幖幟。諸比丘尼聞已語大愛道。大愛道即以是事往白世尊。佛言。呼是比丘尼來。來已問言。汝實爾不。答言實爾。佛言。此是惡事。汝云何持衣與出家外道。從今已後。不聽自手與外道衣。佛告大愛道瞿曇彌。依止舍衛城比丘尼皆悉令集。乃至已聞者當重聞。<endchinese>
@@ -22,7 +22,7 @@ The Buddha was staying at Sāvatthi. At that time there was someone called Garto
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼自手與俗人外道沙門衣波夜提。<endchinese>

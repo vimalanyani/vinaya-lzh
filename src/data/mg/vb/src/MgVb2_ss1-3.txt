@@ -4,7 +4,7 @@ MgVb_ss1
 <beginchinese>明十九僧殘法之一
 受使行如比丘中廣說。是故世尊說。<endchinese>
 
-Explanation of the 19 saṅghādisesa rules, part 1.
+<begindescription>Explanation of the 19 saṅghādisesa rules, part 1.<enddescription>
 
 
 “Accepting to act as a messenger” is as explained in detail in the bhikkhu rules. This is what the World-honored One said. 
@@ -12,7 +12,7 @@ Explanation of the 19 saṅghādisesa rules, part 1.
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼受使行。和合男女若取婦若私通。乃至須臾頃。是法初罪僧伽婆尸沙。<endchinese>
@@ -32,7 +32,7 @@ Two rules on “unfounded,” as explained in detail in the bhikkhu rules. This 
 
 
 
-Final ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼瞋恨不喜故。於清淨無罪比丘尼。以無根波羅夷法謗。欲破彼比丘尼淨行。彼於後時若撿挍若不撿挍。便作是言。是事無根。我住瞋恨故作是語。是法初罪。<endchinese>
@@ -42,7 +42,7 @@ If a bhikkhunī out of hostility and dissatisfaction, slanders a pure, innocent 
 
 
 
-Explanation
+<beginh2>Explanation<endh2>
 
 
 <beginchinese>是故世尊說<endchinese>
@@ -57,7 +57,7 @@ MgVb_ss3
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼瞋恨不喜故。以異分事中小小事。非波羅夷比丘尼。以波羅夷法謗。欲破彼梵行。彼於後時若撿挍若不撿挍。以異分中小小事。是比丘尼住瞋恨故說。是法初罪。<endchinese>

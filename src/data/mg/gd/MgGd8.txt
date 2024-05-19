@@ -8,7 +8,7 @@ When the bhikkhunīs have finished the rains retreat, they should perform the in
 
 
 
-Saṅghakamma
+<beginh2>Saṅghakamma<endh2>
 
 
 <beginchinese>尼僧聽。某甲比丘尼能為尼僧作自恣人。若僧時到僧羯磨某甲比丘尼為尼僧作自恣人。諸尼僧聽。某甲比丘尼為尼僧作自恣人。僧忍默然故。是事如是持。<endchinese>
@@ -53,4 +53,4 @@ When the bhikkhunīs have finished the rains retreat, they should perform the in
 
 <beginchinese>摩訶僧祇律卷第三十<endchinese>
 
-Mahāsaṅghika Vinaya, 30th fascicle.
+<begindescription>Mahāsaṅghika Vinaya, 30th fascicle.<enddescription>

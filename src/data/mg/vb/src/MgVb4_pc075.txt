@@ -3,7 +3,7 @@ MgVb_pc75
 
 
 
-Origin Story
+<beginh2>Origin Story<endh2>
 
 
 <beginchinese>佛住比舍離。爾時跋陀羅比丘尼於蘇河浴。爾時有五離車童子。於河上看。見已生欲心。比丘尼言。長壽汝去。答言我不去。欲看阿梨耶形體。比丘尼言。汝用看是臭爛身九孔門為。復言不爾。我甚欲見。良久不去。比丘尼作是念。此凡夫愚淺。即以手掩前後而出。其人見已迷悶倒地。血從口出。
@@ -15,7 +15,7 @@ The bhikkhunīs told Mahāpajāpatī, and she went to the World-honored One, and
 
 
 
-Past Life Story
+<beginh2>Past Life Story<endh2>
 
 
 <beginchinese>過去久遠。爾時有一天女端正殊特。時有五天子。一名釋迦羅。二名摩多梨。三名僧闍耶帝。四名鞞闍耶帝。五名摩吒。見已各生欲心便作是念。此非可共物。欲心重者當以與之。各言可爾。於是釋迦羅即說頌曰。<endchinese>
@@ -26,8 +26,8 @@ A long time ago, there was a graceful and exquisite goddess, and there were five
 <beginchinese>我憶婬欲時 坐臥不自安
 乃至睡眠時 欲退始得安<endchinese>
 
-When I think of sexual desire, whether sitting or lying I won’t find peace.
-Only when I’m asleep, the desire recedes and I begin to feel peace.
+<beginverse>When I think of sexual desire, whether sitting or lying I won’t find peace.
+Only when I’m asleep, the desire recedes and I begin to feel peace.<endverse>
 
 
 <beginchinese>摩多梨復說頌曰。<endchinese>
@@ -38,8 +38,8 @@ Mātali then spoke this verse:
 <beginchinese>釋迦汝眠時 猶故有暫泰
 我憶婬慾時 如陣戰鼓音<endchinese>
 
-Sakka, when you sleep, you still gain momentary rest.
-When I think of sexual desire, it’s like the sound of a drum on the battleground.
+<beginverse>Sakka, when you sleep, you still gain momentary rest.
+When I think of sexual desire, it’s like the sound of a drum on the battleground.<endverse>
 
 
 <beginchinese>僧闍耶帝復說頌曰。<endchinese>
@@ -50,8 +50,8 @@ King Sañjaya then spoke this verse:
 <beginchinese>摩多鼓音喻 猶故尚有間
 我心染欲時 如駃流漂木<endchinese>
 
-Mātali’s analogy of a drum’s sound still has intervalls between.
-When my mind is defiled with desire, it’s like a floating log swept away by a torrential river.
+<beginverse>Mātali’s analogy of a drum’s sound still has intervalls between.
+When my mind is defiled with desire, it’s like a floating log swept away by a torrential river.<endverse>
 
 
 <beginchinese>鞞闍耶帝復說頌曰。<endchinese>
@@ -62,8 +62,8 @@ King Vijaya then spoke this verse:
 <beginchinese>汝喻漂浮木 或時有稽留
 我憶欲念時 如虻虫不瞬<endchinese>
 
-Your analogy of a floating log will sometimes still get caught somewhere.
-When I think thoughts of desire, they never stop, like gadflies.
+<beginverse>Your analogy of a floating log will sometimes still get caught somewhere.
+When I think thoughts of desire, they never stop, like gadflies.<endverse>
 
 
 <beginchinese>於是摩吒復說頌曰。<endchinese>
@@ -74,8 +74,8 @@ And then Māta spoke this verse:
 <beginchinese>汝等諸所說 全是安樂想
 我耽婬欲時 不覺死與生<endchinese>
 
-All that you’ve spoken is full of comfortable ideas.
-When I’m obsessed with sexual desire, I don’t know if I’m dead or alive.
+<beginverse>All that you’ve spoken is full of comfortable ideas.
+When I’m obsessed with sexual desire, I don’t know if I’m dead or alive.<endverse>
 
 
 <beginchinese>於是諸天子言。汝最重者即并與之。佛告諸比丘尼。爾時五天子者今五離車是。諸比丘尼白佛言。是比丘尼有何行業端正如是。在大姓家生。以信出家得證無漏。佛告諸比丘尼。過去世時有城名波羅奈。有長者家初取新婦。常有一梳頭人給與飲食。時有辟支佛名宣絺。詣門乞食。其婦見之不大端嚴無恭敬心。既不與食復不語去。梳頭人見已語言。新婦可施與食。答言。醜陋不好。我不能與。即語可賜我食分。我欲與之。答言隨意。亦可棄著水中。其人得食即施辟支佛。於是受食乘空而逝。見其飛騰心大歡喜即發誓言。願我後身生大姓家身體端正。見佛聞法得盡有漏。於是命終即生天上。於百千天女。五事最勝。壽命色力名稱辯才。天上命終生波羅奈城婆羅門家。值迦葉佛出世時。父母出行遊觀。時女在家。迦葉佛入城乞食次到其家。宿殖德故見大歡喜。淨洗銅盤盛種種好食及憍舍耶衣奉上世尊。即說頌曰。<endchinese>
@@ -87,9 +87,9 @@ At that, the gods said: “You’re the most lustful, and we’ll give her to yo
 今供牟尼尊 結習盡得證
 如是漏盡證 願我亦復然<endchinese>
 
-Today I offered food and a robe, the most splendid of all offerings,
+<beginverse>Today I offered food and a robe, the most splendid of all offerings,
 Today I offered to a respected sage, who has exhausted afflictions and attained awakening.
-This ending of the taints and awakening, I also wish to attain.
+This ending of the taints and awakening, I also wish to attain.<endverse>
 
 
 <beginchinese>此女後嫁適婆羅門家。姑妐嚴惡難事。乃至我用此活為。不如自殺。即持瓔珞及塗身香。并自絞繩。欲行自殺。過見迦葉佛塔。即持嚴身之具供養佛塔。然後自絞。命終之後即生婆羅門家。乃至自說頌曰。<endchinese>
@@ -100,13 +100,13 @@ That woman later married into another brahmin household. Her parents-in-law were
 <beginchinese>瓔珞衣香花 信供迦葉塔
 緣此福報故 今禮世尊足<endchinese>
 
-A necklace, robes, perfumes, and flowers, I’ve offered with faith to the stūpa of Kassapa.
-As a result of this merit, I now pay respect at the World-honored One’s feet.
+<beginverse>A necklace, robes, perfumes, and flowers, I’ve offered with faith to the stūpa of Kassapa.
+As a result of this merit, I now pay respect at the World-honored One’s feet.<endverse>
 
 
 
 
-Origin Story (Continued)
+<beginh2>Origin Story (continued)<endh2>
 
 
 <beginchinese>佛言。從今日後。應作浴衣。乃至已聞者當重聞。<endchinese>
@@ -116,7 +116,7 @@ The Buddha said: “From now on, you should make a bathing robe.” … Those wh
 
 
 
-Final Ruling:
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼作雨浴衣。應量作。長四修伽陀搩手。廣二搩手。若過作截已波夜提。<endchinese>
@@ -126,7 +126,7 @@ If a bhikkhunī makes a rains bathing robe, she should make it according to the 
 
 
 
-Explanation:
+<beginh2>Explanation<endh2>
 
 
 <beginchinese>如上僧祇支中廣說。<endchinese>

@@ -3,7 +3,7 @@ MgVb_pc1-70
 
 <beginchinese>明一百四十一波夜提法之一<endchinese>
 
-Explanation of the 141 pācittiya rules, part one.
+<begindescription>Explanation of the 141 pācittiya rules, part one.<enddescription>
 
 
 <beginchinese>妄語及種類 兩舌更發起

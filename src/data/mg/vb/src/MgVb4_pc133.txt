@@ -3,7 +3,7 @@ MgVb_pc133
 
 
 
-Origin Story
+<beginh2>Origin Story<endh2>
 
 
 <beginchinese>佛住王舍城。爾時樹提比丘尼隱處生癰。諸比丘尼入聚落乞食。後有治癰師來。比丘尼言。長壽。與我破癰。答言可爾。即與破癰瘡。著塗藥已而去。諸比丘尼乞食還。見地膿血問言。此是何等膿血。答言。我破癰瘡。諸比丘尼嫌言。汝云何隱處有癰。不白善比丘尼而破。
@@ -15,7 +15,7 @@ The bhikkhunīs told Mahāpajāpatī, … She answered: “I really did this, Wo
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼。膝以上肩以下隱處有癰瘡。先不白聽男子破洗者波夜提。<endchinese>
@@ -25,7 +25,7 @@ If a bhikkhunī has an abscess in a hidden place above the knees, below the shou
 
 
 
-Explanation
+<beginh2>Explanation<endh2>
 
 
 <beginchinese>比丘尼者如上說。膝已上者髀已上。肩已下者乳房已下。先不白者不白善比丘尼。聽者不僧中作求聽羯磨。隱處有癰欲破癰者。應先僧中作求聽羯磨。<endchinese>
@@ -35,7 +35,7 @@ Explanation
 
 
 
-Saṅghakamma
+<beginh2>Saṅghakamma<endh2>
 
 
 <beginchinese>羯磨者應作是說。阿梨耶僧聽。某甲比丘尼隱處有癰。若僧時到僧某甲比丘尼。欲從僧乞破癰羯磨。阿梨耶僧聽。某甲比丘尼。欲從僧乞破癰羯磨。僧忍默然故。是事如是持。<endchinese>
@@ -55,4 +55,4 @@ If she has an abscess in a hidden place, she should have a trustworthy person—
 
 <beginchinese>摩訶僧祇律卷第三十九<endchinese>
 
-Mahāsaṅghika Vinaya, 39th fascicle.
+<begindescription>Mahāsaṅghika Vinaya, 39th fascicle.<enddescription>

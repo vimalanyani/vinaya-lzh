@@ -3,7 +3,7 @@ MgVb_ss9
 
 
 
-Origin Story
+<beginh2>Origin Story<endh2>
 
 
 <beginchinese>佛住舍衛城。爾時眾多女人在阿耆羅河彼岸。此岸比丘尼僧集。時偷蘭難陀比丘尼。脫衣放地截流浮渡。諸女人共相謂言。看是偷蘭難陀比丘尼浮渡而來。來已於露處坐已。須臾復還渡。諸女人嫌言。云何是偷蘭難陀比丘尼如凶惡人渡已復還。
@@ -15,7 +15,7 @@ When the bhikkhunīs heard this, they told Mahāpajāpatī, and she went to the 
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼於船渡處獨渡河者。是法初罪僧伽婆尸沙<endchinese>
@@ -25,7 +25,7 @@ If a bhikkhunī crosses a river alone at a ferry crossing place, it’s an immed
 
 
 
-Explanation
+<beginh2>Explanation<endh2>
 
 
 <beginchinese>比丘尼者如上說。獨渡者出界到彼岸僧伽婆尸沙。<endchinese>

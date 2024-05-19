@@ -3,7 +3,7 @@ MgVb_pc125
 
 
 
-Origin Story
+<beginh2>Origin Story<endh2>
 
 
 <beginchinese>佛住舍衛城。爾時比丘尼諍鬪不和合住。時大愛道瞿曇彌眾主。僧諍事已起者不能滅。未起者不能令不起。
@@ -15,7 +15,7 @@ For this reason, the bhikkhunīs went and spoke with the World-honored One. The 
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼鬪諍不和合住。眾主不料理斷滅者波夜提。<endchinese>
@@ -25,7 +25,7 @@ If bhikkhunīs are quarreling and don’t live in harmony, and the group’s lea
 
 
 
-Explanation
+<beginh2>Explanation<endh2>
 
 
 <beginchinese>比丘尼者如上說。諍者口諍。鬪者展轉取勝不和合住。是法非法。是毘尼非毘尼。是罪非罪。是輕是重。是可治是不可治。有殘無殘。如法羯磨非法羯磨。和合羯磨不和合羯磨。應羯磨不應羯磨。是處羯磨非處羯磨。眾主者眾之標望得自從意。不料理斷滅者不自滅不使人滅波夜提。波夜提者如上說。若比丘尼鬪諍不和合住。不得視置。當料理斷滅使展轉悔過。若復不止事。須羯磨者當集僧料理。若自不能者。當餘眾請有德比丘尼。若比丘。若優婆塞優婆夷令滅。若諍事難斷當作是念。眾生業行待時待熟自當滅。如是者無罪。若比丘鬪諍。眾主不料理滅者越毘尼。罪是故世尊說。<endchinese>

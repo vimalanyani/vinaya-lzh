@@ -3,7 +3,7 @@ MgVb_pc128
 
 
 
-Origin Story
+<beginh2>Origin Story<endh2>
 
 
 <beginchinese>沙彌尼亦如是。乃至已聞者當重聞。<endchinese>
@@ -13,7 +13,7 @@ With a sāmaṇerī it’s also as above. … Those who have already heard it sh
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼不病。令沙彌尼揩摩者波夜提。<endchinese>
@@ -23,7 +23,7 @@ If a bhikkhunī who isn’t sick has a sāmaṇerī massage her, it’s a pācit
 
 
 
-Explanation
+<beginh2>Explanation<endh2>
 
 
 <beginchinese>沙彌尼者隨佛出家受十戒使揩摩者如比丘尼中說。<endchinese>

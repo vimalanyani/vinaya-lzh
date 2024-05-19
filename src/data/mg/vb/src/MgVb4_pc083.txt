@@ -3,7 +3,7 @@ MgVb_pc83
 
 
 
-Origin Story
+<beginh2>Origin Story<endh2>
 
 
 <beginchinese>佛住拘睒彌。爾時世尊制戒不得作醫師活命。有人呼闡陀母治病。比丘尼言。世尊制戒不聽。復言。若不聽者授我醫方。即授與俗人外道醫方。諸比丘尼言。但誦醫方此非出家法。
@@ -15,7 +15,7 @@ The bhikkhunīs told Mahāpajāpatī, and she fully informed the World-honored O
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼授俗人外道醫方者波夜提。<endchinese>
@@ -25,7 +25,7 @@ If a bhikkhunī teaches lay people and non-Buddhist renunciates medicinal treatm
 
 
 
-Explanation
+<beginh2>Explanation<endh2>
 
 
 <beginchinese>比丘尼者如上說。俗人者在家人。外道者出家外道。授醫方者呪蛇呪毒乃至呪火呪星宿日月波夜提波夜提者如上說。比丘尼不得授俗人外道醫方。不得教語。若比丘授俗人外道醫方者越比尼罪。是故世尊說。<endchinese>

@@ -3,7 +3,7 @@ MgVb_pc109
 
 
 
-Origin Story
+<beginh2>Origin Story<endh2>
 
 
 <beginchinese>佛住舍衛城。爾時偷蘭難陀比丘尼十法不滿。度弟子不教誡。如天牛天羊。乃至比丘尼語言。阿梨耶。汝十法不具足。度弟子何不教誡使如法。偷蘭難陀言。汝妬我度弟子而責數我。
@@ -15,7 +15,7 @@ The bhikkhunīs told Mahāpajāpatī, and she went to the World-honored One, and
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼語比丘尼作是語。阿梨耶。十法不具足度弟子應教誡。而反嫌責者波夜提。<endchinese>
@@ -25,7 +25,7 @@ If a bhikkhunī, when the bhikkhunīs say to her: ‘Venerable, not fulfilling t
 
 
 
-Explanation
+<beginh2>Explanation<endh2>
 
 
 <beginchinese>比丘尼者若僧若眾多人若一人。是比丘尼者如偷蘭難陀比丘尼。十法不具者十法不成就。度弟子者受具足作是諫時。而嫌責者波夜提。波夜提者如上說。比丘如是者越毘尼罪。是故世尊說。<endchinese>

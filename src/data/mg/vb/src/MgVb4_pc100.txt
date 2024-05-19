@@ -5,14 +5,14 @@ MgVb_pc100
 東晉天竺三藏佛陀跋陀羅共法顯譯
 明一百四十一波夜提法之三<endchinese>
 
-Mahāsaṅghika Vinaya, 39th fascicle.
-Translated by the Indian Tipiṭaka master Buddhabhadra together with Fǎxiǎn during the Eastern Jin dynasty.
-Explanation of the 141 pācittiya rules, part three.
+<begindescription>Mahāsaṅghika Vinaya, 39th fascicle.<enddescription>
+<begindescription>Translated by the Indian Tipiṭaka master Buddhabhadra together with Fǎxiǎn during the Eastern Jin dynasty.<enddescription>
+<begindescription>Explanation of the 141 pācittiya rules, part three.<enddescription>
 
 
 
 
-Origin Story
+<beginh2>Origin Story<endh2>
 
 
 <beginchinese>佛住舍衛城。爾時釋種女拘梨女摩羅女梨車女先已嫁出家。曾任苦事故而有黠慧。大愛道瞿曇彌問佛世尊。已嫁女減二十雨得與受具足不。佛言得。爾時比丘尼與曾嫁八歲九歲女受具足。太小軟弱不堪苦事。諸比丘尼語大愛道。大愛道即以是事往白世尊。乃至已聞者當重聞。<endchinese>
@@ -22,7 +22,7 @@ The Buddha was staying at Sāvatthī. At that time, women from the clans of the 
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼適他婦減十二雨與受具足者波夜提。<endchinese>
@@ -32,7 +32,7 @@ If a bhikkhunī gives the full ordination to a married woman, who is less than 1
 
 
 
-Explanation
+<beginh2>Explanation<endh2>
 
 
 <beginchinese>減十二雨者如減二十雨中廣說。適他婦者壞梵行。與受具足者波夜提。波夜提者如上說。若適他婦欲於如來法律中受具足者。應先問乃至看手足骨節。是故世尊說。<endchinese>

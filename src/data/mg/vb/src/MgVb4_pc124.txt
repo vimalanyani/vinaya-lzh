@@ -3,7 +3,7 @@ MgVb_pc124
 
 
 
-Origin Story
+<beginh2>Origin Story<endh2>
 
 
 <beginchinese>佛住王舍城。爾時六群比丘尼先到作伎樂處。占顧坐處伎兒戲時高聲大笑。眾人效笑。人笑時便復默然似如坐禪人。笑適止。還復拍手大笑。於是眾人捨伎兒而觀比丘尼。時伎兒不得雇直。瞋恚嫌責。坐是沙門尼。令我失雇直。
@@ -15,7 +15,7 @@ The bhikkhunīs told Mahāpajāpatī, … They answered: “We really did this.�
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼觀伎樂行波夜提。<endchinese>
@@ -25,7 +25,7 @@ If a bhikkhunī goes to watch a musical performance, it’s a pācittiya.”
 
 
 
-Explanation
+<beginh2>Explanation<endh2>
 
 
 <beginchinese>比丘尼者如上說。伎樂者舞伎歌伎鐃盤打鼓如是一切。下至四人共戲。觀看者波夜提。波夜提者如上說。不得觀伎樂。若比丘尼乞食值王王夫人。若天像出有伎樂者遇見無罪。若下處就高作意闚望逐看波夜提若檀越欲供養佛。作眾伎樂研香結鬘。語比丘尼言阿梨耶。佐我安施供養具。爾時得助作。若於彼間聞樂。有欲著心者當捨去。若比丘觀伎樂者越毘尼罪。是故世尊說。<endchinese>

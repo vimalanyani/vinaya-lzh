@@ -3,7 +3,7 @@ MgVb_pc74
 
 
 
-First Origin Story
+<beginh2>First Origin Story<endh2>
 
 
 <beginchinese>佛住舍衛城。爾時有比丘尼年少端正。著衣道行。時兩乳現出。男子見已笑之。諸比丘尼聞已語大愛道。大愛道即以是事往白世尊。乃至佛言。<endchinese>
@@ -14,7 +14,7 @@ When the bhikkhunīs heard this, they told Mahāpajāpatī, and she went to the 
 
 
 
-Preliminary Ruling
+<beginh2>Preliminary Ruling<endh2>
 
 
 <beginchinese>從今已後。比丘尼應作僧祇支。<endchinese>
@@ -24,7 +24,7 @@ Preliminary Ruling
 
 
 
-Second Origin Story
+<beginh2>Second Origin Story<endh2>
 
 
 <beginchinese>復次爾時有比丘尼。留縷作僧祇支長廣。乃至佛言。從今日後。截縷應量作。佛告大愛道瞿曇彌。依止舍衛城比丘尼皆悉令集。乃至已聞者當重聞。<endchinese>
@@ -34,7 +34,7 @@ At another time, there was a bhikkhunī who attached strands to make her vest lo
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼僧祇支應量作。長四修伽陀搩手。廣兩搩手。若過作截已波夜提。<endchinese>
@@ -44,7 +44,7 @@ A bhikkhunī should make the vest according to the measurements: four sugata han
 
 
 
-Explanation
+<beginh2>Explanation<endh2>
 
 
 <beginchinese>波夜提如上安陀會中廣說。<endchinese>

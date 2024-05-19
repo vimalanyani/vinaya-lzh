@@ -3,7 +3,7 @@ MgVb_pc135
 
 
 
-Origin Story
+<beginh2>Origin Story<endh2>
 
 
 <beginchinese>佛住舍衛城。爾時比丘尼。舍衛城安居竟。來詣比舍離。往到跋陀羅比丘尼親里家。其家人問何處安居。答言。舍衛城。問。舍衛城何似好不。比丘尼言。祇洹樹林華果茂盛池水清涼。精舍如是。世尊住處如是。尊者舍利弗大目連如是。須達居士如是。檀越言。此是真出家。今我跋陀羅此處生此處長。如無手足人。初不肯出。
@@ -15,7 +15,7 @@ For this reason, the bhikkhunīs went and informed the World-honored One. … Sh
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼。安居竟不遊行者波夜提。<endchinese>
@@ -25,7 +25,7 @@ If a bhikkhunī doesn’t wander after the end of the rains retreat, it’s a p�
 
 
 
-Explanation
+<beginh2>Explanation<endh2>
 
 
 <beginchinese>安居竟者。三月竟。不遊行者。乃至不出聚落行波夜提。波夜提者如上說。安居竟乃至不離界一宿行波夜提。若羸老病不能行無罪。是故世尊說。<endchinese>

@@ -3,7 +3,7 @@ MgVb_ss7
 
 
 
-Origin Story
+<beginh2>Origin Story<endh2>
 
 
 <beginchinese>佛住舍衛城。王舍城中有長者名曰須提那。有婦年少端正。其夫無常。婦不樂男子。叔欲攝取。即語餘婦人言。我不樂男子。而叔欲取我為婦。女人語言。汝欲得離不。答言。我欲離。即語言。汝往舍衛城。就迦梨比丘尼所。當度汝出家。此婦人似如出行。便詣舍衛城問人言。何者是比丘尼僧伽藍。即示處。入已問言。何者是迦梨比丘尼房。即示房處入已問言。阿梨耶是迦梨非。答言是。為何故問。答言。我欲出家。即度出家受具足。其叔於後求不知處。有人語言。舍衛城迦梨比丘尼已度出家。便往舍衛城問人言。何者是比丘尼僧伽藍。即示處。入已問言。何者是迦梨比丘尼房。即示處。入已問言。阿梨耶是迦梨耶。答言是。何故問。便言。我不放婦。何故度我婦出家。尼言長壽。汝何處來。答言。王舍城來。比丘尼罵言。短壽物汝是賊。王舍城人恒來喜作細作。伺國長短。即語弟子。取我僧伽梨來。繫此短壽閉著獄中。其人即恐便作是念。此人眼目可畏。或能必爾。眼並眄之漸漸却行。出外已瞋恚言。此比丘尼盜度我婦。反欲繫我。
@@ -15,7 +15,7 @@ When the bhikkhunīs heard this, they told Mahāpajāpatī, and she went and inf
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼其主不聽而度。是法初罪僧伽婆尸沙。<endchinese>
@@ -25,7 +25,7 @@ If a bhikkhunī ordains someone whose guardian hasn’t allowed it, it’s an im
 
 
 
-Explanation
+<beginh2>Explanation<endh2>
 
 
 <beginchinese>比丘尼者如上說。不聽者。未嫁女。當問父母。已出嫁當問婿姑妐及叔。不聽者度出家受具足者。僧伽婆尸沙。僧伽婆尸沙者如上說。是法初罪。若比丘尼主不聽而度者越比尼罪。與學戒者偷蘭遮。受具足者僧伽婆尸沙。是故世尊說。<endchinese>

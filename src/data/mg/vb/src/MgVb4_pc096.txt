@@ -3,7 +3,7 @@ MgVb_pc96
 
 
 
-Origin Story
+<beginh2>Origin Story<endh2>
 
 
 <beginchinese>佛住舍衛城。爾時比丘尼度十歲十二歲童女出家與受具足。時女軟弱不堪苦事。淨不具足。威儀不具足。不知奉事和上尼阿闍梨尼。不知入聚落。不知阿練若。不知入眾。不知著衣持鉢。
@@ -15,7 +15,7 @@ The bhikkhunīs told Mahāpajāpatī, … The Buddha said: “Summon that bhikkh
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼與減二十雨童女受具足者波夜提。<endchinese>
@@ -25,7 +25,7 @@ If a bhikkhunī gives the full ordination to a girl who is less than 20 rains (i
 
 
 
-Explanation
+<beginh2>Explanation<endh2>
 
 
 <beginchinese>比丘尼者如上說。減二十雨者減二十年。是名減二十雨。童女減二十雨滿二十年。亦名減二十雨。童女減二十雨出二十年。亦名減二十雨。冬時生通數冬二十未經自恣。是名減二十雨。童女春時生亦爾。前安居時生數前安居二十未經自恣。後安居時生數後安居二十未經自恣。是亦名減二十雨。童女若減二十雨。童女一切作減二十想與受具足。一切波夜提罪。此人不名受具足。若減二十雨。半減想半滿想。與受具足。減想者波夜提。滿想者無罪。此人名受具足。減二十雨童女。一切滿想與受具足。一切無罪。是人名受具足。

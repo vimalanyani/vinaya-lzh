@@ -3,7 +3,7 @@ MgVb_pc112
 
 
 
-Origin Story
+<beginh2>Origin Story<endh2>
 
 
 <beginchinese>佛住毘舍離。爾時跋陀羅伽比梨比丘尼持傘蓋著革屣。往親里家。為世人所嫌。云何沙門尼似如俗人如是多欲。
@@ -15,7 +15,7 @@ The bhikkhunīs told Mahāpajāpatī, and she went to the World-honored One, and
 
 
 
-Preliminary Ruling
+<beginh2>Preliminary Ruling<endh2>
 
 
 <beginchinese>從今已後。不聽持傘蓋革屣。<endchinese>
@@ -25,7 +25,7 @@ Preliminary Ruling
 
 
 
-Second Origin Story
+<beginh2>Second Origin Story<endh2>
 
 
 <beginchinese>復次佛住舍衛城。釋種女摩羅女先是樂人。出家道路行。時天極熱甚大疲苦。
@@ -37,7 +37,7 @@ The bhikkhunīs told Mahāpajāpatī, and she went to the World-honored One, and
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼不病。持傘蓋著革屣者波夜提。<endchinese>
@@ -47,9 +47,9 @@ If a bhikkhunī who isn’t sick holds an umbrella, and wears leather sandals, i
 
 
 
-Explanation
+<beginh2>Explanation<endh2>
 
 
 <beginchinese>比丘尼者如上說。病者老羸病尫弱。世尊說無罪。傘蓋者樹皮蓋。多梨蓋。竹蓋。摩樓蓋。樹葉蓋。［疊＊毛］傘蓋。如是比餘蓋等。革屣者一重兩重。持者受用波夜提。波夜提者如上說。持蓋不持革屣越毘尼罪。持革屣不持傘蓋。亦越毘尼罪。二俱持者波夜提。二俱不持者無罪。若比丘持莊嚴傘蓋兩重革屣者越毘尼罪。是故世尊說。<endchinese>
 
-“A bhikkhunī” is as explained above. “Sick” means old, weak, sick, disabled, or feeble. In these cases, the World-honored One said that there is no offense. “An umbrella” means a tree-bark umbrella, a palm-leaf umbrella,<note: tāla> a bamboo umbrella, a reed grass umbrella,<note:muñja> a tree-leaf umbrella, a cotton cloth umbrella, and any other similar umbrella. “Leather sandals” means single-layered and double-layered. “Holding” means using; this is a pācittiya. “Pācittiya” is as explained above. If she holds an umbrella, but doesn’t wear leather sandals, she breaks a minor vinaya rule. If she wears leather sandals, but doesn’t hold an umbrella, she also breaks a minor vinaya rule. If she holds and wears both items, it’s a pācittiya. If she doesn’t hold or wear both items, there is no offense. If a bhikkhu holds a decorated umbrella, and wears double-layered leather sandals, he breaks a minor vinaya rule. This is what the World-honored One said.
+“A bhikkhunī” is as explained above. “Sick” means old, weak, sick, disabled, or feeble. In these cases, the World-honored One said that there is no offense. “An umbrella” means a tree-bark umbrella, a palm-leaf umbrella,<beginnote>tāla<endnote> a bamboo umbrella, a reed grass umbrella,<beginnote>muñja<endnote> a tree-leaf umbrella, a cotton cloth umbrella, and any other similar umbrella. “Leather sandals” means single-layered and double-layered. “Holding” means using; this is a pācittiya. “Pācittiya” is as explained above. If she holds an umbrella, but doesn’t wear leather sandals, she breaks a minor vinaya rule. If she wears leather sandals, but doesn’t hold an umbrella, she also breaks a minor vinaya rule. If she holds and wears both items, it’s a pācittiya. If she doesn’t hold or wear both items, there is no offense. If a bhikkhu holds a decorated umbrella, and wears double-layered leather sandals, he breaks a minor vinaya rule. This is what the World-honored One said.

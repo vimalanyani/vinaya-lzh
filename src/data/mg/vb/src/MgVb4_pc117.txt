@@ -3,7 +3,7 @@ MgVb_pc117
 
 
 
-First Origin Story
+<beginh2>First Origin Story<endh2>
 
 
 <beginchinese>佛住舍衛城。爾時比丘尼在道行。暮至村中欲求宿處。至一家語婦人言。借我宿處。婦人言。我夫行去暮或能還。比丘尼復重借。言故當不來可寄一宿。即與宿處。夫主暮還為結所使與婦共行欲事。比丘尼未離欲。聞聲不悅還已語諸比丘尼。
@@ -15,7 +15,7 @@ The bhikkhunīs told Mahāpajāpatī, … The Buddha said: “Summon that bhikkh
 
 
 
-Preliminary Ruling
+<beginh2>Preliminary Ruling<endh2>
 
 
 <beginchinese>從今已後不聽。<endchinese>
@@ -25,7 +25,7 @@ From now on, it’s no longer allowed.”
 
 
 
-Second Origin Story
+<beginh2>Second Origin Story<endh2>
 
 
 <beginchinese>復次佛住舍衛城。爾時諸比丘尼道路行。至暮於聚落中。遍求無丈夫家而不能得。便在巷陌邊宿。於夜暴風雨起。有諸年少來相侵觸傷於梵行。
@@ -37,7 +37,7 @@ For this reason, the bhikkhunīs spoke with Mahāpajāpatī. … The Buddha said
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼知食家婬處宿。除餘時波夜提。餘時者風時雨時奪命時傷梵行時。是名餘時。<endchinese>
@@ -47,7 +47,7 @@ If a bhikkhunī knowingly spends the night in a place used for sex in a family t
 
 
 
-Explanation
+<beginh2>Explanation<endh2>
 
 
 <beginchinese>比丘尼者如上說。知者若自知若從他聞。食者女人是丈夫食。丈夫是女人食。家者四種姓家。婬處者夫婦宿處。除餘時波夜提。餘時世尊說無罪。風時雨時失命時疑男子傷梵行時。是名餘時。不得知食家婬處宿。若疑是聚落中有放蕩男子。畏宿者無罪。是故世尊說。<endchinese>

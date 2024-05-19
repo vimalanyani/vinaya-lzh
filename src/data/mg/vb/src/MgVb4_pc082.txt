@@ -3,7 +3,7 @@ MgVb_pc82
 
 
 
-Origin Story
+<beginh2>Origin Story<endh2>
 
 
 <beginchinese>佛住拘睒彌。爾時闡陀母比丘尼善知治病。持根藥葉藥果藥。入王家大臣家居士家。治諸母人胎病眼病。吐下熏咽灌鼻用針刀。然後持此諸藥塗之。由治病故大得供養。諸比丘尼呵言。此非出家法此是醫師耳。
@@ -15,7 +15,7 @@ The bhikkhunīs told Mahāpajāpatī, and for this reason, she went and informed
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼作醫師活命波夜提。<endchinese>
@@ -25,7 +25,7 @@ If a bhikkhunī earns a living as a doctor, it’s a pācittiya.”
 
 
 
-Explanation
+<beginh2>Explanation<endh2>
 
 
 <beginchinese>比丘尼者如上說。醫者持根藥葉藥果藥治病。復有醫呪毒呪蛇乃至呪火呪星宿日月。以此活命如闡陀母者波夜提。波夜提者如上說。比丘尼不得作醫師活命。若有病者得教語治法。比丘作醫師活命者越毘尼罪。是故世尊說。<endchinese>

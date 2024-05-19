@@ -3,7 +3,7 @@ MgVb_pc88
 
 
 
-Origin Story
+<beginh2>Origin Story<endh2>
 
 
 <beginchinese>佛住舍衛城。爾時偷蘭難陀共諸比丘尼鬪諍已。瞋恚自打自抓大啼哭淚出。
@@ -15,7 +15,7 @@ When the bhikkhunīs heard this, they told Mahāpajāpatī, and she went to the 
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼自打而啼泣淚者波夜提。<endchinese>
@@ -25,7 +25,7 @@ If a bhikkhunī hits herself, and then weeps and cries, it’s a pācittiya.”
 
 
 
-Explanation
+<beginh2>Explanation<endh2>
 
 
 <beginchinese>比丘尼者如上說。自打者若手搏若拳敲若杖若土塊若鞭。如是比丘尼自打而啼者波夜提。波夜提者如上說。若比丘尼自打不啼者越比尼罪。啼而不打者亦越比尼罪。自打而啼者波夜提。不打不啼者無罪。若比丘自打而啼越比尼罪。是故世尊說。<endchinese>

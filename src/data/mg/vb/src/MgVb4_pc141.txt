@@ -3,7 +3,7 @@ MgVb_pc141
 
 
 
-Origin Story
+<beginh2>Origin Story<endh2>
 
 
 <beginchinese>佛住舍衛城。爾時六群比丘尼遊行勸化。語女人言。與我物。欲為諸比丘作食。女人即與作是言。至作食日語我。我當行食。時請尊者舍利弗大目連離波多劫賓那尊者羅睺羅。復請六群比丘。敷二坐。一與長老比丘。一與六群比丘。爾時長老比丘。時到著衣持鉢到舍次第而坐。與尊者舍利弗白米飯蒙巨羹酥乳酪。如是轉與麁食。尊者目連與麁米飯摩沙羹油乳。餘比丘與赤米飯摩沙羹。或有得飯不得羹。有得羹不得飯。乃至尊者羅云與赤米飯麻籸菜羹。時諸女人復持種種好食來。問言與誰。比丘尼便以身障長老比丘。示六群比丘。與白米飯好羹酥乳酪。自恣與。諸比丘食已而去。佛知而故問。舍利弗。得好食滿足不。答言已食。世尊。如是三問。答亦如是。如是一一問諸長老比丘。答皆如是。乃至問羅云。何故色力不足。得好食飽不。答言世尊。食油得力食酥有色。食麻籸菜無色無力問六群比丘得好食不。答言世尊。我得白米飯好羹酥酪種種好食。皆是姊妹信心恩力。佛言。上座是誰。答言。尊者舍利弗。
@@ -14,7 +14,7 @@ The Buddha was staying at Sāvatthī. At that time, the group-of-six bhikkhunīs
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼。知眾利迴與一眾波夜提。<endchinese>
@@ -24,7 +24,7 @@ If a bhikkhunī knowingly diverts donations for one group to another group, it�
 
 
 
-Explanation
+<beginh2>Explanation<endh2>
 
 
 <beginchinese>比丘尼者如上說。知者。若自知若從他聞。眾者。比丘眾比丘尼眾。利者。八種時藥夜分藥七日藥終身藥隨身物重物不淨物淨不淨物迴者。選物向處。已定而迴與餘眾。波夜提。波夜提者如上說。若人來問。我欲布施當施何處。應言隨汝心所樂處施。若言何處功德大。當言施僧。若問何處有好持戒僧。當言都無犯戒僧。若言何處有比丘比丘尼自守少事坐禪誦經不大遊行恒使我得見此物。得語言與某甲。若比丘尼。知物向僧迴向已。尼薩耆波夜提。若迴向餘人波夜提。眾迴向餘眾波夜提。眷屬迴向眷屬亦波夜提。一人物迴向一人越毘尼罪。比丘迴眾物與餘眾越比尼罪。是故世尊說。<endchinese>
@@ -34,7 +34,7 @@ Explanation
 
 
 
-Summary Verse
+<beginh2>Summary Verse<endh2>
 
 
 <beginchinese>教誡隱處癰 離宿不遊行
@@ -42,13 +42,12 @@ Summary Verse
 隔牆棄不淨 草水迴向僧
 十四跋渠竟<endchinese>
 
-Instructing, an abscess in a hidden place, spending the night away, not wandering
+<beginverse>Instructing, an abscess in a hidden place, spending the night away, not wandering
 after the rains retreat, rebuking, arriving after someone has entered the rains retreat,
 Throwing impure things over a wall, grass, water, diverting to a sangha.
-The 14th chapter is finished.
+The 14th chapter is finished.<endverse>
 
 
-<beginchinese>比丘同戒七十。不同戒七十一。百四十一波夜提修多羅說竟。
-70 <endchinese>
+<beginchinese>比丘同戒七十。不同戒七十一。百四十一波夜提修多羅說竟。<endchinese>
 
-precepts shared with the bhikkhus. 71 unshared precepts. The sutta of the 141 pācittiyas has been recited.
+70 precepts shared with the bhikkhus. 71 unshared precepts. The sutta of the 141 pācittiyas has been recited.

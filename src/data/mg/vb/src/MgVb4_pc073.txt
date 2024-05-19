@@ -3,7 +3,7 @@ MgVb_pc73
 
 
 
-Origin Story
+<beginh2>Origin Story<endh2>
 
 
 <beginchinese>佛住舍衛城。爾時有比丘尼。如女人著衣。為世人所嫌。云何比丘尼著長衣曳縷而行。如世間女人。此壞敗人何道之有。比丘尼聞已語大愛道。大愛道即以是事具白世尊。佛言。呼比丘尼來。來已問言。汝實爾不。答言實爾。佛言。從今已後。不聽合縷作衣。當應量作。佛告大愛道瞿曇彌。依止舍衛城比丘尼皆悉令集。乃至已聞者當重聞。<endchinese>
@@ -14,7 +14,7 @@ When the bhikkhunīs heard this, they told Mahāpajāpatī, and she went to the 
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼作安陀會應量作。長四修伽陀搩手。廣二搩手。若過作截已波夜提。<endchinese>

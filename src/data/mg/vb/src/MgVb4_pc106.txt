@@ -3,7 +3,7 @@ MgVb_pc106
 
 
 
-Origin Story
+<beginh2>Origin Story<endh2>
 
 
 <beginchinese>佛住舍衛城。爾時比丘尼年年度弟子受具足。心生疑惑。為得為不得。
@@ -15,7 +15,7 @@ Then she asked Mahāpajāpatī, and Mahāpajāpatī went to the World-honored On
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼年年畜弟子波夜提。<endchinese>
@@ -25,7 +25,7 @@ If a bhikkhunī takes on a student every year, it’s a pācittiya.”
 
 
 
-Explanation
+<beginh2>Explanation<endh2>
 
 
 <beginchinese>年年者雨雨時。畜弟子者受具足。波夜提者如上說。不聽年年畜弟子。應作一雨時間。若比丘尼有福德。一年與學戒弟子。二年與受具足。雖年年無罪。是故世尊說。<endchinese>

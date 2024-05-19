@@ -3,12 +3,12 @@ MgVb_pd1-8
 
 <beginchinese>明八提舍尼法初。<endchinese>
 
-Beginning of the explanation of the eight pātidesanīya rules.
+<begindescription>Beginning of the explanation of the eight pātidesanīya rules.<enddescription>
 
 
 
 
-Origin Story
+<beginh2>Origin Story<endh2>
 
 
 <beginchinese>佛住舍衛城。爾時佛告大愛道。如來一時在舍衛城。時六群比丘尼。酥市乞酥。油市乞油。蜜市乞蜜。石蜜市乞石蜜。肉市乞肉。魚市乞魚。乳市乞乳。酪市乞酪。而食為世人所譏。云何沙門瞿曇稱歎少欲毀呰多欲。如比丘緣中廣說。瞿曇彌比丘尼亦應如是學。瞿曇彌。我一時住迦維羅衛釋氏精舍。聽病比丘尼索好食。佛告大愛道瞿曇彌。依止舍衛城比丘尼皆悉令集。乃至已聞者當重聞。<endchinese>
@@ -18,7 +18,7 @@ The Buddha was staying at Sāvatthī. At that time, the Buddha told Mahāpajāpa
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼不病為身白衣家乞酥。若使人乞。若噉若食。是比丘尼應向餘比丘尼悔過。如是言。阿梨耶。我墮可訶法。此法悔過。是波羅提提舍尼法。
@@ -30,7 +30,7 @@ In the same way: 2. oil; 3. honey; 4. sugar; 5. milk; 6. curd; 7. fish; 8. meat.
 
 
 
-Explanation
+<beginh2>Explanation<endh2>
 
 
 <beginchinese>為身者。自為向身。病者世尊說無罪。云何病。老羸病服吐下藥刺頭出血如是比病。家者。四種姓家。酥者。牛酥水牛酥羊酥。乞者若自乞若使人乞。若噉若食者。是比丘尼應向餘比丘尼悔過言。阿梨耶。我墮可訶法。此法悔過。前人應問。汝見此罪不。答言見。汝莫更作我頂戴持。波羅提提舍尼者。此罪應發露。是名悔過。<endchinese>

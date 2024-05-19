@@ -3,7 +3,7 @@ MgVb_pc86
 
 
 
-Origin Story
+<beginh2>Origin Story<endh2>
 
 
 <beginchinese>佛住舍衛城。爾時迦梨比丘尼度梨車第三生女出家與俗人外道習近住。
@@ -15,7 +15,7 @@ The bhikkhunīs told Mahāpajāpatī, and she fully informed the World-honored O
 
 
 
-Final Ruling
+<beginh2>Final Ruling<endh2>
 
 
 <beginchinese>若比丘尼與俗人外道習近住。若竟日若須臾。下至園民沙彌波夜提。<endchinese>
@@ -25,7 +25,7 @@ If a bhikkhunī lives closely together with lay people and non-Buddhist renuncia
 
 
 
-Explanation
+<beginh2>Explanation<endh2>
 
 
 <beginchinese>比丘尼者如上說。俗人者在家人。外道者出家外道。晝日者齊日沒。乃至須臾者須臾間。習近住者身習近住。口習近住。身口習近住。下至園民沙彌者波夜提。波夜提者如上說。若比丘尼習近住者波夜提。若比丘尼習近住展轉相樂住者。和上尼阿闍梨尼應離別送著異方。若比丘習近住者越比尼罪。是故世尊說。<endchinese>
