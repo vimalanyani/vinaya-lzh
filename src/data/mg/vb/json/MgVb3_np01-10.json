@@ -6,12 +6,16 @@
   "rule_no": "1-10",
   "body": [
     {
-      "h2": "Summary Verse",
+      "h2": "",
       "lzh": [],
       "en": [],
       "en_verse": [],
-      "lzh_grouping_info": [],
-      "en_grouping_info": []
+      "lzh_grouping_info": [
+        "三十事初"
+      ],
+      "en_grouping_info": [
+        "Beginning of the 30 matters."
+      ]
     },
     {
       "h2": "Summary Verse",
@@ -29,12 +33,8 @@
         "Trading, asking for a robe, when allowed to ask one may take two,",
         "Preparing a robe, two householders, kings and officials is the tenth."
       ],
-      "lzh_grouping_info": [
-        "三十事初"
-      ],
-      "en_grouping_info": [
-        "Beginning of the 30 matters."
-      ]
+      "lzh_grouping_info": [],
+      "en_grouping_info": []
     }
   ],
   "file": "np01-10",

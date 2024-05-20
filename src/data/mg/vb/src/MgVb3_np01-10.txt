@@ -3,13 +3,14 @@ MgVb_np1-10
 
 
 
-<h2>Summary Verse</h2>
+
 
 
 <lzh-division-start>三十事初</lzh-division-start>
 
 <en-division-start>Beginning of the 30 matters.</en-division-start>
 
+<h2>Summary Verse</h2>
 
 <lzh>十日離衣宿 非時捉金銀
 賣買并乞衣 聽乞得取二

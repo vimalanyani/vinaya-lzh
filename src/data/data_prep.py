@@ -143,10 +143,21 @@ def parse_txt_content(file_path):
     lzh_grouping_info_buffer = []
     en_grouping_info_buffer = []
 
-    def add_body_section_and_reset():
-        section = section_model.copy()
+    def buffers_are_not_empty():
+        return (
+            lzh_buffer
+            or en_buffer
+            or h2_buffer
+            or en_verse_buffer
+            or lzh_grouping_info_buffer
+            or en_grouping_info_buffer
+        )
 
-        if is_sections_initialized:
+    def add_body_section_and_reset():
+        if buffers_are_not_empty():
+
+            section = section_model.copy()
+
             section["lzh"] = lzh_buffer
             section["en"] = en_buffer
             section["h2"] = h2_buffer
@@ -156,11 +167,11 @@ def parse_txt_content(file_path):
 
             data["body"].append(copy.deepcopy(section))
 
-        lzh_buffer.clear()
-        en_buffer.clear()
-        en_verse_buffer.clear()
-        lzh_grouping_info_buffer.clear()
-        en_grouping_info_buffer.clear()
+            lzh_buffer.clear()
+            en_buffer.clear()
+            en_verse_buffer.clear()
+            lzh_grouping_info_buffer.clear()
+            en_grouping_info_buffer.clear()
 
     buffering_lzh = False
     buffering_en_verse = False
@@ -189,7 +200,7 @@ def parse_txt_content(file_path):
             elif buffering_lzh_grouping_info:
                 lzh_grouping_info_buffer.append(line)
 
-            elif is_open_grouping_info_line("en", line) and not is_sections_initialized:
+            elif not is_sections_initialized and is_open_grouping_info_line("en", line):
                 is_sections_initialized = True
                 add_body_section_and_reset()  
                 if is_close_grouping_info_line("en", line):
@@ -201,13 +212,16 @@ def parse_txt_content(file_path):
             elif is_open_grouping_info_line("en", line):
                 if is_close_grouping_info_line("en", line):
                     buffering_en_grouping_info = False
+                    en_grouping_info_buffer.append(re.sub(r"<\/?en.*?>", "", line))
+                    add_body_section_and_reset() 
                 else:
                     buffering_en_grouping_info = True
-                en_grouping_info_buffer.append(re.sub(r"<\/?en.*?>", "", line))
+                    en_grouping_info_buffer.append(re.sub(r"<\/?en.*?>", "", line))
 
             elif is_close_grouping_info_line("en", line):
                 buffering_en_grouping_info = False
                 en_grouping_info_buffer.append(re.sub(r"<\/?en.*?>", "", line))
+                add_body_section_and_reset() 
 
             elif buffering_en_grouping_info:
                 en_grouping_info_buffer.append(re.sub(r"<\/?en.*?>", "", line))
