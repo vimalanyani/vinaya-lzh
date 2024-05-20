@@ -57,71 +57,48 @@ rule_classes = {
     "as": "Settling Legal Issues",
 }
 
-
-def is_fascicle_start_lzh_start_line(line):
+def is_open_grouping_info_line(lang, line):
     if line is None:
         return False
-    heading_regex = re.compile(r"<lzh>摩訶僧祇律卷第.*(?!</lzh>$)")
-    return re.match(heading_regex, line)
+    regex = re.compile(rf"<{lang}-(fascicle|division)-(start|end)>")
+    return re.match(regex, line)
 
-
-def is_fascicle_start_lzh_end_line(line):
+def is_close_grouping_info_line(lang, line):
     if line is None:
         return False
-    heading_regex = re.compile(r"</lzh>")
-    return re.match(heading_regex, line)
-
-
-def is_fascicle_end_lzh_line(line):
-    if line is None:
-        return False
-    heading_regex = re.compile(r"<lzh>摩訶僧祇律卷第.*</lzh>")
-    return re.match(heading_regex, line)
+    regex = re.compile(rf"</{lang}-(fascicle|division)-(start|end)>")
+    return re.match(regex, line)
 
 
 def is_h2_line(line):
     if line is None:
         return False
-    heading_regex = re.compile(r"<beginh2>")
-    return re.match(heading_regex, line)
+    regex = re.compile(r"<h2>")
+    return re.match(regex, line)
 
-
-def is_lzh_start_line(line):
+def is_open_lzh_line(line):
     if line is None:
         return False
-    is_lzh_start_regex = re.compile(r"<lzh>")
-    return re.match(is_lzh_start_regex, line)
+    regex = re.compile(r"<lzh>")
+    return re.match(regex, line)
 
-
-def is_lzh_end_line(line):
+def is_close_lzh_line(line):
     if line is None:
         return False
-    is_lzh_end_regex = re.compile(r"</lzh>")
-    return re.match(is_lzh_end_regex, line)
+    regex = re.compile(r"</lzh>")
+    return re.match(regex, line)
 
+def is_open_verse_line(line):
+    if line is None:
+        return False
+    regex = re.compile(r"<verse>")
+    return re.match(regex, line)
 
-def coerce_paragraphs(lines):
-    split_lines = []
-    previous_line_has_note = False
-
-    for line in lines:
-        if line.startswith("<"):
-            split_lines[len(split_lines) - 1] = (
-                split_lines[len(split_lines) - 1] + " " + line
-            )
-            previous_line_has_note = True
-        elif previous_line_has_note:
-            split_lines[len(split_lines) - 1] = (
-                split_lines[len(split_lines) - 1] + " " + line
-            )
-            previous_line_has_note = False
-        else:
-            # TODO: REMOVE LINE SPLITTING
-            separated_lines = re.split(r"(\s*—?“.+?”)", line.strip())
-            split_lines.extend(separated_lines)
-
-    split_lines = [line.strip() for line in split_lines if line]
-    return split_lines
+def is_close_verse_line(line):
+    if line is None:
+        return False
+    regex = re.compile(r"</verse>")
+    return re.match(regex, line)
 
 
 def parse_txt_content(file_path):
@@ -142,66 +119,114 @@ def parse_txt_content(file_path):
     }
 
     section_model = {
-        "division_start_lzh": [],
-        "division_start_en": [],
         "h2": "",
         "lzh": [],
         "en": [],
-        "division_end_lzh": [],
-        "division_end_en": [],
+        "en_verse": [],
+        "lzh_grouping_info": [],
+        "en_grouping_info": [],
     }
 
     current_section = None
-    chinese_buffer = []
-    english_buffer = []
 
-    def add_translation():
-        if chinese_buffer and english_buffer:
-            en = []
+    lzh_buffer = []
+    en_buffer = []
+    en_verse_buffer = []
+    lzh_grouping_info_buffer = []
+    en_grouping_info_buffer = []
 
-            for line in english_buffer:
-                note_separated_lines = re.split(r"(<note:.*?>)", line)
-                paragraphs = coerce_paragraphs(note_separated_lines)
-                en.extend(paragraphs)
+    def add_body_section_and_reset():
+        if current_section is not None:
+            current_section["lzh"] = lzh_buffer
+            current_section["en"] = en_buffer
+            current_section["en_verse"] = en_verse_buffer
+            current_section["lzh_grouping_info"] = lzh_grouping_info_buffer
+            current_section["en_grouping_info"] = en_grouping_info_buffer
 
-            if current_section is not None:
-                current_section["parts"].append(
-                    {"lzh": chinese_buffer.copy(), "en": en}
-                )
-            chinese_buffer.clear()
-            english_buffer.clear()
+            data["body"].append(current_section)
 
-    previous_line = None
+        current_section = section_model.copy()
+        lzh_buffer.clear()
+        en_buffer.clear()
+        en_verse_buffer.clear()
+        lzh_grouping_info_buffer.clear()
+        en_grouping_info_buffer.clear()
+
+    buffering_lzh = False
+    buffering_en_verse = False
+    buffering_lzh_grouping_info = False
+    buffering_en_grouping_info = False
 
     for line in lines[1:]:  # Skip the first line as it is the file ID
         line = line.strip()
         if line:
-            if is_fascicle_start_lzh_start_line(line):
-                add_translation()  # Add the previous translation if any
-                current_section = {"h2": line, "parts": []}
-                data["body"].append(current_section)
-            elif "。" in line:
-                add_translation()  # Add the previous translation if any
-                chinese_buffer.append(line)
+            if is_open_grouping_info_line("lzh", line):
+                add_body_section_and_reset()  # Add the previous translation if any
+
+                if is_close_grouping_info_line("lzh", line):
+                    buffering_lzh_grouping_info = False
+                else:
+                    buffering_lzh_grouping_info = True
+                    
+                lzh_grouping_info_buffer.append(re.sub(r"<\/?lzh.*?>", "", line))
+
+            elif buffering_lzh_grouping_info:
+                lzh_grouping_info_buffer.append(line)
+
+            elif is_close_grouping_info_line("lzh", line):
+                buffering_lzh_grouping_info = False
+                lzh_grouping_info_buffer.append(re.sub(r"<\/?lzh.*?>", "", line))
+
+            elif is_open_grouping_info_line("en", line):
+                if is_close_grouping_info_line("en", line):
+                    buffering_en_grouping_info = False
+                else:
+                    buffering_en_grouping_info = True
+                en_grouping_info_buffer.append(re.sub(r"<\/?en.*?>", "", line))
+
+            elif buffering_en_grouping_info:
+                en_grouping_info_buffer.append(re.sub(r"<\/?en.*?>", "", line))
+
+            elif is_close_grouping_info_line("en", line):
+                buffering_en_grouping_info = False
+                en_grouping_info_buffer.append(re.sub(r"<\/?en.*?>", "", line))
+                
+            elif is_h2_line(line):
+                add_body_section_and_reset()  # Add the previous translation if any
+                current_section["h2"] = re.sub(r"<\/?h2>", "", line)
+            
+            elif is_open_lzh_line(line):
+                if is_close_lzh_line(line):
+                    buffering_lzh = False
+                else:
+                    buffering_lzh = True
+                lzh_buffer.append(re.sub(r"<\/?lzh>", "", line))
+
+            elif buffering_lzh:
+                lzh_buffer.append(line)
+
+            elif is_close_lzh_line(line):
+                buffering_lzh = False
+                lzh_buffer.append(re.sub(r"<\/?lzh>", "", line))
+
+            elif is_open_verse_line(line):
+                if is_close_verse_line(line):
+                    buffering_en_verse = False
+                else:
+                    buffering_en_verse = True
+                en_verse_buffer.append(re.sub(r"<\/?verse>", "", line))
+
+            elif buffering_en_verse:
+                en_verse_buffer.append(line)
+
+            elif is_close_verse_line(line):
+                buffering_en_verse = False
+                en_verse_buffer.append(re.sub(r"<\/?verse>", "", line))
+            
             else:
-                english_buffer.append(line)
-        previous_line = line
+                en_buffer.append(line)
 
-    # for line in lines[1:]:  # Skip the first line as it is the file ID
-    #     line = line.strip()
-    #     if line and previous_line is not None:
-    #         if len(previous_line) == 0 and is_heading_line(line):
-    #             add_translation()  # Add the previous translation if any
-    #             current_section = {"heading": line, "parts": []}
-    #             data["body"].append(current_section)
-    #         elif "。" in line:
-    #             add_translation()  # Add the previous translation if any
-    #             chinese_buffer.append(line)
-    #         else:
-    #             english_buffer.append(line)
-    #     previous_line = line
-
-    add_translation()  # Add the last translation if any
+    add_body_section_and_reset()  # Add the last translation if any
 
     return data
 

@@ -1,11 +1,10 @@
 MgVb_pc1-70
 
-Summary Verse
-
 <lzh-division-start>明一百四十一波夜提法之一</lzh-division-start>
 
 <en-division-start>Explanation of the 141 pācittiya rules, part one.</en-division-start>
 
+<h2>Summary Verses</h2>
 
 <lzh>妄語及種類 兩舌更發起
 脫命說句法 自稱過人法
