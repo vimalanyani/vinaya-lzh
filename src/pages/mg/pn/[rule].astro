@@ -10,29 +10,21 @@ import getAllBookRuleData, {
 
 export async function getStaticPaths() {
   const rulePages = await getAllBookRuleData({
-    rulePath: rulePrimaryGroups.mgBv.path,
+    rulePath: rulePrimaryGroups.mgPn.path,
   });
 
   return rulePages.map((rule) => {
     const { file, ...rest } = rule;
 
     return {
-      params: { rule: file.toLowerCase() },
-      props: { ...rest, rulePath: rulePrimaryGroups.mgBv.path },
+      params: { rule: file },
+      props: { ...rest, rulePath: rulePrimaryGroups.mgPn.path },
     };
   });
 }
 
-const {
-  school,
-  book,
-  rule_class,
-  rule_no,
-  body,
-  prev_file,
-  next_file,
-  rulePath,
-} = Astro.props;
+const { school, book, rule_no, body, prev_file, next_file, rulePath } =
+  Astro.props;
 ---
 
 <Layout title="LZH Vinaya">
@@ -48,7 +40,7 @@ const {
       <header>
         <p class="text-xl leading-7">{school}</p>
         <p class="text-xl leading-7 mb-4">{book}</p>
-        <H1 heading={rule_class + " " + rule_no} />
+        <H1 heading={book.split(" ")[1] + " " + rule_no} />
       </header>
 
       {

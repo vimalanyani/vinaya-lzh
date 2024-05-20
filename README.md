@@ -20,6 +20,8 @@ Example commands:
 cd src/data
 python3 data_prep.py --input_dir ./mg/vb/src --output_dir ./mg/vb/json --school "Mahāsaṅghika Vinaya" --book "Bhikkhunī Vibhaṅga" --has_rule_class
 
+python3 data_prep.py --input_dir ./mg/pn/src --output_dir ./mg/pn/json --school "Mahāsaṅghika Vinaya" --book "Bhikkhunī Pakiṇṇaka"
+
 python3 data_prep.py --input_dir ./mg/gd/src --output_dir ./mg/gd/json --school "Mahāsaṅghika Vinaya" --book "Garudhammas"
 ```
 

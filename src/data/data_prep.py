@@ -115,6 +115,9 @@ def is_close_verse_line(line):
     return re.match(regex, line)
 
 
+def extract_rule_number_from_id(id):
+    id_parts = re.match(r".*?(\d+)", id)
+    return id_parts[1]
 
 def parse_txt_content(file_path):
     with open(file_path, "r", encoding="utf-8") as file:
@@ -129,7 +132,7 @@ def parse_txt_content(file_path):
         "school": args.school,
         "book": args.book,
         "rule_class": "" if not has_rule_class else rule_classes[id[5:7]],
-        "rule_no": id[7:],
+        "rule_no": extract_rule_number_from_id(id),
         "body": [],
     }
 
