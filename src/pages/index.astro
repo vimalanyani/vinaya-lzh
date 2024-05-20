@@ -6,19 +6,19 @@ import getAllBookRuleData, { rulePaths } from "../utils/getAllBookRuleData";
 const mgVnRulePages = await getAllBookRuleData({ rulePath: "/mg/vb" });
 ---
 
-<Layout title="LZH Vinaya">
+<Layout title="LZH Vinaya" isIndexPage>
   <main>
     <h1 class="text-6xl">LZH Vinaya Translations</h1>
 
-    <h2 class="mt-12 text-4xl text-neutral-800">
+    <h2 class="mt-12 mb-6 text-4xl text-neutral-800">
       {mgVnRulePages[0].school}
       <p class="text-2xl leading-8">{mgVnRulePages[0].book}</p>
     </h2>
 
-    <ul class="my-4 text-2xl leading-10">
+    <ul class="my-4 text-xl md:columns-2 xl:columns-3 gap-8">
       {
         mgVnRulePages.map((rule) => (
-          <li>
+          <li class="mb-4">
             <Link
               href={rulePaths.mgbv + "/" + rule.file}
               text={rule.rule_class + " " + rule.rule_no}

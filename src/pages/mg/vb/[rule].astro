@@ -3,23 +3,33 @@ import Layout from "../../../layouts/Layout.astro";
 import H1 from "../../../components/H1.astro";
 import H2 from "../../../components/H2.astro";
 import Link from "../../../components/Link.astro";
+import RuleBodyContent from "../../../components/RuleBodyContent.astro";
 import getAllBookRuleData from "../../../utils/getAllBookRuleData";
 
 export async function getStaticPaths() {
-  const rulePages = await getAllBookRuleData({ rulePath: "/mg/vb" });
+  const rulePath = "/mg/vb";
+  const rulePages = await getAllBookRuleData({ rulePath });
 
   return rulePages.map((rule) => {
     const { file, ...rest } = rule;
 
     return {
       params: { rule: file.toLowerCase() },
-      props: { ...rest },
+      props: { ...rest, rulePath },
     };
   });
 }
 
-const { school, book, rule_class, rule_no, body, prev_file, next_file } =
-  Astro.props;
+const {
+  school,
+  book,
+  rule_class,
+  rule_no,
+  body,
+  prev_file,
+  next_file,
+  rulePath,
+} = Astro.props;
 ---
 
 <Layout title="LZH Vinaya">
@@ -40,47 +50,22 @@ const { school, book, rule_class, rule_no, body, prev_file, next_file } =
 
       {
         body.map((section) => {
-          const { heading, parts } = section;
+          const { h2, en, en_grouping_info, en_verse } = section;
           return (
             <section class="my-8 leading-relaxed">
-              <H2 heading={heading} />
-
-              {parts.map((part) => {
-                return part.en.map((p) => {
-                  if (p.includes("<")) {
-                    const noteExtractionPattern = new RegExp(
-                      "(^.*?)<note:(.*?)>(.*)"
-                    );
-                    const [, start, note, end] =
-                      p.match(noteExtractionPattern) ?? [];
-
-                    return (
-                      <p class="text-2xl leading-9">
-                        {start}
-
-                        <span
-                          tabindex="0"
-                          class="inline-block note-wrapper relative text-3xl text-amber-600 ml-[-4px]"
-                        >
-                          <i class="note">
-                            <span
-                              class="max-w-[85ch] py-4 mx-4 md:mx-auto"
-                              style={{ display: "inherit" }}
-                            >
-                              {note}
-                            </span>
-                          </i>
-                          *
-                        </span>
-
-                        {end}
-                      </p>
-                    );
-                  }
-
-                  return <p class="text-2xl leading-9">{p}</p>;
-                });
-              })}
+              {h2 ? <H2 heading={h2} /> : null}
+              {en_grouping_info.map((line) => (
+                <RuleBodyContent
+                  content={line}
+                  styles="text-xl py-1 leading-6 text-neutral-600 italic"
+                />
+              ))}
+              {en.map((line) => (
+                <RuleBodyContent content={line} />
+              ))}
+              {en_verse.map((line) => (
+                <RuleBodyContent content={line} />
+              ))}
             </section>
           );
         })
@@ -90,7 +75,7 @@ const { school, book, rule_class, rule_no, body, prev_file, next_file } =
         {
           prev_file ? (
             <Link
-              href={`./${prev_file}`}
+              href={`${rulePath}/${prev_file}`}
               text={`←`}
               class="no-underline border-stone-300 border-2 px-4 rounded-full hover:shadow-md hover:border-amber-600"
             />
@@ -101,7 +86,7 @@ const { school, book, rule_class, rule_no, body, prev_file, next_file } =
         {
           next_file ? (
             <Link
-              href={`./${next_file}`}
+              href={`${rulePath}/${next_file}`}
               text={`→`}
               class="no-underline border-stone-300 border-2 px-4 rounded-full hover:shadow-md hover:border-amber-600"
             />
@@ -113,33 +98,3 @@ const { school, book, rule_class, rule_no, body, prev_file, next_file } =
     </article>
   </main>
 </Layout>
-
-<style>
-  .note {
-    display: none;
-  }
-
-  .note-wrapper:focus .note,
-  .note-wrapper:hover .note {
-    display: inline-block;
-    position: fixed;
-    z-index: 1;
-    width: 100%;
-    /* max-width: 85ch; */
-    margin-inline: auto;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    /* transform: translateX(-50%); */
-    background: #fff;
-    color: #23262d;
-    padding: 0.5rem 0.75rem;
-    border-radius: 0.25rem;
-    box-shadow:
-      7.1px 6.7px 5.3px rgba(0, 0, 0, 0.016),
-      23.9px 22.3px 17.9px rgba(0, 0, 0, 0.024),
-      107px 100px 80px rgba(0, 0, 0, 0.04);
-    font-weight: bold;
-    font-size: 1rem;
-  }
-</style>
