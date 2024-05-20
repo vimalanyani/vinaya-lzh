@@ -4,6 +4,7 @@ import type { RuleData } from "../data/types";
 
 export const rulePaths = {
   mgbv: "/mg/vb",
+  mggd: "/mg/gd",
 } as const;
 
 type RulePath = (typeof rulePaths)[keyof typeof rulePaths];

@@ -9,14 +9,14 @@ import getAllBookRuleData, {
 } from "../../../utils/getAllBookRuleData";
 
 export async function getStaticPaths() {
-  const rulePages = await getAllBookRuleData({ rulePath: rulePaths.mgbv });
+  const rulePages = await getAllBookRuleData({ rulePath: rulePaths.mggd });
 
   return rulePages.map((rule) => {
     const { file, ...rest } = rule;
 
     return {
-      params: { rule: file.toLowerCase() },
-      props: { ...rest, rulePath: rulePaths.mgbv },
+      params: { rule: file },
+      props: { ...rest, rulePath: rulePaths.mggd },
     };
   });
 }

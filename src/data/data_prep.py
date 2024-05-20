@@ -296,7 +296,12 @@ def save_to_json(data, output_path):
 
 def extract_id_from_filename(filename):
     id = filename.strip(".txt")
-    return id.split("_")[-1]
+    has_id_part = re.match("_", id)
+
+    if has_id_part:
+        return id.split("_")[-1].tolower()
+    
+    return id[2:].lower()
 
 
 def main(directory_path, output_directory):
