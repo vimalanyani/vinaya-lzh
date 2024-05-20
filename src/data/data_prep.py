@@ -2,6 +2,7 @@ import os
 import json
 import re
 import argparse
+import copy
 
 #  WORKING NOTES # header features (modeled on Mahāsaṅghika Vinaya) (eg pj1)
 # - "摩訶僧祇律卷第" (fascicle indicator)
@@ -57,16 +58,18 @@ rule_classes = {
     "as": "Settling Legal Issues",
 }
 
+
 def is_open_grouping_info_line(lang, line):
     if line is None:
         return False
     regex = re.compile(rf"<{lang}-(fascicle|division)-(start|end)>")
     return re.match(regex, line)
 
+
 def is_close_grouping_info_line(lang, line):
     if line is None:
         return False
-    regex = re.compile(rf"</{lang}-(fascicle|division)-(start|end)>")
+    regex = re.compile(rf".*</{lang}-(fascicle|division)-(start|end)>")
     return re.match(regex, line)
 
 
@@ -76,17 +79,20 @@ def is_h2_line(line):
     regex = re.compile(r"<h2>")
     return re.match(regex, line)
 
+
 def is_open_lzh_line(line):
     if line is None:
         return False
     regex = re.compile(r"<lzh>")
     return re.match(regex, line)
 
+
 def is_close_lzh_line(line):
     if line is None:
         return False
-    regex = re.compile(r"</lzh>")
+    regex = re.compile(r".*<\/lzh>")
     return re.match(regex, line)
+
 
 def is_open_verse_line(line):
     if line is None:
@@ -94,10 +100,11 @@ def is_open_verse_line(line):
     regex = re.compile(r"<verse>")
     return re.match(regex, line)
 
+
 def is_close_verse_line(line):
     if line is None:
         return False
-    regex = re.compile(r"</verse>")
+    regex = re.compile(r".*<\/verse>")
     return re.match(regex, line)
 
 
@@ -127,25 +134,28 @@ def parse_txt_content(file_path):
         "en_grouping_info": [],
     }
 
-    current_section = None
+    is_first_section = True
 
     lzh_buffer = []
     en_buffer = []
+    h2_buffer = ""
     en_verse_buffer = []
     lzh_grouping_info_buffer = []
     en_grouping_info_buffer = []
 
     def add_body_section_and_reset():
-        if current_section is not None:
-            current_section["lzh"] = lzh_buffer
-            current_section["en"] = en_buffer
-            current_section["en_verse"] = en_verse_buffer
-            current_section["lzh_grouping_info"] = lzh_grouping_info_buffer
-            current_section["en_grouping_info"] = en_grouping_info_buffer
+        section = section_model.copy()
 
-            data["body"].append(current_section)
+        if is_first_section is not True:
+            section["lzh"] = lzh_buffer
+            section["en"] = en_buffer
+            section["h2"] = h2_buffer
+            section["en_verse"] = en_verse_buffer
+            section["lzh_grouping_info"] = lzh_grouping_info_buffer
+            section["en_grouping_info"] = en_grouping_info_buffer
 
-        current_section = section_model.copy()
+            data["body"].append(copy.deepcopy(section))
+
         lzh_buffer.clear()
         en_buffer.clear()
         en_verse_buffer.clear()
@@ -159,23 +169,25 @@ def parse_txt_content(file_path):
 
     for line in lines[1:]:  # Skip the first line as it is the file ID
         line = line.strip()
+
         if line:
             if is_open_grouping_info_line("lzh", line):
                 add_body_section_and_reset()  # Add the previous translation if any
+                is_first_section = False
 
                 if is_close_grouping_info_line("lzh", line):
                     buffering_lzh_grouping_info = False
                 else:
                     buffering_lzh_grouping_info = True
-                    
-                lzh_grouping_info_buffer.append(re.sub(r"<\/?lzh.*?>", "", line))
 
-            elif buffering_lzh_grouping_info:
-                lzh_grouping_info_buffer.append(line)
+                lzh_grouping_info_buffer.append(re.sub(r"<\/?lzh.*?>", "", line))
 
             elif is_close_grouping_info_line("lzh", line):
                 buffering_lzh_grouping_info = False
                 lzh_grouping_info_buffer.append(re.sub(r"<\/?lzh.*?>", "", line))
+
+            elif buffering_lzh_grouping_info:
+                lzh_grouping_info_buffer.append(line)
 
             elif is_open_grouping_info_line("en", line):
                 if is_close_grouping_info_line("en", line):
@@ -184,17 +196,18 @@ def parse_txt_content(file_path):
                     buffering_en_grouping_info = True
                 en_grouping_info_buffer.append(re.sub(r"<\/?en.*?>", "", line))
 
-            elif buffering_en_grouping_info:
-                en_grouping_info_buffer.append(re.sub(r"<\/?en.*?>", "", line))
-
             elif is_close_grouping_info_line("en", line):
                 buffering_en_grouping_info = False
                 en_grouping_info_buffer.append(re.sub(r"<\/?en.*?>", "", line))
-                
+
+            elif buffering_en_grouping_info:
+                en_grouping_info_buffer.append(re.sub(r"<\/?en.*?>", "", line))
+
             elif is_h2_line(line):
                 add_body_section_and_reset()  # Add the previous translation if any
-                current_section["h2"] = re.sub(r"<\/?h2>", "", line)
-            
+                is_first_section = False
+                h2_buffer = re.sub(r"<\/?h2>", "", line)
+
             elif is_open_lzh_line(line):
                 if is_close_lzh_line(line):
                     buffering_lzh = False
@@ -202,12 +215,12 @@ def parse_txt_content(file_path):
                     buffering_lzh = True
                 lzh_buffer.append(re.sub(r"<\/?lzh>", "", line))
 
-            elif buffering_lzh:
-                lzh_buffer.append(line)
-
             elif is_close_lzh_line(line):
                 buffering_lzh = False
                 lzh_buffer.append(re.sub(r"<\/?lzh>", "", line))
+
+            elif buffering_lzh:
+                lzh_buffer.append(line)
 
             elif is_open_verse_line(line):
                 if is_close_verse_line(line):
@@ -216,13 +229,13 @@ def parse_txt_content(file_path):
                     buffering_en_verse = True
                 en_verse_buffer.append(re.sub(r"<\/?verse>", "", line))
 
-            elif buffering_en_verse:
-                en_verse_buffer.append(line)
-
             elif is_close_verse_line(line):
                 buffering_en_verse = False
                 en_verse_buffer.append(re.sub(r"<\/?verse>", "", line))
-            
+
+            elif buffering_en_verse:
+                en_verse_buffer.append(line)
+
             else:
                 en_buffer.append(line)
 

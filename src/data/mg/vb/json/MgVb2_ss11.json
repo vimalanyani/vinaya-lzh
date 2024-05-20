@@ -4,77 +4,55 @@
   "book": "Bhikkhunī Vibhaṅga",
   "rule_class": "Suspension",
   "rule_no": "11",
-  "sections": [
+  "body": [
     {
-      "heading": "Origin Story",
-      "parts": [
-        {
-          "lzh": [
-            "佛住王舍城。爾時有一長者。欲心請樹提比丘尼。與衣鉢飲食疾病湯藥。作是言。阿梨耶。知我以何故與。比丘尼言知。復問。云何知。答言。以福德故。復言。如是然後兼為欲故。時樹提是離欲人。聞是語其心遊然不持經懷。然復不遮。",
-            "諸比丘尼即以是事語大愛道。大愛道即以是事往白世尊。佛言。呼樹提來。來已具問上事。汝實爾不。答言。實爾。世尊。佛言。此是惡事。汝不為後世人作軌則耶。此非法非律不如佛教。不可以是長養善法。佛語大愛道。依止王舍城比丘尼皆悉令集。乃至已聞者當重聞。"
-          ],
-          "en": [
-            "The Buddha was staying at Rājagaha. At that time, there was a householder who, with a lustful mind, invited Jetā bhikkhunī to give her robes, bowls, drinks, food, and liquid remedies and medicines for the sick. He said:",
-            "“Venerable, do you know why I give this?”",
-            "The bhikkhunī said:",
-            "“I know.”",
-            "He asked again:",
-            "“What do you think?”",
-            "She answered:",
-            "“To make merit.”",
-            "He replied:",
-            "“For this reason, and also out of desire (for you).”",
-            "At that time, Jetā was free from desire. When she heard this, her mind was wandering, and she neither encouraged his yearning, nor did she stop him.",
-            "Then the bhikkhunīs informed Mahāpajāpatī of this matter, and she went and informed the World-honored One. The Buddha said:",
-            "“Summon Jetā.”",
-            "When she came, he fully asked her about this matter:",
-            "“Did you really do this?”",
-            "She answered:",
-            "“I really did this, World-honored One.”",
-            "The Buddha said:",
-            "“This is an unwholesome thing. Don’t you set a standard for later generations? This is against the dhamma, against the vinaya, against the Buddha’s teaching. One can’t develop in wholesome states like this.”",
-            "The Buddha told Mahāpajāpatī: “Convene all the bhikkhunīs living in the vicinity of Rājagaha. … Those who have already heard it should listen again:"
-          ]
-        }
-      ]
+      "h2": "Origin Story",
+      "lzh": [
+        "佛住王舍城。爾時有一長者。欲心請樹提比丘尼。與衣鉢飲食疾病湯藥。作是言。阿梨耶。知我以何故與。比丘尼言知。復問。云何知。答言。以福德故。復言。如是然後兼為欲故。時樹提是離欲人。聞是語其心遊然不持經懷。然復不遮。",
+        "諸比丘尼即以是事語大愛道。大愛道即以是事往白世尊。佛言。呼樹提來。來已具問上事。汝實爾不。答言。實爾。世尊。佛言。此是惡事。汝不為後世人作軌則耶。此非法非律不如佛教。不可以是長養善法。佛語大愛道。依止王舍城比丘尼皆悉令集。乃至已聞者當重聞。"
+      ],
+      "en": [
+        "The Buddha was staying at Rājagaha. At that time, there was a householder who, with a lustful mind, invited Jetā bhikkhunī to give her robes, bowls, drinks, food, and liquid remedies and medicines for the sick. He said: “Venerable, do you know why I give this?” The bhikkhunī said: “I know.” He asked again: “What do you think?” She answered: “To make merit.” He replied: “For this reason, and also out of desire (for you).” At that time, Jetā was free from desire. When she heard this, her mind was wandering, and she neither encouraged his yearning, nor did she stop him.",
+        "Then the bhikkhunīs informed Mahāpajāpatī of this matter, and she went and informed the World-honored One. The Buddha said: “Summon Jetā.” When she came, he fully asked her about this matter: “Did you really do this?” She answered: “I really did this, World-honored One.” The Buddha said: “This is an unwholesome thing. Don’t you set a standard for later generations? This is against the dhamma, against the vinaya, against the Buddha’s teaching. One can’t develop in wholesome states like this.” The Buddha told Mahāpajāpatī: “Convene all the bhikkhunīs living in the vicinity of Rājagaha. … Those who have already heard it should listen again:"
+      ],
+      "en_verse": [],
+      "lzh_grouping_info": [],
+      "en_grouping_info": []
     },
     {
-      "heading": "Final Ruling",
-      "parts": [
-        {
-          "lzh": [
-            "若比丘尼無漏心。漏心男子邊取衣鉢飲食病疾湯藥者。是法初罪僧伽婆尸沙。"
-          ],
-          "en": [
-            "If a bhikkhunī with an undefiled mind, receives robes, bowls, drinks, food, liquid remedies and medicines for the sick from a man with a defiled mind, it’s an immediate saṅghādisesa offense.”"
-          ]
-        }
-      ]
+      "h2": "Final Ruling",
+      "lzh": [
+        "若比丘尼無漏心。漏心男子邊取衣鉢飲食病疾湯藥者。是法初罪僧伽婆尸沙。"
+      ],
+      "en": [
+        "If a bhikkhunī with an undefiled mind, receives robes, bowls, drinks, food, liquid remedies and medicines for the sick from a man with a defiled mind, it’s an immediate saṅghādisesa offense.”"
+      ],
+      "en_verse": [],
+      "lzh_grouping_info": [],
+      "en_grouping_info": []
     },
     {
-      "heading": "Explanation",
-      "parts": [
-        {
-          "lzh": [
-            "比丘尼者如樹提比丘尼。無漏心者。無欲心。鉢者。上中下。衣者。僧伽梨欝多羅僧安陀會僧祇支雨浴衣。飲食者。佉陀尼食蒲闍尼食。藥者蜜石蜜生酥及脂。是法初罪。若人與比丘尼衣鉢飲食疾病湯藥作是言。我為是故與不應受。應言我不須餘家自得。若受者僧伽婆尸沙。若不語動手足瞬眼振手彈指畫地作字。如是相者。知有欲心於我。此不應受。受者偷蘭遮。若信心清淨諸情審諦受者無罪。若女人欲心與比丘。若動手足瞬眼與者。當知有欲心不應受。受者越比尼罪。若信心清淨諸根審諦受者無罪。是故世尊說。"
-          ],
-          "en": [
-            "“A bhikkhunī”",
-            "means someone like Jetā bhikkhunī.",
-            "“An undefiled mind”",
-            "means a mind without lust.",
-            "“A bowl”",
-            "means a large, medium, or small bowl.",
-            "“A robe”",
-            "means saṅghāṭī, uttarāsaṅga, antaravāsaka, saṅkacchika, and rains bathing robe.",
-            "“Drinks and food”",
-            "means staple or non-staple food.",
-            "“Medicines”",
-            "means (ghee, oil,) <note: Not all recensions of the text include these two tonics.>  honey, sugar, fresh butter, and fat. This rule is an immediate offense. If a man gives robes, bowls, drinks, food, liquid remedies and medicines for the sick to a bhikkhunī and says: “I give for this reason,” she shouldn’t accept it. She should say: “I don’t need this, I obtain it myself from other households.” If she accepts it, it’s a saṅghādisesa. If he doesn’t speak, but moves his hand or foot, winks at her, waves his hand, snaps his fingers, writes on the ground, or acts in a similar way, and she knows: “He has a lustful mind towards me, I shouldn’t accept this,” but accepts it, it’s a thullaccaya. If his mind is faithful and pure, his feelings are sincere, and she accepts it, there is no offense. If a woman with a lustful mind gives to a bhikkhu, or if she moves her hand or foot, or winks at him when giving, he should know that she has a lustful mind and shouldn’t accept it. If he accepts it, he breaks a minor vinaya rule. If her mind is faithful and pure, her faculties are sincere, and he accepts it, there is no offense. This is what the World-honored One said.",
-            "摩訶僧祇律卷第三十六",
-            "Mahāsaṅghika Vinaya, 36th fascicle."
-          ]
-        }
+      "h2": "Explanation",
+      "lzh": [
+        "比丘尼者如樹提比丘尼。無漏心者。無欲心。鉢者。上中下。衣者。僧伽梨欝多羅僧安陀會僧祇支雨浴衣。飲食者。佉陀尼食蒲闍尼食。藥者蜜石蜜生酥及脂。是法初罪。若人與比丘尼衣鉢飲食疾病湯藥作是言。我為是故與不應受。應言我不須餘家自得。若受者僧伽婆尸沙。若不語動手足瞬眼振手彈指畫地作字。如是相者。知有欲心於我。此不應受。受者偷蘭遮。若信心清淨諸情審諦受者無罪。若女人欲心與比丘。若動手足瞬眼與者。當知有欲心不應受。受者越比尼罪。若信心清淨諸根審諦受者無罪。是故世尊說。"
+      ],
+      "en": [
+        "“A bhikkhunī” means someone like Jetā bhikkhunī. “An undefiled mind” means a mind without lust. “A bowl” means a large, medium, or small bowl. “A robe” means saṅghāṭī, uttarāsaṅga, antaravāsaka, saṅkacchika, and rains bathing robe. “Drinks and food” means staple or non-staple food. “Medicines” means (ghee, oil,)<note>Not all recensions of the text include these two tonics.</note> honey, sugar, fresh butter, and fat. This rule is an immediate offense. If a man gives robes, bowls, drinks, food, liquid remedies and medicines for the sick to a bhikkhunī and says: “I give for this reason,” she shouldn’t accept it. She should say: “I don’t need this, I obtain it myself from other households.” If she accepts it, it’s a saṅghādisesa. If he doesn’t speak, but moves his hand or foot, winks at her, waves his hand, snaps his fingers, writes on the ground, or acts in a similar way, and she knows: “He has a lustful mind towards me, I shouldn’t accept this,” but accepts it, it’s a thullaccaya. If his mind is faithful and pure, his feelings are sincere, and she accepts it, there is no offense. If a woman with a lustful mind gives to a bhikkhu, or if she moves her hand or foot, or winks at him when giving, he should know that she has a lustful mind and shouldn’t accept it. If he accepts it, he breaks a minor vinaya rule. If her mind is faithful and pure, her faculties are sincere, and he accepts it, there is no offense. This is what the World-honored One said."
+      ],
+      "en_verse": [],
+      "lzh_grouping_info": [],
+      "en_grouping_info": []
+    },
+    {
+      "h2": "Explanation",
+      "lzh": [],
+      "en": [],
+      "en_verse": [],
+      "lzh_grouping_info": [
+        "摩訶僧祇律卷第三十六"
+      ],
+      "en_grouping_info": [
+        "Mahāsaṅghika Vinaya, 36th fascicle."
       ]
     }
   ],

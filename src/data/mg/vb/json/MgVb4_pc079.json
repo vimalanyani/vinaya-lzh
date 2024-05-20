@@ -4,62 +4,43 @@
   "book": "Bhikkhunī Vibhaṅga",
   "rule_class": "Confession",
   "rule_no": "79",
-  "sections": [
+  "body": [
     {
-      "heading": "Origin Story",
-      "parts": [
-        {
-          "lzh": [
-            "佛住舍衛城。爾時有夫婦二人。釋種中出家。時夫摩訶羅食。比丘尼在邊行水以扇扇之。摩訶羅說往時事。比丘尼瞋。即以水灑面。以扇拍頭。呵言。汝不知恩義故。說往時之事。不應說者而便說之。比丘尼見已語言。阿梨耶。此上尊眾不得如是。復言。是摩訶羅不善不知恩義。不應說者而今說之。諸比丘尼語大愛道。大愛道即以是事往白世尊。佛言。呼是比丘尼來。來已問言。汝實爾不。答言實爾。佛言。此是惡事。汝云何比丘食以水扇供給。此非法非律非如佛教。不可以是長養善法。從今已後不聽。佛告大愛道瞿曇彌。依止舍衛城住者皆悉令集。乃至已聞者當重聞。"
-          ],
-          "en": [
-            "The Buddha was staying at Sāvatthī. At that time, there was a couple, husband and wife, who had gone forth among the Sakyan renunciates. Then Mahallaka, the husband, was eating, and the bhikkhunī stood at the side, pouring water for him, and fanning him with a fan. Mahallaka spoke of matters from the past, and the bhikkhunī became annoyed. She then splashed the water in his face and hit his head with the fan, criticizing him:",
-            "“Because you don’t know gratitude, you speak of matters from the past. What shouldn’t be discussed, you still bring up.”",
-            "When the bhikkhunīs saw this, they said to her:",
-            "“Venerable, it’s not permitted to act like this towards the respected bhikkhu sangha.”",
-            "She replied:",
-            "“This Mahallaka is no good, and doesn’t know gratitude. What shouldn’t be discussed, he still brought up just now.”",
-            "The bhikkhunīs told Mahāpajāpatī, and she went to the World-honored One, and informed him of this matter. The Buddha said:",
-            "“Summon that bhikkhunī.”",
-            "When she came, he asked her:",
-            "“Did you really do this?”",
-            "She answered:",
-            "“I really did this.”",
-            "The Buddha said:",
-            "“This is an unwholesome thing. Why did you, when a bhikkhu is eating, offer him water or a fan? This is against the dhamma, against the vinaya, against the Buddha’s teaching. One can’t develop in wholesome states like this. From now on, it’s no longer allowed.”",
-            "The Buddha told Mahāpajāpatī Gotamī: “Convene all the bhikkhunīs living in the vicinity of Sāvatthī. … Those who have already heard it should listen again:"
-          ]
-        }
-      ]
+      "h2": "Origin Story",
+      "lzh": [
+        "佛住舍衛城。爾時有夫婦二人。釋種中出家。時夫摩訶羅食。比丘尼在邊行水以扇扇之。摩訶羅說往時事。比丘尼瞋。即以水灑面。以扇拍頭。呵言。汝不知恩義故。說往時之事。不應說者而便說之。比丘尼見已語言。阿梨耶。此上尊眾不得如是。復言。是摩訶羅不善不知恩義。不應說者而今說之。諸比丘尼語大愛道。大愛道即以是事往白世尊。佛言。呼是比丘尼來。來已問言。汝實爾不。答言實爾。佛言。此是惡事。汝云何比丘食以水扇供給。此非法非律非如佛教。不可以是長養善法。從今已後不聽。佛告大愛道瞿曇彌。依止舍衛城住者皆悉令集。乃至已聞者當重聞。"
+      ],
+      "en": [
+        "The Buddha was staying at Sāvatthī. At that time, there was a couple, husband and wife, who had gone forth among the Sakyan renunciates. Then Mahallaka, the husband, was eating, and the bhikkhunī stood at the side, pouring water for him, and fanning him with a fan. Mahallaka spoke of matters from the past, and the bhikkhunī became annoyed. She then splashed the water in his face and hit his head with the fan, criticizing him: “Because you don’t know gratitude, you speak of matters from the past. What shouldn’t be discussed, you still bring up.” When the bhikkhunīs saw this, they said to her: “Venerable, it’s not permitted to act like this towards the respected bhikkhu sangha.” She replied: “This Mahallaka is no good, and doesn’t know gratitude. What shouldn’t be discussed, he still brought up just now.”",
+        "The bhikkhunīs told Mahāpajāpatī, and she went to the World-honored One, and informed him of this matter. The Buddha said: “Summon that bhikkhunī.” When she came, he asked her: “Did you really do this?” She answered: “I really did this.” The Buddha said: “This is an unwholesome thing. Why did you, when a bhikkhu is eating, offer him water or a fan? This is against the dhamma, against the vinaya, against the Buddha’s teaching. One can’t develop in wholesome states like this. From now on, it’s no longer allowed.” The Buddha told Mahāpajāpatī Gotamī: “Convene all the bhikkhunīs living in the vicinity of Sāvatthī. … Those who have already heard it should listen again:"
+      ],
+      "en_verse": [],
+      "lzh_grouping_info": [],
+      "en_grouping_info": []
     },
     {
-      "heading": "Final Ruling",
-      "parts": [
-        {
-          "lzh": [
-            "若比丘尼。比丘食以水扇供給波夜提。"
-          ],
-          "en": [
-            "If a bhikkhunī, when a bhikkhu is eating, offers him water or a fan, it’s a pācittiya.”"
-          ]
-        }
-      ]
+      "h2": "Final Ruling",
+      "lzh": [
+        "若比丘尼。比丘食以水扇供給波夜提。"
+      ],
+      "en": [
+        "If a bhikkhunī, when a bhikkhu is eating, offers him water or a fan, it’s a pācittiya.”"
+      ],
+      "en_verse": [],
+      "lzh_grouping_info": [],
+      "en_grouping_info": []
     },
     {
-      "heading": "Explanation",
-      "parts": [
-        {
-          "lzh": [
-            "比丘尼者如上說。比丘食者五正食五雜正食。水扇者持水瓶行水以扇扇之波夜提。波夜提者如上說。若比丘尼持水瓶不持扇者越比尼罪。持扇不持水者亦越比尼罪。二俱持者波夜提二俱不持無罪。是罪一比丘一比丘尼。若眾多比丘行水扇者無罪。若眾中有父兄者以扇扇無罪。是故世尊說。"
-          ],
-          "en": [
-            "“A bhikkhunī”",
-            "is as explained above.",
-            "“A bhikkhu eating”",
-            "means the five kinds of staple food <note: Pāli: khādanīya.>  and the five kinds of staple food mixed together. “Water and a fan” means taking a water bottle and pouring water, and fanning with a fan; this is a pācittiya. “Pācittiya” is as explained above. If a bhikkhunī holds a water bottle, but doesn’t hold a fan, she breaks a minor vinaya rule. If she holds a fan, but doesn’t hold water, she also breaks a minor vinaya rule. If she holds both items, it’s a pācittiya. If she doesn’t hold anything, there is no offense. This offense is for one bhikkhu with one bhikkhunī. If she pours water and fans a group of bhikkhus, there is no offense. If her father or elder brother is a member of the sangha, and she fans him with a fan, there is no offense. This is what the World-honored One said."
-          ]
-        }
-      ]
+      "h2": "Explanation",
+      "lzh": [
+        "比丘尼者如上說。比丘食者五正食五雜正食。水扇者持水瓶行水以扇扇之波夜提。波夜提者如上說。若比丘尼持水瓶不持扇者越比尼罪。持扇不持水者亦越比尼罪。二俱持者波夜提二俱不持無罪。是罪一比丘一比丘尼。若眾多比丘行水扇者無罪。若眾中有父兄者以扇扇無罪。是故世尊說。"
+      ],
+      "en": [
+        "“A bhikkhunī” is as explained above. “A bhikkhu eating” means the five kinds of staple food<note>Pāli: khādanīya.</note> and the five kinds of staple food mixed together. “Water and a fan” means taking a water bottle and pouring water, and fanning with a fan; this is a pācittiya. “Pācittiya” is as explained above. If a bhikkhunī holds a water bottle, but doesn’t hold a fan, she breaks a minor vinaya rule. If she holds a fan, but doesn’t hold water, she also breaks a minor vinaya rule. If she holds both items, it’s a pācittiya. If she doesn’t hold anything, there is no offense. This offense is for one bhikkhu with one bhikkhunī. If she pours water and fans a group of bhikkhus, there is no offense. If her father or elder brother is a member of the sangha, and she fans him with a fan, there is no offense. This is what the World-honored One said."
+      ],
+      "en_verse": [],
+      "lzh_grouping_info": [],
+      "en_grouping_info": []
     }
   ],
   "file": "pc079",

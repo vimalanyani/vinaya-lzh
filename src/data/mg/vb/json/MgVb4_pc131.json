@@ -4,61 +4,60 @@
   "book": "Bhikkhunī Vibhaṅga",
   "rule_class": "Confession",
   "rule_no": "131",
-  "sections": [
+  "body": [
     {
-      "heading": "Origin Story",
-      "parts": [
-        {
-          "lzh": [
-            "佛住王舍城。爾時比丘尼僧集欲作布薩羯磨。時樹提比丘尼不來。僧遣信喚言。阿梨耶。比丘尼僧集欲作布薩可來。樹提言。世尊制戒。世間清淨者得布薩。我即清淨不能去。",
-            "大愛道以是因緣具白世尊。乃至答言。實爾。佛言。此是惡事。乃至汝不恭敬布薩。誰當恭敬。乃至已聞者當重聞。"
-          ],
-          "en": [
-            "The Buddha was staying at Rājagaha. At that time, the bhikkhunī sangha had gathered, and wanted to carry out the formal act of the uposatha. Then Jetā bhikkhunī didn’t come. The sangha sent a message to summon her, saying:",
-            "“Venerable, the bhikkhunī sangha has gathered and wants to carry out the uposatha. Please come.”",
-            "Jetā said:",
-            "“The World-honored One has laid down a precept that someone who is pure in the mundane world obtains the uposatha. I therefore am pure, and don’t need to go.”",
-            "For this reason, Mahāpajāpatī fully informed the World-honored One. … She answered:",
-            "“I really did this.”",
-            "The Buddha said:",
-            "“This is an unwholesome thing. … If you don’t respect the uposatha, then who will respect it?”",
-            "… Those who have already heard it should listen again:"
-          ]
-        }
-      ]
+      "h2": "Origin Story",
+      "lzh": [
+        "佛住王舍城。爾時比丘尼僧集欲作布薩羯磨。時樹提比丘尼不來。僧遣信喚言。阿梨耶。比丘尼僧集欲作布薩可來。樹提言。世尊制戒。世間清淨者得布薩。我即清淨不能去。",
+        "大愛道以是因緣具白世尊。乃至答言。實爾。佛言。此是惡事。乃至汝不恭敬布薩。誰當恭敬。乃至已聞者當重聞。"
+      ],
+      "en": [
+        "The Buddha was staying at Rājagaha. At that time, the bhikkhunī sangha had gathered, and wanted to carry out the formal act of the uposatha. Then Jetā bhikkhunī didn’t come. The sangha sent a message to summon her, saying: “Venerable, the bhikkhunī sangha has gathered and wants to carry out the uposatha. Please come.” Jetā said: “The World-honored One has laid down a precept that someone who is pure in the mundane world obtains the uposatha. I therefore am pure, and don’t need to go.”",
+        "For this reason, Mahāpajāpatī fully informed the World-honored One. … She answered: “I really did this.” The Buddha said: “This is an unwholesome thing. … If you don’t respect the uposatha, then who will respect it?” … Those who have already heard it should listen again:"
+      ],
+      "en_verse": [],
+      "lzh_grouping_info": [],
+      "en_grouping_info": []
     },
     {
-      "heading": "Final Ruling",
-      "parts": [
-        {
-          "lzh": [
-            "若比丘尼半月清淨布薩。不恭敬者波夜提。"
-          ],
-          "en": [
-            "If a bhikkhunī doesn’t respect the half-monthly purity uposatha, it’s a pācittiya.”"
-          ]
-        }
-      ]
+      "h2": "Final Ruling",
+      "lzh": [
+        "若比丘尼半月清淨布薩。不恭敬者波夜提。"
+      ],
+      "en": [
+        "If a bhikkhunī doesn’t respect the half-monthly purity uposatha, it’s a pācittiya.”"
+      ],
+      "en_verse": [],
+      "lzh_grouping_info": [],
+      "en_grouping_info": []
     },
     {
-      "heading": "Explanation",
-      "parts": [
-        {
-          "lzh": [
-            "清淨布薩者十四日十五日。不病比丘尼不來恭敬布薩者波夜提。病者老羸病服藥刺頭出血服酥。應與清淨欲。若不病不來。設病不與清淨欲波夜提。若比丘尼不來布薩。病不與清淨欲波夜提。若比丘不來布薩。病不與欲越毘尼罪。是故世尊說。"
-          ],
-          "en": [
-            "“Purity uposatha”",
-            "means on the fourteenth or the fifteenth day. If a bhikkhunī who isn’t sick doesn’t attend and respect the uposatha, it’s a pācittiya.",
-            "“Sick”",
-            "means old, weak, sick, taking medicine, having cut her head and bleeding, or taking ghee. Then she should send her purity and consent. If she’s not sick and doesn’t attend, or if she’s sick and doesn’t send her purity and consent, it’s a pācittiya. If a bhikkhunī doesn’t attend the uposatha, or when sick doesn’t sent purity and consent, it’s a pācittiya. If a bhikkhu doesn’t attend the uposatha, or when sick doesn’t send consent, he breaks a minor vinaya rule. This is what the World-honored One said."
-          ]
-        }
-      ]
+      "h2": "Explanation",
+      "lzh": [
+        "清淨布薩者十四日十五日。不病比丘尼不來恭敬布薩者波夜提。病者老羸病服藥刺頭出血服酥。應與清淨欲。若不病不來。設病不與清淨欲波夜提。若比丘尼不來布薩。病不與清淨欲波夜提。若比丘不來布薩。病不與欲越毘尼罪。是故世尊說。"
+      ],
+      "en": [
+        "“Purity uposatha” means on the fourteenth or the fifteenth day. If a bhikkhunī who isn’t sick doesn’t attend and respect the uposatha, it’s a pācittiya. “Sick” means old, weak, sick, taking medicine, having cut her head and bleeding, or taking ghee. Then she should send her purity and consent. If she’s not sick and doesn’t attend, or if she’s sick and doesn’t send her purity and consent, it’s a pācittiya. If a bhikkhunī doesn’t attend the uposatha, or when sick doesn’t sent purity and consent, it’s a pācittiya. If a bhikkhu doesn’t attend the uposatha, or when sick doesn’t send consent, he breaks a minor vinaya rule. This is what the World-honored One said."
+      ],
+      "en_verse": [],
+      "lzh_grouping_info": [],
+      "en_grouping_info": []
     },
     {
-      "heading": "Summary Verse",
-      "parts": []
+      "h2": "Summary Verse",
+      "lzh": [
+        "申手內無燈 伎樂主不滅",
+        "香油比丘尼 沙彌尼學戒",
+        "女婦不布薩 十三跋渠竟"
+      ],
+      "en": [],
+      "en_verse": [
+        "Within arm’s reach, without a lamp, a musical performance, the leader doesn’t settle,",
+        "Perfumes and oil, a bhikkhunī, a sāmaṇerī, a trainee,",
+        "A lay woman, not attending the uposatha, the 13th chapter is finished."
+      ],
+      "lzh_grouping_info": [],
+      "en_grouping_info": []
     }
   ],
   "file": "pc131",

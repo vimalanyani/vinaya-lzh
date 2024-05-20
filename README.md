@@ -17,6 +17,8 @@ In it's current prototype form, `data_prep.py` needs to be run from its containi
 ```sh
 cd src/data
 python3 data_prep.py --input_dir ./mg/vb/src --output_dir ./mg/vb/json --school "Mahāsaṅghika Vinaya" --book "Bhikkhunī Vibhaṅga"
+
+python3 data_prep.py --input_dir ./mg/testing/src --output_dir ./mg/testing/json --school "Mahāsaṅghika Vinaya" --book "Bhikkhunī Vibhaṅga"
 ```
 
 The rule data “schema“ appied in `data_prep.py` is defined in `src/data/types.ts` and consumed `src/utils/getAllBookRuleData.ts` and fed down through the app.

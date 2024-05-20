@@ -4,102 +4,97 @@
   "book": "Bhikkhunī Vibhaṅga",
   "rule_class": "Confession",
   "rule_no": "99",
-  "sections": [
+  "body": [
     {
-      "heading": "Origin Story",
-      "parts": [
-        {
-          "lzh": [
-            "佛住舍衛城。爾時世尊制戒。不聽不滿學與受具足。爾時比丘尼十八雨童女學戒滿。二十雨與受具足。諸比丘尼嫌言。汝學戒滿不滿誰得知者。",
-            "諸比丘尼以是因緣語大愛道。乃至佛言。"
-          ],
-          "en": [
-            "The Buddha was staying at Sāvatthī. At that time, the World-honored One had laid down the precept that it’s not allowed to give the full ordination to someone who hasn’t fully trained. Then bhikkhunīs gave the full ordination to a girl of 20 rains, who had fully trained in the precepts since she was 18. The bhikkhunīs were upset and said:",
-            "“Whether you fully trained in the precepts or not, who can know that?”",
-            "For this reason, the bhikkhunīs spoke with Mahāpajāpatī. … The Buddha said:"
-          ]
-        }
-      ]
+      "h2": "Origin Story",
+      "lzh": [
+        "佛住舍衛城。爾時世尊制戒。不聽不滿學與受具足。爾時比丘尼十八雨童女學戒滿。二十雨與受具足。諸比丘尼嫌言。汝學戒滿不滿誰得知者。",
+        "諸比丘尼以是因緣語大愛道。乃至佛言。"
+      ],
+      "en": [
+        "The Buddha was staying at Sāvatthī. At that time, the World-honored One had laid down the precept that it’s not allowed to give the full ordination to someone who hasn’t fully trained. Then bhikkhunīs gave the full ordination to a girl of 20 rains, who had fully trained in the precepts since she was 18. The bhikkhunīs were upset and said: “Whether you fully trained in the precepts or not, who can know that?”",
+        "For this reason, the bhikkhunīs spoke with Mahāpajāpatī. … The Buddha said:"
+      ],
+      "en_verse": [],
+      "lzh_grouping_info": [],
+      "en_grouping_info": []
     },
     {
-      "heading": "Preliminary Ruling",
-      "parts": [
-        {
-          "lzh": [
-            "從今已後。學戒滿二十雨童女。欲於如來法律中受具足作比丘尼者。先作求聽羯磨。應然後從僧乞學戒滿受具足羯磨。"
-          ],
-          "en": [
-            "“From now on, a 20 year old girl who has fully trained in the precepts, and wants to receive the full ordination in the Tathāgata’s dhamma-vinaya to become a bhikkhunī, should first carry out a formal act to request permission. Then she should ask the sangha for the formal act (to confirm) that she has fully trained in the precepts, and may be fully ordained."
-          ]
-        }
-      ]
+      "h2": "Preliminary Ruling",
+      "lzh": [
+        "從今已後。學戒滿二十雨童女。欲於如來法律中受具足作比丘尼者。先作求聽羯磨。應然後從僧乞學戒滿受具足羯磨。"
+      ],
+      "en": [
+        "“From now on, a 20 year old girl who has fully trained in the precepts, and wants to receive the full ordination in the Tathāgata’s dhamma-vinaya to become a bhikkhunī, should first carry out a formal act to request permission. Then she should ask the sangha for the formal act (to confirm) that she has fully trained in the precepts, and may be fully ordained."
+      ],
+      "en_verse": [],
+      "lzh_grouping_info": [],
+      "en_grouping_info": []
     },
     {
-      "heading": "Saṅghakamma",
-      "parts": [
-        {
-          "lzh": [
-            "羯磨者應作是說。阿梨耶僧聽。某甲二十歲童女學戒滿。欲於如來法律中受具足。若僧時到。僧某甲欲從僧乞學滿受具足。阿梨耶僧聽。某甲二十歲童女學戒滿。欲從僧乞學滿受具足。僧忍默然故。是事如是持。",
-            "應從僧乞胡跪合掌作是言。阿梨耶僧聽。我某甲二十歲童女學戒滿。欲於如來法律中受具足。今從僧乞學滿受具足。唯願僧哀愍故與我學戒滿受具足。如是三乞。",
-            "羯磨者應作是說。阿梨耶僧聽。某甲滿二十雨童女學戒滿。欲於如來法律中受具足作比丘尼已從僧乞學滿受具足。若僧時到僧與某甲學滿受具足羯磨。白如是。阿梨耶僧聽。某甲滿二十雨童女學戒滿。欲於如來法律中受具足作比丘尼。已從僧乞學滿受具足。僧今與某甲學滿受具足。阿梨耶僧忍與某甲學滿受具足者默然。若不忍者便說。是第一羯磨。第二第三亦如是說。僧已與某甲學滿羯磨竟。僧忍默然故。是事如是持。"
-          ],
-          "en": [
-            "The master of ceremony should say:",
-            "“May the noble sangha listen. The 20 year old girl So-and-so has fully trained in the precepts, and wants to receive the full ordination in the Tathāgata’s dhamma-vinaya. If the right time has come for the sangha, So-and-so wants to ask the sangha (to confirm) that she has fully trained in the precepts, and may be fully ordained. May the noble sangha listen. The 20 year old girl So-and-so has fully trained in the precepts, and wants to ask the sangha (to confirm) that she has fully trained in the precepts, and may be fully ordained. The sangha accepts this, therefore you’re silent. This matter is remembered thus.”",
-            "(The girl) should ask the sangha, kneeling and with joined palms:",
-            "“May the noble sangha listen. I, So-and-so, a 20 year old girl, have fully trained in the precepts, and want to receive the full ordination in the Tathāgata’s dhamma-vinaya. Now I ask the sangha (to confirm) that I’ve fully trained and may receive the full ordination. May the sangha (confirm) that I’ve fully trained in the precepts, and may receive the full ordination out of compassion.”",
-            "Like this three requests.",
-            "The master of ceremony should say: “May the noble sangha listen. The 20 year old girl So-and-so has fully trained in the precepts, and wants to receive the full ordination in the Tathāgata’s dhamma-vinaya to become a bhikkhunī. She has asked the sangha (to confirm) that she has fully trained and may receive the full ordination. If the right time has come for the sangha, may the sangha carry out the formal act for So-and-so (to confirm) that she has fully trained and may be fully ordained. This is the motion.",
-            "May the noble sangha listen. The 20 year old girl So-and-so has fully trained in the precepts, and wants to receive the full ordination in the Tathāgata’s dhamma-vinaya to become a bhikkhunī. She has asked the sangha (to confirm) that she has fully trained and may receive the full ordination. The sangha now confirms that So-and-so has fully trained, and may be fully ordained. If the noble sangha accepts (to confirm) that So-and-so has fully trained, and may be fully ordained, you should remain silent. If you don’t accept this, you should speak. This is the first announcement.” A second and third time are recited in the same way.",
-            "“The sangha has carried out the formal act (to confirm) that So-and-so has fully trained. The sangha accepts this, therefore you’re silent. This matter is remembered thus.”"
-          ]
-        }
-      ]
+      "h2": "Saṅghakamma",
+      "lzh": [
+        "羯磨者應作是說。阿梨耶僧聽。某甲二十歲童女學戒滿。欲於如來法律中受具足。若僧時到。僧某甲欲從僧乞學滿受具足。阿梨耶僧聽。某甲二十歲童女學戒滿。欲從僧乞學滿受具足。僧忍默然故。是事如是持。",
+        "應從僧乞胡跪合掌作是言。阿梨耶僧聽。我某甲二十歲童女學戒滿。欲於如來法律中受具足。今從僧乞學滿受具足。唯願僧哀愍故與我學戒滿受具足。如是三乞。",
+        "羯磨者應作是說。阿梨耶僧聽。某甲滿二十雨童女學戒滿。欲於如來法律中受具足作比丘尼已從僧乞學滿受具足。若僧時到僧與某甲學滿受具足羯磨。白如是。阿梨耶僧聽。某甲滿二十雨童女學戒滿。欲於如來法律中受具足作比丘尼。已從僧乞學滿受具足。僧今與某甲學滿受具足。阿梨耶僧忍與某甲學滿受具足者默然。若不忍者便說。是第一羯磨。第二第三亦如是說。僧已與某甲學滿羯磨竟。僧忍默然故。是事如是持。",
+        "("
+      ],
+      "en": [
+        "The master of ceremony should say: “May the noble sangha listen. The 20 year old girl So-and-so has fully trained in the precepts, and wants to receive the full ordination in the Tathāgata’s dhamma-vinaya. If the right time has come for the sangha, So-and-so wants to ask the sangha (to confirm) that she has fully trained in the precepts, and may be fully ordained. May the noble sangha listen. The 20 year old girl So-and-so has fully trained in the precepts, and wants to ask the sangha (to confirm) that she has fully trained in the precepts, and may be fully ordained. The sangha accepts this, therefore you’re silent. This matter is remembered thus.”",
+        "The girl) should ask the sangha, kneeling and with joined palms: “May the noble sangha listen. I, So-and-so, a 20 year old girl, have fully trained in the precepts, and want to receive the full ordination in the Tathāgata’s dhamma-vinaya. Now I ask the sangha (to confirm) that I’ve fully trained and may receive the full ordination. May the sangha (confirm) that I’ve fully trained in the precepts, and may receive the full ordination out of compassion.” Like this three requests.",
+        "The master of ceremony should say: “May the noble sangha listen. The 20 year old girl So-and-so has fully trained in the precepts, and wants to receive the full ordination in the Tathāgata’s dhamma-vinaya to become a bhikkhunī. She has asked the sangha (to confirm) that she has fully trained and may receive the full ordination. If the right time has come for the sangha, may the sangha carry out the formal act for So-and-so (to confirm) that she has fully trained and may be fully ordained. This is the motion.",
+        "May the noble sangha listen. The 20 year old girl So-and-so has fully trained in the precepts, and wants to receive the full ordination in the Tathāgata’s dhamma-vinaya to become a bhikkhunī. She has asked the sangha (to confirm) that she has fully trained and may receive the full ordination. The sangha now confirms that So-and-so has fully trained, and may be fully ordained. If the noble sangha accepts (to confirm) that So-and-so has fully trained, and may be fully ordained, you should remain silent. If you don’t accept this, you should speak. This is the first announcement.” A second and third time are recited in the same way. “The sangha has carried out the formal act (to confirm) that So-and-so has fully trained. The sangha accepts this, therefore you’re silent. This matter is remembered thus.”"
+      ],
+      "en_verse": [],
+      "lzh_grouping_info": [],
+      "en_grouping_info": []
     },
     {
-      "heading": "Origin Story (continued)",
-      "parts": [
-        {
-          "lzh": [
-            "佛告大愛道瞿曇彌。依止舍衛城比丘尼皆悉令集。乃至已聞者當重聞。"
-          ],
-          "en": [
-            "The Buddha told Mahāpajāpatī Gotamī: “Convene all the bhikkhunīs living in the vicinity of Sāvatthī. … Those who have already heard it should listen again:"
-          ]
-        }
-      ]
+      "h2": "Origin Story (continued)",
+      "lzh": [
+        "佛告大愛道瞿曇彌。依止舍衛城比丘尼皆悉令集。乃至已聞者當重聞。"
+      ],
+      "en": [
+        "The Buddha told Mahāpajāpatī Gotamī: “Convene all the bhikkhunīs living in the vicinity of Sāvatthī. … Those who have already heard it should listen again:"
+      ],
+      "en_verse": [],
+      "lzh_grouping_info": [],
+      "en_grouping_info": []
     },
     {
-      "heading": "Final Ruling",
-      "parts": [
-        {
-          "lzh": [
-            "若比丘尼學戒滿。不羯磨與受具足者波夜提。"
-          ],
-          "en": [
-            "If a bhikkhunī gives the full ordination to someone, who has fully trained in the precepts, without a formal act, it’s a pācittiya.”"
-          ]
-        }
-      ]
+      "h2": "Final Ruling",
+      "lzh": [
+        "若比丘尼學戒滿。不羯磨與受具足者波夜提。"
+      ],
+      "en": [
+        "If a bhikkhunī gives the full ordination to someone, who has fully trained in the precepts, without a formal act, it’s a pācittiya.”"
+      ],
+      "en_verse": [],
+      "lzh_grouping_info": [],
+      "en_grouping_info": []
     },
     {
-      "heading": "Explanation",
-      "parts": [
-        {
-          "lzh": [
-            "學戒滿者二雨中隨順行十八事。不羯磨者不作羯磨。與受具足者波夜提。波夜提者如上說。是故世尊說。"
-          ],
-          "en": [
-            "“Fully trained in the precepts”",
-            "means to follow and practise the 18 matters for two rains.",
-            "“Without a formal act”",
-            "means not carrying out the formal act. Giving her the full ordination is a pācittiya.",
-            "“Pācittiya”",
-            "is as explained above. This is what the World-honored One said.",
-            "摩訶僧祇律卷第三十八",
-            "Mahāsaṅghika Vinaya, 38th fascicle."
-          ]
-        }
+      "h2": "Explanation",
+      "lzh": [
+        "學戒滿者二雨中隨順行十八事。不羯磨者不作羯磨。與受具足者波夜提。波夜提者如上說。是故世尊說。"
+      ],
+      "en": [
+        "“Fully trained in the precepts” means to follow and practise the 18 matters for two rains. “Without a formal act” means not carrying out the formal act. Giving her the full ordination is a pācittiya. “Pācittiya” is as explained above. This is what the World-honored One said."
+      ],
+      "en_verse": [],
+      "lzh_grouping_info": [],
+      "en_grouping_info": []
+    },
+    {
+      "h2": "Explanation",
+      "lzh": [],
+      "en": [],
+      "en_verse": [],
+      "lzh_grouping_info": [
+        "摩訶僧祇律卷第三十八"
+      ],
+      "en_grouping_info": [
+        "Mahāsaṅghika Vinaya, 38th fascicle."
       ]
     }
   ],
