@@ -134,7 +134,7 @@ def parse_txt_content(file_path):
         "en_grouping_info": [],
     }
 
-    is_first_section = True
+    is_sections_initialized = False
 
     lzh_buffer = []
     en_buffer = []
@@ -146,7 +146,7 @@ def parse_txt_content(file_path):
     def add_body_section_and_reset():
         section = section_model.copy()
 
-        if is_first_section is not True:
+        if is_sections_initialized:
             section["lzh"] = lzh_buffer
             section["en"] = en_buffer
             section["h2"] = h2_buffer
@@ -173,7 +173,7 @@ def parse_txt_content(file_path):
         if line:
             if is_open_grouping_info_line("lzh", line):
                 add_body_section_and_reset()  # Add the previous translation if any
-                is_first_section = False
+                is_sections_initialized = True
 
                 if is_close_grouping_info_line("lzh", line):
                     buffering_lzh_grouping_info = False
@@ -188,6 +188,15 @@ def parse_txt_content(file_path):
 
             elif buffering_lzh_grouping_info:
                 lzh_grouping_info_buffer.append(line)
+
+            elif is_open_grouping_info_line("en", line) and not is_sections_initialized:
+                is_sections_initialized = True
+                add_body_section_and_reset()  
+                if is_close_grouping_info_line("en", line):
+                    buffering_en_grouping_info = False
+                else:
+                    buffering_en_grouping_info = True
+                en_grouping_info_buffer.append(re.sub(r"<\/?en.*?>", "", line))
 
             elif is_open_grouping_info_line("en", line):
                 if is_close_grouping_info_line("en", line):
@@ -204,8 +213,8 @@ def parse_txt_content(file_path):
                 en_grouping_info_buffer.append(re.sub(r"<\/?en.*?>", "", line))
 
             elif is_h2_line(line):
-                add_body_section_and_reset()  # Add the previous translation if any
-                is_first_section = False
+                add_body_section_and_reset()  
+                is_sections_initialized = True
                 h2_buffer = re.sub(r"<\/?h2>", "", line)
 
             elif is_open_lzh_line(line):
@@ -236,6 +245,8 @@ def parse_txt_content(file_path):
             elif buffering_en_verse:
                 en_verse_buffer.append(line)
 
+           
+
             else:
                 en_buffer.append(line)
 
@@ -260,6 +271,7 @@ def main(directory_path, output_directory):
         if filename.endswith(".txt"):
             file_path = os.path.join(directory_path, filename)
 
+            print(f"Processing {filename}...")
             content_data = parse_txt_content(file_path)
 
             # add prev/next data
