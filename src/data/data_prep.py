@@ -45,8 +45,15 @@ parser.add_argument(
     "--book", type=str, help="The name of the vinaya book the texts are from."
 )
 
+parser.add_argument(
+    "--has_rule_class",
+    action="store_true",
+    help="Flag to indicate if the rule class should be included."
+)
+
 args = parser.parse_args()
 
+has_rule_class = args.has_rule_class if hasattr(args, 'has_rule_class') else None
 
 rule_classes = {
     "pj": "Expulsion",
@@ -59,17 +66,17 @@ rule_classes = {
 }
 
 
-def is_open_grouping_info_line(lang, line):
+def is_open_grouping_info_line(lang, line, position="start"):
     if line is None:
         return False
-    regex = re.compile(rf"<{lang}-(fascicle|division)-(start|end)>")
+    regex = re.compile(rf"<{lang}-(fascicle|division)-{position}>")
     return re.match(regex, line)
 
 
-def is_close_grouping_info_line(lang, line):
+def is_close_grouping_info_line(lang, line, position="start"):
     if line is None:
         return False
-    regex = re.compile(rf".*</{lang}-(fascicle|division)-(start|end)>")
+    regex = re.compile(rf".*</{lang}-(fascicle|division)-{position}>")
     return re.match(regex, line)
 
 
@@ -108,6 +115,7 @@ def is_close_verse_line(line):
     return re.match(regex, line)
 
 
+
 def parse_txt_content(file_path):
     with open(file_path, "r", encoding="utf-8") as file:
         lines = file.readlines()
@@ -120,7 +128,7 @@ def parse_txt_content(file_path):
         "id": id,
         "school": args.school,
         "book": args.book,
-        "rule_class": rule_classes[id[5:7]],
+        "rule_class": "" if not has_rule_class else rule_classes[id[5:7]],
         "rule_no": id[7:],
         "body": [],
     }
@@ -138,7 +146,7 @@ def parse_txt_content(file_path):
 
     lzh_buffer = []
     en_buffer = []
-    h2_buffer = ""
+    h2_buffer = []
     en_verse_buffer = []
     lzh_grouping_info_buffer = []
     en_grouping_info_buffer = []
@@ -155,23 +163,23 @@ def parse_txt_content(file_path):
 
     def add_body_section_and_reset():
         if buffers_are_not_empty():
-
             section = section_model.copy()
 
             section["lzh"] = lzh_buffer
             section["en"] = en_buffer
-            section["h2"] = h2_buffer
+            section["h2"] = h2_buffer[0] if len(h2_buffer) > 0 else ""
             section["en_verse"] = en_verse_buffer
             section["lzh_grouping_info"] = lzh_grouping_info_buffer
             section["en_grouping_info"] = en_grouping_info_buffer
 
             data["body"].append(copy.deepcopy(section))
 
-            lzh_buffer.clear()
-            en_buffer.clear()
-            en_verse_buffer.clear()
-            lzh_grouping_info_buffer.clear()
-            en_grouping_info_buffer.clear()
+        lzh_buffer.clear()
+        en_buffer.clear()
+        h2_buffer.clear()
+        en_verse_buffer.clear()
+        lzh_grouping_info_buffer.clear()
+        en_grouping_info_buffer.clear()
 
     buffering_lzh = False
     buffering_en_verse = False
@@ -200,6 +208,18 @@ def parse_txt_content(file_path):
             elif buffering_lzh_grouping_info:
                 lzh_grouping_info_buffer.append(line)
 
+            elif is_open_grouping_info_line("lzh", line, "end"):
+                is_sections_initialized = True
+                add_body_section_and_reset()  
+
+                if is_close_grouping_info_line("lzh", line, "end"):
+                    buffering_lzh_grouping_info = False
+                else:
+                    buffering_lzh_grouping_info = True
+
+                lzh_grouping_info_buffer.append(re.sub(r"<\/?lzh.*?>", "", line))
+
+
             elif not is_sections_initialized and is_open_grouping_info_line("en", line):
                 is_sections_initialized = True
                 add_body_section_and_reset()  
@@ -209,8 +229,8 @@ def parse_txt_content(file_path):
                     buffering_en_grouping_info = True
                 en_grouping_info_buffer.append(re.sub(r"<\/?en.*?>", "", line))
 
-            elif is_open_grouping_info_line("en", line):
-                if is_close_grouping_info_line("en", line):
+            elif is_open_grouping_info_line("en", line, "(start|end)"):
+                if is_close_grouping_info_line("en", line, "(start|end)"):
                     buffering_en_grouping_info = False
                     en_grouping_info_buffer.append(re.sub(r"<\/?en.*?>", "", line))
                     add_body_section_and_reset() 
@@ -218,7 +238,7 @@ def parse_txt_content(file_path):
                     buffering_en_grouping_info = True
                     en_grouping_info_buffer.append(re.sub(r"<\/?en.*?>", "", line))
 
-            elif is_close_grouping_info_line("en", line):
+            elif is_close_grouping_info_line("en", line, "(start|end)"):
                 buffering_en_grouping_info = False
                 en_grouping_info_buffer.append(re.sub(r"<\/?en.*?>", "", line))
                 add_body_section_and_reset() 
@@ -229,7 +249,7 @@ def parse_txt_content(file_path):
             elif is_h2_line(line):
                 add_body_section_and_reset()  
                 is_sections_initialized = True
-                h2_buffer = re.sub(r"<\/?h2>", "", line)
+                h2_buffer.append(re.sub(r"<\/?h2>", "", line))
 
             elif is_open_lzh_line(line):
                 if is_close_lzh_line(line):
@@ -281,6 +301,8 @@ def extract_id_from_filename(filename):
 
 def main(directory_path, output_directory):
     files = sorted(os.listdir(directory_path))
+    print(f"Processing {len(files)} files in {directory_path}...")
+
     for i, filename in enumerate(files):
         if filename.endswith(".txt"):
             file_path = os.path.join(directory_path, filename)

@@ -1,14 +1,15 @@
-MgGd1 at Mg_BuPn8, T1425, fascicle 30
+
+MgGd1
 
 
+<lzh-fascicle-start>placeholder</lzh-fascicle-start>
+
+<en-fascicle-start>MgGd1 at Mg_BuPn8, T1425, fascicle 30. <note>T0471a25  (SC18)</note></en-fascicle-start>
 
 
-T0471a25  (SC18)
+<lzh-division-start>比丘尼法者。</lzh-division-start>
 
-
-<lzh>比丘尼法者。</lzh>
-
-Bhikkhunī rules. 
+<en-division-start>Bhikkhunī rules.</en-division-start> 
 
 
 
