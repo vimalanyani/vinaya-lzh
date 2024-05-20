@@ -1,9 +1,10 @@
-interface RuleSection {
-  heading: string;
-  parts: {
-    lzh: string[];
-    en: string[];
-  }[];
+interface RuleBody {
+  h2: string;
+  lzh: string[];
+  en: string[];
+  en_verse: string[];
+  lzh_grouping_info: string[];
+  en_grouping_info: string[];
 }
 
 export interface RuleData {
@@ -12,7 +13,7 @@ export interface RuleData {
   book: string;
   rule_class: string;
   rule_no: string;
-  body: RuleSection[];
+  body: RuleBody[];
   file: string;
   prev_file: string | null;
   next_file: string | null;
