@@ -4,67 +4,44 @@
   "book": "Bhikkhunī Vibhaṅga",
   "rule_class": "Confession",
   "rule_no": "109",
-  "sections": [
+  "body": [
     {
-      "heading": "Origin Story",
-      "parts": [
-        {
-          "lzh": [
-            "佛住舍衛城。爾時偷蘭難陀比丘尼十法不滿。度弟子不教誡。如天牛天羊。乃至比丘尼語言。阿梨耶。汝十法不具足。度弟子何不教誡使如法。偷蘭難陀言。汝妬我度弟子而責數我。",
-            "諸比丘尼語大愛道。大愛道即以是事往白世尊。佛言。呼是比丘尼來。來已問言。汝實爾不。答言實爾。佛言。此是惡事。乃至汝云何十法不具度弟子不教誡而嫌責他。從今已後不聽嫌他。佛告大愛道瞿曇彌。依止舍衛城比丘尼皆悉令集。乃至已聞者當重聞。"
-          ],
-          "en": [
-            "The Buddha was staying at Sāvatthī. At that time, Thullanandā bhikkhunī, without fulfilling the 10 requirements, gave the going forth to students and then didn’t teach and instruct them. They were like heavenly cows and goats. … The bhikkhunīs said:",
-            "“Venerable, you gave the going forth to students without fulfilling the 10 requirements. Why don’t you teach and instruct them, and make them act according to dhamma?”",
-            "Thullanandā said:",
-            "“You’re jealous of my giving the going forth to students, and therefore you reproach me again and again.”",
-            "The bhikkhunīs told Mahāpajāpatī, and she went to the World-honored One, and informed him of this matter. The Buddha said:",
-            "“Summon that bhikkhunī.”",
-            "When she came, he asked her:",
-            "“Did you really do this?”",
-            "She answered:",
-            "“I really did this.”",
-            "The Buddha said:",
-            "“This is an unwholesome thing. … Why did you, without fulfilling the 10 requirements, give the going forth to students, and then not teach and instruct them, but rebuke others? From now on, it’s no longer allowed to complain about others.”",
-            "The Buddha told Mahāpajāpatī Gotamī: “Convene all the bhikkhunīs living in the vicinity of Sāvatthī. … Those who have already heard it should listen again:"
-          ]
-        }
-      ]
+      "h2": "Origin Story",
+      "lzh": [
+        "佛住舍衛城。爾時偷蘭難陀比丘尼十法不滿。度弟子不教誡。如天牛天羊。乃至比丘尼語言。阿梨耶。汝十法不具足。度弟子何不教誡使如法。偷蘭難陀言。汝妬我度弟子而責數我。",
+        "諸比丘尼語大愛道。大愛道即以是事往白世尊。佛言。呼是比丘尼來。來已問言。汝實爾不。答言實爾。佛言。此是惡事。乃至汝云何十法不具度弟子不教誡而嫌責他。從今已後不聽嫌他。佛告大愛道瞿曇彌。依止舍衛城比丘尼皆悉令集。乃至已聞者當重聞。"
+      ],
+      "en": [
+        "The Buddha was staying at Sāvatthī. At that time, Thullanandā bhikkhunī, without fulfilling the 10 requirements, gave the going forth to students and then didn’t teach and instruct them. They were like heavenly cows and goats. … The bhikkhunīs said: “Venerable, you gave the going forth to students without fulfilling the 10 requirements. Why don’t you teach and instruct them, and make them act according to dhamma?” Thullanandā said: “You’re jealous of my giving the going forth to students, and therefore you reproach me again and again.”",
+        "The bhikkhunīs told Mahāpajāpatī, and she went to the World-honored One, and informed him of this matter. The Buddha said: “Summon that bhikkhunī.” When she came, he asked her: “Did you really do this?” She answered: “I really did this.” The Buddha said: “This is an unwholesome thing. … Why did you, without fulfilling the 10 requirements, give the going forth to students, and then not teach and instruct them, but rebuke others? From now on, it’s no longer allowed to complain about others.” The Buddha told Mahāpajāpatī Gotamī: “Convene all the bhikkhunīs living in the vicinity of Sāvatthī. … Those who have already heard it should listen again:"
+      ],
+      "en_verse": [],
+      "lzh_grouping_info": [],
+      "en_grouping_info": []
     },
     {
-      "heading": "Final Ruling",
-      "parts": [
-        {
-          "lzh": [
-            "若比丘尼語比丘尼作是語。阿梨耶。十法不具足度弟子應教誡。而反嫌責者波夜提。"
-          ],
-          "en": [
-            "If a bhikkhunī, when the bhikkhunīs say to her: ‘Venerable, not fulfilling the 10 requirements, you give the going forth to students. You should teach and instruct them’, rebukes them back, it’s a pācittiya.”"
-          ]
-        }
-      ]
+      "h2": "Final Ruling",
+      "lzh": [
+        "若比丘尼語比丘尼作是語。阿梨耶。十法不具足度弟子應教誡。而反嫌責者波夜提。"
+      ],
+      "en": [
+        "If a bhikkhunī, when the bhikkhunīs say to her: ‘Venerable, not fulfilling the 10 requirements, you give the going forth to students. You should teach and instruct them’, rebukes them back, it’s a pācittiya.”"
+      ],
+      "en_verse": [],
+      "lzh_grouping_info": [],
+      "en_grouping_info": []
     },
     {
-      "heading": "Explanation",
-      "parts": [
-        {
-          "lzh": [
-            "比丘尼者若僧若眾多人若一人。是比丘尼者如偷蘭難陀比丘尼。十法不具者十法不成就。度弟子者受具足作是諫時。而嫌責者波夜提。波夜提者如上說。比丘如是者越毘尼罪。是故世尊說。"
-          ],
-          "en": [
-            "“The bhikkhunīs”",
-            "means a sangha, a group of several people, or one person.",
-            "“That bhikkhunī”",
-            "means someone like Thullanandā bhikkhunī.",
-            "“Not fulfilling the 10 requirements”",
-            "means that the 10 requirements are not complete.",
-            "“Giving the going forth to a student”",
-            "means giving the full ordination. If she rebukes them back when being admonished, it’s a pācittiya.",
-            "“Pācittiya”",
-            "is as explained above. If a bhikkhu acts like this, he breaks a minor vinaya rule. This is what the World-honored One said."
-          ]
-        }
-      ]
+      "h2": "Explanation",
+      "lzh": [
+        "比丘尼者若僧若眾多人若一人。是比丘尼者如偷蘭難陀比丘尼。十法不具者十法不成就。度弟子者受具足作是諫時。而嫌責者波夜提。波夜提者如上說。比丘如是者越毘尼罪。是故世尊說。"
+      ],
+      "en": [
+        "“The bhikkhunīs” means a sangha, a group of several people, or one person. “That bhikkhunī” means someone like Thullanandā bhikkhunī. “Not fulfilling the 10 requirements” means that the 10 requirements are not complete. “Giving the going forth to a student” means giving the full ordination. If she rebukes them back when being admonished, it’s a pācittiya. “Pācittiya” is as explained above. If a bhikkhu acts like this, he breaks a minor vinaya rule. This is what the World-honored One said."
+      ],
+      "en_verse": [],
+      "lzh_grouping_info": [],
+      "en_grouping_info": []
     }
   ],
   "file": "pc109",

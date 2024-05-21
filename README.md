@@ -14,17 +14,41 @@ An MVP project, with _super_ rough round the edges data prep and presentation.
 
 In it's current prototype form, `data_prep.py` needs to be run from its containing directory with relative input and output paths:
 
+Example commands:
+
 ```sh
 cd src/data
-python3 data_prep.py --input_dir ./mg/vb/src --output_dir ./mg/vb/json --school "Mahāsaṅghika Vinaya" --book "Bhikkhunī Vibhaṅga"
+python3 data_prep.py --input_dir ./mg/vb/src --output_dir ./mg/vb/json --school "Mahāsaṅghika Vinaya" --book "Bhikkhunī Vibhaṅga" --has_rule_class
+
+python3 data_prep.py --input_dir ./mg/pn/src --output_dir ./mg/pn/json --school "Mahāsaṅghika Vinaya" --book "Bhikkhunī Pakiṇṇaka"
+
+python3 data_prep.py --input_dir ./mg/gd/src --output_dir ./mg/gd/json --school "Mahāsaṅghika Vinaya" --book "Garudhammas"
+
+python3 data_prep.py --input_dir ./mg/pm/src --output_dir ./mg/pm/json --school "Mahāsaṅghika Vinaya" --book "Bhikkhunī Pātimokkha"
 ```
 
 The rule data “schema“ appied in `data_prep.py` is defined in `src/data/types.ts` and consumed `src/utils/getAllBookRuleData.ts` and fed down through the app.
 
-### ¡Note!:
+#### source `txt` files:
 
-- `data_prep.py` used to transform the source `txt` files into `json` consumed by the site has been modled on one sample file and it's assumptions may not be universal!
-- the project assumes text files have have been renamed with leading zeros.
+- the source translation `txt` use the following custom markup:
+
+    ```html
+    <lzh-fascicle-start> ... </lzh-fascicle-start>
+    <!-- en-fascicle-start can be broken per line -->
+    <en-fascicle-start> ... </en-fascicle-start> 
+    <lzh-fascicle-end> ... </lzh-fascicle-end>
+    <en-fascicle-end> ... </en-fascicle-end>
+    <lzh-division-start> ... </lzh-division-start>
+    <en-division-start> ... </en-division-start>
+    <en-division-end> ... </en-division-end>
+    <lzh> ... </lzh>
+    <h2> ... </h2>
+    <note> ... </note>
+    <verse> ... </verse>
+    ```
+- source text files have have been renamed with leading zeros.
+
 
 ## Deployment
 

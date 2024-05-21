@@ -1,27 +1,40 @@
 MgVb_pc72
 
 
-摩訶僧祇律卷第三十八
+<lzh-fascicle-start>摩訶僧祇律卷第三十八
 東晉天竺三藏佛陀跋陀羅共法顯譯
-明一百四十一波夜提法之二
-Mahāsaṅghika Vinaya, 38th fascicle.
+明一百四十一波夜提法之二</lzh-fascicle-start>
+
+<en-fascicle-start>Mahāsaṅghika Vinaya, 38th fascicle.
 Translated by the Indian Tipiṭaka master Buddhabhadra together with Fǎxiǎn during the Eastern Jin dynasty.
-Explanation of the 141 pācittiya rules, part two.
+Explanation of the 141 pācittiya rules, part two.</en-fascicle-start>
 
 
-Origin Story
 
-佛住舍衛城。爾時有人名竭住。在外道中出家。父母在佛法中出家。時竭住。盛寒時無衣。往至母所禽獸而住。母即慈念。有新浣染作淨欝多羅僧。便脫與之。得已即著入酒店中坐。為世人所嫌。言此邪見噉酒糟驢。而著聖人幖幟。諸比丘尼聞已語大愛道。大愛道即以是事往白世尊。佛言。呼是比丘尼來。來已問言。汝實爾不。答言實爾。佛言。此是惡事。汝云何持衣與出家外道。從今已後。不聽自手與外道衣。佛告大愛道瞿曇彌。依止舍衛城比丘尼皆悉令集。乃至已聞者當重聞。
+
+<h2>Origin Story</h2>
+
+
+<lzh>佛住舍衛城。爾時有人名竭住。在外道中出家。父母在佛法中出家。時竭住。盛寒時無衣。往至母所禽獸而住。母即慈念。有新浣染作淨欝多羅僧。便脫與之。得已即著入酒店中坐。為世人所嫌。言此邪見噉酒糟驢。而著聖人幖幟。諸比丘尼聞已語大愛道。大愛道即以是事往白世尊。佛言。呼是比丘尼來。來已問言。汝實爾不。答言實爾。佛言。此是惡事。汝云何持衣與出家外道。從今已後。不聽自手與外道衣。佛告大愛道瞿曇彌。依止舍衛城比丘尼皆悉令集。乃至已聞者當重聞。</lzh>
+
 The Buddha was staying at Sāvatthi. At that time there was someone called Gartodara, who went forth among non-Buddhist renunciates. His parents went forth in the Buddha’s dhamma. When Gartodara had no robe in deep winter, he went to his mother, who was living with wild beasts. His mother then compassionalely thought: “I’ve a new, washed, dyed, and cleaned upper robe, that I’ll relinquish, and give him.” After getting it, he put it on, entered a bar, and sat down. The lay people became angry and said: “This person of wrong view, this donkey feeding on alcoholic dregs, wears the banner of the noble ones.” When the bhikkhunīs heard this, they told Mahāpajāpatī, and she went to the World-honored One, and informed him of this matter. The Buddha said: “Summon that bhikkhunī.” When she came, the Buddha asked her: “Did you really do this?” She answered: “I really did this.” The Buddha said: “This is an unwholesome thing. Why did you take a robe, and give it to a non-Buddhist renunciate? From now on, it’s no longer allowed to offer robes to non-Buddhist renunciates with one’s own hands.” The Buddha told Mahāpajāpatī Gotamī: “Convene all the bhikkhunīs living in the vicinity of Sāvatthī. … Those who have already heard it should listen again:
 
 
-Final Ruling
 
-若比丘尼自手與俗人外道沙門衣波夜提。
+
+<h2>Final Ruling</h2>
+
+
+<lzh>若比丘尼自手與俗人外道沙門衣波夜提。</lzh>
+
 If a bhikkhunī gives a renunciate’s robe with her own hands to lay people or non-Buddhist renunciates, it’s a pācittiya.”
 
 
-Explanations
 
-比丘尼者如上說。俗人者在家人。外道者外道出家。自手與者手與手受。沙門衣者賢聖幖幟。波夜提者如上說。不得自手與俗人外道沙門衣。若比丘尼有戒德。婦女小兒欲乞破衣段以禳災者不得自手與。應遣淨人女與。若比丘自手與俗人外道沙門衣者越毘尼罪。若有戒德比丘。人索破袈裟段。欲以禳災者。應使淨人與。不得與大段當與小者。是故世尊說。
+
+<h2>Explanation</h2>
+
+
+<lzh>比丘尼者如上說。俗人者在家人。外道者外道出家。自手與者手與手受。沙門衣者賢聖幖幟。波夜提者如上說。不得自手與俗人外道沙門衣。若比丘尼有戒德。婦女小兒欲乞破衣段以禳災者不得自手與。應遣淨人女與。若比丘自手與俗人外道沙門衣者越毘尼罪。若有戒德比丘。人索破袈裟段。欲以禳災者。應使淨人與。不得與大段當與小者。是故世尊說。</lzh>
+
 “A bhikkhunī” is as explained above. “Laypeople” means householders. “Non-Buddhist renunciates” means those gone forth in a non-Buddhist religion. “Giving with one’s hand” means giving with the hand, and (the other person) receiving with the hand. “A renunciate’s robe” means the banner of wise and noble ones. “Pācittiya” is as explained above. It’s not allowed to give a renunciate’s robe with one’s own hands to lay people or non-Buddhist renunciates. If the bhikkhunī is virtuous in the precepts, and lay women and children ask her for a piece of a worn-out robe as protection from misfortune, she may not give with her own hands. She should send a female attendant to give it. If a bhikkhu gives a renunciate’s robe with his own hands to lay people or non-Buddhist renunciates, he breaks a minor vinaya rule. If a bhikkhu is virtuous in the precepts, and people ask for a piece of a worn-out robe, wishing to protect themselves from misfortune, he should have an attendant give it. It’s not allowed to give a large piece. One should give a small piece. This is what the World-honored One said.

@@ -4,59 +4,44 @@
   "book": "Bhikkhunī Vibhaṅga",
   "rule_class": "Confession",
   "rule_no": "136",
-  "sections": [
+  "body": [
     {
-      "heading": "Origin Story",
-      "parts": [
-        {
-          "lzh": [
-            "佛住舍衛城。爾時偷蘭難陀語樹提言。此間安居。即往檀越家歎譽。樹提比丘尼賢善持戒汝當供養。於是樹提威儀庠序。舉動視瞻不失儀法。見已生歡喜心。乃至後嫌訶惱觸。",
-            "諸比丘尼以是因緣往白世尊。乃至答言。實爾。佛言。此是惡事。乃至已聞者當重聞。"
-          ],
-          "en": [
-            "The Buddha was staying at Sāvatthī. At that time, Thullanandā said to Jetā:",
-            "“Spend the rains retreat here.”",
-            "Then she went to a supporter’s house and praised her:",
-            "“Jetā bhikkhunī is wise and virtuous, and she keeps the precepts. You should make offerings.”",
-            "Then Jetā conducted herself with dignity, and when moving and looking around she didn’t forget about the rules. When (the supporters) saw her, happiness arose in their minds. … Later, (Thullanandā) criticized and irritated her.",
-            "For this reason, the bhikkhunīs went and informed the World-honored One. … She answered:",
-            "“I really did this.”",
-            "The Buddha said: “This is an unwholesome thing. … Those who have already heard it should listen again:"
-          ]
-        }
-      ]
+      "h2": "Origin Story",
+      "lzh": [
+        "佛住舍衛城。爾時偷蘭難陀語樹提言。此間安居。即往檀越家歎譽。樹提比丘尼賢善持戒汝當供養。於是樹提威儀庠序。舉動視瞻不失儀法。見已生歡喜心。乃至後嫌訶惱觸。",
+        "諸比丘尼以是因緣往白世尊。乃至答言。實爾。佛言。此是惡事。乃至已聞者當重聞。"
+      ],
+      "en": [
+        "The Buddha was staying at Sāvatthī. At that time, Thullanandā said to Jetā: “Spend the rains retreat here.” Then she went to a supporter’s house and praised her: “Jetā bhikkhunī is wise and virtuous, and she keeps the precepts. You should make offerings.” Then Jetā conducted herself with dignity, and when moving and looking around she didn’t forget about the rules. When (the supporters) saw her, happiness arose in their minds. … Later, (Thullanandā) criticized and irritated her.",
+        "For this reason, the bhikkhunīs went and informed the World-honored One. … She answered: “I really did this.” The Buddha said: “This is an unwholesome thing. … Those who have already heard it should listen again:"
+      ],
+      "en_verse": [],
+      "lzh_grouping_info": [],
+      "en_grouping_info": []
     },
     {
-      "heading": "Final Ruling",
-      "parts": [
-        {
-          "lzh": [
-            "若比丘尼語比丘尼作是語。阿梨耶。此處安居。後嫌訶惱觸波夜提。"
-          ],
-          "en": [
-            "If a bhikkhunī says to another bhikkhunī:",
-            "“Venerable, spend the rains retreat in this place,”",
-            "and later criticizes and irritates her, it’s a pācittiya.”"
-          ]
-        }
-      ]
+      "h2": "Final Ruling",
+      "lzh": [
+        "若比丘尼語比丘尼作是語。阿梨耶。此處安居。後嫌訶惱觸波夜提。"
+      ],
+      "en": [
+        "If a bhikkhunī says to another bhikkhunī: “Venerable, spend the rains retreat in this place,” and later criticizes and irritates her, it’s a pācittiya.”"
+      ],
+      "en_verse": [],
+      "lzh_grouping_info": [],
+      "en_grouping_info": []
     },
     {
-      "heading": "Explanation",
-      "parts": [
-        {
-          "lzh": [
-            "若比丘尼語是中安居安居中惱觸。惱觸者。若自身口若使人身口惱觸。波夜提。若前人不持戒。畏作非法雖驅遣無罪。若式叉摩尼沙彌尼越比尼罪。乃至俗人越比尼心悔。是故世尊說。"
-          ],
-          "en": [
-            "If a bhikkhunī says:",
-            "“Spend the rains retreat here,”",
-            "and irritates her during the rains retreat, (it’s a pācittiya.)",
-            "“Irritating”",
-            "means either irritating her herself by body or speech, or having others do it by body or speech; this is a pācittiya. If the former person doesn’t keep the precepts, and the latter fears that she’ll act against the dhamma, then even if she sends her away, there is no offense. If she sends a sikkhamāna or a sāmaṇerī away, she breaks a minor vinaya rule. Even if it’s a lay person, she transgresses against vinaya and should mentally repent. This is what the World-honored One said."
-          ]
-        }
-      ]
+      "h2": "Explanation",
+      "lzh": [
+        "若比丘尼語是中安居安居中惱觸。惱觸者。若自身口若使人身口惱觸。波夜提。若前人不持戒。畏作非法雖驅遣無罪。若式叉摩尼沙彌尼越比尼罪。乃至俗人越比尼心悔。是故世尊說。"
+      ],
+      "en": [
+        "If a bhikkhunī says: “Spend the rains retreat here,” and irritates her during the rains retreat, (it’s a pācittiya.) “Irritating” means either irritating her herself by body or speech, or having others do it by body or speech; this is a pācittiya. If the former person doesn’t keep the precepts, and the latter fears that she’ll act against the dhamma, then even if she sends her away, there is no offense. If she sends a sikkhamāna or a sāmaṇerī away, she breaks a minor vinaya rule. Even if it’s a lay person, she transgresses against vinaya and should mentally repent. This is what the World-honored One said."
+      ],
+      "en_verse": [],
+      "lzh_grouping_info": [],
+      "en_grouping_info": []
     }
   ],
   "file": "pc136",
