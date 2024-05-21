@@ -1,10 +1,12 @@
 ---
+import { basePath } from "../utils";
 import { ViewTransitions } from "astro:transitions";
 interface Props {
   title: string;
+  isIndexPage?: boolean;
 }
 
-const { title } = Astro.props;
+const { title, isIndexPage } = Astro.props;
 ---
 
 <!doctype html>
@@ -13,13 +15,20 @@ const { title } = Astro.props;
     <meta charset="UTF-8" />
     <meta name="description" content="Chinese Vinaya translations" />
     <meta name="viewport" content="width=device-width" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link
+      rel="icon"
+      type="image/svg+xml"
+      href={`${basePath}/favicon_io/favicon.ico`}
+    />
     <meta name="generator" content={Astro.generator} />
     <title>{title}</title>
     <ViewTransitions />
   </head>
   <body
-    class="bg-stone-100 text-neutral-700 max-w-[85ch] mx-4 md:mx-auto sm:my-16 lg:my-24"
+    class:list={[
+      "bg-stone-100 text-neutral-700  mx-4 md:mx-auto sm:my-16 lg:my-24",
+      isIndexPage ? "max-w-[920px]" : "max-w-[85ch]",
+    ]}
   >
     <slot />
   </body>

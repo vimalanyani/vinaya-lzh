@@ -4,65 +4,45 @@
   "book": "Bhikkhunī Vibhaṅga",
   "rule_class": "Relinquishment With Confession",
   "rule_no": "14",
-  "sections": [
+  "body": [
     {
-      "heading": "OriginStory",
-      "parts": [
-        {
-          "lzh": [
-            "佛住舍衛城。爾時有客比丘尼來。次第應得房。先住下坐比丘尼言。阿梨耶。待我移鉢。乃至明日問言。移鉢竟未。答言。我移鉢未竟。客比丘尼言。汝欲持是鉢居瓦肆去耶。用爾許鉢為。",
-            "諸比丘尼聞已語大愛道。大愛道往白世尊。佛言。呼是比丘尼來。來已佛問言。汝實爾不。答言實爾。佛言。汝云何畜長鉢。從今日後。不聽畜長鉢。佛告大愛道瞿曇彌。依止舍衛城比丘尼皆悉令集。乃至已聞者當重聞。"
-          ],
-          "en": [
-            "The Buddha was staying at Sāvatthī. At that time, visiting bhikkhunīs had arrived, and the rooms were to be assigned by seniority. The junior bhikkhunīs who had lived there first said:",
-            "“Venerables, wait, we’ll remove the bowls.”",
-            "… The next day, the visitors asked:",
-            "“Have you moved the bowls yet?”",
-            "They answered:",
-            "“We haven’t yet finished moving the bowls.”",
-            "The visiting bhikkhunīs said:",
-            "“Do you want to take these bowls to a pottery shop? What’s the use of so many bowls?”",
-            "When the bhikkhunīs heard this, they told Mahāpajāpatī, and she went to the World-honored One, and informed him. The Buddha said:",
-            "“Summon those bhikkhunīs.”",
-            "When they came, he asked them:",
-            "“Did you really do this?”",
-            "They answered:",
-            "“We really did this.”",
-            "The Buddha said:",
-            "“Why did you keep spare bowls? From now on, it’s no longer allowed to keep spare bowls.”",
-            "The Buddha told Mahāpajāpatī Gotamī: “Convene all the bhikkhunīs living in the vicinity of Sāvatthī. … Those who have already heard it should listen again:"
-          ]
-        }
-      ]
+      "h2": "",
+      "lzh": [
+        "佛住舍衛城。爾時有客比丘尼來。次第應得房。先住下坐比丘尼言。阿梨耶。待我移鉢。乃至明日問言。移鉢竟未。答言。我移鉢未竟。客比丘尼言。汝欲持是鉢居瓦肆去耶。用爾許鉢為。",
+        "諸比丘尼聞已語大愛道。大愛道往白世尊。佛言。呼是比丘尼來。來已佛問言。汝實爾不。答言實爾。佛言。汝云何畜長鉢。從今日後。不聽畜長鉢。佛告大愛道瞿曇彌。依止舍衛城比丘尼皆悉令集。乃至已聞者當重聞。"
+      ],
+      "en": [
+        "OriginStory",
+        "The Buddha was staying at Sāvatthī. At that time, visiting bhikkhunīs had arrived, and the rooms were to be assigned by seniority. The junior bhikkhunīs who had lived there first said: “Venerables, wait, we’ll remove the bowls.” … The next day, the visitors asked: “Have you moved the bowls yet?” They answered: “We haven’t yet finished moving the bowls.” The visiting bhikkhunīs said: “Do you want to take these bowls to a pottery shop? What’s the use of so many bowls?”",
+        "When the bhikkhunīs heard this, they told Mahāpajāpatī, and she went to the World-honored One, and informed him. The Buddha said: “Summon those bhikkhunīs.” When they came, he asked them: “Did you really do this?” They answered: “We really did this.” The Buddha said: “Why did you keep spare bowls? From now on, it’s no longer allowed to keep spare bowls.” The Buddha told Mahāpajāpatī Gotamī: “Convene all the bhikkhunīs living in the vicinity of Sāvatthī. … Those who have already heard it should listen again:"
+      ],
+      "en_verse": [],
+      "lzh_grouping_info": [],
+      "en_grouping_info": []
     },
     {
-      "heading": "Final Ruling",
-      "parts": [
-        {
-          "lzh": [
-            "若比丘尼畜長鉢尼薩耆波夜提。"
-          ],
-          "en": [
-            "If a bhikkhunī keeps a spare bowl, it’s a nissaggiya pācittiya.”"
-          ]
-        }
-      ]
+      "h2": "Final Ruling",
+      "lzh": [
+        "若比丘尼畜長鉢尼薩耆波夜提。"
+      ],
+      "en": [
+        "If a bhikkhunī keeps a spare bowl, it’s a nissaggiya pācittiya.”"
+      ],
+      "en_verse": [],
+      "lzh_grouping_info": [],
+      "en_grouping_info": []
     },
     {
-      "heading": "Explanation",
-      "parts": [
-        {
-          "lzh": [
-            "比丘尼者如上說。畜長鉢鉢者。名嵩婆鉢烏婆嵩婆鉢憂鳩吒夜鉢婆耆夜鉢。如是鐵瓦等。是名鉢。有鉢名上中下過鉢減鉢隨鉢。畜者尼薩耆波夜提。比丘尼得畜十六枚鉢。一受持。三作淨施。四過鉢。四減鉢。四隨鉢。若過畜者尼薩耆波夜提。尼薩耆夜提者如上說。比丘尼畜長鉢有齊限。比丘多畜淨施用無罪。是故世尊說。"
-          ],
-          "en": [
-            "“A bhikkhunī”",
-            "is as explained above. The bowl in",
-            "“storing a spare bowl”",
-            "refers to an ordinary clay bowl <note: Sumbhaka> , a bowl similar to an ordinary clay bowl <note: Upa-sumbhaka> , a large bowl <note: Utkaṭeyaka> , and an irregularly shaped bowl <note: Vaṃkeṭaka> . These can be made from iron or clay. This is called “a bowl”. “A bowl” is also large, medium, or small; an over-sized bowl, an under-sized bowl, and a bowl for household usage. If she keeps them, it’s a nissaggiya pācittiya. A bhikkhunī may keep sixteen bowls: one determined bowl, three bowls as pure offerings (to others) <note: this refers to the vikappana procedure: transferring ownership to someone else> , four over-sized bowls, four under-sized bowls, and four bowls for household usage. If she keeps more, it’s a nissaggiya pācittiya. “A nissaggiya pācittiya” is as explained above. There is a limit to the spare bowls a bhikkhunī may keep. A bhikkhu may keep many (bowls) as pure offerings, and use them without offense. This is what the World-honored One said."
-          ]
-        }
-      ]
+      "h2": "Explanation",
+      "lzh": [
+        "比丘尼者如上說。畜長鉢鉢者。名嵩婆鉢烏婆嵩婆鉢憂鳩吒夜鉢婆耆夜鉢。如是鐵瓦等。是名鉢。有鉢名上中下過鉢減鉢隨鉢。畜者尼薩耆波夜提。比丘尼得畜十六枚鉢。一受持。三作淨施。四過鉢。四減鉢。四隨鉢。若過畜者尼薩耆波夜提。尼薩耆夜提者如上說。比丘尼畜長鉢有齊限。比丘多畜淨施用無罪。是故世尊說。"
+      ],
+      "en": [
+        "“A bhikkhunī” is as explained above. The bowl in “storing a spare bowl” refers to an ordinary clay bowl<note>Sumbhaka</note>, a bowl similar to an ordinary clay bowl<note>Upa-sumbhaka</note>, a large bowl<note>Utkaṭeyaka</note>, and an irregularly shaped bowl<note>Vaṃkeṭaka</note>. These can be made from iron or clay. This is called “a bowl”. “A bowl” is also large, medium, or small; an over-sized bowl, an under-sized bowl, and a bowl for household usage. If she keeps them, it’s a nissaggiya pācittiya. A bhikkhunī may keep sixteen bowls: one determined bowl, three bowls as pure offerings (to others)<note>this refers to the vikappana procedure: transferring ownership to someone else</note>, four over-sized bowls, four under-sized bowls, and four bowls for household usage. If she keeps more, it’s a nissaggiya pācittiya. “A nissaggiya pācittiya” is as explained above. There is a limit to the spare bowls a bhikkhunī may keep. A bhikkhu may keep many (bowls) as pure offerings, and use them without offense. This is what the World-honored One said."
+      ],
+      "en_verse": [],
+      "lzh_grouping_info": [],
+      "en_grouping_info": []
     }
   ],
   "file": "np14",

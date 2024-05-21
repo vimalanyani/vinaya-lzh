@@ -4,48 +4,42 @@
   "book": "Bhikkhunī Vibhaṅga",
   "rule_class": "Confession",
   "rule_no": "128",
-  "sections": [
+  "body": [
     {
-      "heading": "Origin Story",
-      "parts": [
-        {
-          "lzh": [
-            "沙彌尼亦如是。乃至已聞者當重聞。"
-          ],
-          "en": [
-            "With a sāmaṇerī it’s also as above. … Those who have already heard it should listen again:"
-          ]
-        }
-      ]
+      "h2": "Origin Story",
+      "lzh": [
+        "沙彌尼亦如是。乃至已聞者當重聞。"
+      ],
+      "en": [
+        "With a sāmaṇerī it’s also as above. … Those who have already heard it should listen again:"
+      ],
+      "en_verse": [],
+      "lzh_grouping_info": [],
+      "en_grouping_info": []
     },
     {
-      "heading": "Final Ruling",
-      "parts": [
-        {
-          "lzh": [
-            "若比丘尼不病。令沙彌尼揩摩者波夜提。"
-          ],
-          "en": [
-            "If a bhikkhunī who isn’t sick has a sāmaṇerī massage her, it’s a pācittiya.”"
-          ]
-        }
-      ]
+      "h2": "Final Ruling",
+      "lzh": [
+        "若比丘尼不病。令沙彌尼揩摩者波夜提。"
+      ],
+      "en": [
+        "If a bhikkhunī who isn’t sick has a sāmaṇerī massage her, it’s a pācittiya.”"
+      ],
+      "en_verse": [],
+      "lzh_grouping_info": [],
+      "en_grouping_info": []
     },
     {
-      "heading": "Explanation",
-      "parts": [
-        {
-          "lzh": [
-            "沙彌尼者隨佛出家受十戒使揩摩者如比丘尼中說。"
-          ],
-          "en": [
-            "“A sāmaṇerī”",
-            "means someone who has gone forth under the Buddha, and received the 10 precepts. (If a bhikkhunī) has her give a massage, it should be explained as in the rule about",
-            "“a bhikkhunī”",
-            "."
-          ]
-        }
-      ]
+      "h2": "Explanation",
+      "lzh": [
+        "沙彌尼者隨佛出家受十戒使揩摩者如比丘尼中說。"
+      ],
+      "en": [
+        "“A sāmaṇerī” means someone who has gone forth under the Buddha, and received the 10 precepts. (If a bhikkhunī) has her give a massage, it should be explained as in the rule about “a bhikkhunī”."
+      ],
+      "en_verse": [],
+      "lzh_grouping_info": [],
+      "en_grouping_info": []
     }
   ],
   "file": "pc128",

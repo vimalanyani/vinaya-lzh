@@ -2,11 +2,15 @@ import { promises as fs } from "fs";
 import path from "path";
 import type { RuleData } from "../data/types";
 
-export const rulePaths = {
-  mgbv: "/mg/vb",
+export const rulePrimaryGroups = {
+  mgBv: { name: "Bhikkhunī Vibhaṅga", path: "/mg/vb" },
+  mgGd: { name: "Garudhammas", path: "/mg/gd" },
+  mgPn: { name: "Bhikkhunī Pakiṇṇaka", path: "/mg/pn" },
+  mgPm: { name: "Bhikkhunī Pātimokkha", path: "/mg/pm" },
 } as const;
 
-type RulePath = (typeof rulePaths)[keyof typeof rulePaths];
+const rulePaths = Object.values(rulePrimaryGroups).map((group) => group.path);
+type RulePath = (typeof rulePaths)[number];;
 
 async function getAllBookRuleData({
   rulePath,

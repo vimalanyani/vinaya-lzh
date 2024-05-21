@@ -1,0 +1,47 @@
+{
+  "id": "MgVb_ss1",
+  "school": "Mahāsaṅghika Vinaya",
+  "book": "Bhikkhunī Vibhaṅga",
+  "rule_class": "Suspension",
+  "rule_no": "1",
+  "body": [
+    {
+      "h2": "",
+      "lzh": [],
+      "en": [],
+      "en_verse": [],
+      "lzh_grouping_info": [
+        "明十九僧殘法之一",
+        "受使行如比丘中廣說。是故世尊說。"
+      ],
+      "en_grouping_info": [
+        "Explanation of the 19 saṅghādisesa rules, part 1."
+      ]
+    },
+    {
+      "h2": "",
+      "lzh": [],
+      "en": [
+        "“Accepting to act as a messenger” is as explained in detail in the bhikkhu rules. This is what the World-honored One said."
+      ],
+      "en_verse": [],
+      "lzh_grouping_info": [],
+      "en_grouping_info": []
+    },
+    {
+      "h2": "Final Ruling",
+      "lzh": [
+        "若比丘尼受使行。和合男女若取婦若私通。乃至須臾頃。是法初罪僧伽婆尸沙。"
+      ],
+      "en": [
+        "If a bhikkhunī accepts to act as a messenger to unite a man and a woman, whether for a marriage or an affair, even for just one moment, it’s an immediate sanghadisesa offense."
+      ],
+      "en_verse": [],
+      "lzh_grouping_info": [],
+      "en_grouping_info": []
+    }
+  ],
+  "file": "ss01",
+  "prev_file": "pj8",
+  "next_file": "ss02"
+}

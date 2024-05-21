@@ -1,17 +1,26 @@
 MgVb_np1-10
 
 
-Summary Verse
 
-三十事初
-Beginning of the 30 matters.
 
-十日離衣宿 非時捉金銀
+
+
+
+<lzh-division-start>三十事初</lzh-division-start>
+
+<en-division-start>Beginning of the 30 matters.</en-division-start>
+
+<h2>Summary Verse</h2>
+
+<lzh>十日離衣宿 非時捉金銀
 賣買并乞衣 聽乞得取二
-辦衣二居士 王臣次第十
-Ten days, being away from one’s robes overnight, out-of-season, taking gold and silver,
-Trading, asking for a robe, when allowed to ask one may take two,
-Preparing a robe, two householders, kings and officials is the tenth.
+辦衣二居士 王臣次第十</lzh>
 
-如比丘中廣說初跋渠竟。
+<verse>Ten days, being away from one’s robes overnight, out-of-season, taking gold and silver,
+Trading, asking for a robe, when allowed to ask one may take two,
+Preparing a robe, two householders, kings and officials is the tenth.</verse>
+
+
+<lzh>如比丘中廣說初跋渠竟。</lzh>
+
 As explained in detail in the bhikkhu rules. The first chapter is finished.
