@@ -6,6 +6,7 @@ export const rulePrimaryGroups = {
   mgBv: { name: "Bhikkhunī Vibhaṅga", path: "/mg/vb" },
   mgGd: { name: "Garudhammas", path: "/mg/gd" },
   mgPn: { name: "Bhikkhunī Pakiṇṇaka", path: "/mg/pn" },
+  mgPm: { name: "Bhikkhunī Pātimokkha", path: "/mg/pm" },
 } as const;
 
 const rulePaths = Object.values(rulePrimaryGroups).map((group) => group.path);

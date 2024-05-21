@@ -117,6 +117,10 @@ def is_close_verse_line(line):
 
 def extract_rule_number_from_id(id):
     id_parts = re.match(r".*?(\d+)", id)
+
+    if id_parts is None:
+        return ""
+    
     return id_parts[1]
 
 def parse_txt_content(file_path):

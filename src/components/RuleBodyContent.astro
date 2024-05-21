@@ -6,18 +6,23 @@ interface Props {
 
 const { content, styles } = Astro.props;
 
+const h3ExtractionPattern = new RegExp("(^.*?)<h3>(.*?)</h3>(.*)");
 const noteExtractionPattern = new RegExp("(^.*?)<note>(.*?)</note>(.*)");
 
-const hasNote = content.includes("<");
+const hasH3 = content.includes("<h3>");
+const hasNote = content.includes("<note>");
 
-const [, start, note, end] = content.match(noteExtractionPattern) ?? [];
+const [, h3Preceding, h3, h3After] = content.match(h3ExtractionPattern) ?? [];
+
+const [, notePreceding, note, noteAfter] =
+  content.match(noteExtractionPattern) ?? [];
 ---
 
 <Fragment>
   {
     hasNote ? (
       <p class:list={["text-2xl leading-9 py-2", styles]}>
-        {start}
+        {notePreceding}
 
         <span
           tabindex="0"
@@ -34,8 +39,14 @@ const [, start, note, end] = content.match(noteExtractionPattern) ?? [];
           *
         </span>
 
-        {end}
+        {noteAfter}
       </p>
+    ) : hasH3 ? (
+      <Fragment>
+        <p class:list={["text-2xl leading-9 py-2", styles]}>{h3Preceding}</p>
+        <h3 class:list={["text-3xl leading-9 py-2", styles]}>{h3}</h3>
+        <p class:list={["text-2xl leading-9 py-2", styles]}>{h3After}</p>
+      </Fragment>
     ) : (
       <p class:list={["text-2xl leading-9 py-2", styles]}>{content}</p>
     )

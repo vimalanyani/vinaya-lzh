@@ -27,7 +27,7 @@ const { school, book, rule_no, body, prev_file, next_file, rulePath } =
   Astro.props;
 ---
 
-<Layout title="LZH Vinaya">
+<Layout title={school + " · " + book}>
   <nav class="fixed top-8 right-8">
     <Link
       href="/"

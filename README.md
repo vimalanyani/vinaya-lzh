@@ -23,6 +23,8 @@ python3 data_prep.py --input_dir ./mg/vb/src --output_dir ./mg/vb/json --school 
 python3 data_prep.py --input_dir ./mg/pn/src --output_dir ./mg/pn/json --school "Mahāsaṅghika Vinaya" --book "Bhikkhunī Pakiṇṇaka"
 
 python3 data_prep.py --input_dir ./mg/gd/src --output_dir ./mg/gd/json --school "Mahāsaṅghika Vinaya" --book "Garudhammas"
+
+python3 data_prep.py --input_dir ./mg/pm/src --output_dir ./mg/pm/json --school "Mahāsaṅghika Vinaya" --book "Bhikkhunī Pātimokkha"
 ```
 
 The rule data “schema“ appied in `data_prep.py` is defined in `src/data/types.ts` and consumed `src/utils/getAllBookRuleData.ts` and fed down through the app.
