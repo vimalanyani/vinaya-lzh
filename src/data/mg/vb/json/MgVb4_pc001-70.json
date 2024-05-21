@@ -3,7 +3,7 @@
   "school": "Mahāsaṅghika Vinaya",
   "book": "Bhikkhunī Vibhaṅga",
   "rule_class": "Confession",
-  "rule_no": "1-70",
+  "rule_no": "1",
   "body": [
     {
       "h2": "",
@@ -126,23 +126,13 @@
       "lzh": [
         "離同食王宮 針筒過八指",
         "兜羅及坐具 覆瘡效如來",
-        "僧殘謗迴向 第七跋渠竟"
+        "僧殘謗迴向 第七跋渠竟",
+        "同比丘戒中廣說。"
       ],
       "en": [
         "Leaving a group meal, the king’s palace, a needle case, exceeding 8 fingerbreadths,",
         "Cotton, a sitting mat, a wound-cover, as big as the Tathāgata’s,",
-        "Slandering with a saṅghādisesa, diverting, the seventh chapter is finished."
-      ],
-      "en_verse": [],
-      "lzh_grouping_info": [],
-      "en_grouping_info": []
-    },
-    {
-      "h2": "Summary Verse",
-      "lzh": [
-        "同比丘戒中廣說。"
-      ],
-      "en": [
+        "Slandering with a saṅghādisesa, diverting, the seventh chapter is finished.",
         "As explained in detail in the bhikkhu precepts."
       ],
       "en_verse": [],
