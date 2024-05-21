@@ -1,14 +1,6 @@
 MgVb_pc98
 
 
-
-
-from pc98: 隨其犯日。從始學戒滿
-from Gd2:  隨犯日數更學
-
-
-
-
 <h2>Origin Story</h2>
 
 

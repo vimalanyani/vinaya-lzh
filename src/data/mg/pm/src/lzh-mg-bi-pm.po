@@ -1342,7 +1342,7 @@ msgstr "pācittiya 37"
 #. </h4><p><a class="sc" id="32"></a>
 msgctxt "lzh-mg-bi-pm:213.1"
 msgid "若沙彌尼作是言。如來說婬欲是障道法。我知習婬欲不能障道。諸比丘尼應諫言。汝沙彌尼莫謗世尊。謗世尊者不善世尊不作是語。世尊說婬欲實障道。汝捨此惡見。如是諫時若堅持不捨者。應第二第三諫。若捨者善。若不捨者應驅出言。從今日。汝沙彌尼不應言佛是我師。亦不得共比丘尼三宿。汝去不得此中住。若比丘尼知沙彌尼惡見不捨驅出。未作如法誘喚畜養共食共住波夜提。"
-msgstr "If a sāmaṇerī says: ‘The Tathāgata said that sexual desire is an obstacle to the path. I know that engaging in sexual desire cannot obstruct the path,’ the bhikkhunīs should admonish her: ‘Sāmaṇerī, don’t slander the World-honored One. Slandering the World-honored One is not wholesome. The World-honored One didn’t say this. The World-honored One said that sexual desire truly obstructs the path. Give up this unwholesome view.’ If she, when admonished like this, persists firmly, and doesn’t give it up, she should be admonished a second and a third time. If she gives it up, it is fine. If not, they should expel her, and say: ‘From today on, sāmaṇerī, you should not say: “The Buddha is my teacher.” You also may not spend three nights with the bhikkhunīs. Go, you may not live here.’ If a bhikkhunī knows that the sāmaṇerī was expelled for not giving up this unwholesome view, and that she has not yet acted according to dhamma, and guides her, summons her, takes her as a student, supports her, eats with her, and lives with her, it is a pācittiya."
+msgstr "If a sāmaṇerī says: ‘The Tathāgata said that sexual desire is an obstacle to the path. I know that engaging in sexual desire can’t obstruct the path,’ the bhikkhunīs should admonish her: ‘Sāmaṇerī, don’t slander the World-honored One. Slandering the World-honored One is not wholesome. The World-honored One didn’t say this. The World-honored One said that sexual desire truly obstructs the path. Give up this unwholesome view.’ If she, when admonished like this, persists firmly, and doesn’t give it up, she should be admonished a second and a third time. If she gives it up, it is fine. If not, they should expel her, and say: ‘From today on, sāmaṇerī, you should not say: “The Buddha is my teacher.” You also may not spend three nights with the bhikkhunīs. Go, you may not live here.’ If a bhikkhunī knows that the sāmaṇerī was expelled for not giving up this unwholesome view, and that she has not yet acted according to dhamma, and guides her, summons her, takes her as a student, supports her, eats with her, and lives with her, it is a pācittiya."
 
 #. </p><h4>
 #. <span class="add"><a id="pc38" class="latin">
@@ -1830,7 +1830,7 @@ msgstr "pācittiya 76"
 #. </h4><p>
 msgctxt "lzh-mg-bi-pm:295.1"
 msgid "若比丘尼。詣不能辦衣家。為僧乞伽絺那衣波夜提。"
-msgstr "If a bhikkhunī goes to a household that cannot prepare a robe, and asks for a kaṭhina robe for the sangha, it is a pācittiya."
+msgstr "If a bhikkhunī goes to a household that can’t prepare a robe, and asks for a kaṭhina robe for the sangha, it is a pācittiya."
 
 #. </p><h4>
 #. <span class="add"><a id="pc77" class="latin">
@@ -1991,7 +1991,7 @@ msgstr "pācittiya 89"
 #. </h4><p>
 msgctxt "lzh-mg-bi-pm:322.1"
 msgid "若比丘尼。語比丘尼作是言。阿梨耶。共往某甲家。彼於後不忍某甲比丘尼。無因緣不審諦聞。而呵責者波夜提。"
-msgstr "If a bhikkhunī says to another bhikkhunī: ‘Venerable, let’s go together to such-and-such a family,’ and if afterwards she cannot stand that bhikkhunī and groundlessly, without investigating carefully and listening to her, criticizes her, it is a pācittiya."
+msgstr "If a bhikkhunī says to another bhikkhunī: ‘Venerable, let’s go together to such-and-such a family,’ and if afterwards she can’t stand that bhikkhunī and groundlessly, without investigating carefully and listening to her, criticizes her, it is a pācittiya."
 
 #. </p><h4>
 #. <span class="add"><a id="pc90" class="latin">
@@ -3874,7 +3874,7 @@ msgstr "Patience is the best path, Nibbāna is praised most by the Buddhas,"
 #. <br>
 msgctxt "lzh-mg-bi-pm:638.2"
 msgid "出家惱他人　　不名為沙門"
-msgstr "One gone forth who disturbs others cannot be called a samaṇa."
+msgstr "One gone forth who disturbs others can’t be called a samaṇa."
 
 #. </p></blockquote><p>
 msgctxt "lzh-mg-bi-pm:639.1"
