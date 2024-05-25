@@ -1,4 +1,5 @@
 ---
+import { siteName } from "../utils";
 import Layout from "../layouts/Layout.astro";
 import Link from "../components/Link.astro";
 import getAllBookRuleData, {
@@ -17,30 +18,36 @@ const mgGdRulePages = await getAllBookRuleData({
 });
 ---
 
-<Layout title="Chinese Vinaya" isIndexPage>
+<Layout
+  title={siteName}
+  prefixedDescription="the Chinese Bhikkhunī Vinayas"
+  isIndexPage
+>
   <main>
-    <h1 class="text-6xl">Chinese Vinaya Translations</h1>
+    <h1 class="text-5xl md:text-6xl">
+      {siteName}
+    </h1>
 
     <h2 class="mt-12 text-4xl">
       {mgVbRulePages[0].school}
     </h2>
 
-    <ol class="mt-4 mb-8 lg:mb-10 text-lg">
+    <ol class="mt-4 mb-8 lg:mb-10 text-xl leading-9">
       <li>
         <Link
-          href={"#" + createAnchor(rulePrimaryGroups.mgBv.name)}
+          href={"/#" + createAnchor(rulePrimaryGroups.mgBv.name)}
           text={rulePrimaryGroups.mgBv.name}
         />
       </li>
       <li>
         <Link
-          href={"#" + createAnchor(rulePrimaryGroups.mgPn.name)}
+          href={"/#" + createAnchor(rulePrimaryGroups.mgPn.name)}
           text={rulePrimaryGroups.mgPn.name}
         />
       </li>
       <li>
         <Link
-          href={"#" + createAnchor(rulePrimaryGroups.mgGd.name)}
+          href={"/#" + createAnchor(rulePrimaryGroups.mgGd.name)}
           text={rulePrimaryGroups.mgGd.name}
         />
       </li>
@@ -59,7 +66,7 @@ const mgGdRulePages = await getAllBookRuleData({
       <h3 class="text-2xl font-bold leading-8">
         <p class="">{rulePrimaryGroups.mgBv.name}</p>
       </h3>
-      <ul class="my-4 text-xl md:columns-2 xl:columns-3 gap-8">
+      <ul class="my-4 text-xl columns-2 xl:columns-3 gap-8">
         {
           mgVbRulePages.map((rule) => (
             <li class="mb-4">
@@ -80,7 +87,7 @@ const mgGdRulePages = await getAllBookRuleData({
       <h3 class="text-2xl font-bold leading-8">
         <p class="">{rulePrimaryGroups.mgPn.name}</p>
       </h3>
-      <ul class="my-4 text-xl md:columns-2 xl:columns-3 gap-8">
+      <ul class="my-4 text-xl columns-2 xl:columns-3 gap-8">
         {
           mgPnRulePages.map((rule) => (
             <li class="mb-4">
@@ -101,7 +108,7 @@ const mgGdRulePages = await getAllBookRuleData({
       <h3 class="text-2xl font-bold leading-8">
         <p class="">{rulePrimaryGroups.mgGd.name}</p>
       </h3>
-      <ul class="my-4 text-xl md:columns-2 xl:columns-3 gap-8">
+      <ul class="my-4 text-xl columns-2 xl:columns-3 gap-8">
         {
           mgGdRulePages.map((rule) => (
             <li class="mb-4">

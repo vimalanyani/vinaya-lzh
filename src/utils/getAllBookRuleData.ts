@@ -4,7 +4,7 @@ import type { RuleData } from "../data/types";
 
 export const rulePrimaryGroups = {
   mgBv: { name: "Bhikkhunī Vibhaṅga", path: "/mg/vb" },
-  mgGd: { name: "Garudhammas", path: "/mg/gd" },
+  mgGd: { name: "Garudhamma", path: "/mg/gd" },
   mgPn: { name: "Bhikkhunī Pakiṇṇaka", path: "/mg/pn" },
   mgPm: { name: "Bhikkhunī Pātimokkha", path: "/mg/pm" },
 } as const;

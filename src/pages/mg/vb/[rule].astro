@@ -35,7 +35,10 @@ const {
 } = Astro.props;
 ---
 
-<Layout title={school + " · " + book}>
+<Layout
+  title={`${school} · ${book} ${rule_no}`}
+  prefixedDescription={`the ${school} ${book} ${rule_no}`}
+>
   <nav class="fixed top-8 right-8">
     <Link
       href="/"

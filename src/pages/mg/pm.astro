@@ -16,7 +16,10 @@ const { school, book, body, prev_file, next_file } = rulePages[0];
 const rulePath = rulePrimaryGroups.mgPm.path;
 ---
 
-<Layout title={school + " · " + book}>
+<Layout
+  title={school + " · " + book}
+  prefixedDescription={`the ${school} ${book}`}
+>
   <nav class="fixed top-8 right-8">
     <Link
       href="/"
