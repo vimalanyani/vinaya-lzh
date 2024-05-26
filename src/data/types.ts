@@ -1,4 +1,4 @@
-import { ruleDirPaths, schoolBookGroups } from "../data/content";
+import { ruleDirPaths } from "../data/content";
 
 interface RuleBody {
   h2: string;
