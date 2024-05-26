@@ -328,14 +328,21 @@ def main(base_directory):
                 book_path = os.path.join(school_path, book_dir)
                 if os.path.isdir(book_path):
                     book = books.get(book_dir, "")
-                    has_rule_class = book in books_with_rule_classes
+                    has_rule_class = book_dir in books_with_rule_classes
+                    print(f"book_dir `{book_path}`")
+                    print(f"has_rule_class `{has_rule_class}`")
                     input_directory = os.path.join(book_path, "src")
                     output_directory = os.path.join(book_path, "json")
                     os.makedirs(output_directory, exist_ok=True)
-                    process_directory(input_directory, output_directory, school, book, has_rule_class)
+                    process_directory(
+                        input_directory, output_directory, school, book, has_rule_class
+                    )
 
 
 # crawl derectory, relative to the script's location
-BASE_DIRECTORY = os.path.join(os.path.dirname(__file__), "..", "data")
+BASE_DIRECTORY = os.path.abspath(
+    os.path.join(os.path.dirname(__file__), "..", "src", "data")
+)
+
 
 main(BASE_DIRECTORY)
