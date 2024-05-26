@@ -1,15 +1,15 @@
 ---
-import Layout from "../../../layouts/Layout.astro";
-import H1 from "../../../components/H1.astro";
-import H2 from "../../../components/H2.astro";
-import Link from "../../../components/Link.astro";
-import RuleBodyContent from "../../../components/RuleBodyContent.astro";
-import getAllBookRuleData from "../../../utils/getAllBookRuleData";
+import Layout from "../../layouts/Layout.astro";
+import H1 from "../../components/H1.astro";
+import H2 from "../../components/H2.astro";
+import Link from "../../components/Link.astro";
+import RuleBodyContent from "../../components/RuleBodyContent.astro";
+import getAllBookRuleData from "../../utils/getAllBookRuleData";
 
-import { schoolBookGroups } from "../../../data/content";
+import { schoolBookGroups } from "../../data/content";
 
 export async function getStaticPaths() {
-  const path = Object.values(schoolBookGroups.mg).filter((meta) =>
+  const path = Object.values(schoolBookGroups.mi).filter((meta) =>
     meta.path.endsWith("pn")
   )[0].path;
 
@@ -21,7 +21,7 @@ export async function getStaticPaths() {
     const { file, ...rest } = rule;
 
     return {
-      params: { rule: file },
+      params: { pn_rule: file },
       props: { ...rest, rulePath: path },
     };
   });

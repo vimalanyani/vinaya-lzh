@@ -53,13 +53,14 @@ for (const [schoolKey, schoolBooks] of Object.entries(schoolBookGroups)) {
     {
       Object.values(data).map((bookData) => {
         return (
-          <section class="mt-10">
+          <section>
             <H2>{bookData[0].schoolName}</H2>
             <LinkedBookIndexList bookList={bookData} />
           </section>
         );
       })
     }
+    <hr />
     {
       Object.values(data).map((bookData) => {
         return <LinkedRuleIndexList bookData={bookData} />;

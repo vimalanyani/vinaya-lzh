@@ -1,0 +1,89 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import H1 from "../../components/H1.astro";
+import H2 from "../../components/H2.astro";
+import Link from "../../components/Link.astro";
+import RuleBodyContent from "../../components/RuleBodyContent.astro";
+import getAllBookRuleData from "../../utils/getAllBookRuleData";
+
+import { schoolBookGroups } from "../../data/content";
+
+const path = Object.values(schoolBookGroups.mu).filter((meta) =>
+  meta.path.endsWith("pm")
+)[0].path;
+
+const rulePages = await getAllBookRuleData({
+  rulePath: path,
+});
+
+const { school, book, body, prev_file, next_file } = rulePages[0];
+---
+
+<Layout
+  title={school + " · " + book}
+  prefixedDescription={`the ${school} ${book}`}
+>
+  <nav class="fixed top-8 right-8">
+    <Link
+      href="/"
+      text="INDEX"
+      class="no-underline border-stone-300 border-2 py-2 px-4 rounded-full hover:shadow-md hover:border-amber-600 bg-stone-100"
+    />
+  </nav>
+  <main>
+    <article>
+      <header>
+        <p class="text-xl mb-4 leading-7">{school}</p>
+        <H1 heading={book} />
+      </header>
+
+      {
+        body.map((section) => {
+          const { h2, en, en_grouping_info, en_verse } = section;
+          return (
+            <section class="my-8 leading-relaxed">
+              {h2 ? <H2 heading={h2} /> : null}
+              {en_grouping_info.map((line) => (
+                <RuleBodyContent
+                  content={line}
+                  styles="text-xl py-1 leading-6 text-neutral-600 italic"
+                />
+              ))}
+              {en.map((line) => (
+                <RuleBodyContent content={line} />
+              ))}
+              {en_verse.map((line) => (
+                <RuleBodyContent content={line} />
+              ))}
+            </section>
+          );
+        })
+      }
+
+      <div class="flex justify-center gap-4 my-12 text-3xl">
+        {
+          prev_file ? (
+            <Link
+              href={`${path}/${prev_file}`}
+              text={`←`}
+              class="no-underline border-stone-300 border-2 px-4 rounded-full hover:shadow-md hover:border-amber-600"
+            />
+          ) : (
+            <span />
+          )
+        }
+        {
+          next_file ? (
+            <Link
+              href={`${path}/${next_file}`}
+              text={`→`}
+              class="no-underline border-stone-300 border-2 px-4 rounded-full hover:shadow-md hover:border-amber-600"
+            />
+          ) : (
+            <span />
+          )
+        }
+      </div>
+    </article>
+  </main>
+</Layout>

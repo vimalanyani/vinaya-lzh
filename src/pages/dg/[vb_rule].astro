@@ -1,0 +1,110 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import H1 from "../../components/H1.astro";
+import H2 from "../../components/H2.astro";
+import Link from "../../components/Link.astro";
+import RuleBodyContent from "../../components/RuleBodyContent.astro";
+import getAllBookRuleData from "../../utils/getAllBookRuleData";
+
+import { schoolBookGroups } from "../../data/content";
+
+export async function getStaticPaths() {
+  const path = Object.values(schoolBookGroups.dg).filter((meta) =>
+    meta.path.endsWith("vb")
+  )[0].path;
+
+  const rulePages = await getAllBookRuleData({
+    rulePath: path,
+  });
+
+  return rulePages.map((rule) => {
+    const { file, ...rest } = rule;
+
+    return {
+      params: { vb_rule: file.toLowerCase() },
+      props: { ...rest, rulePath: path },
+    };
+  });
+}
+
+const {
+  school,
+  book,
+  rule_class,
+  rule_no,
+  body,
+  prev_file,
+  next_file,
+  rulePath,
+} = Astro.props;
+---
+
+<Layout
+  title={`${school} · ${book} ${rule_no}`}
+  prefixedDescription={`the ${school} ${book} ${rule_no}`}
+>
+  <nav class="fixed top-8 right-8">
+    <Link
+      href="/"
+      text="INDEX"
+      class="no-underline border-stone-300 border-2 py-2 px-4 rounded-full hover:shadow-md hover:border-amber-600 bg-stone-100"
+    />
+  </nav>
+  <main>
+    <article>
+      <header>
+        <p class="text-xl leading-7">{school}</p>
+        <p class="text-xl leading-7 mb-4">{book}</p>
+        <H1 heading={rule_class + " " + rule_no} />
+      </header>
+
+      {
+        body.map((section) => {
+          const { h2, en, en_grouping_info, en_verse } = section;
+          return (
+            <section class="my-8 leading-relaxed">
+              {h2 ? <H2 heading={h2} /> : null}
+              {en_grouping_info.map((line) => (
+                <RuleBodyContent
+                  content={line}
+                  styles="text-xl py-1 leading-6 text-neutral-600 italic"
+                />
+              ))}
+              {en.map((line) => (
+                <RuleBodyContent content={line} />
+              ))}
+              {en_verse.map((line) => (
+                <RuleBodyContent content={line} />
+              ))}
+            </section>
+          );
+        })
+      }
+
+      <div class="flex justify-center gap-4 my-12 text-3xl">
+        {
+          prev_file ? (
+            <Link
+              href={`${rulePath}/${prev_file}`}
+              text={`←`}
+              class="no-underline border-stone-300 border-2 px-4 rounded-full hover:shadow-md hover:border-amber-600"
+            />
+          ) : (
+            <span />
+          )
+        }
+        {
+          next_file ? (
+            <Link
+              href={`${rulePath}/${next_file}`}
+              text={`→`}
+              class="no-underline border-stone-300 border-2 px-4 rounded-full hover:shadow-md hover:border-amber-600"
+            />
+          ) : (
+            <span />
+          )
+        }
+      </div>
+    </article>
+  </main>
+</Layout>
