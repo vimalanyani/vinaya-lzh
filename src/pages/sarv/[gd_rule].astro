@@ -5,23 +5,35 @@ import H2 from "../../components/H2.astro";
 import Link from "../../components/Link.astro";
 import RuleBodyContent from "../../components/RuleBodyContent.astro";
 import getAllBookRuleData from "../../utils/getAllBookRuleData";
-
+import { getSchoolPathFilePath } from "../../utils";
 import { schoolBookGroups } from "../../data/content";
 
-const path = Object.values(schoolBookGroups.mg).filter((meta) =>
-  meta.path.endsWith("pm")
-)[0].path;
+export async function getStaticPaths() {
+  const path = Object.values(schoolBookGroups.sarv).filter((meta) =>
+    meta.path.endsWith("gd")
+  )[0].path;
 
-const rulePages = await getAllBookRuleData({
-  rulePath: path,
-});
+  const rulePages = await getAllBookRuleData({
+    rulePath: path,
+  });
 
-const { school, book, body, prev_file, next_file } = rulePages[0];
+  return rulePages.map((rule) => {
+    const { file, ...rest } = rule;
+
+    return {
+      params: { gd_rule: file },
+      props: { ...rest, rulePath: path },
+    };
+  });
+}
+
+const { school, book, rule_no, body, prev_file, next_file, rulePath } =
+  Astro.props;
 ---
 
 <Layout
-  title={school + " · " + book}
-  prefixedDescription={`the ${school} ${book}`}
+  title={`${school} · ${book} ${rule_no}`}
+  prefixedDescription={`the ${school} ${book} ${rule_no}`}
 >
   <nav class="fixed top-8 right-8">
     <Link
@@ -33,8 +45,8 @@ const { school, book, body, prev_file, next_file } = rulePages[0];
   <main>
     <article>
       <header>
-        <p class="text-xl mb-4 leading-7">{school}</p>
-        <H1 heading={book} />
+        <p class="text-xl leading-7 mb-2">{school}</p>
+        <H1 heading={book + " " + rule_no} />
       </header>
 
       {
@@ -64,7 +76,7 @@ const { school, book, body, prev_file, next_file } = rulePages[0];
         {
           prev_file ? (
             <Link
-              href={`${path}/${prev_file}`}
+              href={`${getSchoolPathFilePath(rulePath)}/${prev_file}`}
               text={`←`}
               class="no-underline border-stone-300 border-2 px-4 rounded-full hover:shadow-md hover:border-amber-600"
             />
@@ -75,7 +87,7 @@ const { school, book, body, prev_file, next_file } = rulePages[0];
         {
           next_file ? (
             <Link
-              href={`${path}/${next_file}`}
+              href={`${getSchoolPathFilePath(rulePath)}/${next_file}`}
               text={`→`}
               class="no-underline border-stone-300 border-2 px-4 rounded-full hover:shadow-md hover:border-amber-600"
             />

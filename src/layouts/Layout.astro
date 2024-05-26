@@ -1,33 +1,64 @@
 ---
-import { basePath } from "../utils";
+import "@fontsource/source-serif-pro";
+import { basePath, siteName, descriptionPrefix } from "../utils";
 import { ViewTransitions } from "astro:transitions";
 interface Props {
-  title: string;
   isIndexPage?: boolean;
+  title?: string;
+  description?: string;
+  prefixedDescription?: string;
 }
 
-const { title, isIndexPage } = Astro.props;
+const { title, description, prefixedDescription } = Astro.props;
+
+const metaTitle = title ?? siteName;
+const metaDescription = description
+  ? description
+  : prefixedDescription
+    ? descriptionPrefix + prefixedDescription
+    : metaTitle;
+const socialImgUrl = `${Astro.site}${basePath.substring(1)}/social.png`;
 ---
 
 <!doctype html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="description" content="Chinese Vinaya translations" />
-    <meta name="viewport" content="width=device-width" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{metaTitle}</title>
+    <meta name="description" content={metaDescription} />
     <link
       rel="icon"
       type="image/svg+xml"
       href={`${basePath}/favicon_io/favicon.ico`}
     />
     <meta name="generator" content={Astro.generator} />
-    <title>{title}</title>
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={metaTitle} />
+    <meta property="og:description" content={metaDescription} />
+    <meta property="og:url" content={Astro.url} />
+    <meta property="og:site_name" content={siteName} />
+    <meta property="og:image" content={socialImgUrl} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta property="twitter:domain" content={Astro.site} />
+    <meta name="twitter:title" content={metaTitle} />
+    <meta name="twitter:description" content={metaDescription} />
+    <meta name="twitter:image" content={socialImgUrl} />
+    <meta
+      itemprop="datePublished"
+      content={new Date("2024-05-25").toISOString()}
+    />
+    <meta
+      itemprop="dateModified"
+      content={new Date("2024-05-25").toISOString()}
+    />
     <ViewTransitions />
   </head>
   <body
     class:list={[
-      "bg-stone-100 text-neutral-700  mx-4 md:mx-auto sm:my-16 lg:my-24",
-      isIndexPage ? "max-w-[920px]" : "max-w-[85ch]",
+      "bg-stone-100 text-neutral-700  p-4 md:mx-auto sm:my-16 lg:my-24",
+      "max-w-[920px]",
     ]}
   >
     <slot />

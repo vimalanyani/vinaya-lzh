@@ -12,19 +12,10 @@ An MVP project, with _super_ rough round the edges data prep and presentation.
 
 ### Prep
 
-In it's current prototype form, `data_prep.py` needs to be run from its containing directory with relative input and output paths:
-
-Example commands:
+The `data_prep.py` is a quick and dirty tool to the raw source `txt` files into data the frontend can consume. Run with:
 
 ```sh
-cd src/data
-python3 data_prep.py --input_dir ./mg/vb/src --output_dir ./mg/vb/json --school "Mahāsaṅghika Vinaya" --book "Bhikkhunī Vibhaṅga" --has_rule_class
-
-python3 data_prep.py --input_dir ./mg/pn/src --output_dir ./mg/pn/json --school "Mahāsaṅghika Vinaya" --book "Bhikkhunī Pakiṇṇaka"
-
-python3 data_prep.py --input_dir ./mg/gd/src --output_dir ./mg/gd/json --school "Mahāsaṅghika Vinaya" --book "Garudhammas"
-
-python3 data_prep.py --input_dir ./mg/pm/src --output_dir ./mg/pm/json --school "Mahāsaṅghika Vinaya" --book "Bhikkhunī Pātimokkha"
+python3 scripts/data_prep.py
 ```
 
 The rule data “schema“ appied in `data_prep.py` is defined in `src/data/types.ts` and consumed `src/utils/getAllBookRuleData.ts` and fed down through the app.

@@ -1,59 +1,22 @@
 import os
 import json
 import re
-import argparse
 import copy
 
-#  WORKING NOTES # header features (modeled on Mahāsaṅghika Vinaya) (eg pj1)
-# - "摩訶僧祇律卷第" (fascicle indicator)
-# - appears at at beginning AND end of each fascicle)
-#  "東晉天竺三藏佛陀跋陀羅共法顯譯" - (Translated by info - ALWAYS THE SAME)
-# fascicle end eg. ss11
 
-# "明" - (AT START OF LINE ONLY) marker for "beginning of explanation" (eg pd1-8)
+schools = {
+    "mg": "Mahāsaṅghika Vinaya",
+    "dg": "Dharmaguptaka Vinaya",
+}
 
-# subheadings "Story", "Ruling", "Explanation", "Verse"
+books = {
+    "vb": "Bhikkhunī Vibhaṅga",
+    "pm": "Bhikkhunī Pātimokkha",
+    "gd": "Garudhamma",
+    "pn": "Bhikkhunī Pakiṇṇaka",
+}
 
-# Rule beginning marker "Origin Story" (*reasonably* reliable)
-# note marker "(<note:.*?>)" -(reliable)
-# is chinese "。" (reliable)
-
-# pc1-70
-# custom handling
-
-# notes
-# - po files for pm seperate handling
-# specific handling for gd, pn
-# `\p{Han}` This assumes that your regex compiler meets requirement RL1.2 Properties from UTS#18 Unicode Regular Expressions. Perl and Java 7 both meet that spec, but many others do not.
-# `\p{script=Han}`
-# "verses:"
-
-
-parser = argparse.ArgumentParser(description="Process text files to JSON.")
-parser.add_argument(
-    "--input_dir", type=str, help="The input directory containing the text files."
-)
-parser.add_argument(
-    "--output_dir",
-    type=str,
-    help="The output directory where the JSON files will be saved.",
-)
-parser.add_argument(
-    "--school", type=str, help="The name of the school the vinaya texts are from."
-)
-parser.add_argument(
-    "--book", type=str, help="The name of the vinaya book the texts are from."
-)
-
-parser.add_argument(
-    "--has_rule_class",
-    action="store_true",
-    help="Flag to indicate if the rule class should be included."
-)
-
-args = parser.parse_args()
-
-has_rule_class = args.has_rule_class if hasattr(args, 'has_rule_class') else None
+books_with_rule_classes = ["vb"]
 
 rule_classes = {
     "pj": "Expulsion",
@@ -64,6 +27,11 @@ rule_classes = {
     "sk": "Rules for Training",
     "as": "Settling Legal Issues",
 }
+
+
+# *****************************
+# FILE PARSING HELPERS
+# *************************
 
 
 def is_open_grouping_info_line(lang, line, position="start"):
@@ -120,10 +88,16 @@ def extract_rule_number_from_id(id):
 
     if id_parts is None:
         return ""
-    
+
     return id_parts[1]
 
-def parse_txt_content(file_path):
+
+# *****************************
+# FILE PARSING
+# *************************
+
+
+def parse_txt_content(file_path, school, book, has_rule_class):
     with open(file_path, "r", encoding="utf-8") as file:
         lines = file.readlines()
 
@@ -133,8 +107,8 @@ def parse_txt_content(file_path):
     # Initialize data structure
     data = {
         "id": id,
-        "school": args.school,
-        "book": args.book,
+        "school": school,
+        "book": book,
         "rule_class": "" if not has_rule_class else rule_classes[id[5:7]],
         "rule_no": extract_rule_number_from_id(id),
         "body": [],
@@ -217,7 +191,7 @@ def parse_txt_content(file_path):
 
             elif is_open_grouping_info_line("lzh", line, "end"):
                 is_sections_initialized = True
-                add_body_section_and_reset()  
+                add_body_section_and_reset()
 
                 if is_close_grouping_info_line("lzh", line, "end"):
                     buffering_lzh_grouping_info = False
@@ -226,10 +200,9 @@ def parse_txt_content(file_path):
 
                 lzh_grouping_info_buffer.append(re.sub(r"<\/?lzh.*?>", "", line))
 
-
             elif not is_sections_initialized and is_open_grouping_info_line("en", line):
                 is_sections_initialized = True
-                add_body_section_and_reset()  
+                add_body_section_and_reset()
                 if is_close_grouping_info_line("en", line):
                     buffering_en_grouping_info = False
                 else:
@@ -240,7 +213,7 @@ def parse_txt_content(file_path):
                 if is_close_grouping_info_line("en", line, "(start|end)"):
                     buffering_en_grouping_info = False
                     en_grouping_info_buffer.append(re.sub(r"<\/?en.*?>", "", line))
-                    add_body_section_and_reset() 
+                    add_body_section_and_reset()
                 else:
                     buffering_en_grouping_info = True
                     en_grouping_info_buffer.append(re.sub(r"<\/?en.*?>", "", line))
@@ -248,13 +221,13 @@ def parse_txt_content(file_path):
             elif is_close_grouping_info_line("en", line, "(start|end)"):
                 buffering_en_grouping_info = False
                 en_grouping_info_buffer.append(re.sub(r"<\/?en.*?>", "", line))
-                add_body_section_and_reset() 
+                add_body_section_and_reset()
 
             elif buffering_en_grouping_info:
                 en_grouping_info_buffer.append(re.sub(r"<\/?en.*?>", "", line))
 
             elif is_h2_line(line):
-                add_body_section_and_reset()  
+                add_body_section_and_reset()
                 is_sections_initialized = True
                 h2_buffer.append(re.sub(r"<\/?h2>", "", line))
 
@@ -286,14 +259,17 @@ def parse_txt_content(file_path):
             elif buffering_en_verse:
                 en_verse_buffer.append(line)
 
-           
-
             else:
                 en_buffer.append(line)
 
     add_body_section_and_reset()  # Add the last translation if any
 
     return data
+
+
+# *****************************
+# MAIN
+# *************************
 
 
 def save_to_json(data, output_path):
@@ -304,14 +280,14 @@ def save_to_json(data, output_path):
 def extract_id_from_filename(filename):
     id = filename.strip(".txt")
     has_id_part = re.match(r".*_", id)
-    
+
     if has_id_part is not None:
         return id.split("_")[-1].lower()
-    
+
     return id[2:].lower()
 
 
-def main(directory_path, output_directory):
+def process_directory(directory_path, output_directory, school, book, has_rule_class):
     files = sorted(os.listdir(directory_path))
     print(f"Processing {len(files)} files in {directory_path}...")
 
@@ -320,7 +296,7 @@ def main(directory_path, output_directory):
             file_path = os.path.join(directory_path, filename)
 
             print(f"Processing {filename}...")
-            content_data = parse_txt_content(file_path)
+            content_data = parse_txt_content(file_path, school, book, has_rule_class)
 
             # add prev/next data
             content_data["file"] = extract_id_from_filename(filename)
@@ -338,6 +314,35 @@ def main(directory_path, output_directory):
             print(f"Saved translations to {output_path}")
 
 
-input_directory = args.input_dir
-output_directory = args.output_dir
-main(input_directory, output_directory)
+def get_school_and_book_from_dirname(dirname):
+    school_code, book_code = dirname.split("_")
+    return schools.get(school_code, ""), books.get(book_code, "")
+
+
+def main(base_directory):
+    for school_dir in os.listdir(base_directory):
+        school_path = os.path.join(base_directory, school_dir)
+        if os.path.isdir(school_path):
+            school = schools.get(school_dir, "")
+            for book_dir in os.listdir(school_path):
+                book_path = os.path.join(school_path, book_dir)
+                if os.path.isdir(book_path):
+                    book = books.get(book_dir, "")
+                    has_rule_class = book_dir in books_with_rule_classes
+                    print(f"book_dir `{book_path}`")
+                    print(f"has_rule_class `{has_rule_class}`")
+                    input_directory = os.path.join(book_path, "src")
+                    output_directory = os.path.join(book_path, "json")
+                    os.makedirs(output_directory, exist_ok=True)
+                    process_directory(
+                        input_directory, output_directory, school, book, has_rule_class
+                    )
+
+
+# crawl derectory, relative to the script's location
+BASE_DIRECTORY = os.path.abspath(
+    os.path.join(os.path.dirname(__file__), "..", "src", "data")
+)
+
+
+main(BASE_DIRECTORY)
