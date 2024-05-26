@@ -1,26 +1,34 @@
 import { promises as fs } from "fs";
 import path from "path";
-import type { RuleData } from "../data/types";
+import type { RuleData, RuleDirPath } from "../data/types";
 
-export const rulePrimaryGroups = {
-  mgBv: { name: "Bhikkhunī Vibhaṅga", path: "/mg/vb" },
-  mgGd: { name: "Garudhamma", path: "/mg/gd" },
-  mgPn: { name: "Bhikkhunī Pakiṇṇaka", path: "/mg/pn" },
-  mgPm: { name: "Bhikkhunī Pātimokkha", path: "/mg/pm" },
-} as const;
-
-const rulePaths = Object.values(rulePrimaryGroups).map((group) => group.path);
-type RulePath = (typeof rulePaths)[number];;
+async function checkPathExists(filePath: string) {
+  try {
+    const stats = await fs.stat(filePath);
+    return Boolean(stats);
+  } catch (error) {
+    return false;
+  }
+}
 
 async function getAllBookRuleData({
   rulePath,
 }: {
-  rulePath: RulePath;
+  rulePath: RuleDirPath;
 }): Promise<RuleData[]> {
+  const fullPath = path.join(process.cwd(), `src/data${rulePath}/json`);
+
+  if (!(await checkPathExists(fullPath))) {
+    return [];
+  }
+
   const directory = path.join(process.cwd(), `src/data${rulePath}/json`);
+
   const filenames = await fs.readdir(directory);
+
   const files = filenames.map(async (filename) => {
     const filePath = path.join(directory, filename);
+
     const fileContents = await fs.readFile(filePath, "utf8");
     return JSON.parse(fileContents) as RuleData;
   });

@@ -4,13 +4,17 @@ import H1 from "../../../components/H1.astro";
 import H2 from "../../../components/H2.astro";
 import Link from "../../../components/Link.astro";
 import RuleBodyContent from "../../../components/RuleBodyContent.astro";
-import getAllBookRuleData, {
-  rulePrimaryGroups,
-} from "../../../utils/getAllBookRuleData";
+import getAllBookRuleData from "../../../utils/getAllBookRuleData";
+
+import { schoolBookGroups } from "../../../data/content";
 
 export async function getStaticPaths() {
+  const path = Object.values(schoolBookGroups.mg).filter((meta) =>
+    meta.path.endsWith("gd")
+  )[0].path;
+
   const rulePages = await getAllBookRuleData({
-    rulePath: rulePrimaryGroups.mgGd.path,
+    rulePath: path,
   });
 
   return rulePages.map((rule) => {
@@ -18,7 +22,7 @@ export async function getStaticPaths() {
 
     return {
       params: { rule: file },
-      props: { ...rest, rulePath: rulePrimaryGroups.mgGd.path },
+      props: { ...rest, rulePath: path },
     };
   });
 }
@@ -41,9 +45,8 @@ const { school, book, rule_no, body, prev_file, next_file, rulePath } =
   <main>
     <article>
       <header>
-        <p class="text-xl leading-7">{school}</p>
-        <p class="text-xl leading-7 mb-4">{book}</p>
-        <H1 heading={book.split(" ")[1] + " " + rule_no} />
+        <p class="text-xl leading-7 mb-2">{school}</p>
+        <H1 heading={book + " " + rule_no} />
       </header>
 
       {

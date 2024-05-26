@@ -4,13 +4,17 @@ import H1 from "../../../components/H1.astro";
 import H2 from "../../../components/H2.astro";
 import Link from "../../../components/Link.astro";
 import RuleBodyContent from "../../../components/RuleBodyContent.astro";
-import getAllBookRuleData, {
-  rulePrimaryGroups,
-} from "../../../utils/getAllBookRuleData";
+import getAllBookRuleData from "../../../utils/getAllBookRuleData";
+
+import { schoolBookGroups } from "../../../data/content";
 
 export async function getStaticPaths() {
+  const path = Object.values(schoolBookGroups.mg).filter((meta) =>
+    meta.path.endsWith("pn")
+  )[0].path;
+
   const rulePages = await getAllBookRuleData({
-    rulePath: rulePrimaryGroups.mgPn.path,
+    rulePath: path,
   });
 
   return rulePages.map((rule) => {
@@ -18,7 +22,7 @@ export async function getStaticPaths() {
 
     return {
       params: { rule: file },
-      props: { ...rest, rulePath: rulePrimaryGroups.mgPn.path },
+      props: { ...rest, rulePath: path },
     };
   });
 }

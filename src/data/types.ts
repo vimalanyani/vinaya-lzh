@@ -1,3 +1,5 @@
+import { ruleDirPaths, schoolBookGroups } from "../data/content";
+
 interface RuleBody {
   h2: string;
   lzh: string[];
@@ -18,3 +20,12 @@ export interface RuleData {
   prev_file: string | null;
   next_file: string | null;
 }
+
+export type RuleDirPath = (typeof ruleDirPaths)[number];
+
+export type BookData = {
+  data: RuleData[];
+  path: string;
+  schoolName: string;
+  bookName: string;
+};

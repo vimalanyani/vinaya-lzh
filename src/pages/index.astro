@@ -1,21 +1,43 @@
 ---
 import { siteName } from "../utils";
 import Layout from "../layouts/Layout.astro";
-import Link from "../components/Link.astro";
-import getAllBookRuleData, {
-  rulePrimaryGroups,
-} from "../utils/getAllBookRuleData";
-import { createAnchor } from "../utils";
+import H2 from "../components/H2.astro";
+import LinkedBookIndexList from "../components/LinkedBookIndexList.astro";
+import LinkedRuleIndexList from "../components/LinkedRuleIndexList.astro";
+import getAllBookRuleData from "../utils/getAllBookRuleData";
+import { schoolBookGroups } from "../data/content";
+import type { BookData } from "../data/types";
 
-const mgVbRulePages = await getAllBookRuleData({
-  rulePath: rulePrimaryGroups.mgBv.path,
-});
-const mgPnRulePages = await getAllBookRuleData({
-  rulePath: rulePrimaryGroups.mgPn.path,
-});
-const mgGdRulePages = await getAllBookRuleData({
-  rulePath: rulePrimaryGroups.mgGd.path,
-});
+let data: Partial<Record<keyof typeof schoolBookGroups, BookData[]>> | null =
+  {};
+
+for (const [schoolKey, schoolBooks] of Object.entries(schoolBookGroups)) {
+  await Promise.all(
+    schoolBooks.map(async (book) => {
+      const bookData = await getAllBookRuleData({ rulePath: book.path });
+
+      if (!bookData.length) return;
+
+      if (!(schoolKey in data)) {
+        Object.assign(data, {
+          [schoolKey]: [
+            {
+              data: bookData,
+              ...book,
+            },
+          ],
+        });
+      } else {
+        Object.assign(data, {
+          [schoolKey]: [
+            ...(data[schoolKey as keyof typeof data] ?? []),
+            { data: bookData, ...book },
+          ],
+        });
+      }
+    })
+  );
+}
 ---
 
 <Layout
@@ -28,98 +50,20 @@ const mgGdRulePages = await getAllBookRuleData({
       {siteName}
     </h1>
 
-    <h2 class="mt-12 text-4xl">
-      {mgVbRulePages[0].school}
-    </h2>
-
-    <ol class="mt-4 mb-8 lg:mb-10 text-xl leading-9">
-      <li>
-        <Link
-          href={"/#" + createAnchor(rulePrimaryGroups.mgBv.name)}
-          text={rulePrimaryGroups.mgBv.name}
-        />
-      </li>
-      <li>
-        <Link
-          href={"/#" + createAnchor(rulePrimaryGroups.mgPn.name)}
-          text={rulePrimaryGroups.mgPn.name}
-        />
-      </li>
-      <li>
-        <Link
-          href={"/#" + createAnchor(rulePrimaryGroups.mgGd.name)}
-          text={rulePrimaryGroups.mgGd.name}
-        />
-      </li>
-      <li>
-        <Link
-          href={rulePrimaryGroups.mgPm.path}
-          text={rulePrimaryGroups.mgPm.name}
-        />
-      </li>
-    </ol>
-
-    <section
-      id={createAnchor(rulePrimaryGroups.mgBv.name)}
-      class="mt-4 mb-8 lg:mt-6 lg:mb-10"
-    >
-      <h3 class="text-2xl font-bold leading-8">
-        <p class="">{rulePrimaryGroups.mgBv.name}</p>
-      </h3>
-      <ul class="my-4 text-xl columns-2 xl:columns-3 gap-8">
-        {
-          mgVbRulePages.map((rule) => (
-            <li class="mb-4">
-              <Link
-                href={rulePrimaryGroups.mgBv.path + "/" + rule.file}
-                text={rule.rule_class + " " + rule.rule_no}
-              />
-            </li>
-          ))
-        }
-      </ul>
-    </section>
-
-    <section
-      id={createAnchor(rulePrimaryGroups.mgPn.name)}
-      class="my-8 lg:my-10"
-    >
-      <h3 class="text-2xl font-bold leading-8">
-        <p class="">{rulePrimaryGroups.mgPn.name}</p>
-      </h3>
-      <ul class="my-4 text-xl columns-2 xl:columns-3 gap-8">
-        {
-          mgPnRulePages.map((rule) => (
-            <li class="mb-4">
-              <Link
-                href={rulePrimaryGroups.mgPn.path + "/" + rule.file}
-                text={rule.book.split(" ")[1] + " " + rule.rule_no}
-              />
-            </li>
-          ))
-        }
-      </ul>
-    </section>
-
-    <section
-      id={createAnchor(rulePrimaryGroups.mgGd.name)}
-      class="my-8 lg:my-10"
-    >
-      <h3 class="text-2xl font-bold leading-8">
-        <p class="">{rulePrimaryGroups.mgGd.name}</p>
-      </h3>
-      <ul class="my-4 text-xl columns-2 xl:columns-3 gap-8">
-        {
-          mgGdRulePages.map((rule) => (
-            <li class="mb-4">
-              <Link
-                href={rulePrimaryGroups.mgGd.path + "/" + rule.file}
-                text={rule.book + " " + rule.rule_no}
-              />
-            </li>
-          ))
-        }
-      </ul>
-    </section>
+    {
+      Object.values(data).map((bookData) => {
+        return (
+          <section class="mt-10">
+            <H2>{bookData[0].schoolName}</H2>
+            <LinkedBookIndexList bookList={bookData} />
+          </section>
+        );
+      })
+    }
+    {
+      Object.values(data).map((bookData) => {
+        return <LinkedRuleIndexList bookData={bookData} />;
+      })
+    }
   </main>
 </Layout>
