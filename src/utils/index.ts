@@ -4,10 +4,7 @@ export const descriptionPrefix =
   "Vimalanyani Bhikkhunī’s English translations of ";
 
 export const createAnchor = (text: string) => {
-  return (
-    text
-      .replace(/ /g, "-")
-      // .replace(/[^a-zA-Z0-9-]/g, "")
-      .toLowerCase()
-  );
+  return text.replace(/ /g, "-").toLowerCase();
 };
+
+export const getSchoolPathFilePath = (path: string) => path.split(/(?=\/)/)[0];

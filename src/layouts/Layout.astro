@@ -9,7 +9,7 @@ interface Props {
   prefixedDescription?: string;
 }
 
-const { title, isIndexPage, description, prefixedDescription } = Astro.props;
+const { title, description, prefixedDescription } = Astro.props;
 
 const metaTitle = title ?? siteName;
 const metaDescription = description
@@ -58,7 +58,7 @@ const socialImgUrl = `${Astro.site}${basePath.substring(1)}/social.png`;
   <body
     class:list={[
       "bg-stone-100 text-neutral-700  p-4 md:mx-auto sm:my-16 lg:my-24",
-      isIndexPage ? "max-w-[920px]" : "max-w-[95ch]",
+      "max-w-[920px]",
     ]}
   >
     <slot />

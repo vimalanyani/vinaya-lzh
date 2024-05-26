@@ -5,7 +5,7 @@ import H2 from "../../components/H2.astro";
 import Link from "../../components/Link.astro";
 import RuleBodyContent from "../../components/RuleBodyContent.astro";
 import getAllBookRuleData from "../../utils/getAllBookRuleData";
-
+import { getSchoolPathFilePath } from "../../utils";
 import { schoolBookGroups } from "../../data/content";
 
 export async function getStaticPaths() {
@@ -85,7 +85,7 @@ const {
         {
           prev_file ? (
             <Link
-              href={`${rulePath}/${prev_file}`}
+              href={`${getSchoolPathFilePath(rulePath)}/${prev_file}`}
               text={`←`}
               class="no-underline border-stone-300 border-2 px-4 rounded-full hover:shadow-md hover:border-amber-600"
             />
@@ -96,7 +96,7 @@ const {
         {
           next_file ? (
             <Link
-              href={`${rulePath}/${next_file}`}
+              href={`${getSchoolPathFilePath(rulePath)}/${next_file}`}
               text={`→`}
               class="no-underline border-stone-300 border-2 px-4 rounded-full hover:shadow-md hover:border-amber-600"
             />
