@@ -8,15 +8,26 @@ import getAllBookRuleData from "../../utils/getAllBookRuleData";
 
 import { schoolBookGroups } from "../../data/content";
 
-const path = Object.values(schoolBookGroups.mi).filter((meta) =>
-  meta.path.endsWith("pm")
-)[0].path;
+export async function getStaticPaths() {
+  const path = Object.values(schoolBookGroups.mi).filter((meta) =>
+    meta.path.endsWith("pm")
+  )[0].path;
 
-const rulePages = await getAllBookRuleData({
-  rulePath: path,
-});
+  const rulePages = await getAllBookRuleData({
+    rulePath: path,
+  });
 
-const { school, book, body, prev_file, next_file } = rulePages[0];
+  return rulePages.map((rule) => {
+    const { file, ...rest } = rule;
+
+    return {
+      params: { pm: file.toLowerCase() },
+      props: { ...rest, rulePath: path },
+    };
+  });
+}
+
+const { school, book, body } = Astro.props;
 ---
 
 <Layout
@@ -59,31 +70,6 @@ const { school, book, body, prev_file, next_file } = rulePages[0];
           );
         })
       }
-
-      <div class="flex justify-center gap-4 my-12 text-3xl">
-        {
-          prev_file ? (
-            <Link
-              href={`${path}/${prev_file}`}
-              text={`←`}
-              class="no-underline border-stone-300 border-2 px-4 rounded-full hover:shadow-md hover:border-amber-600"
-            />
-          ) : (
-            <span />
-          )
-        }
-        {
-          next_file ? (
-            <Link
-              href={`${path}/${next_file}`}
-              text={`→`}
-              class="no-underline border-stone-300 border-2 px-4 rounded-full hover:shadow-md hover:border-amber-600"
-            />
-          ) : (
-            <span />
-          )
-        }
-      </div>
     </article>
   </main>
 </Layout>
