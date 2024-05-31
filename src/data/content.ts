@@ -1,14 +1,16 @@
+// Render order: patimokkha, vibhanga, pakinnaka, garudhammas.
+
 export const schoolBookGroups = {
   mg: [
+    {
+      path: "/mg/pm",
+      schoolName: "Mahāsaṅghika",
+      bookName: "Bhikkhunī Pātimokkha",
+    },
     {
       path: "/mg/vb",
       schoolName: "Mahāsaṅghika",
       bookName: "Bhikkhunī Vibhaṅga",
-    },
-    {
-      path: "/mg/gd",
-      schoolName: "Mahāsaṅghika",
-      bookName: "Bhikkhunī Garudhamma",
     },
     {
       path: "/mg/pn",
@@ -16,21 +18,21 @@ export const schoolBookGroups = {
       bookName: "Bhikkhunī Pakiṇṇaka",
     },
     {
-      path: "/mg/pm",
+      path: "/mg/gd",
       schoolName: "Mahāsaṅghika",
-      bookName: "Bhikkhunī Pātimokkha",
+      bookName: "Bhikkhunī Garudhamma",
     },
   ],
   mi: [
     {
+      path: "/mi/pm",
+      schoolName: "Mahīśāsaka",
+      bookName: "Bhikkhunī Pātimokkha",
+    },
+    {
       path: "/mi/vb",
       schoolName: "Mahīśāsaka",
       bookName: "Bhikkhunī Vibhaṅga",
-    },
-    {
-      path: "/mi/gd",
-      schoolName: "Mahīśāsaka",
-      bookName: "Bhikkhunī Garudhamma",
     },
     {
       path: "/mi/pn",
@@ -38,21 +40,21 @@ export const schoolBookGroups = {
       bookName: "Bhikkhunī Pakiṇṇaka",
     },
     {
-      path: "/mi/pm",
+      path: "/mi/gd",
       schoolName: "Mahīśāsaka",
-      bookName: "Bhikkhunī Pātimokkha",
+      bookName: "Bhikkhunī Garudhamma",
     },
   ],
   dg: [
     {
+      path: "/dg/pm",
+      schoolName: "Dharmaguptaka",
+      bookName: "Bhikkhunī Pātimokkha",
+    },
+    {
       path: "/dg/vb",
       schoolName: "Dharmaguptaka",
       bookName: "Bhikkhunī Vibhaṅga",
-    },
-    {
-      path: "/dg/gd",
-      schoolName: "Dharmaguptaka",
-      bookName: "Bhikkhunī Garudhamma",
     },
     {
       path: "/dg/pn",
@@ -60,9 +62,9 @@ export const schoolBookGroups = {
       bookName: "Bhikkhunī Pakiṇṇaka",
     },
     {
-      path: "/dg/pm",
+      path: "/dg/gd",
       schoolName: "Dharmaguptaka",
-      bookName: "Bhikkhunī Pātimokkha",
+      bookName: "Bhikkhunī Garudhamma",
     },
   ],
   sarv: [
@@ -89,14 +91,14 @@ export const schoolBookGroups = {
   ],
   mu: [
     {
+      path: "/mu/pm",
+      schoolName: "Mūlasarvāstivāda",
+      bookName: "Bhikkhunī Pātimokkha",
+    },
+    {
       path: "/mu/vb",
       schoolName: "Mūlasarvāstivāda",
       bookName: "Bhikkhunī Vibhaṅga",
-    },
-    {
-      path: "/mu/gd",
-      schoolName: "Mūlasarvāstivāda",
-      bookName: "Bhikkhunī Garudhamma",
     },
     {
       path: "/mu/pn",
@@ -104,9 +106,9 @@ export const schoolBookGroups = {
       bookName: "Bhikkhunī Pakiṇṇaka",
     },
     {
-      path: "/mu/pm",
+      path: "/mu/gd",
       schoolName: "Mūlasarvāstivāda",
-      bookName: "Bhikkhunī Pātimokkha",
+      bookName: "Bhikkhunī Garudhamma",
     },
   ],
 } as const;
