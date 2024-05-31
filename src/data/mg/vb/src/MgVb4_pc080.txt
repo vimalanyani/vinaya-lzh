@@ -36,9 +36,9 @@ If a bhikkhunī eats garlic, it’s a pācittiya.”
 <h2>Summary Verse</h2>
 
 
-<lzh>他衣外道衣 祇支安陀會
+<lzh-verse>他衣外道衣 祇支安陀會
 浴衣迦絺那 持衣不隨身
-更煮捉水扇 食蒜八跋渠</lzh>
+更煮捉水扇 食蒜八跋渠</lzh-verse>
 
 <verse>Someone else’s robe, a non-Buddhist robe, a vest, a lower robe,<note>vest and lower robe have changed places. Lower robe is pācittiya 73, vest pācittiya 74.</note>
 Bathing robe, kaṭhina, not bringing along a determined robe,

@@ -10,13 +10,13 @@ Translated by the renunciates Faxian and Buddhabhadra in Pingyang during the Eas
 
 
 <h2>Introduction</h2>
-<lzh>阿梨耶僧聽。冬時一月過少一夜。餘有一夜三月在。老死至近佛法欲滅。諸阿梨耶。為得道故一心勤精進。所以者何。諸佛一心勤精進故得阿耨多羅三藐三菩提。何況餘助道法。未受具足者已出。僧今和合先作何事。</lzh>
-“May the noble sangha listen. The first month of the winter season has already passed, except for one night. One night and three months remain. Old age and death are drawing near, and the Buddha’s dhamma will extinguish. Venerables, to realize the path, strive single-mindedly with diligence. Why? Because the Buddhas have striven single-mindedly with diligence, they have realized unsurpassed perfect enlightenment. Moreover, they are helping those on the dhamma path. Those who have not yet received the full ordination have already left. The sangha is now in harmony. What are we doing first? 
+<lzh>阿梨耶僧聽。冬時一月過少一夜。餘有一夜三月在。老死至近佛法欲滅。諸阿梨耶。為得道故一心勤精進。所以者何。諸佛一心勤精進故得阿耨多羅三藐三菩提。何況餘助道法。未受具足者已出。僧今和合先作何事。<lzh-note>(一人應答布薩說戒)</lzh-note></lzh>
+“May the noble sangha listen. The first month of the winter season has already passed, except for one night. One night and three months remain. Old age and death are drawing near, and the Buddha’s dhamma will extinguish. Venerables, to realize the path, strive single-mindedly with diligence. Why? Because the Buddhas have striven single-mindedly with diligence, they have realized unsurpassed perfect enlightenment. Moreover, they are helping those on the dhamma path. Those who have not yet received the full ordination have already left. The sangha is now in harmony. What are we doing first? <note>(One person should answer: ‘The uposatha precepts’ recitation.)</note>
 
 <lzh>諸阿梨耶不來。諸比丘尼說欲及清淨。</lzh>
 Some venerables have not come. May the bhikkhunīs convey their consent and purity.
 
-<lzh>合十指爪掌　　供養釋師子
+<lzh-verse>合十指爪掌　　供養釋師子
 我今欲說戒　　僧當一心聽
 乃至小罪中　　心應大怖畏
 有罪一心悔　　後更莫復犯
@@ -29,7 +29,7 @@ Some venerables have not come. May the bhikkhunīs convey their consent and puri
 若人守護戒　　如牛愛尾
 繫心不放逸　　亦如猴著鎖
 日夜勤精進　　求實智慧故
-是人佛法中　　能得清淨命</lzh>
+是人佛法中　　能得清淨命</lzh-verse>
 
 <verse>
 Joining the palms and the ten fingers together we venerate the Sakyan lion.
@@ -131,7 +131,7 @@ If a bhikkhunī out of hostility and dissatisfaction, slanders a pure, innocent 
 <lzh>placeholder</lzh>
 <h3>saṅghādisesa 3</h3>
 <lzh>若比丘尼。瞋恨不喜故。以異分中小小事非波羅夷。比丘尼以波羅夷法謗。欲破彼梵行。彼於後時若檢校若不檢校以異分中小小事。是比丘尼住瞋恨故。是法初罪僧伽婆尸沙。</lzh>
-If a bhikkhunī, out of hostility and dissatisfaction, slanders a bhikkhunī, who is not pārājika, with a pārājika offense because of a minor issue from a different matter, wanting to destroy her monastic life, and at a later time, whether examined or not examined about that minor issue from a different matter, that bhikkhunī says that she (spoke) because she harboured hostility, it is an immediate saṅghādisesa offense.<note: “spoke” 說 is only found in the vibhaṅga version of the rule.>
+If a bhikkhunī, out of hostility and dissatisfaction, slanders a bhikkhunī, who is not pārājika, with a pārājika offense because of a minor issue from a different matter, wanting to destroy her monastic life, and at a later time, whether examined or not examined about that minor issue from a different matter, that bhikkhunī says that she (spoke) because she harboured hostility, it is an immediate saṅghādisesa offense.<note> “spoke” 說 is only found in the vibhaṅga version of the rule.</note>
 
 <lzh>placeholder</lzh>
 <h3>saṅghādisesa 4</h3>
@@ -176,7 +176,7 @@ If a bhikkhunī with an undefiled mind, receives robes, bowls, drinks, food, liq
 <lzh>placeholder</lzh>
 <h3>saṅghādisesa 12</h3>
 <lzh>若比丘尼語比丘尼作是語。可取此男子施。漏心不漏心何預汝事。但汝莫漏心。可取施已隨因緣用。諸比丘尼應諫是比丘尼。莫作是語。應取是施。男子漏心不漏心何預人事。但使汝無漏心。可取施已隨因緣用。如是應第二第三諫。捨是事好。若不捨者僧伽婆尸沙。</lzh>
-If a bhikkhunī says to another bhikkhunī: ‘You can receive the offering of this man. Defiled or undefiled mind, how’s that your business? As long as you don’t have a defiled mind, you may accept the offering, and use it appropriately,’ the bhikkhunīs should admonish that bhikkhunī: ‘Don’t say: $You should receive the offering. A man’s defiled or undefiled mind, how’s that anyone’s business? Just make your mind undefiled, then you may accept the offering, and use it appropriately$, Like this she should be admonished a second and a third time. If she gives up this matter, it is fine. If she doesn’t give it up, it is a saṅghādisesa.<note: The vibhaṅga states that this is an immediate saṅghādisesa offense, even though it includes three admonishments. The pātimokkha doesn’t say whether it is immediate or after three admonishments, which is very unusual. In the Sthāviravāda schools, the parallels to this rule are all immediate offenses. So it seems that this rule was later expanded to include three admonishments, but the text was not fully adjusted.>
+If a bhikkhunī says to another bhikkhunī: ‘You can receive the offering of this man. Defiled or undefiled mind, how’s that your business? As long as you don’t have a defiled mind, you may accept the offering, and use it appropriately,’ the bhikkhunīs should admonish that bhikkhunī: ‘Don’t say: $You should receive the offering. A man’s defiled or undefiled mind, how’s that anyone’s business? Just make your mind undefiled, then you may accept the offering, and use it appropriately$, Like this she should be admonished a second and a third time. If she gives up this matter, it is fine. If she doesn’t give it up, it is a saṅghādisesa.<note> The vibhaṅga states that this is an immediate saṅghādisesa offense, even though it includes three admonishments. The pātimokkha doesn’t say whether it is immediate or after three admonishments, which is very unusual. In the Sthāviravāda schools, the parallels to this rule are all immediate offenses. So it seems that this rule was later expanded to include three admonishments, but the text was not fully adjusted.</note>
 
 <lzh>placeholder</lzh>
 <h3>saṅghādisesa 13</h3>
@@ -214,7 +214,7 @@ If a bhikkhunī sees that they are living apart from each other, and instructs t
 If a bhikkhunī resentfully wants to renounce the precepts, and says: ‘I renounce the Buddha, renounce the dhamma, renounce the sangha, renounce speaking, renounce living in community, renounce eating together, renounce the discourses and treatises, and renounce the Sakyan renunciates. What use are these Sakyan renunciates to me? There are other superior places. I will practise the monastic life there,’ the bhikkhunīs should admonish her: ‘Venerable, don’t resentfully renounce the precepts, and say: “I renounce the Buddha, … I renounce the Sakyan renunciates.” Renouncing the Buddha is not good.’ If she, when admonished by the bhikkhunīs like this, persists firmly, and doesn’t give it up, she should be admonished a second and a third time. If she gives up this matter, it is fine. If not, this rule is a saṅghādisesa after three admonishments. 
 
 <lzh>諸阿梨耶已說十九僧伽婆尸沙法十一初罪八乃至三諫若比丘尼犯一一罪。半月二部眾中行摩那埵。次到阿浮呵那二十眾二部僧中應出罪。稱可眾人意。二十人中若少一人。此比丘尼不名出罪。諸比丘比丘尼應呵責。是名時。今問諸阿梨耶。是中清淨不。第二第三亦如是問。諸阿梨耶。是中清淨默然故。是事如是持。</lzh>
-Venerables, the 19 saṅghādisesa rules have been recited; 11 immediate offenses and eight offenses after the third admonishment.<note: The vibhaṅga states that there are 12 immediate offenses and seven offenses after the third admonishment.> If a bhikkhunī has committed any of these offenses, she should undergo probation<note: Mānatta.> for half a month before both assemblies. She then reaches the rehabilitation<note: Abbhāna>. A sangha of 20 in both assemblies should rehabilitate her, if it pleases all the members of the assembly. If there is one person less than 20, the bhikkhunī does not count as rehabilitated, and the bhikkhus and bhikkhunīs should be criticized. This is called the suitable time. Now I ask the venerables: ‘Are you pure herein?’ A second and a third time, I ask this. The venerables are pure herein, therefore you are silent. This matter is remembered thus’.
+Venerables, the 19 saṅghādisesa rules have been recited; 11 immediate offenses and eight offenses after the third admonishment.<note> The vibhaṅga states that there are 12 immediate offenses and seven offenses after the third admonishment.</note> If a bhikkhunī has committed any of these offenses, she should undergo probation<note> Mānatta.</note> for half a month before both assemblies. She then reaches the rehabilitation<note> Abbhāna</note>. A sangha of 20 in both assemblies should rehabilitate her, if it pleases all the members of the assembly. If there is one person less than 20, the bhikkhunī does not count as rehabilitated, and the bhikkhus and bhikkhunīs should be criticized. This is called the suitable time. Now I ask the venerables: ‘Are you pure herein?’ A second and a third time, I ask this. The venerables are pure herein, therefore you are silent. This matter is remembered thus’.
 
 <h2>30 nissaggiya pācittiya rules</h2>
 <lzh>諸阿梨耶。是三十尼薩耆波夜提法。半月半月波羅提木叉中說。</lzh>
@@ -500,7 +500,7 @@ If a bhikkhunī eats in several places except at a suitable time, it is a pācit
 <lzh>placeholder</lzh>
 <h3>pācittiya 23</h3>
 <lzh>若比丘尼。淨施比丘比丘尼式叉摩那沙彌沙彌尼衣已後不捨而受用者波夜提。</lzh>
-If a bhikkhunī makes a pure offering<note:vikappana.> of a robe to a bhikkhu, bhikkhunī, sikkhamānā, sāmaṇera, or sāmaṇerī, and later, when it has not been given up, uses it, it is a pācittiya.
+If a bhikkhunī makes a pure offering<note>vikappana.</note> of a robe to a bhikkhu, bhikkhunī, sikkhamānā, sāmaṇera, or sāmaṇerī, and later, when it has not been given up, uses it, it is a pācittiya.
 
 <lzh>placeholder</lzh>
 <h3>pācittiya 24</h3>
@@ -977,7 +977,7 @@ If a bhikkhunī who is not sick holds an umbrella, and wears leather sandals, it
 <lzh>placeholder</lzh>
 <h3>pācittiya 113</h3>
 <lzh>若比丘尼。過量佉啁床褥上。若坐若臥波夜提。</lzh>
-If a bhikkhunī sits or lies on a couch bed<note: khaṭvā> with mats that exceeds the measurements, it is a pācittiya.
+If a bhikkhunī sits or lies on a couch bed<note> khaṭvā</note> with mats that exceeds the measurements, it is a pācittiya.
 
 <lzh>placeholder</lzh>
 <h3>pācittiya 114</h3>
@@ -1221,8 +1221,8 @@ Not to wear the inner robe like a tāla palm leaf.
 
 <lzh>placeholder</lzh>
 <h3>sekhiya 9</h3>
-<lzh>不象鼻著內衣。</lzh>
-Not to wear the inner robe like an elephant’s trunk. 
+<lzh>不象鼻著內衣。<lzh-note>(此上九戒丹本及本律大僧戒中並無)</lzh-note></lzh>
+Not to wear the inner robe like an elephant’s trunk. <note>(These above nine precepts are not found in the Khitan edition and in the monks’ rules of this vinaya edition.)</note>
 
 <lzh>placeholder</lzh>
 <h3>sekhiya 10</h3>
@@ -1246,8 +1246,8 @@ Not to wrap the robe around like a guardian deva should be trained.
 
 <lzh>placeholder</lzh>
 <h3>sekhiya 14</h3>
-<lzh>不婆藪天披衣應當學。</lzh>
-Not to wrap the robe around like a vasu-deva should be trained. 
+<lzh>不婆藪天披衣應當學。<lzh-note>(此上四戒丹本及本律大僧戒中並無)</lzh-note></lzh>
+Not to wrap the robe around like a vasu-deva should be trained. <note>(These above four precepts are not found in the Khitan edition and in the monks’ rules of this vinaya edition.)</note>
 
 <lzh>placeholder</lzh>
 <h3>sekhiya 15</h3>
@@ -1641,8 +1641,8 @@ In these matters, which are included in the Buddha’s suttas, and are recited e
 <lzh>佛告比丘尼毘婆尸佛如來應供正遍知為寂靜僧。最初說波羅提木叉。</lzh>
 The Buddha told the bhikkhunīs: Vipassī Buddha, the Tathāgata, worthy of offerings, the perfectly enlightened one, first spoke this pātimokkha to his quiet sangha:
 
-<lzh>忍辱第一道　　涅槃佛稱最
-出家惱他人　　不名為沙門</lzh>
+<lzh-verse>忍辱第一道　　涅槃佛稱最
+出家惱他人　　不名為沙門</lzh-verse>
 
 <verse>
 Patience is the best path, Nibbāna is praised most by the Buddhas,
@@ -1653,8 +1653,8 @@ One gone forth who disturbs others can’t be called a samaṇa.
 <lzh>尸棄佛如來應供正遍知為寂靜僧。最初說波羅提木叉。</lzh>
 Sikhī Buddha, the Tathāgata, worthy of offerings, the perfectly enlightened one, first spoke this pātimokkha to his quiet sangha:
 
-<lzh>譬如明眼人　　能避嶮惡道
-世有聰明人　　能遠離諸惡</lzh>
+<lzh-verse>譬如明眼人　　能避嶮惡道
+世有聰明人　　能遠離諸惡</lzh-verse>
 
 <verse>
 Just as a person with clear eyes can avoid the dangerous evil path.
@@ -1665,9 +1665,9 @@ There are wise people in the world who can dwell far away from all evil.
 <lzh>毘葉婆佛如來應供正遍知。為寂靜僧最初說波羅提木叉。</lzh>
 Vessabhū Buddha, the Tathāgata, worthy of offerings, the perfectly enlightened one, first spoke this pātimokkha to his quiet sangha:
 
-<lzh>不惱不說過　　如戒所說行
+<lzh-verse>不惱不說過　　如戒所說行
 飯食知節量　　常樂在閑處
-心淨樂精進　　是名諸佛教</lzh>
+心淨樂精進　　是名諸佛教</lzh-verse>
 
 <verse>
 Without disturbing, without transgressing in speech, practising according to the laid-down precepts,
@@ -1680,10 +1680,10 @@ Devoted to progress with a clear and happy mind, this is called the teaching of 
 <lzh>拘留孫佛如來應供正遍知。為寂靜僧最初說波羅提木叉。</lzh>
 Kakusandha Buddha, the Tathāgata, worthy of offerings, the perfectly enlightened one, first spoke this pātimokkha to his quiet sangha:
 
-<lzh>譬如蜂採華　　不壞色與香
+<lzh-verse>譬如蜂採華　　不壞色與香
 但取其味法　　比丘入聚落
 不破壞他事　　不觀作不作
-但自觀身行　　諦視善不善</lzh>
+但自觀身行　　諦視善不善</lzh-verse>
 
 
 <verse>
@@ -1700,8 +1700,8 @@ He should just contemplate his own bodily conduct, and carefully observe good an
 Koṇāgamana Buddha, the Tathāgata, worthy of offerings, the perfectly enlightened one, first spoke this pātimokkha to his quiet sangha:
 
 
-<lzh>欲得好心莫放逸　　聖人善法當勤學
-若有智寂一心人　　乃能無復憂愁患</lzh>
+<lzh-verse>欲得好心莫放逸　　聖人善法當勤學
+若有智寂一心人　　乃能無復憂愁患</lzh-verse>
 
 <verse>
 Desiring to obtain a good mind, don’t be negligent, a noble one in the good dhamma should strive in the training.
@@ -1712,8 +1712,8 @@ Someone with wisdom, and a quiet, one-pointed mind, need never again grieve and 
 <lzh>迦葉佛如來應供正遍知。為寂靜僧最初說波羅提木叉。</lzh>
 Kassapa Buddha, the Tathāgata, worthy of offerings, the perfectly enlightened one, first spoke this pātimokkha to his quiet sangha:
 
-<lzh>一切惡莫作　　當具足善法
-自淨其志意　　是則諸佛教</lzh>
+<lzh-verse>一切惡莫作　　當具足善法
+自淨其志意　　是則諸佛教</lzh-verse>
 
 <verse>
 Not doing all evil, fulfilling all good states,
@@ -1726,7 +1726,7 @@ Purifying one’s will and mind, this is the teaching of the Buddhas.
 Sakyamuni Buddha, the Tathāgata, worthy of offerings, the perfectly enlightened one, first spoke this pātimokkha to his quiet sangha:
 
 
-<lzh>護身為善哉　　能護口亦善
+<lzh-verse>護身為善哉　　能護口亦善
 護意為善哉　　護一切亦善
 比丘護一切　　便得離眾苦
 比丘守口意　　身不犯眾惡
@@ -1737,7 +1737,7 @@ Sakyamuni Buddha, the Tathāgata, worthy of offerings, the perfectly enlightened
 是佛說戒經　　我已廣說竟
 諸佛及弟子　　恭敬是戒經
 恭敬戒經已　　各各相恭敬
-慚愧得具足　　能得無為道</lzh>
+慚愧得具足　　能得無為道</lzh-verse>
 
 <verse>
 Protecting the body is good, protecting the speech is also good,

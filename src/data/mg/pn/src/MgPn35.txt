@@ -13,10 +13,10 @@ The bhikkhus’ offerings and non-offerings<note>The Chinese text transliterates
 <h2>Summary Verse</h2>
 
 
-<lzh>覆鉢并寶鉢 開廁入浴室
+<lzh-verse>覆鉢并寶鉢 開廁入浴室
 阿練若處住 比丘受迦絺
 非是比丘尼 比丘捨迦絺
-非是比丘尼 第四跋渠竟</lzh>
+非是比丘尼 第四跋渠竟</lzh-verse>
 
 <verse>Covering the bowl, valuables in the bowl, an open toilet, entering a bathroom,
 Living in the wilderness, bhikkhus receiving kaṭhina,

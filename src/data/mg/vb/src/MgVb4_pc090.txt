@@ -38,9 +38,9 @@ If a bhikkhunī protects households out of stinginess and jealousy, it’s a pā
 <h2>Summary Verse</h2>
 
 
-<lzh>手與食醫師 授方佐俗作
+<lzh-verse>手與食醫師 授方佐俗作
 不語入習近 自呪自打啼
-呵責護他家 第九跋渠竟</lzh>
+呵責護他家 第九跋渠竟</lzh-verse>
 
 <verse>Giving food with one’s hand, doctor, teaching medicinal treatments, assisting lay people with work,
 Entering without calling out, living closely together, cursing oneself, hitting oneself and weeping,

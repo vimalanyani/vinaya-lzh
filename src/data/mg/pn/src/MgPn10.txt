@@ -11,10 +11,10 @@ The Buddha was staying at Vesālī. To be explained in detail as in the rule abo
 <h2>Summary Verse</h2>
 
 
-<lzh>坐法并竹席 纏腰覆襏衣
+<lzh-verse>坐法并竹席 纏腰覆襏衣
 著俗嚴飾具 合嚴飾具度
 使人園民女 僧祇支浴衣
-雜跋渠初竟</lzh>
+雜跋渠初竟</lzh-verse>
 
 <verse>The method of sitting, bamboo mats, binding around the hips, lingerie,
 Wearing worldly ornaments, bringing ornamented dresses when going forth,

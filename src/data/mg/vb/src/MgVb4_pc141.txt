@@ -37,10 +37,10 @@ If a bhikkhunī knowingly diverts donations for one group to another group, it�
 <h2>Summary Verse</h2>
 
 
-<lzh>教誡隱處癰 離宿不遊行
+<lzh-verse>教誡隱處癰 離宿不遊行
 安居後嫌責 安居已後來
 隔牆棄不淨 草水迴向僧
-十四跋渠竟</lzh>
+十四跋渠竟</lzh-verse>
 
 <verse>Instructing, an abscess in a hidden place, spending the night away, not wandering
 after the rains retreat, rebuking, arriving after someone has entered the rains retreat,

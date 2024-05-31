@@ -11,12 +11,12 @@ MgVb_ss6
 The Buddha was staying at Rājagaha. In Rājagaha, there was a man called Kammāra-putta (the smith’s son) who took Kammāra-dhītā (the smith’s daughter) as his wife. They were a graceful and young couple. She served food to her husband. At the right time, the World-honored One put on his robes for entering the village, took his bowl, entered the city on continuous almsround, and came to their house. The wife thought: “If my husband sees the Buddha, he’ll surely get up to look at him, which will interfere with his meal and drinks. I’ll stand in the door.” But he had a karmic connection with the Buddha. Then the World-honored One emitted a brilliant light to illuminate the inside of their house. The husband looked up. When he saw the Buddha, he immediately told his wife: “You’re greatly unvirtuous, and you only wish for my decline.” His wife said: “I don’t wish to harm you. I just feared that when you saw the World-honored One, it’d interfere with your meal.” Her husband said angrily: “Women’s feelings are so shallow. Wishing for a small benefit, you caused no small harm.” The wife said to the husband: “Young man of a great family, allow me to go forth.” The husband asked the wife: “In which renunciate movement do you want to go forth?” The wife said: “I want to go forth in the Buddha’s dhamma.” The husband said: “I’ll allow you.” Then she went to Uppala(vaṇṇā) bhikkhunī and requested the going forth. She received the going forth and the full ordination. In the first and last parts of the night she practised diligently without negligence, and on the eighth day, she attained the ending of all taints. She knew for herself that she had realized awakening, the threefold knowledge, the six higher knowledges, and liberation of the mind, by sitting under a tree. Then Sakka, the king of gods, came to her and spoke these verses:
 
 
-<lzh>帝釋天營從 來下稽首足
+<lzh-verse>帝釋天營從 來下稽首足
 觀是羯暮女 出家始八日
 優鉢善比丘 漏盡證六通
 所作已成辦 德力心自在
 折伏諸情根 閉目樹下坐
-是故今稽首 世間良福田</lzh>
+是故今稽首 世間良福田</lzh-verse>
 
 <verse>King Sakka and his retinue came down to pay respect with their heads at your feet,
 To see this Kammāra-dhītā who went forth eight days ago
@@ -31,12 +31,12 @@ Therefore, we now pay respect to you, field of merit for the world.</verse>
 The bhikkhunī had a beautiful, clear voice, and was able to recite verses of praise of the Buddha. Lay-buddhists invited her to come. When she recited, their minds were overjoyed, and they offered her a large piece of good cotton. Then the gods in the heavens spoke these verses:
 
 
-<lzh>今汝得善利 福德甚巍巍
+<lzh-verse>今汝得善利 福德甚巍巍
 一切染著盡 清淨奉施衣
 今王舍城中 清信諸士女
 何不來勸請 微妙善法音
 親近能離苦 不請則不說
-聞已如修習 則致勝妙處</lzh>
+聞已如修習 則致勝妙處</lzh-verse>
 
 <verse>Now you obtained a good gift, its merits are deep and lofty,
 With all defilements ended, you received this robe-offering in purity.

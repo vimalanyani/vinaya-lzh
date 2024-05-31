@@ -64,11 +64,11 @@ If a bhikkhunī who isn’t sick rides in a vehicle, it’s a pācittiya.”
 <h2>Summary Verse</h2>
 
 
-<lzh>不滿不羯磨 和上不教誡
+<lzh-verse>不滿不羯磨 和上不教誡
 弟子不隨逐 年年畜弟子
 停宿受具足 有事不遣送
 嫌責許具足 載乘最在後
-十一跋渠竟</lzh>
+十一跋渠竟</lzh-verse>
 
 <verse>Not fully trained, without a formal act, a preceptor who doesn’t teach and instruct,
 A student who doesn’t follow, taking on students every year,

@@ -38,10 +38,10 @@ As explained above in the rule about “a girl who hasn’t trained in the prece
 <h2>Summary Verse</h2>
 
 
-<lzh>面罵不滿度 十法不具足
+<lzh-verse>面罵不滿度 十法不具足
 不羯磨畜眾 犯戒減二十
 不學不滿學 滿學不羯磨
-減十二不學 第十跋渠竟</lzh>
+減十二不學 第十跋渠竟</lzh-verse>
 
 <verse>Scolding face-to-face, giving the going forth without seniority, not fulfilling the 10 requirements,
 Taking on students without formal act, breaking precepts, below 20,

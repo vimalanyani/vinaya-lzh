@@ -44,22 +44,39 @@
     },
     {
       "h2": "Summary Verse",
+      "lzh": [],
+      "en": [],
+      "en_verse": [],
+      "lzh_grouping_info": [],
+      "en_grouping_info": []
+    },
+    {
+      "h2": "",
       "lzh": [
         "教誡隱處癰 離宿不遊行",
         "安居後嫌責 安居已後來",
         "隔牆棄不淨 草水迴向僧",
-        "十四跋渠竟",
-        "比丘同戒七十。不同戒七十一。百四十一波夜提修多羅說竟。"
+        "十四跋渠竟"
       ],
-      "en": [
-        "70 precepts shared with the bhikkhus. 71 unshared precepts. The sutta of the 141 pācittiyas has been recited."
-      ],
+      "en": [],
       "en_verse": [
         "Instructing, an abscess in a hidden place, spending the night away, not wandering",
         "after the rains retreat, rebuking, arriving after someone has entered the rains retreat,",
         "Throwing impure things over a wall, grass, water, diverting to a sangha.",
         "The 14th chapter is finished."
       ],
+      "lzh_grouping_info": [],
+      "en_grouping_info": []
+    },
+    {
+      "h2": "",
+      "lzh": [
+        "比丘同戒七十。不同戒七十一。百四十一波夜提修多羅說竟。"
+      ],
+      "en": [
+        "70 precepts shared with the bhikkhus. 71 unshared precepts. The sutta of the 141 pācittiyas has been recited."
+      ],
+      "en_verse": [],
       "lzh_grouping_info": [],
       "en_grouping_info": []
     }
