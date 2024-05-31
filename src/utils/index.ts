@@ -3,7 +3,7 @@ import type { BookData } from "../data/types";
 export const basePath = "/vinaya-lzh";
 export const siteName = "Translations of the Chinese Bhikkhunī Vinayas";
 export const descriptionPrefix =
-  "Vimalanyani Bhikkhunī’s English translation of ";
+  "Vimalañyāṇī Bhikkhunī ’s English translation of ";
 
 const bookRenderOrder = ["pm", "vb", "pn", "gd"];
 
