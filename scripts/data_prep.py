@@ -96,7 +96,7 @@ def is_close_lzh_verse_line(line):
 
 
 def extract_rule_number_from_id(id):
-    id_parts = re.match(r".*?(\d+)", id)
+    id_parts = re.match(r".*?(\d+(\-\d+)?)", id)
 
     if id_parts is None:
         return ""
