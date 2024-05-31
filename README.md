@@ -51,7 +51,6 @@ SEE [DEPLOYMENT PICTURE GUIDE](src/docs/deploy/index.md)
 
 ## Things that could be done:
 
-- 404 page
 - page achnors
 - verse & other semantic styling/markup
 - index accordions
