@@ -38,10 +38,10 @@ If a bhikkhunī buys a thin, light robe for more than two and a half kārṣāpa
 <h2>Summary Verse</h2>
 
 
-<lzh>床褥乞自用 衣鉢直異用
+<lzh-verse>床褥乞自用 衣鉢直異用
 為眾減自用 畜鉢并畜衣
 棄衣後還取 擿衣受具足
-重衣及細輕 第二跋渠竟</lzh>
+重衣及細輕 第二跋渠竟</lzh-verse>
 
 <verse>Asking for beds and mats and using them oneself, using robe and bowl funds for a different purpose,
 Taking away from a group and using oneself<note>The rule itself doesn’t actually say that the offerings have to be for a group, only the origin story and the explanation do. Framing it this way makes it look much closer to parallels such as Pāli bhikkhunī nissaggiya pācittiyas 6-9, than when only looking at the rules on their own.</note>, storing bowls, and storing robes,

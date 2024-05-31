@@ -1,0 +1,31 @@
+---
+import { Image } from "astro:assets";
+import Layout from "../layouts/Layout.astro";
+import samsara from "../assets/164-fix-samsara-3.jpg";
+import Link from "../components/Link.astro";
+---
+
+<Layout title="404 - Page Not Found">
+  <main>
+    <h1 class="text-5xl md:text-6xl mb-8">Oh no! Page lost in Saṃsāra</h1>
+    <div class="mb-4 flex items-center gap-2">
+      <i class="arrow"></i>
+      <Link href="/" text="Follow the path home" class="uppercase text-lg" />
+    </div>
+    <Image
+      src={samsara}
+      alt="Doodle of people trying to fix Samsara"
+      style="border-radius: 0.5rem;"
+    />
+  </main>
+</Layout>
+
+<style>
+  .arrow {
+    border: solid rgb(180 83 9 / 1);
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+    transform: rotate(135deg);
+  }
+</style>

@@ -75,6 +75,12 @@ def is_open_verse_line(line):
     regex = re.compile(r"<verse>")
     return re.match(regex, line)
 
+def is_open_lzh_verse_line(line):
+    if line is None:
+        return False
+    regex = re.compile(r"<lzh-verse>")
+    return re.match(regex, line)
+
 
 def is_close_verse_line(line):
     if line is None:
@@ -82,9 +88,15 @@ def is_close_verse_line(line):
     regex = re.compile(r".*<\/verse>")
     return re.match(regex, line)
 
+def is_close_lzh_verse_line(line):
+    if line is None:
+        return False
+    regex = re.compile(r".*<\/lzh-verse>")
+    return re.match(regex, line)
+
 
 def extract_rule_number_from_id(id):
-    id_parts = re.match(r".*?(\d+)", id)
+    id_parts = re.match(r".*?(\d+(\-\d+)?)", id)
 
     if id_parts is None:
         return ""
@@ -209,6 +221,36 @@ def parse_txt_content(file_path, school, book, has_rule_class):
                     buffering_en_grouping_info = True
                 en_grouping_info_buffer.append(re.sub(r"<\/?en.*?>", "", line))
 
+            elif is_open_lzh_verse_line(line):
+                is_sections_initialized = True
+                add_body_section_and_reset()
+
+                if is_close_lzh_verse_line(line):
+                    buffering_lzh = False
+                    lzh_buffer.append(re.sub(r"<\/?lzh-verse>", "", line))
+                else:
+                    buffering_lzh = True
+                    lzh_buffer.append(re.sub(r"<\/?lzh-verse>", "", line))
+
+            elif is_close_lzh_verse_line(line):
+                buffering_lzh = False
+                lzh_buffer.append(re.sub(r"<\/?lzh-verse>", "", line))
+
+            elif is_open_verse_line(line):
+                if is_close_verse_line(line):
+                    buffering_en_verse = False
+                    en_verse_buffer.append(re.sub(r"<\/?verse>", "", line))
+                    add_body_section_and_reset()
+                else:
+                    buffering_en_verse = True
+                    en_verse_buffer.append(re.sub(r"<\/?verse>", "", line))
+
+            elif is_close_verse_line(line):
+                buffering_en_verse = False
+                en_verse_buffer.append(re.sub(r"<\/?verse>", "", line))
+                add_body_section_and_reset()
+
+            
             elif is_open_grouping_info_line("en", line, "(start|end)"):
                 if is_close_grouping_info_line("en", line, "(start|end)"):
                     buffering_en_grouping_info = False
@@ -244,17 +286,6 @@ def parse_txt_content(file_path, school, book, has_rule_class):
 
             elif buffering_lzh:
                 lzh_buffer.append(line)
-
-            elif is_open_verse_line(line):
-                if is_close_verse_line(line):
-                    buffering_en_verse = False
-                else:
-                    buffering_en_verse = True
-                en_verse_buffer.append(re.sub(r"<\/?verse>", "", line))
-
-            elif is_close_verse_line(line):
-                buffering_en_verse = False
-                en_verse_buffer.append(re.sub(r"<\/?verse>", "", line))
 
             elif buffering_en_verse:
                 en_verse_buffer.append(line)
@@ -329,8 +360,8 @@ def main(base_directory):
                 if os.path.isdir(book_path):
                     book = books.get(book_dir, "")
                     has_rule_class = book_dir in books_with_rule_classes
-                    print(f"book_dir `{book_path}`")
-                    print(f"has_rule_class `{has_rule_class}`")
+                    print(f"book_dir: {book_path}")
+                    print(f"has_rule_class: {has_rule_class}")
                     input_directory = os.path.join(book_path, "src")
                     output_directory = os.path.join(book_path, "json")
                     os.makedirs(output_directory, exist_ok=True)

@@ -1,5 +1,5 @@
 ---
-import { siteName } from "../utils";
+import { siteName, orderBookData } from "../utils";
 import Layout from "../layouts/Layout.astro";
 import H2 from "../components/H2.astro";
 import LinkedBookIndexList from "../components/LinkedBookIndexList.astro";
@@ -8,8 +8,9 @@ import getAllBookRuleData from "../utils/getAllBookRuleData";
 import { schoolBookGroups } from "../data/content";
 import type { BookData } from "../data/types";
 
-let data: Partial<Record<keyof typeof schoolBookGroups, BookData[]>> | null =
-  {};
+type Data = Partial<Record<keyof typeof schoolBookGroups, BookData[]>> | null;
+
+let data: Data = {};
 
 for (const [schoolKey, schoolBooks] of Object.entries(schoolBookGroups)) {
   await Promise.all(
@@ -38,6 +39,10 @@ for (const [schoolKey, schoolBooks] of Object.entries(schoolBookGroups)) {
     })
   );
 }
+
+const orderedData = Object.values(data).map((schoolBookData) =>
+  orderBookData(schoolBookData)
+);
 ---
 
 <Layout
@@ -51,7 +56,7 @@ for (const [schoolKey, schoolBooks] of Object.entries(schoolBookGroups)) {
     </h1>
 
     {
-      Object.values(data).map((bookData) => {
+      orderedData.map((bookData) => {
         return (
           <section>
             <H2>{bookData[0].schoolName}</H2>
@@ -62,9 +67,11 @@ for (const [schoolKey, schoolBooks] of Object.entries(schoolBookGroups)) {
     }
     <hr />
     {
-      Object.values(data).map((bookData) => {
+      orderedData.map((bookData) => {
         return <LinkedRuleIndexList bookData={bookData} />;
       })
     }
+
+    Translations by Vimalañyāṇī Bhikkhunī
   </main>
 </Layout>

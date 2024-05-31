@@ -11,9 +11,9 @@ The Buddha was staying at Sāvatthī. At that time, Sudinna had died, and his wi
 <h2>Summary Verse</h2>
 
 
-<lzh>羯磨憍舍耶 僧祇支客嚴
+<lzh-verse>羯磨憍舍耶 僧祇支客嚴
 種花須曼那 結鬘并紡縷
-壞威儀最後 第三跋渠竟</lzh>
+壞威儀最後 第三跋渠竟</lzh-verse>
 
 <verse>Saṅghakamma, silk, the vest, beautifying clients,
 Planting flowers, jasmine, binding garlands, spinning thread,

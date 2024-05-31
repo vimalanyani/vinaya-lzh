@@ -11,9 +11,9 @@ The Buddha was staying at Sāvatthī. Both sanghas had been invited for a meal o
 <h2>Summary Verse</h2>
 
 
-<lzh>二眾淨不同 三非比丘僧
+<lzh-verse>二眾淨不同 三非比丘僧
 三非比丘尼 無殘八上座
-第五跋渠竟</lzh>
+第五跋渠竟</lzh-verse>
 
 <verse>For the two sanghas purity isn’t the same, three reasons for not being a bhikkhu,
 Three reasons for not being a bhikkhunī, no leftovers, the eight seniors,

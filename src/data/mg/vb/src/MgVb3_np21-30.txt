@@ -5,9 +5,9 @@ MgVb_np21-30
 <h2>Summary Verse</h2>
 
 
-<lzh>長鉢減五綴 七日瞋奪衣
+<lzh-verse>長鉢減五綴 七日瞋奪衣
 賣金并乞縷 緻織及急施
-抄市迴僧物 第三跋渠竟</lzh>
+抄市迴僧物 第三跋渠竟</lzh-verse>
 
 <verse>A spare bowl, less than five repairs, seven days, angrily taking back a robe,
 Sales with gold, asking for thread, weaving finely, urgent offering,

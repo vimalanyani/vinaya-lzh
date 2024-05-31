@@ -36,7 +36,9 @@ The rule data “schema“ appied in `data_prep.py` is defined in `src/data/type
     <lzh> ... </lzh>
     <h2> ... </h2>
     <note> ... </note>
+    <lzh-note> ... </lzh-note>
     <verse> ... </verse>
+    <lzh-verse> ... </lzh-verse>
     ```
 - source text files have have been renamed with leading zeros.
 
@@ -49,8 +51,8 @@ SEE [DEPLOYMENT PICTURE GUIDE](src/docs/deploy/index.md)
 
 ## Things that could be done:
 
-- 404 page
 - page achnors
+- verse & other semantic styling/markup
 - index accordions
 - data refinement
 - clean up `data_prep.py` mess

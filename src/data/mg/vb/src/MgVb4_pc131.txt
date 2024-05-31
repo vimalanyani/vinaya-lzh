@@ -38,9 +38,9 @@ If a bhikkhunī doesn’t respect the half-monthly purity uposatha, it’s a pā
 <h2>Summary Verse</h2>
 
 
-<lzh>申手內無燈 伎樂主不滅
+<lzh-verse>申手內無燈 伎樂主不滅
 香油比丘尼 沙彌尼學戒
-女婦不布薩 十三跋渠竟</lzh>
+女婦不布薩 十三跋渠竟</lzh-verse>
 
 <verse>Within arm’s reach, without a lamp, a musical performance, the leader doesn’t settle,
 Perfumes and oil, a bhikkhunī, a sāmaṇerī, a trainee,

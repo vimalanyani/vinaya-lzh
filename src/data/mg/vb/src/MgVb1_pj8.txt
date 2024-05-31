@@ -63,9 +63,9 @@ If she, when admonished three times in a secluded place, gives it up, it’s fin
 <h2>Summary Verse</h2>
 
 
-<lzh>婬盜斷人命 不實稱過人
+<lzh-verse>婬盜斷人命 不實稱過人
 肩以下膝上 漏心八事滿
-覆重并隨舉 八波羅夷竟</lzh>
+覆重并隨舉 八波羅夷竟</lzh-verse>
 
 <verse>Sexual intercourse, stealing, taking a human life, claiming a superhuman state untruthfully,
 Below the shoulders and above the knees, fulfilling eight things with a defiled mind,
