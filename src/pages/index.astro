@@ -1,5 +1,5 @@
 ---
-import { siteName, orderBookData } from "../utils";
+import { siteName, orderBookData, dateFirstPublished } from "../utils";
 import Layout from "../layouts/Layout.astro";
 import H2 from "../components/H2.astro";
 import LinkedBookIndexList from "../components/LinkedBookIndexList.astro";
@@ -48,6 +48,8 @@ const orderedData = Object.values(data).map((schoolBookData) =>
 <Layout
   title={siteName}
   prefixedDescription="the Chinese Bhikkhunī Vinayas"
+  datePublished={new Date(dateFirstPublished)}
+  dateModified={new Date()}
   isIndexPage
 >
   <main>

@@ -4,6 +4,7 @@ export const basePath = "/vinaya-lzh";
 export const siteName = "Translations of the Chinese Bhikkhunī Vinayas";
 export const descriptionPrefix =
   "Vimalañyāṇī Bhikkhunī ’s English translation of ";
+export const dateFirstPublished = "2024-05-26";
 
 const bookRenderOrder = ["pm", "vb", "pn", "gd"];
 
