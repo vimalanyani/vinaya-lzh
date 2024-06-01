@@ -7,9 +7,12 @@ interface Props {
   title?: string;
   description?: string;
   prefixedDescription?: string;
+  datePublished?: Date;
+  dateModified?: Date;
 }
 
-const { title, description, prefixedDescription } = Astro.props;
+const { title, description, prefixedDescription, datePublished, dateModified } =
+  Astro.props;
 
 const metaTitle = title ?? siteName;
 const metaDescription = description
@@ -45,14 +48,16 @@ const socialImgUrl = `${Astro.site}${basePath.substring(1)}/social.png`;
     <meta name="twitter:title" content={metaTitle} />
     <meta name="twitter:description" content={metaDescription} />
     <meta name="twitter:image" content={socialImgUrl} />
-    <meta
-      itemprop="datePublished"
-      content={new Date("2024-05-26").toISOString()}
-    />
-    <meta
-      itemprop="dateModified"
-      content={new Date("2024-05-26").toISOString()}
-    />
+    {
+      datePublished ? (
+        <meta itemprop="datePublished" content={datePublished.toISOString()} />
+      ) : null
+    }
+    {
+      dateModified ? (
+        <meta itemprop="dateModified" content={dateModified.toISOString()} />
+      ) : null
+    }
     <ViewTransitions />
   </head>
   <body

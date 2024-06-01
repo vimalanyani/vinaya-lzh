@@ -434,7 +434,7 @@ If a bhikkhunī, when the pātimokkha sutta is being recited half-monthly, says:
 <lzh-division-start>placeholder</lzh-division-start>
 <en-division-start>Chapter 2</en-division-start>
 <lzh>pācittiya 11</lzh>
-pācittiya 11
+<h3>pācittiya 11</h3>
 
 <lzh>若比丘尼。壞種子破鬼村波夜提。</lzh>
 If a bhikkhunī damages seeds and destroys plants, it is a pācittiya.
@@ -487,7 +487,7 @@ If a bhikkhunī intentionally causes doubt and regret, or even just momentary un
 <lzh-division-start>placeholder</lzh-division-start>
 <en-division-start>Chapter 3</en-division-start>
 <lzh>pācittiya 21</lzh>
-pācittiya 21
+<h3>pācittiya 21</h3>
 
 <lzh>若比丘尼施一食處。不病比丘尼應一食。過者波夜提。</lzh>
 A bhikkhunī who is not sick should eat (only) one meal in a food distribution place. If she exceeds that, it is a pācittiya.
@@ -540,7 +540,7 @@ If a bhikkhunī eats in a separate group, except at a suitable time, it is a pā
 <lzh-division-start>placeholder</lzh-division-start>
 <en-division-start>Chapter 4</en-division-start>
 <lzh>pācittiya 31</lzh>
-pācittiya 31
+<h3>pācittiya 31</h3>
 
 <lzh>若比丘尼。無病為身然草木牛。若自然若使人然。除因緣波夜提。</lzh>
 If a bhikkhunī who is not sick herself lights grass, wood, or cowdung for bodily comfort, or has others light them, unless there is a reason, it is a pācittiya.
@@ -593,7 +593,7 @@ If a bhikkhunī frightens another bhikkhunī, it is a pācittiya.
 <lzh-division-start>placeholder</lzh-division-start>
 <en-division-start>Chapter 5</en-division-start>
 <lzh>pācittiya 41</lzh>
-pācittiya 41
+<h3>pācittiya 41</h3>
 
 <lzh>若比丘尼。知水有蟲而飲者波夜提。</lzh>
 If a bhikkhunī knows that there are insects in the water, and drinks it, it is a pācittiya.
@@ -646,7 +646,7 @@ If a bhikkhunī plays in water, it is a pācittiya.
 <lzh-division-start>placeholder</lzh-division-start>
 <en-division-start>Chapter 6</en-division-start>
 <lzh>pācittiya 51</lzh>
-pācittiya 51
+<h3>pācittiya 51</h3>
 
 <lzh>若比丘尼。以指相指波夜提。</lzh>
 If a bhikkhunī points at others with the fingers, it is a pācittiya.
@@ -699,7 +699,7 @@ If a bhikkhunī, during the half-monthly pātimokkha sutta recitation, says: ‘
 <lzh-division-start>placeholder</lzh-division-start>
 <en-division-start>Chapter 7</en-division-start>
 <lzh>pācittiya 61</lzh>
-pācittiya 61
+<h3>pācittiya 61</h3>
 
 <lzh>若比丘尼。同食處。食前食後不白比丘尼。行至餘家。除衣時波夜提。</lzh>
 If a bhikkhunī, when (the bhikkunis) eat together somewhere, goes to other houses before or after the meal without informing another bhikkhunī, unless it is robe-season, it is a pācittiya.
@@ -752,7 +752,7 @@ If a bhikkhunī knows that an item is for the sangha, and she diverts it to an i
 <lzh-division-start>placeholder</lzh-division-start>
 <en-division-start>Chapter 8</en-division-start>
 <lzh>pācittiya 71</lzh>
-pācittiya 71
+<h3>pācittiya 71</h3>
 
 <lzh>若比丘尼。不語主而著他衣波夜提。</lzh>
 If a bhikkhunī wears someone else’s robe without telling the owner, it is a pācittiya.
@@ -805,7 +805,7 @@ If a bhikkhunī eats garlic, it is a pācittiya.
 <lzh-division-start>placeholder</lzh-division-start>
 <en-division-start>Chapter 9</en-division-start>
 <lzh>pācittiya 81</lzh>
-pācittiya 81
+<h3>pācittiya 81</h3>
 
 <lzh>若比丘尼。俗人外道自手與食波夜提。</lzh>
 If a bhikkhunī gives food with her own hands to lay people or non-Buddhist renunciates, it is a pācittiya.
@@ -858,7 +858,7 @@ If a bhikkhunī protects households out of stinginess and jealousy, it is a pāc
 <lzh-division-start>placeholder</lzh-division-start>
 <en-division-start>Chapter 10</en-division-start>
 <lzh>pācittiya 91</lzh>
-pācittiya 91
+<h3>pācittiya 91</h3>
 
 <lzh>若比丘尼。對面呵罵比丘者波夜提。</lzh>
 If a bhikkhunī criticizes and scolds a bhikkhu face to face, it is a pācittiya.
@@ -911,7 +911,7 @@ If a bhikkhunī gives the full ordination to a married woman who is less than 12
 <lzh-division-start>placeholder</lzh-division-start>
 <en-division-start>Chapter 11</en-division-start>
 <lzh>pācittiya 101</lzh>
-pācittiya 101
+<h3>pācittiya 101</h3>
 
 <lzh>若比丘尼。適他婦滿十二雨。不學戒與受具足者波夜提。</lzh>
 If a bhikkhunī gives the full ordination to a married woman who is 12 years old but who does not train in the precepts, it is a pācittiya.
@@ -964,7 +964,7 @@ If a bhikkhunī says to a sikkhamānā: ‘When you are fully trained in the pre
 <lzh-division-start>placeholder</lzh-division-start>
 <en-division-start>Chapter 12</en-division-start>
 <lzh>pācittiya 111</lzh>
-pācittiya 111
+<h3>pācittiya 111</h3>
 
 <lzh>若比丘尼。不病載乘者波夜提。</lzh>
 If a bhikkhunī who is not sick rides in a vehicle, it is a pācittiya.
@@ -1017,7 +1017,7 @@ If a bhikkhunī sits together with one bhikkhu in an empty, quiet place, it is a
 <lzh-division-start>placeholder</lzh-division-start>
 <en-division-start>Chapter 13</en-division-start>
 <lzh>pācittiya 121</lzh>
-pācittiya 121
+<h3>pācittiya 121</h3>
 
 <lzh>若比丘尼。與丈夫屏處坐者波夜提。</lzh>
 If a bhikkhunī sits with a man in a secluded place, it is a pācittiya.
@@ -1070,7 +1070,7 @@ If a bhikkhunī who is not sick has a lay woman massage her, it is a pācittiya.
 <lzh-division-start>placeholder</lzh-division-start>
 <en-division-start>Chapter 14</en-division-start>
 <lzh>pācittiya 131</lzh>
-pācittiya 131
+<h3>pācittiya 131</h3>
 
 <lzh>若比丘尼。半月清淨布薩。不恭敬者波夜提。</lzh>
 If a bhikkhunī does not respect the half-monthly purity uopsatha, it is a pācittiya.

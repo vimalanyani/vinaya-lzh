@@ -52,6 +52,7 @@ SEE [DEPLOYMENT PICTURE GUIDE](src/docs/deploy/index.md)
 ## Things that could be done:
 
 - page achnors
+- h3 structured data extraction & handling
 - verse & other semantic styling/markup
 - index accordions
 - data refinement

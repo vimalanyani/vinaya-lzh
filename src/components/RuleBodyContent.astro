@@ -40,9 +40,13 @@ const [, notePreceding, note, noteAfter] =
       </p>
     ) : h3 ? (
       <Fragment>
-        <p class:list={["text-2xl leading-9 py-2", styles]}>{h3Preceding}</p>
+        {h3Preceding ? (
+          <p class:list={["text-2xl leading-9 py-2", styles]}>{h3Preceding}</p>
+        ) : null}
         <h3 class:list={["text-3xl leading-9 py-2", styles]}>{h3}</h3>
-        <p class:list={["text-2xl leading-9 py-2", styles]}>{h3After}</p>
+        {h3After ? (
+          <p class:list={["text-2xl leading-9 py-2", styles]}>{h3After}</p>
+        ) : null}
       </Fragment>
     ) : content ? (
       <p class:list={["text-2xl leading-9 py-2", styles]}>{content}</p>
