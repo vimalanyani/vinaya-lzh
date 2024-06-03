@@ -488,7 +488,7 @@ msgstr "If a bhikkhunī resentfully wants to renounce the precepts, and says: �
 #. </p><hr><p><a class="sc" id="21"></a>
 msgctxt "lzh-mg-bi-pm:70.1"
 msgid "諸阿梨耶已說十九僧伽婆尸沙法十一初罪八乃至三諫若比丘尼犯一一罪。半月二部眾中行摩那埵。次到阿浮呵那二十眾二部僧中應出罪。稱可眾人意。二十人中若少一人。此比丘尼不名出罪。諸比丘比丘尼應呵責。是名時。今問諸阿梨耶。是中清淨不。第二第三亦如是問。諸阿梨耶。是中清淨默然故。是事如是持。"
-msgstr "Venerables, the 19 saṅghādisesa rules have been recited; 11 immediate offenses and eight offenses after the third admonishment.<note: The vibhaṅga states that there are 12 immediate offenses and seven offenses after the third admonishment.> If a bhikkhunī has committed any of these offenses, she should undergo probation<note: Mānatta.> for half a month before both assemblies. She then reaches the rehabilitation<note: Abbhāna>. A sangha of 20 in both assemblies should rehabilitate her, if it pleases all the members of the assembly. If there is one person less than 20, the bhikkhunī does not count as rehabilitated, and the bhikkhus and bhikkhunīs should be criticized. This is called the suitable time. Now I ask the venerables: ‘Are you pure herein?’ A second and a third time, I ask this. The venerables are pure herein, therefore you are silent. This matter is remembered thus’."
+msgstr "Venerables, the 19 saṅghādisesa rules have been recited; 11 immediate offenses and eight offenses after the third admonishment.<note: The vibhaṅga states that there are 12 immediate offenses and seven offenses after the third admonishment.> If a bhikkhunī has committed any of these offenses, she should undergo probation<note: Mānatta.> for half a month before both assemblies. She then reaches the rehabilitation<note: Abbhāna>. A sangha of 20 in both assemblies should rehabilitate her, if it pleases all the members of the assembly. If there’s one person less than 20, the bhikkhunī does not count as rehabilitated, and the bhikkhus and bhikkhunīs should be criticized. This is called the suitable time. Now I ask the venerables: ‘Are you pure herein?’ A second and a third time, I ask this. The venerables are pure herein, therefore you are silent. This matter is remembered thus’."
 
 #. </p><h2>
 #. <span class="add"><a id="np" class="latin">
@@ -536,7 +536,7 @@ msgstr "nissaggiya pācittiya 3"
 #. </h4><p><a class="sc" id="22"></a>
 msgctxt "lzh-mg-bi-pm:78.1"
 msgid "若比丘尼。衣已竟迦絺那衣已捨。若得非時衣。比丘尼若須應取疾作衣受。若不足者有望處。為滿故聽一月畜。若過畜者。足不足尼薩耆波夜提。"
-msgstr "If a bhikkhunī, when the robes have been finished, and the kaṭhina robe has been relinquished, obtains out-of-season cloth, that bhikkhunī should receive it if she needs it, and quickly make it into a robe. If it is not sufficient and there is an expectation to complete it, she is allowed to keep it for one month. If she keeps it longer, whether is is sufficient or not, it is a nissaggiya pācittiya."
+msgstr "If a bhikkhunī, when the robes have been finished, and the kaṭhina robe has been relinquished, obtains out-of-season cloth, that bhikkhunī should receive it if she needs it, and quickly make it into a robe. If it is not sufficient and there’s an expectation to complete it, she is allowed to keep it for one month. If she keeps it longer, whether is is sufficient or not, it is a nissaggiya pācittiya."
 
 #. </p><h4>
 #. <span class="add"><a id="np4" class="latin">
@@ -620,7 +620,7 @@ msgstr "nissaggiya pācittiya 10"
 #. </h4><p><a class="sc" id="25"></a>
 msgctxt "lzh-mg-bi-pm:92.1"
 msgid "為比丘尼故若王若大臣。遣使送衣直與比丘尼。使到比丘尼所白言。阿梨耶。是衣直。若王若大臣所送。阿梨耶。應受是衣價。是比丘尼。應語使如是言。諸比丘尼法。不應受是衣價。我須衣時。得清淨衣者。得自手受作比丘尼衣畜。使語比丘尼。阿梨耶。有執事人。常為諸比丘尼執事不。是比丘尼。應示使執事人。若園民。若優婆塞。應語使到。言善哉執事。如是如是衣價。買如是如是衣。與某甲比丘尼。是比丘尼須衣時。當來當與衣。是使若自勸喻。若使人勸喻已。還到比丘尼所白言。阿梨耶。所示執事人。我已勸喻作衣。阿梨耶須衣時往取。當與阿梨耶衣。須衣比丘尼。應到執事所索衣。應作是言。我須衣我須衣。第二第三亦如是索。若得衣者好。若不得。第四第五第六應在執事前默然立。若得衣者善。若不得。過是求。若得衣。尼薩耆波夜提。若不得衣。隨衣價來處自去。若遣使應作是言。汝為某甲比丘尼送衣價。是比丘尼竟不得用。汝自知。莫使失。是事法爾。"
-msgstr "If, for a bhikkhunī, a king or a high official sends a messenger with a robe fund to give to a bhikkhunī, and if that messenger, when they come to the bhikkhunī, say: ‘Venerable, this robe fund was sent by a king or a high official. Venerable, you should accept this robe fund,’ the bhikkhunī should say to the messenger: ‘Under the bhikkhunī rules, I should not accept this robe fund. When I need a robe, I obtain a pure cloth that I may accept with my own hands, make into a bhikkhunī robe, and keep.’ If the messenger then says to the bhikkhunī: ‘Venerable, is there a manager who always takes care of matters for the bhikkhunīs?,’ the bhikkhunī should point out the manager, either a monastery attendant, or a lay person, to the messenger, or should tell them. When the messenger has gone there, he says: ‘Excellent, manager. There is such-and-such a robe fund to buy such-and-such a robe to give to bhikkhunī So-and-so. When that bhikkhunī needs a robe, she will come, and you should give the robe.’ After the messenger has either personally given the instructions, or has sent others to give the instructions, he returns to the bhikkhunī, and says: ‘Venerable, I have instructed the manager you indicated to make a robe. When the venerable needs a robe, she should go and receive one. They should give the venerable a robe.’ When the bhikkhunī needs a robe, she should go to the manager and ask for the robe. She should say: ‘I need a robe. I need a robe.’ For a second and a third time, she should again say this. If she obtains the robe, it is fine. If she doesn’t obtain it, she may stand silently in front of the manager for a forth, fifth, and sixth time. If she obtains the robe, it is fine. If she doesn’t obtain it, and ask more times, if she then obtains the robe, it is a nissaggiya pācittiya. If she doesn’t obtain the robe, she should either go herself to the place from where the robe fund was sent, or send a messenger to say: ‘You sent a robe fund for bhikkhunī So-and-so. That bhikkhunī has not been able to use it in the end. You should know that, so it doesn’t cause you a loss.’ This procedure should be done thus."
+msgstr "If, for a bhikkhunī, a king or a high official sends a messenger with a robe fund to give to a bhikkhunī, and if that messenger, when they come to the bhikkhunī, say: ‘Venerable, this robe fund was sent by a king or a high official. Venerable, you should accept this robe fund,’ the bhikkhunī should say to the messenger: ‘Under the bhikkhunī rules, I should not accept this robe fund. When I need a robe, I obtain a pure cloth that I may accept with my own hands, make into a bhikkhunī robe, and keep.’ If the messenger then says to the bhikkhunī: ‘Venerable, is there a manager who always takes care of matters for the bhikkhunīs?,’ the bhikkhunī should point out the manager, either a monastery attendant, or a lay person, to the messenger, or should tell them. When the messenger has gone there, he says: ‘Excellent, manager. There’s such-and-such a robe fund to buy such-and-such a robe to give to bhikkhunī So-and-so. When that bhikkhunī needs a robe, she will come, and you should give the robe.’ After the messenger has either personally given the instructions, or has sent others to give the instructions, he returns to the bhikkhunī, and says: ‘Venerable, I have instructed the manager you indicated to make a robe. When the venerable needs a robe, she should go and receive one. They should give the venerable a robe.’ When the bhikkhunī needs a robe, she should go to the manager and ask for the robe. She should say: ‘I need a robe. I need a robe.’ For a second and a third time, she should again say this. If she obtains the robe, it is fine. If she doesn’t obtain it, she may stand silently in front of the manager for a forth, fifth, and sixth time. If she obtains the robe, it is fine. If she doesn’t obtain it, and ask more times, if she then obtains the robe, it is a nissaggiya pācittiya. If she doesn’t obtain the robe, she should either go herself to the place from where the robe fund was sent, or send a messenger to say: ‘You sent a robe fund for bhikkhunī So-and-so. That bhikkhunī has not been able to use it in the end. You should know that, so it doesn’t cause you a loss.’ This procedure should be done thus."
 
 #. </p><h4>
 #. <span class="add"><a id="np11" class="latin">
@@ -1253,7 +1253,7 @@ msgstr "pācittiya 30"
 #. </h4><p>
 msgctxt "lzh-mg-bi-pm:198.1"
 msgid "若比丘尼。別眾食。除餘時波夜提。餘時者。病時衣時行時船上時大眾時外道施食時<span class=\"t-counter\">(三十事竟)</span>。"
-msgstr "If a bhikkhunī eats in a separate group, except at a suitable time, it is a pācittiya. These are the suitable times: when she is sick, during robe-season, when travelling, when on a boat, when there is a great assembly, when non-Buddhist renunciates offer a meal. <span class=\"t-counter\">(End of 30 rules.)</span>"
+msgstr "If a bhikkhunī eats in a separate group, except at a suitable time, it is a pācittiya. These are the suitable times: when she is sick, during robe-season, when travelling, when on a boat, when there’s a great assembly, when non-Buddhist renunciates offer a meal. <span class=\"t-counter\">(End of 30 rules.)</span>"
 
 #. </p><h3>
 msgctxt "lzh-mg-bi-pm:199.1"
@@ -1270,7 +1270,7 @@ msgstr "pācittiya 31"
 #. </h4><p>
 msgctxt "lzh-mg-bi-pm:201.1"
 msgid "若比丘尼。無病為身然草木牛<span class=\"gaiji\">屎<!--gaiji,屎,1[尸@矢],2&#x21C41;,3--> </span>。若自然若使人然。除因緣波夜提。"
-msgstr "If a bhikkhunī who is not sick herself lights grass, wood, or cowdung for bodily comfort, or has others light them, unless there is a reason, it is a pācittiya."
+msgstr "If a bhikkhunī who is not sick herself lights grass, wood, or cowdung for bodily comfort, or has others light them, unless there’s a reason, it is a pācittiya."
 
 #. </p><h4>
 #. <span class="add"><a id="pc32" class="latin">
@@ -1366,7 +1366,7 @@ msgstr "pācittiya 39"
 #. </h4><p><a class="sc" id="33"></a>
 msgctxt "lzh-mg-bi-pm:217.1"
 msgid "若比丘尼若寶若名寶園內自取若使人取除餘時波夜提。餘時者。比丘尼若寶若名寶。若自取若使人取作是。念有主求者與。是名餘時。"
-msgstr "If a bhikkhunī herself picks up a jewel or something called ‘a jewel’ in the park (monastery), or has others pick it up, except at a suitable time, it is a pācittiya. A suitable time means: If the bhikkhunī herself picks up a jewel or something called ‘a jewel’ in the park (monastery), or has others pick it up in this way, she should think: ‘If there is an owner who is looking for it, I will give it.’ This is called ‘a suitable time’."
+msgstr "If a bhikkhunī herself picks up a jewel or something called ‘a jewel’ in the park (monastery), or has others pick it up, except at a suitable time, it is a pācittiya. A suitable time means: If the bhikkhunī herself picks up a jewel or something called ‘a jewel’ in the park (monastery), or has others pick it up in this way, she should think: ‘If there’s an owner who is looking for it, I will give it.’ This is called ‘a suitable time’."
 
 #. </p><h4>
 #. <span class="add"><a id="pc40" class="latin">
@@ -2229,7 +2229,7 @@ msgstr "pācittiya 108"
 #. </h4><p>
 msgctxt "lzh-mg-bi-pm:362.1"
 msgid "若比丘尼。度弟子有事。不自送不使人送。下至五六由旬波夜提。"
-msgstr "If a bhikkhunī, when there is an issue with the student to whom she has given the going forth, does not send her away herself, nor has others send her away, less than five or six yojanas, it is a pācittiya."
+msgstr "If a bhikkhunī, when there’s an issue with the student to whom she has given the going forth, does not send her away herself, nor has others send her away, less than five or six yojanas, it is a pācittiya."
 
 #. </p><h4>
 #. <span class="add"><a id="pc109" class="latin">
@@ -2342,7 +2342,7 @@ msgstr "pācittiya 117"
 #. </h4><p><a class="sc" id="36"></a>
 msgctxt "lzh-mg-bi-pm:381.1"
 msgid "若比丘尼。知食家婬處宿除餘時波夜提。餘時者。風時雨時奪命時傷梵行時。是名餘時。"
-msgstr "If a bhikkhunī knowingly spends the night in a place used for sex in a family ‘that is eating’, except at a suitable time, it is a pācittiya. These are the suitable times: when it’s windy or rainy, when killing is going on, or there is a threat of being raped. These are called ‘the suitable times’."
+msgstr "If a bhikkhunī knowingly spends the night in a place used for sex in a family ‘that is eating’, except at a suitable time, it is a pācittiya. These are the suitable times: when it’s windy or rainy, when killing is going on, or there’s a threat of being raped. These are called ‘the suitable times’."
 
 #. </p><h4>
 #. <span class="add"><a id="pc118" class="latin">
