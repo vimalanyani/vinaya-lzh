@@ -7,37 +7,27 @@ interface Props {
 const { content, styles } = Astro.props;
 
 const h3ExtractionPattern = new RegExp("(^.*?)<h3>(.*?)</h3>(.*)");
-const noteExtractionPattern = new RegExp("(^.*?)<note>(.*?)</note>(.*)");
+const hasNotePattern = new RegExp("<note>");
 
 const [, h3Preceding, h3, h3After] = content.match(h3ExtractionPattern) ?? [];
 
-const [, notePreceding, note, noteAfter] =
-  content.match(noteExtractionPattern) ?? [];
+const hasNote = Boolean(content.match(hasNotePattern));
+
+const contentWithNoteMarkup = content
+  .replace(
+    /<note>/g,
+    '<span tabindex="0" class="inline-block note-wrapper relative text-3xl text-amber-600 ml-1"> <i class="note"><span class="max-w-[900px] py-4 mx-auto" style="display:inherit;">'
+  )
+  .replace(/<\/note>/g, "</span></i>*</span>");
 ---
 
 <Fragment>
   {
-    note ? (
-      <p class:list={["text-2xl leading-9 py-2", styles]}>
-        {notePreceding}
-
-        <span
-          tabindex="0"
-          class="inline-block note-wrapper relative text-3xl text-amber-600 ml-1"
-        >
-          <i class="note">
-            <span
-              class="max-w-[85ch] py-4 mx-4 md:mx-auto"
-              style={{ display: "inherit" }}
-            >
-              {note}
-            </span>
-          </i>
-          *
-        </span>
-
-        {noteAfter}
-      </p>
+    hasNote ? (
+      <p
+        class:list={["text-2xl leading-9 py-2", styles]}
+        set:html={contentWithNoteMarkup}
+      />
     ) : h3 ? (
       <Fragment>
         {h3Preceding ? (
@@ -54,9 +44,13 @@ const [, notePreceding, note, noteAfter] =
   }
 </Fragment>
 
-<style>
+<style is:global>
   .note {
     display: none;
+  }
+
+  .note-wrapper:hover {
+    cursor: pointer;
   }
 
   .note-wrapper:focus .note,
