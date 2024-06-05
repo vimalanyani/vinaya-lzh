@@ -18,7 +18,7 @@ The `data_prep.py` is a quick and dirty tool to the raw source `txt` files into 
 python3 scripts/data_prep.py
 ```
 
-The rule data “schema“ appied in `data_prep.py` is defined in `src/data/types.ts` and consumed `src/utils/getAllBookRuleData.ts` and fed down through the app.
+The rule data “schema“ appied in `data_prep.py` is defined in `src/data/types.ts` and consumed `src/utils.ts` and fed down through the app.
 
 #### source `txt` files:
 
