@@ -1,10 +1,11 @@
 ---
-import { siteName, orderBookData, dateFirstPublished } from "../utils";
+import { orderBookData } from "../utils";
+import { siteName, dateFirstPublished } from "../utils/meta";
 import Layout from "../layouts/Layout.astro";
 import H2 from "../components/H2.astro";
 import LinkedBookIndexList from "../components/LinkedBookIndexList.astro";
 import LinkedRuleIndexList from "../components/LinkedRuleIndexList.astro";
-import getAllBookRuleData from "../utils/getAllBookRuleData";
+import { getAllBookRuleData } from "../utils";
 import { schoolBookGroups } from "../data/content";
 import type { BookData } from "../data/types";
 
@@ -43,6 +44,12 @@ for (const [schoolKey, schoolBooks] of Object.entries(schoolBookGroups)) {
 const orderedData = Object.values(data).map((schoolBookData) =>
   orderBookData(schoolBookData)
 );
+
+const dateFormatOptions = {
+  year: "numeric",
+  month: "long",
+  day: "numeric",
+} as const;
 ---
 
 <Layout
@@ -74,6 +81,21 @@ const orderedData = Object.values(data).map((schoolBookData) =>
       })
     }
 
-    <p>Translations by Vimalañāṇī Bhikkhunī</p>
+    <div class="mt-20">
+      <p>Translated by Vimalañāṇī Bhikkhunī</p>
+      <p>
+        Published: {
+          new Date(dateFirstPublished).toLocaleDateString(
+            "en-GB",
+            dateFormatOptions
+          )
+        }
+      </p>
+      <p>
+        Last updated: {
+          new Date().toLocaleDateString("en-GB", dateFormatOptions)
+        }
+      </p>
+    </div>
   </main>
 </Layout>
