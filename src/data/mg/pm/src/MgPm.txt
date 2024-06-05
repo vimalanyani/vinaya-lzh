@@ -4,14 +4,15 @@ MgPm
 東晉平陽沙門法顯共覺賢譯
 </lzh-division-start>
 
-<en-division-start>Bhikkhunī Pātimokkha <note>Taishō vol.22 no.1427 [cf.no.1425]</note>
+<en-division-start>Bhikkhunī Pātimokkha 
+Taishō vol.22 no.1427 [cf.no.1425]
 Translated by the renunciates Faxian and Buddhabhadra in Pingyang during the Eastern Jin dynasty.
 </en-division-start>
 
 
 <h2>Introduction</h2>
 <lzh>阿梨耶僧聽。冬時一月過少一夜。餘有一夜三月在。老死至近佛法欲滅。諸阿梨耶。為得道故一心勤精進。所以者何。諸佛一心勤精進故得阿耨多羅三藐三菩提。何況餘助道法。未受具足者已出。僧今和合先作何事。<lzh-note>(一人應答布薩說戒)</lzh-note></lzh>
-“May the noble sangha listen. The first month of the winter season has already passed, except for one night. One night and three months remain. Old age and death are drawing near, and the Buddha’s dhamma will extinguish. Venerables, to realize the path, strive single-mindedly with diligence. Why? Because the Buddhas have striven single-mindedly with diligence, they have realized unsurpassed perfect enlightenment. Moreover, they are helping those on the dhamma path. Those who have not yet received the full ordination have already left. The sangha is now in harmony. What are we doing first? <note>(One person should answer: ‘The uposatha precepts’ recitation.)</note>
+“May the noble sangha listen. The first month of the winter season has already passed, except for one night. One night and three months remain. Old age and death are drawing near, and the Buddha’s dhamma will extinguish. Venerables, to realize the path, strive single-mindedly with diligence. Why? Because the Buddhas have striven single-mindedly with diligence, they have realized unsurpassed perfect enlightenment. Moreover, they are helping those on the dhamma path. Those who have not yet received the full ordination have already left. The sangha is now in harmony. What are we doing first? (One person should answer: ‘The uposatha precepts’ recitation.)
 
 <lzh>諸阿梨耶不來。諸比丘尼說欲及清淨。</lzh>
 Some venerables have not come. May the bhikkhunīs convey their consent and purity.
@@ -166,7 +167,7 @@ If a bhikkhunī crosses a river alone at a ferry crossing place, it is an immedi
 <lzh>placeholder</lzh>
 <h3>saṅghādisesa 10</h3>
 <lzh>若比丘尼。知比丘尼僧和合如法比尼作舉羯磨。未作如法。先不語僧自與捨。是法初罪僧伽婆尸沙。</lzh>
-If a bhikkhunī knows that the bhikkhunī sangha in harmony has carried out an act of suspension according to dhamma and vinaya (against someone) who has not yet acted according to dhamma, and she herself lifts it, without first speaking with the sangha, it is an immediate saṅghādisesa offense. 
+If a bhikkhunī knows that the bhikkhunī sangha in harmony has carried out an act of suspension according to dhamma and vinaya (against someone) who has not yet acted according to dhamma, and she herself lifts it, without first speaking with the sangha, it is an immediate saṅghādisesa offense. (End of 10 rules.)
 
 <lzh>placeholder</lzh>
 <h3>saṅghādisesa 11</h3>
@@ -211,7 +212,7 @@ If a bhikkhunī sees that they are living apart from each other, and instructs t
 <lzh>placeholder</lzh>
 <h3>saṅghādisesa 19</h3>
 <lzh>若比丘尼。瞋恚欲捨戒。作是言。我捨佛捨法捨僧。捨說捨共住共食。捨經論捨沙門尼釋種。用是沙門尼釋種為。餘更有勝處。我於彼中修梵行。諸比丘尼應諫是比丘尼言。阿梨耶。莫瞋恚捨戒作是言。我捨佛乃至捨沙門尼釋種。捨佛者不善。諸比丘尼如是諫時。故堅持不捨者應第二第三諫。捨是事好。若不捨是法乃至三諫。僧伽婆尸沙。</lzh>
-If a bhikkhunī resentfully wants to renounce the precepts, and says: ‘I renounce the Buddha, renounce the dhamma, renounce the sangha, renounce speaking, renounce living in community, renounce eating together, renounce the discourses and treatises, and renounce the Sakyan renunciates. What use are these Sakyan renunciates to me? There are other superior places. I will practise the monastic life there,’ the bhikkhunīs should admonish her: ‘Venerable, don’t resentfully renounce the precepts, and say: “I renounce the Buddha, … I renounce the Sakyan renunciates.” Renouncing the Buddha is not good.’ If she, when admonished by the bhikkhunīs like this, persists firmly, and doesn’t give it up, she should be admonished a second and a third time. If she gives up this matter, it is fine. If not, this rule is a saṅghādisesa after three admonishments. 
+If a bhikkhunī resentfully wants to renounce the precepts, and says: ‘I renounce the Buddha, renounce the dhamma, renounce the sangha, renounce speaking, renounce living in community, renounce eating together, renounce the discourses and treatises, and renounce the Sakyan renunciates. What use are these Sakyan renunciates to me? There are other superior places. I will practise the monastic life there,’ the bhikkhunīs should admonish her: ‘Venerable, don’t resentfully renounce the precepts, and say: “I renounce the Buddha, … I renounce the Sakyan renunciates.” Renouncing the Buddha is not good.’ If she, when admonished by the bhikkhunīs like this, persists firmly, and doesn’t give it up, she should be admonished a second and a third time. If she gives up this matter, it is fine. If not, this rule is a saṅghādisesa after three admonishments. (End of 19 rules.)
 
 <lzh>諸阿梨耶已說十九僧伽婆尸沙法十一初罪八乃至三諫若比丘尼犯一一罪。半月二部眾中行摩那埵。次到阿浮呵那二十眾二部僧中應出罪。稱可眾人意。二十人中若少一人。此比丘尼不名出罪。諸比丘比丘尼應呵責。是名時。今問諸阿梨耶。是中清淨不。第二第三亦如是問。諸阿梨耶。是中清淨默然故。是事如是持。</lzh>
 Venerables, the 19 saṅghādisesa rules have been recited; 11 immediate offenses and eight offenses after the third admonishment.<note> The vibhaṅga states that there are 12 immediate offenses and seven offenses after the third admonishment.</note> If a bhikkhunī has committed any of these offenses, she should undergo probation<note> Mānatta.</note> for half a month before both assemblies. She then reaches the rehabilitation<note> Abbhāna</note>. A sangha of 20 in both assemblies should rehabilitate her, if it pleases all the members of the assembly. If there’s one person less than 20, the bhikkhunī does not count as rehabilitated, and the bhikkhus and bhikkhunīs should be criticized. This is called the suitable time. Now I ask the venerables: ‘Are you pure herein?’ A second and a third time, I ask this. The venerables are pure herein, therefore you are silent. This matter is remembered thus’.
@@ -369,7 +370,7 @@ If a bhikkhunī knows that someone has bought something, but snatches and buys i
 <lzh>placeholder</lzh>
 <h3>nissaggiya pācittiya 30</h3>
 <lzh>若比丘尼。知他物向僧自迴向已。尼薩耆波夜提。</lzh>
-If a bhikkhunī knows that an item is for the sangha, and she diverts it to herself, it is a nissaggiya pācittiya. 
+If a bhikkhunī knows that an item is for the sangha, and she diverts it to herself, it is a nissaggiya pācittiya. (End of 30 rules.)
 
 <lzh>諸阿梨耶。已說三十尼薩耆波夜提法。今問諸阿梨耶。是中清淨不。第二第三亦如是問。諸阿梨耶。是中清淨默然故。是事如是持。</lzh>
 Venerables, the 30 nissaggiya pācittiya rules have been recited. Now I ask the venerables: ‘Are you pure herein?’ A second and a third time, I ask this. The venerables are pure herein, therefore you are silent. This matter is remembered thus.
@@ -429,7 +430,7 @@ If a bhikkhunī, when the sangha wants to distribute items, first allows to give
 <lzh>placeholder</lzh>
 <h3>pācittiya 10</h3>
 <lzh>若比丘尼。半月誦波羅提木叉經時作是言。阿梨耶。用說是雜碎戒為使諸比丘尼生疑悔作是輕呵戒因緣不異波夜提。</lzh>
-If a bhikkhunī, when the pātimokkha sutta is being recited half-monthly, says: ‘Venerables, what use is the recitation of these trivial precepts that cause the bhikkhunīs to give rise to doubt and regret,’ and belittles and criticizes the precepts for this reason and no other, it is a pācittiya 
+If a bhikkhunī, when the pātimokkha sutta is being recited half-monthly, says: ‘Venerables, what use is the recitation of these trivial precepts that cause the bhikkhunīs to give rise to doubt and regret,’ and belittles and criticizes the precepts for this reason and no other, it is a pācittiya. (End of 10 rules.)
 
 <lzh-division-start>placeholder</lzh-division-start>
 <en-division-start>Chapter 2</en-division-start>
@@ -482,7 +483,7 @@ If a bhikkhunī knows that there are insects in water, and pours it on grass or 
 <lzh>placeholder</lzh>
 <h3>pācittiya 20</h3>
 <lzh>若比丘尼。故令他比丘尼起疑悔須臾不樂。是因緣不異波夜提。</lzh>
-If a bhikkhunī intentionally causes doubt and regret, or even just momentary unhappiness, to arise in another bhikkhunī, for this reason and no other, it is a pācittiya. 
+If a bhikkhunī intentionally causes doubt and regret, or even just momentary unhappiness, to arise in another bhikkhunī, for this reason and no other, it is a pācittiya. (End of 20 rules.)
 
 <lzh-division-start>placeholder</lzh-division-start>
 <en-division-start>Chapter 3</en-division-start>
@@ -535,7 +536,7 @@ If a bhikkhunī just for fun hides another’s robe, bowl, sitting mat, or needl
 <lzh>placeholder</lzh>
 <h3>pācittiya 30</h3>
 <lzh>若比丘尼。別眾食。除餘時波夜提。餘時者。病時衣時行時船上時大眾時外道施食時。</lzh>
-If a bhikkhunī eats in a separate group, except at a suitable time, it is a pācittiya. These are the suitable times: when she is sick, during robe-season, when travelling, when on a boat, when there’s a great assembly, when non-Buddhist renunciates offer a meal. 
+If a bhikkhunī eats in a separate group, except at a suitable time, it is a pācittiya. These are the suitable times: when she is sick, during robe-season, when travelling, when on a boat, when there’s a great assembly, when non-Buddhist renunciates offer a meal. (End of 30 rules.)
 
 <lzh-division-start>placeholder</lzh-division-start>
 <en-division-start>Chapter 4</en-division-start>
@@ -588,7 +589,7 @@ If a bhikkhunī herself picks up a jewel or something called ‘a jewel’ in th
 <lzh>placeholder</lzh>
 <h3>pācittiya 40</h3>
 <lzh>若比丘尼。恐怖比丘尼波夜提。</lzh>
-If a bhikkhunī frightens another bhikkhunī, it is a pācittiya. 
+If a bhikkhunī frightens another bhikkhunī, it is a pācittiya. (End of 40 rules.)
 
 <lzh-division-start>placeholder</lzh-division-start>
 <en-division-start>Chapter 5</en-division-start>
@@ -641,7 +642,7 @@ If a bhikkhunī threatens another bhikkhunī with her palm as a weapon out of ho
 <lzh>placeholder</lzh>
 <h3>pācittiya 50</h3>
 <lzh>若比丘尼。水中戲波夜提。</lzh>
-If a bhikkhunī plays in water, it is a pācittiya. 
+If a bhikkhunī plays in water, it is a pācittiya. (End of 50 rules.)
 
 <lzh-division-start>placeholder</lzh-division-start>
 <en-division-start>Chapter 6</en-division-start>
@@ -694,7 +695,7 @@ If a bhikkhunī, when the sangha wants to settle matters, does not give consent,
 <lzh>placeholder</lzh>
 <h3>pācittiya 60</h3>
 <lzh>若比丘尼。半月說波羅提木叉經時作是言。我今始知是法入修多羅半月波羅提木叉中說。諸比丘尼知彼比丘尼本若二若三。說波羅提木叉經中坐況復多。彼比丘尼不以不知故無罪。隨所犯罪如法治。應呵言。阿梨耶。汝失善利。半月說波羅提木叉。汝不尊重不一心念。不攝耳聽法。呵已波夜提。</lzh>
-If a bhikkhunī, during the half-monthly pātimokkha sutta recitation, says: ‘I now only know that this rule is included in the sutta, and recited every half-month in the pātimokkha,’ and if the bhikkhunīs know that that bhikkhunī already sat in the recitation of the pātimokkha sutta two, three or even more times, that bhikkhunī is not free from offense because she did not know. She should be dealt with according to dhamma depending on the offense she committed, and should be criticized: ‘Venerable, you lost good benefits. During the half-monthly pātimokkha recitation, you are not respectful, don’t single-mindedly pay attention, and don’t lend an ear to hear the dhamma.’ After criticizing her, it is a pācittiya. 
+If a bhikkhunī, during the half-monthly pātimokkha sutta recitation, says: ‘I now only know that this rule is included in the sutta, and recited every half-month in the pātimokkha,’ and if the bhikkhunīs know that that bhikkhunī already sat in the recitation of the pātimokkha sutta two, three or even more times, that bhikkhunī is not free from offense because she did not know. She should be dealt with according to dhamma depending on the offense she committed, and should be criticized: ‘Venerable, you lost good benefits. During the half-monthly pātimokkha recitation, you are not respectful, don’t single-mindedly pay attention, and don’t lend an ear to hear the dhamma.’ After criticizing her, it is a pācittiya. (End of 60 rules.)
 
 <lzh-division-start>placeholder</lzh-division-start>
 <en-division-start>Chapter 7</en-division-start>
@@ -702,7 +703,7 @@ If a bhikkhunī, during the half-monthly pātimokkha sutta recitation, says: ‘
 <h3>pācittiya 61</h3>
 
 <lzh>若比丘尼。同食處。食前食後不白比丘尼。行至餘家。除衣時波夜提。</lzh>
-If a bhikkhunī, when (the bhikkunis) eat together somewhere, goes to other houses before or after the meal without informing another bhikkhunī, unless it is robe-season, it is a pācittiya.
+If a bhikkhunī, when (the bhikkhunis) eat together somewhere, goes to other houses before or after the meal without informing another bhikkhunī, unless it is robe-season, it is a pācittiya.
 
 <lzh>placeholder</lzh>
 <h3>pācittiya 62</h3>
@@ -747,7 +748,7 @@ If a bhikkhunī, out of hostility and dissatisfaction, slanders someone with an 
 <lzh>placeholder</lzh>
 <h3>pācittiya 70</h3>
 <lzh>若比丘尼。知物向僧迴向與人波夜提。</lzh>
-If a bhikkhunī knows that an item is for the sangha, and she diverts it to an individual, it is a pācittiya. 
+If a bhikkhunī knows that an item is for the sangha, and she diverts it to an individual, it is a pācittiya. (End of 70 rules.)
 
 <lzh-division-start>placeholder</lzh-division-start>
 <en-division-start>Chapter 8</en-division-start>
@@ -800,7 +801,7 @@ If a bhikkhunī, when a bhikkhu is eating, offers him water or a fan, it is a p�
 <lzh>placeholder</lzh>
 <h3>pācittiya 80</h3>
 <lzh>若比丘尼。食蒜者波夜提。</lzh>
-If a bhikkhunī eats garlic, it is a pācittiya. 
+If a bhikkhunī eats garlic, it is a pācittiya. (End of 80 rules.)
 
 <lzh-division-start>placeholder</lzh-division-start>
 <en-division-start>Chapter 9</en-division-start>
@@ -853,7 +854,7 @@ If a bhikkhunī says to another bhikkhunī: ‘Venerable, let’s go together to
 <lzh>placeholder</lzh>
 <h3>pācittiya 90</h3>
 <lzh>若比丘尼。慳嫉心護他家者波夜提。</lzh>
-If a bhikkhunī protects households out of stinginess and jealousy, it is a pācittiya. 
+If a bhikkhunī protects households out of stinginess and jealousy, it is a pācittiya. (End of 90 rules.)
 
 <lzh-division-start>placeholder</lzh-division-start>
 <en-division-start>Chapter 10</en-division-start>
@@ -906,7 +907,7 @@ If a bhikkhunī gives the full ordination to someone, who has fully trained in t
 <lzh>placeholder</lzh>
 <h3>pācittiya 100</h3>
 <lzh>若比丘尼。適他婦減十二雨。與受具足者波夜提。</lzh>
-If a bhikkhunī gives the full ordination to a married woman who is less than 12 years old, it is a pācittiya. 
+If a bhikkhunī gives the full ordination to a married woman who is less than 12 years old, it is a pācittiya. (End of 100 rules.)
 
 <lzh-division-start>placeholder</lzh-division-start>
 <en-division-start>Chapter 11</en-division-start>
@@ -959,7 +960,7 @@ If a bhikkhunī, when the bhikkhunīs say to her: ‘Venerable, not fulfilling t
 <lzh>placeholder</lzh>
 <h3>pācittiya 110</h3>
 <lzh>若比丘尼語式叉摩尼言。學戒滿。當與汝受具足。後不與受不使人受。又不遣去者波夜提。</lzh>
-If a bhikkhunī says to a sikkhamānā: ‘When you are fully trained in the precepts, I will give you the full ordination,’ but later doesn’t give it, doesn’t have others give it, and also doesn’t send her away, it is a pācittiya. 
+If a bhikkhunī says to a sikkhamānā: ‘When you are fully trained in the precepts, I will give you the full ordination,’ but later doesn’t give it, doesn’t have others give it, and also doesn’t send her away, it is a pācittiya. (End of 110 rules.)
 
 <lzh-division-start>placeholder</lzh-division-start>
 <en-division-start>Chapter 12</en-division-start>
@@ -1012,7 +1013,7 @@ If a bhikkhunī visits a park, a grove, or ancient ruins in her own country, it 
 <lzh>placeholder</lzh>
 <h3>pācittiya 120</h3>
 <lzh>若比丘尼。共一比丘空靜處坐波夜提。</lzh>
-If a bhikkhunī sits together with one bhikkhu in an empty, quiet place, it is a pācittiya. 
+If a bhikkhunī sits together with one bhikkhu in an empty, quiet place, it is a pācittiya. (End of 120 rules.)
 
 <lzh-division-start>placeholder</lzh-division-start>
 <en-division-start>Chapter 13</en-division-start>
@@ -1065,7 +1066,7 @@ If a bhikkhunī who is not sick has a sikkhamānā massage her, it is a pācitti
 <lzh>placeholder</lzh>
 <h3>pācittiya 130</h3>
 <lzh>若比丘尼。不病令俗人婦女揩摩者波夜提。</lzh>
-If a bhikkhunī who is not sick has a lay woman massage her, it is a pācittiya. 
+If a bhikkhunī who is not sick has a lay woman massage her, it is a pācittiya. (End of 130 rules.)
 
 <lzh-division-start>placeholder</lzh-division-start>
 <en-division-start>Chapter 14</en-division-start>
@@ -1123,7 +1124,7 @@ If a bhikkhunī defecates or urinates in water, it is a pācittiya.
 <lzh>placeholder</lzh>
 <h3>pācittiya 141</h3>
 <lzh>若比丘尼。知眾利迴與一眾波夜提。</lzh>
-If a bhikkhunī knowingly diverts donations for one group to another group, it is a pācittiya. 
+If a bhikkhunī knowingly diverts donations for one group to another group, it is a pācittiya. (End of 141 rules.)
 
 <lzh>諸阿梨耶。已說百四十一波夜提法。今問諸阿梨耶。是中清淨不。第二第三亦如是問。諸阿梨耶。是中清淨默然故。是事如是持。</lzh>
 Venerables, the 141 pācittiya rules have been recited. Now I ask the venerables: ‘Are you pure herein?’ A second and a third time, I ask this. The venerables are pure herein, therefore you are silent. This matter is remembered thus.
@@ -1222,12 +1223,12 @@ Not to wear the inner robe like a tāla palm leaf.
 <lzh>placeholder</lzh>
 <h3>sekhiya 9</h3>
 <lzh>不象鼻著內衣。<lzh-note>(此上九戒丹本及本律大僧戒中並無)</lzh-note></lzh>
-Not to wear the inner robe like an elephant’s trunk. <note>(These above nine precepts are not found in the Khitan edition and in the monks’ rules of this vinaya edition.)</note>
+Not to wear the inner robe like an elephant’s trunk. (These above nine precepts are not found in the Khitan edition and in the monks’ rules of this vinaya edition.)
 
 <lzh>placeholder</lzh>
 <h3>sekhiya 10</h3>
 <lzh>齊整著內衣應當學。</lzh>
-To wear the inner robe orderly adjusted should be trained.
+To wear the inner robe orderly adjusted should be trained. (End of 10 rules.)
 
 <lzh>placeholder</lzh>
 <h3>sekhiya 11</h3>
@@ -1247,7 +1248,7 @@ Not to wrap the robe around like a guardian deva should be trained.
 <lzh>placeholder</lzh>
 <h3>sekhiya 14</h3>
 <lzh>不婆藪天披衣應當學。<lzh-note>(此上四戒丹本及本律大僧戒中並無)</lzh-note></lzh>
-Not to wrap the robe around like a vasu-deva should be trained. <note>(These above four precepts are not found in the Khitan edition and in the monks’ rules of this vinaya edition.)</note>
+Not to wrap the robe around like a vasu-deva should be trained. (These above four precepts are not found in the Khitan edition and in the monks’ rules of this vinaya edition.)
 
 <lzh>placeholder</lzh>
 <h3>sekhiya 15</h3>
@@ -1562,7 +1563,7 @@ Not to teach dhamma to a person on the path when one is off the path, unless the
 <lzh>placeholder</lzh>
 <h3>sekhiya 77</h3>
 <lzh>不得立大小便除病應當學。</lzh>
-Not to defecate or urinate while standing, unless one is sick, should be trained. 
+Not to defecate or urinate while standing, unless one is sick, should be trained. (End of 77 rules.)
 
 <lzh>諸阿梨耶。已說眾學法。今問諸阿梨耶。是中清淨不。第二第三亦如是問。諸阿梨耶。是中清淨默然故。是事如是持。</lzh>
 Venerables, the many training rules have been recited. Now I ask the venerables: ‘Are you pure herein?’ A second and a third time, I ask this. The venerables are pure herein, therefore you are silent. This matter is remembered thus.
