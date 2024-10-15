@@ -42,7 +42,7 @@ msgstr "Introduction"
 #. </h2><p><a class="sc" id="1"></a>
 msgctxt "lzh-mg-bi-pm:6.1"
 msgid "阿梨耶僧聽。冬時一月過少一夜。餘有一夜三月在。老死至近佛法欲滅。諸阿梨耶。為得道故一心勤精進。所以者何。諸佛一心勤精進故得阿耨多羅三藐三菩提。何況餘助道法。未受具足者已出。僧今和合先作何事<span class=\"t-note\">(一人應答布薩說戒)</span>。"
-msgstr "“May the noble sangha listen. The first month of the winter season has already passed, except for one night. One night and three months remain. Old age and death are drawing near, and the Buddha’s dhamma will extinguish. Venerables, to realize the path, strive single-mindedly with diligence. Why? Because the Buddhas have striven single-mindedly with diligence, they have realized unsurpassed perfect enlightenment. Moreover, they are helping those on the dhamma path. Those who have not yet received the full ordination have already left. The sangha is now in harmony. What are we doing first? <span class=\"t-note\">(One person should answer: ‘The uposatha precepts’ recitation.)</span>"
+msgstr "“May the noble sangha listen. The first month of the winter season has already passed, except for one night. One night and three months remain. Old age and death are drawing near, and the Buddha’s dhamma will extinguish. Venerables, to realize the path, strive single-mindedly with diligence. Why? Because the Buddhas have striven single-mindedly with diligence, they’ve realized unsurpassed perfect enlightenment. Moreover, they are helping those on the dhamma path. Those who have not yet received the full ordination have already left. The sangha is now in harmony. What are we doing first? <span class=\"t-note\">(One person should answer: ‘The uposatha precepts’ recitation.)</span>"
 
 #. </p><p>
 msgctxt "lzh-mg-bi-pm:7.1"
@@ -1681,7 +1681,7 @@ msgstr "pācittiya 64"
 #. </h4><p>
 msgctxt "lzh-mg-bi-pm:270.1"
 msgid "若比丘尼作床<span class=\"gaiji\">脚<!--gaiji,腳,1[腳-谷+去],2&#x811A;,3--> </span>。應量作長修伽陀八指。除入梐。若過截已波夜提。"
-msgstr "If a bhikkhunī makes bed feet, she should make them according to the measurements: eight sugata fingerbreadths in length, without the part that is inserted in the frame. If she exceeds that, it is a pācittiya, after they have been cut off."
+msgstr "If a bhikkhunī makes bed feet, she should make them according to the measurements: eight sugata fingerbreadths in length, without the part that is inserted in the frame. If she exceeds that, it is a pācittiya, after they’ve been cut off."
 
 #. </p><h4>
 #. <span class="add"><a id="pc65" class="latin">
@@ -3759,7 +3759,7 @@ msgstr "adhikaraṇasamatha 4"
 #. </h4><p>
 msgctxt "lzh-mg-bi-pm:618.1"
 msgid "應與自言治人。與自言治。"
-msgstr "Deal with a person who should be dealt with according to what they have admitted, according to what they have admitted."
+msgstr "Deal with a person who should be dealt with according to what they’ve admitted, according to what they’ve admitted."
 
 #. </p><h4>
 #. <span class="add"><a id="as5" class="latin">
