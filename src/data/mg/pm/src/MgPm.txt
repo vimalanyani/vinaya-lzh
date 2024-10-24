@@ -526,7 +526,7 @@ If a bhikkhunī eats stored food, it is a pācittiya.
 <lzh>placeholder</lzh>
 <h3>pācittiya 28</h3>
 <lzh>若比丘尼。往白衣家。自恣與餅得受兩三。出外共不病比丘尼食。若過受出外不共不病比丘尼食者。波夜提。</lzh>
-If a bhikkhunī goes to the house of a lay person, and is invited to take cakes and rice flour, she may accept two or three bowlfuls. Having gone outside, she should eat them together with the bhikkhunīs who are not sick. If she accepts more, or doesn’t go outside to eat them together with the bhikkhunīs who are not sick, it is a pācittiya.
+If a bhikkhunī goes to the house of a lay person, and is invited to take cakes and rice flour, she may accept two or three bowlfuls. Having gone outside, she should eat them together with the bhikkhunīs who aren’t sick. If she accepts more, or doesn’t go outside to eat them together with the bhikkhunīs who aren’t sick, it is a pācittiya.
 
 <lzh>placeholder</lzh>
 <h3>pācittiya 29</h3>
@@ -695,7 +695,7 @@ If a bhikkhunī, when the sangha wants to settle matters, does not give consent,
 <lzh>placeholder</lzh>
 <h3>pācittiya 60</h3>
 <lzh>若比丘尼。半月說波羅提木叉經時作是言。我今始知是法入修多羅半月波羅提木叉中說。諸比丘尼知彼比丘尼本若二若三。說波羅提木叉經中坐況復多。彼比丘尼不以不知故無罪。隨所犯罪如法治。應呵言。阿梨耶。汝失善利。半月說波羅提木叉。汝不尊重不一心念。不攝耳聽法。呵已波夜提。</lzh>
-If a bhikkhunī, during the half-monthly pātimokkha sutta recitation, says: ‘I now only know that this rule is included in the sutta, and recited every half-month in the pātimokkha,’ and if the bhikkhunīs know that that bhikkhunī already sat in the recitation of the pātimokkha sutta two, three or even more times, that bhikkhunī is not free from offense because she did not know. She should be dealt with according to dhamma depending on the offense she committed, and should be criticized: ‘Venerable, you lost good benefits. During the half-monthly pātimokkha recitation, you are not respectful, don’t single-mindedly pay attention, and don’t lend an ear to hear the dhamma.’ After criticizing her, it is a pācittiya. (End of 60 rules.)
+If a bhikkhunī, during the half-monthly pātimokkha sutta recitation, says: ‘I now only know that this rule is included in the sutta, and recited every half-month in the pātimokkha,’ and if the bhikkhunīs know that that bhikkhunī already sat in the recitation of the pātimokkha sutta two, three or even more times, that bhikkhunī is not free from offense because she did not know. She should be dealt with according to dhamma depending on the offense she committed, and should be criticized: ‘Venerable, you lost good benefits. During the half-monthly pātimokkha recitation, you aren’t respectful, don’t single-mindedly pay attention, and don’t lend an ear to hear the dhamma.’ After criticizing her, it is a pācittiya. (End of 60 rules.)
 
 <lzh-division-start>placeholder</lzh-division-start>
 <en-division-start>Chapter 7</en-division-start>
@@ -1223,7 +1223,7 @@ Not to wear the inner robe like a tāla palm leaf.
 <lzh>placeholder</lzh>
 <h3>sekhiya 9</h3>
 <lzh>不象鼻著內衣。<lzh-note>(此上九戒丹本及本律大僧戒中並無)</lzh-note></lzh>
-Not to wear the inner robe like an elephant’s trunk. (These above nine precepts are not found in the Khitan edition and in the monks’ rules of this vinaya edition.)
+Not to wear the inner robe like an elephant’s trunk. (These above nine precepts aren’t found in the Khitan edition and in the monks’ rules of this vinaya edition.)
 
 <lzh>placeholder</lzh>
 <h3>sekhiya 10</h3>
@@ -1248,7 +1248,7 @@ Not to wrap the robe around like a guardian deva should be trained.
 <lzh>placeholder</lzh>
 <h3>sekhiya 14</h3>
 <lzh>不婆藪天披衣應當學。<lzh-note>(此上四戒丹本及本律大僧戒中並無)</lzh-note></lzh>
-Not to wrap the robe around like a vasu-deva should be trained. (These above four precepts are not found in the Khitan edition and in the monks’ rules of this vinaya edition.)
+Not to wrap the robe around like a vasu-deva should be trained. (These above four precepts aren’t found in the Khitan edition and in the monks’ rules of this vinaya edition.)
 
 <lzh>placeholder</lzh>
 <h3>sekhiya 15</h3>
