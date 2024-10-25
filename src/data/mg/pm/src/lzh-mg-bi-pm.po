@@ -1419,7 +1419,7 @@ msgstr "pācittiya 43"
 #. </h4><p>
 msgctxt "lzh-mg-bi-pm:226.1"
 msgid "若比丘尼。知食家婬處坐波夜提。"
-msgstr "If a bhikkhunī knowingly sits in a place used for sex in a family ‘that is eating’, it is a pācittiya."
+msgstr "If a bhikkhunī knowingly sits in a place used for sex in a family ‘that’s eating’, it is a pācittiya."
 
 #. </p><h4>
 #. <span class="add"><a id="pc44" class="latin">
@@ -1431,7 +1431,7 @@ msgstr "pācittiya 44"
 #. </h4><p>
 msgctxt "lzh-mg-bi-pm:228.1"
 msgid "若比丘尼。知食家屏處坐波夜提。"
-msgstr "If a bhikkhunī knowingly sits in a secluded place in a family ‘that is eating’, it is a pācittiya."
+msgstr "If a bhikkhunī knowingly sits in a secluded place in a family ‘that’s eating’, it is a pācittiya."
 
 #. </p><h4>
 #. <span class="add"><a id="pc45" class="latin">
@@ -1681,7 +1681,7 @@ msgstr "pācittiya 64"
 #. </h4><p>
 msgctxt "lzh-mg-bi-pm:270.1"
 msgid "若比丘尼作床<span class=\"gaiji\">脚<!--gaiji,腳,1[腳-谷+去],2&#x811A;,3--> </span>。應量作長修伽陀八指。除入梐。若過截已波夜提。"
-msgstr "If a bhikkhunī makes bed feet, she should make them according to the measurements: eight sugata fingerbreadths in length, without the part that is inserted in the frame. If she exceeds that, it is a pācittiya, after they’ve been cut off."
+msgstr "If a bhikkhunī makes bed feet, she should make them according to the measurements: eight sugata fingerbreadths in length, without the part that’s inserted in the frame. If she exceeds that, it is a pācittiya, after they’ve been cut off."
 
 #. </p><h4>
 #. <span class="add"><a id="pc65" class="latin">
@@ -2342,7 +2342,7 @@ msgstr "pācittiya 117"
 #. </h4><p><a class="sc" id="36"></a>
 msgctxt "lzh-mg-bi-pm:381.1"
 msgid "若比丘尼。知食家婬處宿除餘時波夜提。餘時者。風時雨時奪命時傷梵行時。是名餘時。"
-msgstr "If a bhikkhunī knowingly spends the night in a place used for sex in a family ‘that is eating’, except at a suitable time, it is a pācittiya. These are the suitable times: when it’s windy or rainy, when killing is going on, or there’s a threat of being raped. These are called ‘the suitable times’."
+msgstr "If a bhikkhunī knowingly spends the night in a place used for sex in a family ‘that’s eating’, except at a suitable time, it is a pācittiya. These are the suitable times: when it’s windy or rainy, when killing is going on, or there’s a threat of being raped. These are called ‘the suitable times’."
 
 #. </p><h4>
 #. <span class="add"><a id="pc118" class="latin">
