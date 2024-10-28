@@ -1283,7 +1283,7 @@ Not to enter lay houses with the head covered should be trained.
 <lzh>placeholder</lzh>
 <h3>sekhiya 21</h3>
 <lzh>不得反抄衣入家內應當學。</lzh>
-Not to enter lay houses with the robe inside out should be trained.
+Not to enter lay houses with the robe reversed<note: Inside out and on the wrong shoulder.> should be trained.
 
 <lzh>placeholder</lzh>
 <h3>sekhiya 22</h3>
@@ -1338,7 +1338,7 @@ Not to sit in lay houses with the head covered should be trained.
 <lzh>placeholder</lzh>
 <h3>sekhiya 32</h3>
 <lzh>不得反抄衣坐家內應當學。</lzh>
-Not to sit in lay houses with the robe inside out should be trained.
+Not to sit in lay houses with the robe reversed<note: Inside out and on the wrong shoulder.> should be trained.
 
 <lzh>placeholder</lzh>
 <h3>sekhiya 33</h3>
@@ -1580,7 +1580,7 @@ People should be dealt with according to the situation. To a person who should b
 <lzh>placeholder</lzh>
 <h3>adhikaraṇasamatha 2</h3>
 <lzh>應與憶念毘尼人。與憶念毘尼。</lzh>
-To a person who should given a removal through mindfulness, give a removal through mindfulness.
+To a person who should given a removal through memory, give a removal through memory.
 
 <lzh>placeholder</lzh>
 <h3>adhikaraṇasamatha 3</h3>
@@ -1595,7 +1595,7 @@ Deal with a person who should be dealt with according to what they’ve admitted
 <lzh>placeholder</lzh>
 <h3>adhikaraṇasamatha 5</h3>
 <lzh>應與罪相人。與覓罪相。</lzh>
-To a person who should be given a mark of seeking offenses, give a mark of seeking offenses.
+To a person who should be given a characteristic-of-seeking-offenses, give a characteristic-of-seeking-offenses.
 
 <lzh>placeholder</lzh>
 <h3>adhikaraṇasamatha 6</h3>

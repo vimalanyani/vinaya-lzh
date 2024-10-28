@@ -3735,7 +3735,7 @@ msgstr "adhikaraṇasamatha 2"
 #. </h4><p>
 msgctxt "lzh-mg-bi-pm:614.1"
 msgid "應與憶念毘尼人。與憶念毘尼。"
-msgstr "To a person who should given a removal through mindfulness, give a removal through mindfulness."
+msgstr "To a person who should given a removal through memory, give a removal through memory."
 
 #. </p><h4>
 #. <span class="add"><a id="as3" class="latin">
@@ -3771,7 +3771,7 @@ msgstr "adhikaraṇasamatha 5"
 #. </h4><p>
 msgctxt "lzh-mg-bi-pm:620.1"
 msgid "應與<span class=\"gaiji\">覔<!--gaiji,覓,1[不/見],2&#x8994;,3--> </span>罪相人。與覓罪相。"
-msgstr "To a person who should be given a mark of seeking offenses, give a mark of seeking offenses."
+msgstr "To a person who should be given a characteristic-of-seeking-offenses, give a characteristic-of-seeking-offenses."
 
 #. </p><h4>
 #. <span class="add"><a id="as6" class="latin">
