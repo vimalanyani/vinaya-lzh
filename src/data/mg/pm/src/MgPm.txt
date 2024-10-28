@@ -526,7 +526,7 @@ If a bhikkhunī eats stored food, it is a pācittiya.
 <lzh>placeholder</lzh>
 <h3>pācittiya 28</h3>
 <lzh>若比丘尼。往白衣家。自恣與餅得受兩三。出外共不病比丘尼食。若過受出外不共不病比丘尼食者。波夜提。</lzh>
-If a bhikkhunī goes to the house of a lay person, and is invited to take cakes and rice flour, she may accept two or three bowlfuls. Having gone outside, she should eat them together with the bhikkhunīs who are not sick. If she accepts more, or doesn’t go outside to eat them together with the bhikkhunīs who are not sick, it is a pācittiya.
+If a bhikkhunī goes to the house of a lay person, and is invited to take cakes and rice flour, she may accept two or three bowlfuls. Having gone outside, she should eat them together with the bhikkhunīs who aren’t sick. If she accepts more, or doesn’t go outside to eat them together with the bhikkhunīs who aren’t sick, it is a pācittiya.
 
 <lzh>placeholder</lzh>
 <h3>pācittiya 29</h3>
@@ -607,12 +607,12 @@ If a bhikkhunī gives food with her own hand to naked non-Buddhist ascetics, or 
 <lzh>placeholder</lzh>
 <h3>pācittiya 43</h3>
 <lzh>若比丘尼。知食家婬處坐波夜提。</lzh>
-If a bhikkhunī knowingly sits in a place used for sex in a family ‘that is eating’, it is a pācittiya.
+If a bhikkhunī knowingly sits in a place used for sex in a family ‘that’s eating’, it is a pācittiya.
 
 <lzh>placeholder</lzh>
 <h3>pācittiya 44</h3>
 <lzh>若比丘尼。知食家屏處坐波夜提。</lzh>
-If a bhikkhunī knowingly sits in a secluded place in a family ‘that is eating’, it is a pācittiya.
+If a bhikkhunī knowingly sits in a secluded place in a family ‘that’s eating’, it is a pācittiya.
 
 <lzh>placeholder</lzh>
 <h3>pācittiya 45</h3>
@@ -695,7 +695,7 @@ If a bhikkhunī, when the sangha wants to settle matters, does not give consent,
 <lzh>placeholder</lzh>
 <h3>pācittiya 60</h3>
 <lzh>若比丘尼。半月說波羅提木叉經時作是言。我今始知是法入修多羅半月波羅提木叉中說。諸比丘尼知彼比丘尼本若二若三。說波羅提木叉經中坐況復多。彼比丘尼不以不知故無罪。隨所犯罪如法治。應呵言。阿梨耶。汝失善利。半月說波羅提木叉。汝不尊重不一心念。不攝耳聽法。呵已波夜提。</lzh>
-If a bhikkhunī, during the half-monthly pātimokkha sutta recitation, says: ‘I now only know that this rule is included in the sutta, and recited every half-month in the pātimokkha,’ and if the bhikkhunīs know that that bhikkhunī already sat in the recitation of the pātimokkha sutta two, three or even more times, that bhikkhunī is not free from offense because she did not know. She should be dealt with according to dhamma depending on the offense she committed, and should be criticized: ‘Venerable, you lost good benefits. During the half-monthly pātimokkha recitation, you are not respectful, don’t single-mindedly pay attention, and don’t lend an ear to hear the dhamma.’ After criticizing her, it is a pācittiya. (End of 60 rules.)
+If a bhikkhunī, during the half-monthly pātimokkha sutta recitation, says: ‘I now only know that this rule is included in the sutta, and recited every half-month in the pātimokkha,’ and if the bhikkhunīs know that that bhikkhunī already sat in the recitation of the pātimokkha sutta two, three or even more times, that bhikkhunī is not free from offense because she did not know. She should be dealt with according to dhamma depending on the offense she committed, and should be criticized: ‘Venerable, you lost good benefits. During the half-monthly pātimokkha recitation, you aren’t respectful, don’t single-mindedly pay attention, and don’t lend an ear to hear the dhamma.’ After criticizing her, it is a pācittiya. (End of 60 rules.)
 
 <lzh-division-start>placeholder</lzh-division-start>
 <en-division-start>Chapter 7</en-division-start>
@@ -718,7 +718,7 @@ If a bhikkhunī uses bone, ivory, or horn to make a needle case, it is a pācitt
 <lzh>placeholder</lzh>
 <h3>pācittiya 64</h3>
 <lzh>若比丘尼作床。應量作長修伽陀八指。除入梐。若過截已波夜提。</lzh>
-If a bhikkhunī makes bed feet, she should make them according to the measurements: eight sugata fingerbreadths in length, without the part that is inserted in the frame. If she exceeds that, it is a pācittiya, after they’ve been cut off.
+If a bhikkhunī makes bed feet, she should make them according to the measurements: eight sugata fingerbreadths in length, without the part that’s inserted in the frame. If she exceeds that, it is a pācittiya, after they’ve been cut off.
 
 <lzh>placeholder</lzh>
 <h3>pācittiya 65</h3>
@@ -998,7 +998,7 @@ If a bhikkhunī enters a bhikkhu monastery without informing them first, it is a
 <lzh>placeholder</lzh>
 <h3>pācittiya 117</h3>
 <lzh>若比丘尼。知食家婬處宿除餘時波夜提。餘時者。風時雨時奪命時傷梵行時。是名餘時。</lzh>
-If a bhikkhunī knowingly spends the night in a place used for sex in a family ‘that is eating’, except at a suitable time, it is a pācittiya. These are the suitable times: when it’s windy or rainy, when killing is going on, or there’s a threat of being raped. These are called ‘the suitable times’.
+If a bhikkhunī knowingly spends the night in a place used for sex in a family ‘that’s eating’, except at a suitable time, it is a pācittiya. These are the suitable times: when it’s windy or rainy, when killing is going on, or there’s a threat of being raped. These are called ‘the suitable times’.
 
 <lzh>placeholder</lzh>
 <h3>pācittiya 118</h3>
@@ -1223,12 +1223,12 @@ Not to wear the inner robe like a tāla palm leaf.
 <lzh>placeholder</lzh>
 <h3>sekhiya 9</h3>
 <lzh>不象鼻著內衣。<lzh-note>(此上九戒丹本及本律大僧戒中並無)</lzh-note></lzh>
-Not to wear the inner robe like an elephant’s trunk. (These above nine precepts are not found in the Khitan edition and in the monks’ rules of this vinaya edition.)
+Not to wear the inner robe like an elephant’s trunk. (These above nine precepts aren’t found in the Khitan edition and in the monks’ rules of this vinaya edition.)
 
 <lzh>placeholder</lzh>
 <h3>sekhiya 10</h3>
 <lzh>齊整著內衣應當學。</lzh>
-To wear the inner robe orderly adjusted should be trained. (End of 10 rules.)
+To wear the inner robe neatly should be trained. (End of 10 rules.)
 
 <lzh>placeholder</lzh>
 <h3>sekhiya 11</h3>
@@ -1248,12 +1248,12 @@ Not to wrap the robe around like a guardian deva should be trained.
 <lzh>placeholder</lzh>
 <h3>sekhiya 14</h3>
 <lzh>不婆藪天披衣應當學。<lzh-note>(此上四戒丹本及本律大僧戒中並無)</lzh-note></lzh>
-Not to wrap the robe around like a vasu-deva should be trained. (These above four precepts are not found in the Khitan edition and in the monks’ rules of this vinaya edition.)
+Not to wrap the robe around like a vasu-deva should be trained. (These above four precepts aren’t found in the Khitan edition and in the monks’ rules of this vinaya edition.)
 
 <lzh>placeholder</lzh>
 <h3>sekhiya 15</h3>
 <lzh>齊整披衣應當學。</lzh>
-To wrap the robe around orderly adjusted should be trained.
+To wrap the robe around neatly should be trained.
 
 <lzh>placeholder</lzh>
 <h3>sekhiya 16</h3>
@@ -1283,7 +1283,7 @@ Not to enter lay houses with the head covered should be trained.
 <lzh>placeholder</lzh>
 <h3>sekhiya 21</h3>
 <lzh>不得反抄衣入家內應當學。</lzh>
-Not to enter lay houses with the robe inside out should be trained.
+Not to enter lay houses with the robe reversed<note: Inside out and on the wrong shoulder.> should be trained.
 
 <lzh>placeholder</lzh>
 <h3>sekhiya 22</h3>
@@ -1338,7 +1338,7 @@ Not to sit in lay houses with the head covered should be trained.
 <lzh>placeholder</lzh>
 <h3>sekhiya 32</h3>
 <lzh>不得反抄衣坐家內應當學。</lzh>
-Not to sit in lay houses with the robe inside out should be trained.
+Not to sit in lay houses with the robe reversed<note: Inside out and on the wrong shoulder.> should be trained.
 
 <lzh>placeholder</lzh>
 <h3>sekhiya 33</h3>
@@ -1580,7 +1580,7 @@ People should be dealt with according to the situation. To a person who should b
 <lzh>placeholder</lzh>
 <h3>adhikaraṇasamatha 2</h3>
 <lzh>應與憶念毘尼人。與憶念毘尼。</lzh>
-To a person who should given a removal through mindfulness, give a removal through mindfulness.
+To a person who should given a removal through memory, give a removal through memory.
 
 <lzh>placeholder</lzh>
 <h3>adhikaraṇasamatha 3</h3>
@@ -1595,7 +1595,7 @@ Deal with a person who should be dealt with according to what they’ve admitted
 <lzh>placeholder</lzh>
 <h3>adhikaraṇasamatha 5</h3>
 <lzh>應與罪相人。與覓罪相。</lzh>
-To a person who should be given a mark of seeking offenses, give a mark of seeking offenses.
+To a person who should be given a characteristic-of-seeking-offenses, give a characteristic-of-seeking-offenses.
 
 <lzh>placeholder</lzh>
 <h3>adhikaraṇasamatha 6</h3>
