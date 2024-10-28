@@ -1228,7 +1228,7 @@ Not to wear the inner robe like an elephant’s trunk. (These above nine precept
 <lzh>placeholder</lzh>
 <h3>sekhiya 10</h3>
 <lzh>齊整著內衣應當學。</lzh>
-To wear the inner robe orderly adjusted should be trained. (End of 10 rules.)
+To wear the inner robe neatly should be trained. (End of 10 rules.)
 
 <lzh>placeholder</lzh>
 <h3>sekhiya 11</h3>
@@ -1253,7 +1253,7 @@ Not to wrap the robe around like a vasu-deva should be trained. (These above fou
 <lzh>placeholder</lzh>
 <h3>sekhiya 15</h3>
 <lzh>齊整披衣應當學。</lzh>
-To wrap the robe around orderly adjusted should be trained.
+To wrap the robe around neatly should be trained.
 
 <lzh>placeholder</lzh>
 <h3>sekhiya 16</h3>

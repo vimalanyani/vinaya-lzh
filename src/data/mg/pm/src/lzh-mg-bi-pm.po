@@ -2890,7 +2890,7 @@ msgstr "sekhiya 10"
 #. </h4><p>
 msgctxt "lzh-mg-bi-pm:473.1"
 msgid "齊整著內衣應當學<span class=\"t-counter\">(十事竟)</span>。"
-msgstr "To wear the inner robe orderly adjusted should be trained.<span class=\"t-counter\">(End of 10 rules.)</span>"
+msgstr "To wear the inner robe neatly should be trained.<span class=\"t-counter\">(End of 10 rules.)</span>"
 
 #. </p><h4>
 #. <span class="add"><a id="sk11" class="latin">
@@ -2950,7 +2950,7 @@ msgstr "sekhiya 15"
 #. </h4><p>
 msgctxt "lzh-mg-bi-pm:483.1"
 msgid "齊整披衣應當學。"
-msgstr "To wrap the robe around orderly adjusted should be trained."
+msgstr "To wrap the robe around neatly should be trained."
 
 #. </p><h4>
 #. <span class="add"><a id="sk16" class="latin">
