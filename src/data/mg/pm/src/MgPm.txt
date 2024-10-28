@@ -1283,7 +1283,7 @@ Not to enter lay houses with the head covered should be trained.
 <lzh>placeholder</lzh>
 <h3>sekhiya 21</h3>
 <lzh>不得反抄衣入家內應當學。</lzh>
-Not to enter lay houses with the robe reversed<note: Inside out and on the wrong shoulder.> should be trained.
+Not to enter lay houses with the robe reversed<note> Inside out and on the wrong shoulder.</note> should be trained.
 
 <lzh>placeholder</lzh>
 <h3>sekhiya 22</h3>
@@ -1338,7 +1338,7 @@ Not to sit in lay houses with the head covered should be trained.
 <lzh>placeholder</lzh>
 <h3>sekhiya 32</h3>
 <lzh>不得反抄衣坐家內應當學。</lzh>
-Not to sit in lay houses with the robe reversed<note: Inside out and on the wrong shoulder.> should be trained.
+Not to sit in lay houses with the robe reversed<note> Inside out and on the wrong shoulder.</note> should be trained.
 
 <lzh>placeholder</lzh>
 <h3>sekhiya 33</h3>
