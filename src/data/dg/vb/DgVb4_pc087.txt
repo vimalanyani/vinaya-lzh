@@ -1,0 +1,45 @@
+DgVb_pc87
+
+<lzh-fascicle-start>四分律卷第二十六(二分之五明尼戒法)
+姚秦罽賓三藏佛陀耶舍共竺佛念等譯
+一百七十八單提法之三</lzh-fascicle-start>
+<en-fascicle-start>Dharmaguptaka Vinaya, fascicle 26 (Part 2.5, explanation of the bhikkhunī rules.)
+Translated by the Kāśmīra Tipiṭaka master Buddhayaśas together with Zhú Fóniàn in the later Qin state.
+The 178 simple pācittiya rules, part 3.</en-fascicle-start>
+
+
+<h2>Origin Story</h2>
+
+<lzh>爾時婆伽婆在舍衛國祇樹給孤獨園。</lzh>
+At that time, the Blessed One was in Sāvatthī in Jeta’s grove, Anāthapiṇḍika’s park.
+
+<lzh>時提舍難陀比丘尼，是讖摩比丘尼弟子。師語：「汝取衣鉢、尼師檀、針筒來。」時提舍比丘尼，受師教不審諦，語諸比丘尼言：「師教我偷衣鉢、尼師檀、針筒。」時諸比丘尼聞此語已，即問讖摩比丘尼：「汝實教弟子偷衣鉢、尼師檀、針筒耶？」答言：「諸妹！我豈當有此意教弟子偷衣鉢、尼師檀、針筒耶？我直語取衣鉢尼師檀針筒來，不教偷也。」</lzh>
+Then Tissanandā bhikkhunī was Khemā bhikkhunī’s student. The teacher said: “Bring robes, a bowl, a sitting mat, and a needle case.” When Tissa bhikkhunī received the teacher’s instruction, she didn’t pay attention, and she told the other bhikkhunīs: “My teacher instructed me to steal robes, a bowl, a sitting mat, and a needle case.” When the other bhikkhunīs heard these words, they asked Khemā bhikkhunī: “Did you really instruct your student to steal robes, a bowl, a sitting mat, and a needle case?” She answered: “Younger sisters, how could I possibly have the intention to instruct my student to steal robes, a bowl, a sitting mat, and a needle case? I actually told her to bring robes, a bowl, a sitting mat and a needle case. I didn’t instruct her to steal them.”
+
+<lzh>時諸比丘尼聞，其中有少欲知足、行頭陀、樂學戒、知慚愧者，嫌責提舍難陀比丘尼：「云何汝受師語不審諦？向諸比丘尼言：『師教我偷衣鉢、尼師檀、針筒。』」時諸比丘尼往白諸比丘，諸比丘往白世尊。世尊爾時以此因緣集比丘僧，呵責提舍難陀比丘尼：「汝所為非，非威儀、非沙門法、非淨行、非隨順行，所不應為。云何受師語不審諦，便語諸比丘尼言：『師教我偷衣鉢尼師檀針筒。』耶？」時世尊以無數方便呵責提舍難陀比丘尼已，告諸比丘：「此提舍難陀比丘尼，多種有漏處，最初犯戒。自今已去與比丘尼結戒，集十句義乃至正法久住，欲說戒者當如是說：若比丘尼不審諦受語，便向人說，波逸提。」</lzh>
+When the bhikkhunīs heard this, there were among them those with few wishes, who knew moderation, who practised the austerities, who were keen on training in the precepts, and who knew shame. They rebuked Tissanandā bhikkhunī: “Why didn’t you pay attention when you received your teacher’s words, and told the other bhikkhunīs: ‘My teacher instructed me to steal robes, a bowl, a sitting mat, and a needle case.’?” Then the bhikkhunīs went and told the bhikkhus, and the bhikkhus went and told the World-honored One. The World-honored One then for this reason gathered the bhikkhu sangha, and criticized Tissanandā bhikkhunī: “What you did is wrong, is improper conduct, against the rules of renunciates, an impure practice, a practice not to be followed, shouldn’t be done. Why didn’t you pay attention when you received your teacher’s words, and still told the other bhikkhunīs: ‘My teacher instructed me to steal robes, a bowl, a sitting mat, and a needle case.’?” When the World-honored One had criticized Tissanandā bhikkhunī in countless ways, he said to the bhikkhus: “This Tissanandā bhikkhunī has all kinds of taints, and is the first to break this precept. From now on, I’ll lay down a precept for the bhikkhunīs, and state the 10 principles: … So that the true dhamma may last long. Someone wishing to recite the precept should recite like this: 
+
+
+<h2>Final Ruling</h2>
+
+‘If a bhikkhunī doesn’t receive<note> The pātimokkha adds: “her teacher’s”.</note> words attentively, and tells them to others, it’s a pācittiya.’”
+
+
+<h2>Explanation</h2>
+
+<lzh>比丘尼義如上。</lzh>
+The meaning of “bhikkhunī” is as above.
+
+<lzh>彼比丘尼不審諦受語，便語諸比丘尼言：「師教我偷衣鉢、尼師檀、針筒。」說而了了者，波逸提；不了了者，突吉羅。</lzh>
+If a bhikkhunī doesn’t receive words attentively, and tells the other bhikkhunīs: “My teacher instructed me to steal robes, a bowl, a sitting mat, and a needle case,” if she speaks and they understand, it’s a pācittiya. If they don’t understand, it’s a dukkaṭa.
+
+<lzh>比丘，突吉羅；式叉摩那、沙彌、沙彌尼，突吉羅。是謂為犯。</lzh>
+For a bhikkhu, it’s a dukkaṭa. For a sikkhamānā, a sāmaṇera, and a sāmaṇerī, it’s a dukkaṭa. This is called “to commit”.
+
+<lzh>不犯者，其事實爾，語言：「汝往偷取衣鉢、尼師檀、針筒來。」語諸比丘尼言：「師教我偷衣鉢、尼師檀、針筒來。」或戲笑語、或疾疾語、或獨語、或夢中語、或欲說此乃錯說彼，不犯。</lzh>
+“Not committed” means if this matter is truly so, and someone said: “Go, steal, and bring robes, a bowl, a sitting mat, and a needle case,” and she tells the other bhikkhunīs: “My teacher instructed me to steal robes, a bowl, a sitting mat, and a needle case,” if she says it jokingly, if she speaks quickly, if she speaks when she’s alone, if she speaks in a dream, or if she wants to say one thing but by mistake says something else, the offense isn’t committed.
+
+<lzh>不犯者，最初未制戒，癡狂、心亂、痛惱所纏。</lzh>
+“Not committed” means if she’s the first offender when the precept hadn’t yet been laid down, if she’s mad, if she’s distracted, or if she’s overcome with pain. (End of the 87th rule.)
+
+<lzh>(八十七竟)</lzh>

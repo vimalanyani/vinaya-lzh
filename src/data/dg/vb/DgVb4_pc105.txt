@@ -1,0 +1,52 @@
+DgVb_pc105
+
+<lzh-fascicle-start>四分律卷第二十七(二分之六明尼戒法)
+
+姚秦罽賓三藏佛陀耶舍共竺佛念等譯
+一百七十八單提法之四</lzh-fascicle-start>
+<en-fascicle-start>Dharmaguptaka Vinaya, fascicle 27 (Part 2.6, explanation of the bhikkhunī rules.)
+Translated by the Kāśmīra Tipiṭaka master Buddhayaśas together with Zhú Fóniàn in the later Qin state.
+The 178 simple pācittiya rules, part 4.</en-fascicle-start>
+
+
+<h2>Origin Story</h2>
+
+<lzh>爾時婆伽婆在舍衛國祇樹給孤獨園。</lzh>
+At that time, the Blessed One was in Sāvatthī in Jeta’s grove, Anāthapiṇḍika’s park.
+
+<lzh>爾時偷羅難陀比丘尼有親舊檀越欲為僧設食并施衣。偷羅難陀聞，即往問言：「我聞汝欲設食并施僧衣，實爾以不？」檀越報言：「爾。」偷羅難陀言：「眾僧大功德、大威神，多檀越布施，汝供給處多。今但可施食，不須施衣。」檀越即言：「可爾。」不復作衣，即其夜辦具飲食。明日清旦往白時到，諸比丘尼著衣持鉢，往詣其家就座而坐。時檀越觀諸比丘尼僧，威儀庠序法服齊整，見已自悔，不覺發言：「如是好眾，云何使我留難不作衣供養耶？」時諸比丘尼即問言：「以何因緣乃發是言？」時檀越即具白因緣。</lzh>
+Then Thullanandā bhikkhunī had an old friend and supporter who wanted to organize a meal for the sangha and offer robes. When Thullanandā heard this, she went and asked them: “I heard that you want to organize a meal and offer robes to the sangha. Is that true or not?” The supporter replied: “It’s true.” Thullanandā said: “The sangha has great merit and very dignified conduct. Many supporters make offerings. You offer in many ways. You can just offer food now. There’s no need to offer robes.” Then the suporter said: “Okay,” and didn’t make robes. That night, they prepared a full meal and drinks. At dawn the next day, they went and informed that the time had come. The bhikkhunīs put on their robes, took their bowls, went to that house, and sat down on the seats. Then the supporter observed the bhikkhunī sangha, with dignified conduct and neatly arranged robes. Having seen them, they had regrets and inadvertently blurted out: “Such a good group! How could someone create obstacles for me, so that I didn’t make and offer robes?” The bhikkhunīs then asked: “For what reason did you blurt out these words?”, and the supporter fully told them the reason.
+
+<lzh>比丘尼聞，其中有少欲知足、行頭陀、樂學戒、知慚愧者，嫌責偷羅難陀言：「云何與眾僧衣作留難？」時諸比丘尼白諸比丘，諸比丘往白佛。佛以此因緣集比丘僧，呵責偷羅難陀：「汝所為非，非威儀、非沙門法、非淨行、非隨順行，所不應為。云何與僧衣作留難？」以無數方便呵責已，告諸比丘：「偷羅難陀比丘尼！多種有漏處，最初犯戒。自今已去與比丘尼結戒，集十句義乃至正法久住，欲說戒者當如是說：若比丘尼，與眾僧衣作留難者，波逸提。」</lzh>
+When the bhikkhunīs heard this, there were among them those with few wishes, who knew moderation, who practised the austerities, who were keen on training in the precepts, and who knew shame. They rebuked Thullanandā: “Why did you create obstacles for giving robes to the sangha?” Then the bhikkhunīs told the bhikkhus, and the bhikkhus went and told the Buddha. The Buddha for this reason gathered the bhikkhu sangha, and criticized Thullanandā: “What you did is wrong, is improper conduct, against the rules of renunciates, an impure practice, a practice not to be followed, shouldn’t be done. Why did you create obstacles for giving robes to the sangha?” When he had criticized her in countless ways, he said to the bhikkhus: “Thullanandā bhikkhunī has all kinds of taints, and is the first to break this precept. From now on, I’ll lay down a precept for the bhikkhunīs, and state the 10 principles: … So that the true dhamma may last long. Someone wishing to recite the precept should recite like this: 
+
+
+<h2>Final Ruling</h2>
+
+‘If a bhikkhunī creates obstacles for giving robes to the sangha, it’s a pācittiya.’”
+
+
+<h2>Explanation</h2>
+
+<lzh>比丘尼義如上。</lzh>
+The meaning of “bhikkhunī” is as above.
+
+<lzh>眾僧者，如上。</lzh>
+“Sangha” is as above.
+
+<lzh>衣者，十種如上。</lzh>
+“A robe” means the 10 kinds, as above.
+
+<lzh>彼比丘尼與眾僧衣作留難者，波逸提。除眾僧，與餘人作留難者，突吉羅。除衣，餘物作留難，突吉羅。</lzh>
+If a bhikkhunī creates obstacles for giving robes to the sangha, it’s a pācittiya. If she creates obstacles for people other than the sangha, it’s a dukkaṭa. If she creates obstacles for items other than robes, it’s a dukkaṭa.
+
+<lzh>比丘，突吉羅；式叉摩那、沙彌、沙彌尼，突吉羅。是謂為犯。</lzh>
+For a bhikkhu, it’s a dukkaṭa. For a sikkhamānā, a sāmaṇera, and a sāmaṇerī, it’s a dukkaṭa. This is called “to commit”.
+
+<lzh>不犯者，欲施少者勸使多與，欲施少人勸與多人，欲施麁勸施細者、或戲笑語、或屏處語、或疾疾語、或夢中語、或欲說此錯說彼，無犯。</lzh>
+“Not committed” means if someone wants to give little and she instructs them to give much, if someone wants to give to a few people and she instructs them to give to many, if someone wants to give coarse things and she instructs them to give fine things, if she says it jokingly, if she speaks in a secluded place, if she speaks quickly, if she speaks in a dream, or if she wants to say one thing but by mistake says something else, the offense isn’t committed.
+
+<lzh>無犯者，最初未制戒，癡狂、心亂、痛惱所纏。</lzh>
+“Not committed” means if she’s the first offender when the precept hadn’t yet been laid down, if she’s mad, if she’s distracted, or if she’s overcome with pain. (End of the 105th rule.)
+
+<lzh>(五)</lzh>
