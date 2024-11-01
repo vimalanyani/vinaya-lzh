@@ -1841,7 +1841,7 @@ msgstr "pācittiya 68"
 #. </h4><p>
 msgctxt "lzh-dg-bi-pm:292.1"
 msgid "「若比丘尼，作繩床、若木床，足應高佛八指，除入梐孔上。若截竟，過者，波逸提。"
-msgstr "If a bhikkhunī makes a rope bed or a wooden bed, the feet should be eight fingerbreadths of the Buddha in height, without the part that’s inserted in the holes of the frame. If after cutting they’re higher, it’s a pācittiya."
+msgstr "If a bhikkhunī makes a rope bed or a wooden bed, the legs should be eight fingerbreadths of the Buddha in height, without the part that’s inserted in the holes of the frame. If after cutting they’re higher, it’s a pācittiya."
 
 #. </p><h4>
 #. <span class="add"><a id="pc69" class="latin">
@@ -4320,7 +4320,7 @@ msgstr "sekhiya 84"
 #. </h4><p>
 msgctxt "lzh-dg-bi-pm:706.1"
 msgid "「不得向塔舒<span class=\"gaiji\">脚<!--gaiji,腳,1[腳-谷+去],2&#x811A;,3--> </span>坐，應當學。"
-msgstr "Not to sit stretching out the feet towards a stupa should be trained."
+msgstr "Not to sit stretching out the legs towards a stupa should be trained."
 
 #. </p><h4>
 #. <span class="add"><a id="sk85" class="latin">

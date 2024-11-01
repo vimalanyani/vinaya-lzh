@@ -473,7 +473,7 @@ If a bhikkhunī knows that another bhikkhunī has first laid out a bed and a mat
 <lzh>placeholder</lzh>
 <h3>pācittiya 18</h3>
 <lzh>若比丘尼。僧房閣屋上敷尖床。若坐若臥波夜提。</lzh>
-If a bhikkhunī, when a bed with pointed feet has been set up on the upper level of a sleeping platform in a sangha building, sits or lies down there, it is a pācittiya.
+If a bhikkhunī, when a bed with pointed legs has been set up on the upper level of a sleeping platform in a sangha building, sits or lies down there, it is a pācittiya.
 
 <lzh>placeholder</lzh>
 <h3>pācittiya 19</h3>
@@ -718,7 +718,7 @@ If a bhikkhunī uses bone, ivory, or horn to make a needle case, it is a pācitt
 <lzh>placeholder</lzh>
 <h3>pācittiya 64</h3>
 <lzh>若比丘尼作床。應量作長修伽陀八指。除入梐。若過截已波夜提。</lzh>
-If a bhikkhunī makes bed feet, she should make them according to the measurements: eight sugata fingerbreadths in length, without the part that’s inserted in the frame. If she exceeds that, it is a pācittiya, after they’ve been cut off.
+If a bhikkhunī makes bed legs, she should make them according to the measurements: eight sugata fingerbreadths in length, without the part that’s inserted in the frame. If she exceeds that, it is a pācittiya, after they’ve been cut off.
 
 <lzh>placeholder</lzh>
 <h3>pācittiya 65</h3>
@@ -1523,7 +1523,7 @@ Not to teach dhamma to a person who sits clasping their knees, unless they are s
 <lzh>placeholder</lzh>
 <h3>sekhiya 69</h3>
 <lzh>不得為翹人說法除病應當學。</lzh>
-Not to teach dhamma to a person with their feet lifted up, unless they are sick, should be trained.
+Not to teach dhamma to a person standing on tiptoe, unless they are sick, should be trained.
 
 <lzh>placeholder</lzh>
 <h3>sekhiya 70</h3>
