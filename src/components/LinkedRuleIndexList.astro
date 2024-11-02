@@ -25,7 +25,7 @@ const filteredBookData = bookData.filter((book) => !book.path.endsWith("pm"));
           class="mt-4 mb-8 lg:my-11 bg-neutral-200 bg-opacity-30 p-6 rounded-xl"
         >
           <H3>{schoolName + " " + bookName}</H3>
-          <ul class="my-4 text-xl text-neutral-800 columns-2 xl:columns-3 gap-8">
+          <ul class="my-4 text-xl text-neutral-800 columns-3xs gap-8">
             {data.map((rule) => {
               const { rule_class, rule_no, book } = rule;
               const booktitle = book.split(" ");
