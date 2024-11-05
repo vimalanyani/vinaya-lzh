@@ -66,6 +66,11 @@ export const schoolBookGroups = {
       schoolName: "Dharmaguptaka",
       bookName: "Bhikkhunī Garudhamma",
     },
+    {
+      path: "/dg/kd",
+      schoolName: "Dharmaguptaka",
+      bookName: "Bhikkhunī Khandhaka",
+    },
   ],
   sarv: [
     {
