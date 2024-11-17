@@ -1452,8 +1452,8 @@ Not to shake the hand while eating should be trained.
 
 <lzh>placeholder</lzh>
 <h3>sekhiya 55</h3>
-<lzh>不得嫌心看比坐食應當學。</lzh>
-Not to look at and compare a sitting person’s bowl with dissatisfaction while eating should be trained.
+<lzh>不得嫌心看比坐鉢食應當學。</lzh>
+Not to look disapprovingly at the bowl of the person sitting next to one while eating should be trained.
 
 <lzh>placeholder</lzh>
 <h3>sekhiya 56</h3>
