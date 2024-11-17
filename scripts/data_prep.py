@@ -14,6 +14,7 @@ books = {
     "pm": "Bhikkhunī Pātimokkha",
     "gd": "Garudhamma",
     "pn": "Bhikkhunī Pakiṇṇaka",
+    "kd": "Bhikkhunī Khandhaka",
 }
 
 books_with_rule_classes = ["vb"]
@@ -37,62 +38,53 @@ rule_classes = {
 def is_open_grouping_info_line(lang, line, position="start"):
     if line is None:
         return False
-    regex = re.compile(rf"<{lang}-(fascicle|division)-{position}>")
-    return re.match(regex, line)
+    return re.match(rf"<{lang}-(fascicle|division)-{position}>", line)
 
 
 def is_close_grouping_info_line(lang, line, position="start"):
     if line is None:
         return False
-    regex = re.compile(rf".*</{lang}-(fascicle|division)-{position}>")
-    return re.match(regex, line)
+    return re.match(rf".*</{lang}-(fascicle|division)-{position}>", line)
 
 
 def is_h2_line(line):
     if line is None:
         return False
-    regex = re.compile(r"<h2>")
-    return re.match(regex, line)
+    return re.match(r"<h2>", line)
 
 
 def is_open_lzh_line(line):
     if line is None:
         return False
-    regex = re.compile(r"<lzh>")
-    return re.match(regex, line)
+    return re.match(r"<lzh>", line)
 
 
 def is_close_lzh_line(line):
     if line is None:
         return False
-    regex = re.compile(r".*<\/lzh>")
-    return re.match(regex, line)
+    return re.match(r".*<\/lzh>", line)
 
 
 def is_open_verse_line(line):
     if line is None:
         return False
-    regex = re.compile(r"<verse>")
-    return re.match(regex, line)
+    return re.match(r"<verse>", line)
 
 def is_open_lzh_verse_line(line):
     if line is None:
         return False
-    regex = re.compile(r"<lzh-verse>")
-    return re.match(regex, line)
+    return re.match(r"<lzh-verse>", line)
 
 
 def is_close_verse_line(line):
     if line is None:
         return False
-    regex = re.compile(r".*<\/verse>")
-    return re.match(regex, line)
+    return re.match(r".*<\/verse>", line)
 
 def is_close_lzh_verse_line(line):
     if line is None:
         return False
-    regex = re.compile(r".*<\/lzh-verse>")
-    return re.match(regex, line)
+    return re.match(r".*<\/lzh-verse>", line)
 
 
 def extract_rule_number_from_id(id):
