@@ -3029,7 +3029,7 @@ msgstr "pācittiya 167"
 #. </h4><p>
 msgctxt "lzh-dg-bi-pm:490.1"
 msgid "「若比丘尼，知二道合者，與受具足戒，波逸提。"
-msgstr "If a bhikkhunī knows that someone’s anus and urinary tract are joined and gives her the full ordination, it’s a pācittiya."
+msgstr "If a bhikkhunī knows that someone’s anus and vagina are joined and gives her the full ordination, it’s a pācittiya."
 
 #. </p><h4>
 #. <span class="add"><a id="pc168" class="latin">
