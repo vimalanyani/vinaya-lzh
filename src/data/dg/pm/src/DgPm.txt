@@ -7,13 +7,13 @@ DgPm
 </lzh-division-start>
 
 <en-division-start>Taishō vol. 22 no. 1431 (cf. No. 1428)
-Dharmaguptaka Bhikkhunī Pātimokkha (With Introduction)
-Compiled by Samaṇa Huaisu from Xitaiyuan monastery.
+Dharmaguptaka Bhikkhunī Pātimokkha (with Introduction)
+Compiled by the renunciate Huaisu from Xitaiyuan monastery.
 Translated by the Tipiṭaka master Buddhayaśas in the later Qin dynasty.</en-division-start>
 
 
-<lzh>Introductory verses</lzh>
-<h2>Introductory verses</h2>
+<lzh>Introductory Verses</lzh>
+<h2>Introductory Verses</h2>
 
 <lzh-verse>稽首禮諸佛，及法比丘僧，</lzh-verse>
 <verse>Paying respect to the Buddhas, the dhamma, and the bhikkhu sangha,</verse>

@@ -10,12 +10,14 @@ Translated by the renunciates Faxian and Buddhabhadra in Pingyang during the Eas
 </en-division-start>
 
 
-<h2>Introduction</h2>
+<h2>Preliminaries</h2>
 <lzh>阿梨耶僧聽。冬時一月過少一夜。餘有一夜三月在。老死至近佛法欲滅。諸阿梨耶。為得道故一心勤精進。所以者何。諸佛一心勤精進故得阿耨多羅三藐三菩提。何況餘助道法。未受具足者已出。僧今和合先作何事。<lzh-note>(一人應答布薩說戒)</lzh-note></lzh>
-“May the noble sangha listen. The first month of the winter season has already passed, except for one night. One night and three months remain. Old age and death are drawing near, and the Buddha’s dhamma will extinguish. Venerables, to realize the path, strive single-mindedly with diligence. Why? Because the Buddhas have striven single-mindedly with diligence, they’ve realized unsurpassed perfect enlightenment, let alone the other supporting path-factors. Those who have not yet received the full ordination have already left. The sangha is now in harmony. What are we doing first? (One person should answer: ‘The uposatha precepts’ recitation.)
+“May the noble sangha listen. The first month of the winter season has already passed, except for one night. One night and three months remain. Old age and death are drawing near, and the Buddha’s dhamma will extinguish. Venerables, to realize the path, strive single-mindedly with diligence. Why? Because the Buddhas have striven single-mindedly with diligence, they’ve realized unsurpassed perfect enlightenment, let alone the other supporting path-factors. Those who have not yet received the full ordination have already left. The sangha is now in harmony. What are we doing first? (One person should answer: ‘The uposatha precepts’ recitation.’)
 
 <lzh>諸阿梨耶不來。諸比丘尼說欲及清淨。</lzh>
 Some venerables have not come. May the bhikkhunīs convey their consent and purity.
+
+<h2>Introductory Verses</h2>
 
 <lzh-verse>合十指爪掌　　供養釋師子
 我今欲說戒　　僧當一心聽
@@ -63,11 +65,11 @@ That person can attain a pure life in the Buddha’s dhamma.
 
 </verse>
 
-<h2>nidāna</h2>
+<h2>Introduction</h2>
 <lzh>諸阿梨耶僧聽。今十五日布薩說波羅提木叉。若僧時到。僧忍聽。相當一心共作布薩說波羅提木叉。白如是。諸阿梨耶。今共布薩說波羅提木叉。僧一心善聽。有罪者應發露。若無罪者默然。默然故當知諸阿梨耶清淨。如一一比丘尼問答。是比丘尼眾中三唱亦如是。若比丘尼。如是比丘尼眾中第二第三唱。憶有罪者不發露得故妄語罪。諸阿梨耶。故妄語罪佛說遮道法。比丘尼於是中欲求清淨。憶有罪應發露。發露則安隱。不發露罪益深。諸阿梨耶。已說波羅提木叉序。今問諸阿梨耶。是中清淨不。第二第三如是問。諸阿梨耶。是中清淨默然故。是事如是持。</lzh>
 May the noble sangha listen. Today is the uposatha of the 15th day, a pātimokkha recitation. If the right time has come for the sangha, the sangha should give their approval. It is appropriate that we single-mindedly carry out the uposatha, and recite the pātimokkha together. This is the motion. Venerables, now we will do the uposatha, and recite the pātimokkha. May the sangha single-mindedly listen well. Those who have an offense should disclose it. If you have no offense, you should remain silent. By your silence I will know that the venerables are pure. When I call out three times in the midst of the bhikkhunī assembly, it is the same as if the bhikkhunīs were cross-examined individually. If a bhikkhunī, when I call out like this in the midst of the bhikkhunī assembly a second and a third time, remembers that she has an offense, but doesn’t disclose it, she incurs the offense of intentional lying. Venerables, the Buddha has said that the offense of intentional lying obstructs the dhamma path. A bhikkhunī who desires purification herein, and remembers an offense, should disclose it. Disclosing it leads to peace. Through hiding and not disclosing it, the offense increases. Venerables, I have recited the introduction to the pātimokkha. Now I ask the venerables: ‘Are you pure herein?’ A second and third time are asked in the same way. ‘The venerables are pure herein, therefore you are silent. This matter is remembered thus.
 
-<h2>8 pārājika rules</h2>
+<h2>8 Pārājika Rules</h2>
 <lzh>諸阿梨耶。是八波羅夷法。半月半月波羅提木叉。中說。</lzh>
 Venerables, these eight pārājika rules are recited every half-month in the pātimokkha.
 
