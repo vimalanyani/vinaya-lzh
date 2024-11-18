@@ -116,7 +116,7 @@ Now I ask the venerable sisters: ‘Are you pure herein?’ (Repeat three times.
 The venerable sisters are pure herein, therefore you’re silent. This matter is remembered thus.
 
 <lzh>8 pārājika rules</lzh>
-<h2>8 Pārājika Rules</h2>
+<h2>Eight Pārājika Rules</h2>
 
 <lzh>「諸大姊！是八波羅夷法，半月半月說，戒經中來。</lzh>
 Venerable sisters, the eight pārājika rules that are recited every half month in the precepts sutta are coming up.
@@ -1574,7 +1574,7 @@ Now I ask the venerable sisters: ‘Are you pure herein?’ (Repeat three times)
 The venerable sisters are pure herein, therefore you’re silent. This matter is remembered thus.
 
 <lzh>8 pātidesanīya rules</lzh>
-<h2>8 Pātidesanīya Rules</h2>
+<h2>Eight Pātidesanīya Rules</h2>
 
 <lzh>「諸大姊！是八波羅提提舍尼法，半月半月說，戒經中來。</lzh>
 Venerable sisters, the eight pātidesanīya rules that are recited every half month in the precepts sutta are coming up.
@@ -2324,7 +2324,7 @@ Venerable sisters, I’ve recited the introduction to the precepts sutta, the ei
 If there are still other rules of the Buddha, everyone should train in them together in harmony.
 
 <lzh-verse>「忍辱第一道，佛說無為最，</lzh-verse>
-<verse>Patience is the best path, the Buddhas say nothing is higher,</verse>
+<verse>Patience is the best path, the Buddhas say nibbāna is foremost,</verse>
 <lzh-verse>出家惱他人，不名為沙門。</lzh-verse>
 <verse>One gone forth who disturbs others can’t be called a renunciate.</verse>
 
@@ -2352,11 +2352,11 @@ Vessabhū Tathāgata, without attachments and fully enlightened, recited this as
 <lzh-verse>「譬如蜂採花，不壞色與香，</lzh-verse>
 <verse>Just as when bees collect from flowers, they don’t damage their color or scent,</verse>
 <lzh-verse>但取其味去；比丘入聚然，</lzh-verse>
-<verse>But taking their flavor they depart; A bhikkhu entering a village</verse>
+<verse>Just taking their flavor they depart; A bhikkhu entering a village</verse>
 <lzh-verse>不違戾他事，不觀作不作，</lzh-verse>
-<verse>Should not oppose the affairs of others, not observing what is or isn’t being done.</verse>
+<verse>Shouldn’t oppose the affairs of others, and not observe what is or isn’t being done.</verse>
 <lzh-verse>但自觀身行，若正若不正。</lzh-verse>
-<verse>But he should observe his own body and conduct, whether it’s straight or not.</verse>
+<verse>He should just observe his own body and conduct, whether it’s straight or not.</verse>
 
 <lzh>「此是拘樓孫如來．無所著．等正覺，說是戒經。</lzh>
 Kakusandha Tathāgata, without attachments and fully enlightened, recited this as his precepts sutta.
