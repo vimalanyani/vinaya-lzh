@@ -5,12 +5,12 @@ import H2 from "../../components/H2.astro";
 import Link from "../../components/Link.astro";
 import RuleBodyContent from "../../components/RuleBodyContent.astro";
 import { getAllBookRuleData } from "../../utils";
-import { getSchoolPathFilePath } from "../../utils";
+
 import { schoolBookGroups } from "../../data/content";
 
 export async function getStaticPaths() {
   const path = Object.values(schoolBookGroups.mi).filter((meta) =>
-    meta.path.endsWith("gd")
+    meta.path.endsWith("dm")
   )[0].path;
 
   const rulePages = await getAllBookRuleData({
@@ -21,19 +21,18 @@ export async function getStaticPaths() {
     const { file, ...rest } = rule;
 
     return {
-      params: { gd_rule: file },
+      params: { dm: file.toLowerCase() },
       props: { ...rest, rulePath: path },
     };
   });
 }
 
-const { school, book, rule_no, body, prev_file, next_file, rulePath } =
-  Astro.props;
+const { school, book, body } = Astro.props;
 ---
 
 <Layout
-  title={`${school} · ${book} ${rule_no}`}
-  prefixedDescription={`the ${school} ${book} ${rule_no}`}
+  title={school + " · " + book}
+  prefixedDescription={`the ${school} ${book}`}
 >
   <nav class="fixed top-8 right-8">
     <Link
@@ -45,8 +44,8 @@ const { school, book, rule_no, body, prev_file, next_file, rulePath } =
   <main>
     <article>
       <header>
-        <p class="text-xl leading-7 mb-2">{school}</p>
-        <H1 heading={book + " " + rule_no} />
+        <p class="text-xl mb-4 leading-7">{school}</p>
+        <H1 heading={book} />
       </header>
 
       {
@@ -71,31 +70,6 @@ const { school, book, rule_no, body, prev_file, next_file, rulePath } =
           );
         })
       }
-
-      <div class="flex justify-center gap-4 my-12 text-3xl">
-        {
-          prev_file ? (
-            <Link
-              href={`${getSchoolPathFilePath(rulePath)}/${prev_file}`}
-              text={`←`}
-              class="no-underline border-stone-300 border-2 px-4 rounded-full hover:shadow-md hover:border-amber-600"
-            />
-          ) : (
-            <span />
-          )
-        }
-        {
-          next_file ? (
-            <Link
-              href={`${getSchoolPathFilePath(rulePath)}/${next_file}`}
-              text={`→`}
-              class="no-underline border-stone-300 border-2 px-4 rounded-full hover:shadow-md hover:border-amber-600"
-            />
-          ) : (
-            <span />
-          )
-        }
-      </div>
     </article>
   </main>
 </Layout>

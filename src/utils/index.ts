@@ -14,7 +14,7 @@ export const basePath = "/vinaya-lzh";
  *
  */
 
-const bookRenderOrder = ["pm", "vb", "pn", "gd", "kd"];
+const bookRenderOrder = ["pm", "vb", "pn", "gd", "dm", "kd"];
 export const orderBookData = (bookData: BookData[]) => {
   return bookData.sort((a, b) => {
     const book1 = a.path.split("/").pop()!;
