@@ -13,7 +13,7 @@ At that time, Upāli asked the Buddha: “The World-honored One has laid down th
 <h2>Final Ruling</h2>
 
 <lzh>「不高著下衣，應當學。」</lzh>
-Not to wear the lower robe too high should be trained.
+‘Not to wear the lower robe too high should be trained.
 
 <lzh>「不下著下衣。」</lzh>
 Not to wear the lower robe too low.
@@ -310,7 +310,7 @@ Not to teach dhamma to a person holding a knife.<note>The pātimokkha adds “un
 Not to teach dhamma to a person holding bow and arrow.<note>The pātimokkha adds “unless they’re sick”.</note>
 
 <lzh>「樹過人不得上，除大因緣，應當學。大因緣者：惡獸諸難，是名大因緣。」</lzh>
-One may not climb up a tree that’s taller than a person, unless there’s a good reason, should be trained. “A good reason” means there are dangers from a savage animal. This is called “a good reason”. 
+One may not climb up a tree that’s taller than a person, unless there’s a good reason, should be trained. “A good reason” means there are dangers from a savage animal. This is called “a good reason”.’”
 
 <lzh-fascicle-end>五分律卷第十四</lzh-fascicle-end>
 <en-fascicle-end>Mahīśāsaka Vinaya, end of fascicle 14.</en-fascicle-end>
