@@ -17,7 +17,7 @@ const { bookList } = Astro.props;
       bookList.map((book) => {
         let href = "/#" + createAnchor(book.schoolName + " " + book.bookName);
 
-        if (book.path.endsWith("pm") || book.path.endsWith("kd")) {
+        if (book.path.endsWith("pm") || book.path.endsWith("kd") || book.path.endsWith("dm")) {
           href = book.path;
         }
 

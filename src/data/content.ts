@@ -35,15 +35,10 @@ export const schoolBookGroups = {
       bookName: "Bhikkhunī Vibhaṅga",
     },
     {
-      path: "/mi/pn",
+      path: "/mi/dm",
       schoolName: "Mahīśāsaka",
-      bookName: "Bhikkhunī Pakiṇṇaka",
-    },
-    {
-      path: "/mi/gd",
-      schoolName: "Mahīśāsaka",
-      bookName: "Bhikkhunī Garudhamma",
-    },
+      bookName: "Bhikkhunī Dhammaka",
+    }
   ],
   dg: [
     {

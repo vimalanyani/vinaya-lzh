@@ -7,6 +7,7 @@ import copy
 schools = {
     "mg": "Mahāsaṅghika Vinaya",
     "dg": "Dharmaguptaka Vinaya",
+    "mi": "Mahīśāsaka Vinaya",
 }
 
 books = {
@@ -15,6 +16,7 @@ books = {
     "gd": "Garudhamma",
     "pn": "Bhikkhunī Pakiṇṇaka",
     "kd": "Bhikkhunī Khandhaka",
+    "dm": "Bhikkhunī Dhammaka",
 }
 
 books_with_rule_classes = ["vb"]

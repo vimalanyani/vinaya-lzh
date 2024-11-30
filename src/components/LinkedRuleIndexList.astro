@@ -10,7 +10,7 @@ interface Props {
 
 const { bookData } = Astro.props;
 
-const filteredBookData = bookData.filter((book) => !(book.path.endsWith("pm") || book.path.endsWith("kd")));
+const filteredBookData = bookData.filter((book) => !(book.path.endsWith("pm") || book.path.endsWith("dm") || book.path.endsWith("kd")));
 ---
 
 <Fragment>
