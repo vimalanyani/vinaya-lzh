@@ -27,9 +27,9 @@ Some venerables haven’t come. May the bhikkhunīs convey their consent and pur
 佛說切戒行　　亦如利轡勒
 佛口說教誡　　善者能信受
 是人馬調順　　能破煩惱軍
-若不受教　　亦不愛樂戒
+若不受教勅　　亦不愛樂戒
 是人馬不調　　沒在煩惱軍
-若人守護戒　　如牛愛尾
+若人守護戒　　如犛牛愛尾
 繫心不放逸　　亦如猴著鎖
 日夜勤精進　　求實智慧故
 是人佛法中　　能得清淨命</lzh-verse>
@@ -137,7 +137,7 @@ If a bhikkhunī, out of hostility and dissatisfaction, slanders a bhikkhunī, wh
 
 <lzh>placeholder</lzh>
 <h3>Saṅghādisesa 4</h3>
-<lzh>若比丘尼諍訟相言。若俗人若出家人晝日須臾。乃至與園民沙彌共相言。是法初罪僧伽婆尸沙。</lzh>
+<lzh>若比丘尼諍訟相言。若俗人若出家人晝日須臾。乃至與園民沙彌共鬪相言。是法初罪僧伽婆尸沙。</lzh>
 If a bhikkhunī files a court case against householders or renunciates, all day or just a moment, or even just disputes with monastery attendants and sāmaṇeras, it’s an immediate saṅghādisesa offense.
 
 <lzh>placeholder</lzh>
@@ -167,12 +167,12 @@ If a bhikkhunī crosses a river alone at a ferry crossing place, it’s an immed
 
 <lzh>placeholder</lzh>
 <h3>Saṅghādisesa 10</h3>
-<lzh>若比丘尼。知比丘尼僧和合如法比尼作舉羯磨。未作如法。先不語僧自與捨。是法初罪僧伽婆尸沙。</lzh>
+<lzh>若比丘尼。知比丘尼僧和合如法比尼作舉羯磨。未作如法。先不語僧自與捨。是法初罪僧伽婆尸沙。(十事竟)</lzh>
 If a bhikkhunī knows that the bhikkhunī sangha in harmony has carried out an act of suspension according to dhamma and vinaya (against someone) who hasn’t yet acted according to dhamma, and she herself lifts it, without first speaking with the sangha, it’s an immediate saṅghādisesa offense. (End of 10 rules.)
 
 <lzh>placeholder</lzh>
 <h3>Saṅghādisesa 11</h3>
-<lzh>若比丘尼無漏心。漏心男子邊取衣飲食疾病湯藥者。是法初罪僧伽婆尸沙。</lzh>
+<lzh>若比丘尼無漏心。漏心男子邊取衣鉢飲食疾病湯藥者。是法初罪僧伽婆尸沙。</lzh>
 If a bhikkhunī with an undefiled mind receives robes, bowls, drinks, food, liquid remedies and medicines for the sick from a man with a defiled mind, it’s an immediate saṅghādisesa offense.
 
 <lzh>placeholder</lzh>
@@ -212,7 +212,7 @@ If a bhikkhunī sees that they’re living apart from each other, and instructs 
 
 <lzh>placeholder</lzh>
 <h3>Saṅghādisesa 19</h3>
-<lzh>若比丘尼。瞋恚欲捨戒。作是言。我捨佛捨法捨僧。捨說捨共住共食。捨經論捨沙門尼釋種。用是沙門尼釋種為。餘更有勝處。我於彼中修梵行。諸比丘尼應諫是比丘尼言。阿梨耶。莫瞋恚捨戒作是言。我捨佛乃至捨沙門尼釋種。捨佛者不善。諸比丘尼如是諫時。故堅持不捨者應第二第三諫。捨是事好。若不捨是法乃至三諫。僧伽婆尸沙。</lzh>
+<lzh>若比丘尼。瞋恚欲捨戒。作是言。我捨佛捨法捨僧。捨說捨共住共食。捨經論捨沙門尼釋種。用是沙門尼釋種為。餘更有勝處。我於彼中修梵行。諸比丘尼應諫是比丘尼言。阿梨耶。莫瞋恚捨戒作是言。我捨佛乃至捨沙門尼釋種。捨佛者不善。諸比丘尼如是諫時。故堅持不捨者應第二第三諫。捨是事好。若不捨是法乃至三諫。僧伽婆尸沙。(十九事竟)</lzh>
 If a bhikkhunī resentfully wants to renounce the precepts, and says: ‘I renounce the Buddha, renounce the dhamma, renounce the sangha, renounce speaking, renounce living in community, renounce eating together, renounce the discourses and treatises, and renounce the Sakyan renunciates. What use are these Sakyan renunciates to me? There are other superior places. I’ll practise the monastic life there,’ the bhikkhunīs should admonish her: ‘Venerable, don’t resentfully renounce the precepts, and say: “I renounce the Buddha, … I renounce the Sakyan renunciates.” Renouncing the Buddha isn’t good.’ If she, when admonished by the bhikkhunīs like this, persists firmly, and doesn’t give it up, she should be admonished a second and a third time. If she gives up this matter, it’s fine. If not, this rule is a saṅghādisesa after three admonishments. (End of 19 rules.)
 
 <lzh>諸阿梨耶已說十九僧伽婆尸沙法十一初罪八乃至三諫若比丘尼犯一一罪。半月二部眾中行摩那埵。次到阿浮呵那二十眾二部僧中應出罪。稱可眾人意。二十人中若少一人。此比丘尼不名出罪。諸比丘比丘尼應呵責。是名時。今問諸阿梨耶。是中清淨不。第二第三亦如是問。諸阿梨耶。是中清淨默然故。是事如是持。</lzh>
@@ -274,7 +274,7 @@ If, for a bhikkhunī, a king or a high official sends a messenger with a robe fu
 
 <lzh>placeholder</lzh>
 <h3>Nissaggiya Pācittiya 11</h3>
-<lzh>若比丘尼。為床褥乞。而自作衣飲食疾病湯藥者。尼薩耆波夜提。</lzh>
+<lzh>若比丘尼。為床褥乞。而自作衣鉢飲食疾病湯藥者。尼薩耆波夜提。</lzh>
 If a bhikkhunī asks for beds and mats, but then herself exchanges them for robes, bowls, drinks, food, or liquid remedies and medicines for the sick for herself, it’s a nissaggiya pācittiya.
 
 <lzh>placeholder</lzh>
@@ -284,12 +284,12 @@ If a bhikkhunī uses offerings from people for a certain purpose to do something
 
 <lzh>placeholder</lzh>
 <h3>Nissaggiya Pācittiya 13</h3>
-<lzh>若比丘尼為食乞作衣飲食湯藥受用者。尼薩耆波夜提。</lzh>
+<lzh>若比丘尼為食乞作衣鉢飲食湯藥受用者。尼薩耆波夜提。</lzh>
 If a bhikkhunī asks for food, exchanges it for robes, bowls, drinks, food, liquid remedies, and medicines, and uses them, it’s a nissaggiya pācittiya.
 
 <lzh>placeholder</lzh>
 <h3>Nissaggiya Pācittiya 14</h3>
-<lzh>若比丘尼畜長尼薩耆波夜提。</lzh>
+<lzh>若比丘尼畜長鉢尼薩耆波夜提。</lzh>
 If a bhikkhunī keeps a spare bowl, it’s a nissaggiya pācittiya.
 
 <lzh>placeholder</lzh>
@@ -324,12 +324,12 @@ If a bhikkhunī buys a thin, light robe for more than two and a half kārṣāpa
 
 <lzh>placeholder</lzh>
 <h3>Nissaggiya Pācittiya 21</h3>
-<lzh>若比丘尼。長得十日畜。若過者尼薩耆波夜提。</lzh>
+<lzh>若比丘尼。長鉢得十日畜。若過者尼薩耆波夜提。</lzh>
 If a bhikkhunī has a spare bowl, she may keep it for ten days. If she exceeds that, it’s a nissaggiya pācittiya.
 
 <lzh>placeholder</lzh>
 <h3>Nissaggiya Pācittiya 22</h3>
-<lzh>若比丘尼。所用減五綴。更乞新為好故。尼薩耆波夜提。是應僧中捨。比丘尼眾中。最下應與應如是教。汝比丘尼受是乃至破是事法爾。</lzh>
+<lzh>若比丘尼。所用鉢減五綴。更乞新鉢為好故。尼薩耆波夜提。是鉢應僧中捨。比丘尼眾中。最下鉢應與應如是教。汝比丘尼受是鉢乃至破是事法爾。</lzh>
 If a bhikkhunī with a used bowl with less than five mends, asks for a new bowl in order to get something good, it’s a nissaggiya pācittiya. That bowl should be given up in the midst of the sangha. The bhikkhunī sangha’s most inferior bowl should be given to her, and she should be instructed: ‘You, bhikkhunī, should accept this bowl until it breaks.’ This procedure should be done thus.
 
 <lzh>placeholder</lzh>
@@ -369,7 +369,7 @@ If a bhikkhunī knows that someone has bought something, but snatches and buys i
 
 <lzh>placeholder</lzh>
 <h3>Nissaggiya Pācittiya 30</h3>
-<lzh>若比丘尼。知他物向僧自迴向已。尼薩耆波夜提。</lzh>
+<lzh>若比丘尼。知他物向僧自迴向已。尼薩耆波夜提。(三十事竟)</lzh>
 If a bhikkhunī knows that an item is for the sangha, and she diverts it to herself, it’s a nissaggiya pācittiya. (End of 30 rules.)
 
 <lzh>諸阿梨耶。已說三十尼薩耆波夜提法。今問諸阿梨耶。是中清淨不。第二第三亦如是問。諸阿梨耶。是中清淨默然故。是事如是持。</lzh>
@@ -419,7 +419,7 @@ If a bhikkhunī praises herself in front of a not fully ordained person for havi
 
 <lzh>placeholder</lzh>
 <h3>Pācittiya 8</h3>
-<lzh>若比丘尼。知他比丘尼罪。向未受具戒人說。除僧羯磨波夜提。</lzh>
+<lzh>若比丘尼。知他比丘尼麁罪。向未受具戒人說。除僧羯磨波夜提。</lzh>
 If a bhikkhunī knows that another bhikkhunī has committed a coarse offense, and tells it to a not fully ordained person, unless the sangha has done a formal act, it’s a pācittiya.
 
 <lzh>placeholder</lzh>
@@ -429,7 +429,7 @@ If a bhikkhunī, when the sangha wants to distribute items, first allows to give
 
 <lzh>placeholder</lzh>
 <h3>Pācittiya 10</h3>
-<lzh>若比丘尼。半月誦波羅提木叉經時作是言。阿梨耶。用說是雜碎戒為使諸比丘尼生疑悔作是輕呵戒因緣不異波夜提。</lzh>
+<lzh>若比丘尼。半月誦波羅提木叉經時作是言。阿梨耶。用說是雜碎戒為使諸比丘尼生疑悔作是輕呵戒因緣不異波夜提。(十事竟)</lzh>
 If a bhikkhunī, when the pātimokkha sutta is being recited half-monthly, says: ‘Venerables, what use is the recitation of these miscellaneous and fragmented precepts that cause the bhikkhunīs to give rise to doubt and regret,’ and belittles and criticizes the precepts for this reason and no other, it’s a pācittiya. (End of 10 rules.)
 
 <lzh-division-start>placeholder</lzh-division-start>
@@ -472,7 +472,7 @@ If a bhikkhunī knows that another bhikkhunī has first laid out a bed and a mat
 
 <lzh>placeholder</lzh>
 <h3>Pācittiya 18</h3>
-<lzh>若比丘尼。僧房閣屋上敷尖床。若坐若臥波夜提。</lzh>
+<lzh>若比丘尼。僧房閣屋上敷尖脚床。若坐若臥波夜提。</lzh>
 If a bhikkhunī, when a bed with pointed legs has been set up on the upper level of a sleeping platform in a sangha building, sits or lies down there, it’s a pācittiya.
 
 <lzh>placeholder</lzh>
@@ -482,7 +482,7 @@ If a bhikkhunī knows that there are insects in water, and pours it on grass or 
 
 <lzh>placeholder</lzh>
 <h3>Pācittiya 20</h3>
-<lzh>若比丘尼。故令他比丘尼起疑悔須臾不樂。是因緣不異波夜提。</lzh>
+<lzh>若比丘尼。故令他比丘尼起疑悔須臾不樂。是因緣不異波夜提。(二十事竟)</lzh>
 If a bhikkhunī intentionally causes doubt and regret, or even just momentary unhappiness, to arise in another bhikkhunī, for this reason and no other, it’s a pācittiya. (End of 20 rules.)
 
 <lzh-division-start>placeholder</lzh-division-start>
@@ -525,17 +525,17 @@ If a bhikkhunī eats stored food, it’s a pācittiya.
 
 <lzh>placeholder</lzh>
 <h3>Pācittiya 28</h3>
-<lzh>若比丘尼。往白衣家。自恣與餅得受兩三。出外共不病比丘尼食。若過受出外不共不病比丘尼食者。波夜提。</lzh>
+<lzh>若比丘尼。往白衣家。自恣與餅麨得受兩三鉢。出外共不病比丘尼食。若過受出外不共不病比丘尼食者。波夜提。</lzh>
 If a bhikkhunī goes to the house of a lay person, and is invited to take cakes and flour, she may accept two or three bowlfuls. Having gone outside, she should eat them together with the bhikkhunīs who aren’t sick. If she accepts more, or doesn’t go outside to eat them together with the bhikkhunīs who aren’t sick, it’s a pācittiya.
 
 <lzh>placeholder</lzh>
 <h3>Pācittiya 29</h3>
-<lzh>若比丘尼。戲笑藏他衣尼師壇鍼筒。若使人藏波夜提。</lzh>
+<lzh>若比丘尼。戲笑藏他衣鉢尼師壇鍼筒。若使人藏波夜提。</lzh>
 If a bhikkhunī just for fun hides another’s robe, bowl, sitting mat, or needle case, or has others hide them, it’s a pācittiya.
 
 <lzh>placeholder</lzh>
 <h3>Pācittiya 30</h3>
-<lzh>若比丘尼。別眾食。除餘時波夜提。餘時者。病時衣時行時船上時大眾時外道施食時。</lzh>
+<lzh>若比丘尼。別眾食。除餘時波夜提。餘時者。病時衣時行時船上時大眾時外道施食時。(三十事竟)</lzh>
 If a bhikkhunī eats in a separate group, except at a suitable time, it’s a pācittiya. These are the suitable times: when she’s sick, during robe-season, when travelling, when on a boat, when there’s a great assembly, when non-Buddhist renunciates offer a meal. (End of 30 rules.)
 
 <lzh-division-start>placeholder</lzh-division-start>
@@ -543,7 +543,7 @@ If a bhikkhunī eats in a separate group, except at a suitable time, it’s a p�
 <lzh>Pācittiya 31</lzh>
 <h3>Pācittiya 31</h3>
 
-<lzh>若比丘尼。無病為身然草木牛。若自然若使人然。除因緣波夜提。</lzh>
+<lzh>若比丘尼。無病為身然草木牛屎。若自然若使人然。除因緣波夜提。</lzh>
 If a bhikkhunī who isn’t sick herself lights grass, wood, or cowdung for bodily comfort, or has others light them, unless there’s a reason, it’s a pācittiya.
 
 <lzh>placeholder</lzh>
@@ -588,7 +588,7 @@ If a bhikkhunī herself picks up a jewel or something called ‘a jewel’ in th
 
 <lzh>placeholder</lzh>
 <h3>Pācittiya 40</h3>
-<lzh>若比丘尼。恐怖比丘尼波夜提。</lzh>
+<lzh>若比丘尼。恐怖比丘尼波夜提。(四十事竟)</lzh>
 If a bhikkhunī frightens another bhikkhunī, it’s a pācittiya. (End of 40 rules.)
 
 <lzh-division-start>placeholder</lzh-division-start>
@@ -626,7 +626,7 @@ If a bhikkhunī has some business there, she may go to an army and spend three n
 
 <lzh>placeholder</lzh>
 <h3>Pācittiya 47</h3>
-<lzh>若比丘尼。有因緣事得到軍中三宿。若看軍發行牙旗勢波夜提。</lzh>
+<lzh>若比丘尼。有因緣事得到軍中三宿。若看軍發行牙旗鬪勢波夜提。</lzh>
 If a bhikkhunī has some business there, and may go to an army and spend three nights there, if she watches the army set out, hoist a flag, or fight, it’s a pācittiya.
 
 <lzh>placeholder</lzh>
@@ -641,7 +641,7 @@ If a bhikkhunī threatens another bhikkhunī with her palm as a weapon out of ho
 
 <lzh>placeholder</lzh>
 <h3>Pācittiya 50</h3>
-<lzh>若比丘尼。水中戲波夜提。</lzh>
+<lzh>若比丘尼。水中戲波夜提。(五十事竟)</lzh>
 If a bhikkhunī plays in water, it’s a pācittiya. (End of 50 rules.)
 
 <lzh-division-start>placeholder</lzh-division-start>
@@ -694,7 +694,7 @@ If a bhikkhunī, when the sangha wants to settle matters, doesn’t give consent
 
 <lzh>placeholder</lzh>
 <h3>Pācittiya 60</h3>
-<lzh>若比丘尼。半月說波羅提木叉經時作是言。我今始知是法入修多羅半月波羅提木叉中說。諸比丘尼知彼比丘尼本若二若三。說波羅提木叉經中坐況復多。彼比丘尼不以不知故無罪。隨所犯罪如法治。應呵言。阿梨耶。汝失善利。半月說波羅提木叉。汝不尊重不一心念。不攝耳聽法。呵已波夜提。</lzh>
+<lzh>若比丘尼。半月說波羅提木叉經時作是言。我今始知是法入修多羅半月波羅提木叉中說。諸比丘尼知彼比丘尼本若二若三。說波羅提木叉經中坐況復多。彼比丘尼不以不知故無罪。隨所犯罪如法治。應呵言。阿梨耶。汝失善利。半月說波羅提木叉。汝不尊重不一心念。不攝耳聽法。呵已波夜提。(六十事竟)</lzh>
 If a bhikkhunī, during the half-monthly pātimokkha sutta recitation, says: ‘I now only know that this rule is included in the sutta, and recited every half-month in the pātimokkha,’ and if the bhikkhunīs know that that bhikkhunī already sat in the recitation of the pātimokkha sutta two, three or even more times, that bhikkhunī isn’t free from offense because she didn’t know. She should be dealt with according to dhamma depending on the offense she committed, and should be criticized: ‘Venerable, you lost good benefits. During the half-monthly pātimokkha recitation, you aren’t respectful, don’t single-mindedly pay attention, and don’t lend an ear to hear the dhamma.’ After criticizing her, it’s a pācittiya. (End of 60 rules.)
 
 <lzh-division-start>placeholder</lzh-division-start>
@@ -717,7 +717,7 @@ If a bhikkhunī uses bone, ivory, or horn to make a needle case, it’s a pācit
 
 <lzh>placeholder</lzh>
 <h3>Pācittiya 64</h3>
-<lzh>若比丘尼作床。應量作長修伽陀八指。除入梐。若過截已波夜提。</lzh>
+<lzh>若比丘尼作床脚。應量作長修伽陀八指。除入梐。若過截已波夜提。</lzh>
 If a bhikkhunī makes bed legs, she should make them according to the measurements: eight sugata fingerbreadths in length, without the part that’s inserted in the frame. If she exceeds that, it’s a pācittiya, after they’ve been cut off.
 
 <lzh>placeholder</lzh>
@@ -747,7 +747,7 @@ If a bhikkhunī, out of hostility and dissatisfaction, slanders someone with an 
 
 <lzh>placeholder</lzh>
 <h3>Pācittiya 70</h3>
-<lzh>若比丘尼。知物向僧迴向與人波夜提。</lzh>
+<lzh>若比丘尼。知物向僧迴向與人波夜提。(七十事竟)</lzh>
 If a bhikkhunī knows that an item is for the sangha, and she diverts it to an individual, it’s a pācittiya. (End of 70 rules.)
 
 <lzh-division-start>placeholder</lzh-division-start>
@@ -800,7 +800,7 @@ If a bhikkhunī, when a bhikkhu is eating, offers him water or a fan, it’s a p
 
 <lzh>placeholder</lzh>
 <h3>Pācittiya 80</h3>
-<lzh>若比丘尼。食蒜者波夜提。</lzh>
+<lzh>若比丘尼。食蒜者波夜提。(八十事竟)</lzh>
 If a bhikkhunī eats garlic, it’s a pācittiya. (End of 80 rules.)
 
 <lzh-division-start>placeholder</lzh-division-start>
@@ -838,7 +838,7 @@ If a bhikkhunī lives closely together with lay people and non-Buddhist renuncia
 
 <lzh>placeholder</lzh>
 <h3>Pācittiya 87</h3>
-<lzh>若比丘尼。自誓他者波夜提。</lzh>
+<lzh>若比丘尼。自呪誓他者波夜提。</lzh>
 If a bhikkhunī curses herself or others by swearing, it’s a pācittiya.
 
 <lzh>placeholder</lzh>
@@ -853,7 +853,7 @@ If a bhikkhunī says to another bhikkhunī: ‘Venerable, let’s go together to
 
 <lzh>placeholder</lzh>
 <h3>Pācittiya 90</h3>
-<lzh>若比丘尼。慳嫉心護他家者波夜提。</lzh>
+<lzh>若比丘尼。慳嫉心護他家者波夜提。(九十事竟)</lzh>
 If a bhikkhunī protects households out of stinginess and jealousy, it’s a pācittiya. (End of 90 rules.)
 
 <lzh-division-start>placeholder</lzh-division-start>
@@ -906,7 +906,7 @@ If a bhikkhunī gives the full ordination to someone, who has fully trained in t
 
 <lzh>placeholder</lzh>
 <h3>Pācittiya 100</h3>
-<lzh>若比丘尼。適他婦減十二雨。與受具足者波夜提。</lzh>
+<lzh>若比丘尼。適他婦減十二雨。與受具足者波夜提。(一百事竟)</lzh>
 If a bhikkhunī gives the full ordination to a married woman who is less than 12 years old, it’s a pācittiya. (End of 100 rules.)
 
 <lzh-division-start>placeholder</lzh-division-start>
@@ -959,7 +959,7 @@ If a bhikkhunī, when the bhikkhunīs say to her: ‘Venerable, not fulfilling t
 
 <lzh>placeholder</lzh>
 <h3>Pācittiya 110</h3>
-<lzh>若比丘尼語式叉摩尼言。學戒滿。當與汝受具足。後不與受不使人受。又不遣去者波夜提。</lzh>
+<lzh>若比丘尼語式叉摩尼言。學戒滿。當與汝受具足。後不與受不使人受。又不遣去者波夜提。(百一十事竟)</lzh>
 If a bhikkhunī says to a sikkhamānā: ‘When you’re fully trained in the precepts, I’ll give you the full ordination,’ but later doesn’t give it, doesn’t have others give it, and also doesn’t send her away, it’s a pācittiya. (End of 110 rules.)
 
 <lzh-division-start>placeholder</lzh-division-start>
@@ -1012,7 +1012,7 @@ If a bhikkhunī visits a park, a grove, or ancient ruins in her own country, it�
 
 <lzh>placeholder</lzh>
 <h3>Pācittiya 120</h3>
-<lzh>若比丘尼。共一比丘空靜處坐波夜提。</lzh>
+<lzh>若比丘尼。共一比丘空靜處坐波夜提。(百二十事竟)</lzh>
 If a bhikkhunī sits together with one bhikkhu in an empty, quiet place, it’s a pācittiya. (End of 120 rules.)
 
 <lzh-division-start>placeholder</lzh-division-start>
@@ -1040,7 +1040,7 @@ If a bhikkhunī goes to watch a musical performance, it’s a pācittiya.
 
 <lzh>placeholder</lzh>
 <h3>Pācittiya 125</h3>
-<lzh>若比丘尼。諍不和合住。眾主不料理斷滅者波夜提。</lzh>
+<lzh>若比丘尼。鬪諍不和合住。眾主不料理斷滅者波夜提。</lzh>
 If bhikkhunīs are quarelling and don’t live in harmony, and the group’s leader doesn’t take action to settle it, it’s a pācittiya.
 
 <lzh>placeholder</lzh>
@@ -1065,7 +1065,7 @@ If a bhikkhunī who isn’t sick has a sikkhamānā massage her, it’s a pācit
 
 <lzh>placeholder</lzh>
 <h3>Pācittiya 130</h3>
-<lzh>若比丘尼。不病令俗人婦女揩摩者波夜提。</lzh>
+<lzh>若比丘尼。不病令俗人婦女揩摩者波夜提。(一百三十事竟)</lzh>
 If a bhikkhunī who isn’t sick has a lay woman massage her, it’s a pācittiya. (End of 130 rules.)
 
 <lzh-division-start>placeholder</lzh-division-start>
@@ -1123,7 +1123,7 @@ If a bhikkhunī defecates or urinates in water, it’s a pācittiya.
 
 <lzh>placeholder</lzh>
 <h3>Pācittiya 141</h3>
-<lzh>若比丘尼。知眾利迴與一眾波夜提。</lzh>
+<lzh>若比丘尼。知眾利迴與一眾波夜提。(一百四十一事竟)</lzh>
 If a bhikkhunī knowingly diverts donations for one group to another group, it’s a pācittiya. (End of 141 rules.)
 
 <lzh>諸阿梨耶。已說百四十一波夜提法。今問諸阿梨耶。是中清淨不。第二第三亦如是問。諸阿梨耶。是中清淨默然故。是事如是持。</lzh>
@@ -1197,7 +1197,7 @@ Not to wear the inner robe unevenly.
 
 <lzh>placeholder</lzh>
 <h3>Sekhiya 4</h3>
-<lzh>不百著內衣</lzh>
+<lzh>不百襵著內衣</lzh>
 Not to wear the inner robe in a hundred pleats.
 
 <lzh>placeholder</lzh>
@@ -1227,7 +1227,7 @@ Not to wear the inner robe like an elephant’s trunk. (These above nine precept
 
 <lzh>placeholder</lzh>
 <h3>Sekhiya 10</h3>
-<lzh>齊整著內衣應當學。</lzh>
+<lzh>齊整著內衣應當學。(十事竟)</lzh>
 To wear the inner robe neatly should be trained. (End of 10 rules.)
 
 <lzh>placeholder</lzh>
@@ -1287,7 +1287,7 @@ Not to enter lay houses with the robe reversed<note> Inside out and on the wrong
 
 <lzh>placeholder</lzh>
 <h3>Sekhiya 22</h3>
-<lzh>不得指行入家內應當學。</lzh>
+<lzh>不得脚指行入家內應當學。</lzh>
 Not to enter lay houses walking on the toes should be trained.
 
 <lzh>placeholder</lzh>
@@ -1347,7 +1347,7 @@ Not to sit in lay houses clasping the knees should be trained.
 
 <lzh>placeholder</lzh>
 <h3>Sekhiya 34</h3>
-<lzh>不得交坐家內應當學。</lzh>
+<lzh>不得交脚坐家內應當學。</lzh>
 Not to sit in lay houses with the feet crossed should be trained.
 
 <lzh>placeholder</lzh>
@@ -1412,7 +1412,7 @@ Not to speak with food in the mouth should be trained.
 
 <lzh>placeholder</lzh>
 <h3>Sekhiya 47</h3>
-<lzh>不得指抆食應當學。</lzh>
+<lzh>不得指抆鉢食應當學。</lzh>
 Not to wipe the bowl with the finger when eating should be trained.
 
 <lzh>placeholder</lzh>
@@ -1427,7 +1427,7 @@ Not to eat sucking on the fingers should be trained.
 
 <lzh>placeholder</lzh>
 <h3>Sekhiya 50</h3>
-<lzh>不得 作聲食應當學。</lzh>
+<lzh>不得㗘㗱作聲食應當學。</lzh>
 Not to eat making a ‘capucapu’ noise should be trained.
 
 <lzh>placeholder</lzh>
@@ -1457,7 +1457,7 @@ Not to look disapprovingly at the bowl of the person sitting next to one while e
 
 <lzh>placeholder</lzh>
 <h3>Sekhiya 56</h3>
-<lzh>端心視食應當學。</lzh>
+<lzh>端心視鉢食應當學。</lzh>
 Observing the bowl with an upright mind while eating should be trained.
 
 <lzh>placeholder</lzh>
@@ -1477,7 +1477,7 @@ Not to receive drinking utensils with a dirty hand should be trained.
 
 <lzh>placeholder</lzh>
 <h3>Sekhiya 60</h3>
-<lzh>不得以中殘食棄地應當學。</lzh>
+<lzh>不得以鉢中殘食棄地應當學。</lzh>
 Not to throw food leftover in the bowl on the ground should be trained.
 
 <lzh>placeholder</lzh>
@@ -1562,7 +1562,7 @@ Not to teach dhamma to a person on the path when one is off the path, unless the
 
 <lzh>placeholder</lzh>
 <h3>Sekhiya 77</h3>
-<lzh>不得立大小便除病應當學。</lzh>
+<lzh>不得立大小便除病應當學。(七十七事竟)</lzh>
 Not to defecate or urinate while standing, unless one is sick, should be trained. (End of 77 rules.)
 
 <lzh>諸阿梨耶。已說眾學法。今問諸阿梨耶。是中清淨不。第二第三亦如是問。諸阿梨耶。是中清淨默然故。是事如是持。</lzh>
