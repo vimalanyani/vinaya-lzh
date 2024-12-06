@@ -1,12 +1,12 @@
 DgPm
 
-<lzh-division-start>Taishō vol. 22 no. 1431 (cf. No. 1428)
+<lzh-division-start>Taishō vol.22 no.1431 [cf.no.1428]
 四分尼戒本(并序)
 西太原寺沙門懷素集
 後秦三藏佛陀耶舍譯
 </lzh-division-start>
 
-<en-division-start>Taishō vol. 22 no. 1431 (cf. No. 1428)
+<en-division-start>Taishō vol.22 no.1431 [cf.no.1428]
 Dharmaguptaka Bhikkhunī Pātimokkha (with Introduction)
 Compiled by the renunciate Huaisu from Xitaiyuan monastery.
 Translated by the Tipiṭaka master Buddhayaśas in the later Qin dynasty.</en-division-start>
@@ -278,7 +278,7 @@ If a bhikkhunī, when the bhikkhunī sangha carries out criticism and admonishme
 <h3>Saṅghādisesa 16</h3>
 
 <lzh>「若比丘尼，趣以一小事瞋恚不喜，便作是語：『我捨佛、捨法、捨僧。不獨有此沙門釋子，亦更有餘沙門、婆羅門、修梵行者，我等亦可於彼修梵行。』是比丘尼當諫彼比丘尼言：『大姊！汝莫趣以一小事瞋恚不喜，便作是語：「我捨佛、捨法、捨僧。不獨有此沙門釋子，亦更有餘沙門、婆羅門、修梵行者。我等亦可於彼修梵行。」』若是比丘尼諫彼比丘尼時，堅持不捨。彼比丘尼應三諫，捨此事故。乃至三諫，捨者善。不捨者，是比丘尼犯三法應捨，僧伽婆尸沙。</lzh>
-If a bhikkhunī, just because of a small matter, angry and dissatisfied, says: ‘I renounce the Buddha, I renounce the dhamma, and I renounce the sangha. There aren’t only the renunciates that are children of the Sakyan. There are also other renunciates and brahmins who practise the monastic life. I can also practise the monastic life with them,’ the bhikkhunīs should admonish that bhikkhunī: ‘Venerable sister, don’t just because of a small matter, angry and dissatisfied, say: “I renounce the Buddha, I renounce the dhamma, and I renounce the sangha. There aren’t only the renunciates that are children of the Sakyan. There are also other renunciates and brahmins who practise the monastic life. I can also practise the monastic life with them.”’ If when the bhikkhunīs admonish that bhikkhunī, she holds firmly on to it and doesn’t give it up, the bhikkhunīs should admonish her three times to give up this matter. If she gives it up by the third time, it’s fine. If not, that bhikkhunī commits an offense that should be given up after three admonishments, a saṅghādisesa.
+If a bhikkhunī, just because of a small matter, angry and dissatisfied, says: ‘I renounce the Buddha, I renounce the dhamma, and I renounce the sangha. There aren’t only the renunciates that are Sakyan children. There are also other renunciates and brahmins who practise the monastic life. I can also practise the monastic life with them,’ the bhikkhunīs should admonish that bhikkhunī: ‘Venerable sister, don’t just because of a small matter, angry and dissatisfied, say: “I renounce the Buddha, I renounce the dhamma, and I renounce the sangha. There aren’t only the renunciates that are Sakyan children. There are also other renunciates and brahmins who practise the monastic life. I can also practise the monastic life with them.”’ If when the bhikkhunīs admonish that bhikkhunī, she holds firmly on to it and doesn’t give it up, the bhikkhunīs should admonish her three times to give up this matter. If she gives it up by the third time, it’s fine. If not, that bhikkhunī commits an offense that should be given up after three admonishments, a saṅghādisesa.
 
 <lzh>saṅghādisesa 17</lzh>
 <h3>Saṅghādisesa 17</h3>
@@ -812,7 +812,7 @@ If a bhikkhunī says: ‘I understand that in the dhamma spoken by the Buddha, e
 <h3>Pācittiya 53</h3>
 
 <lzh>「若比丘尼，知如是語人未作法，如是惡邪不捨，若畜，同一羯磨、同一止宿，波逸提。</lzh>
-If a bhikkhunī knows that the person who said this hasn’t yet acted according to dhamma and hasn’t given up this unwholesome wrong view, but takes her in, does formal acts together with her, and stays overnight with her, it’s a pācittiya.
+If a bhikkhunī knows that the person who said this hasn’t yet acted according to dhamma and hasn’t given up this unwholesome, wrong view, but takes her in, does formal acts together with her, and stays overnight with her, it’s a pācittiya.
 
 <lzh>pācittiya 54</lzh>
 <h3>Pācittiya 54</h3>
