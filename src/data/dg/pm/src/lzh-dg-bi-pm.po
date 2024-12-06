@@ -599,7 +599,7 @@ msgstr "saṅghādisesa 16"
 #. </h4><p><a class="sc" id="27"></a>
 msgctxt "lzh-dg-bi-pm:84.1"
 msgid "「若比丘尼，趣以一小事瞋恚不喜，便作是語：『我捨佛、捨法、捨僧。不獨有此沙門釋子，亦更有餘沙門、婆羅門、修梵行者，我等亦可於彼修梵行。』是比丘尼當諫彼比丘尼言：『大姊！汝莫趣以一小事瞋恚不喜，便作是語：「我捨佛、捨法、捨僧。不獨有此沙門釋子，亦更有餘沙門、婆羅門、修梵行者。我等亦可於彼修梵行。」』若是比丘尼諫彼比丘尼時，堅持不捨。彼比丘尼應三諫，捨此事故。乃至三諫，捨者善。不捨者，是比丘尼犯三法應捨，僧伽婆尸沙。"
-msgstr "If a bhikkhunī, just because of a small matter, angry and dissatisfied, says: ‘I renounce the Buddha, I renounce the dhamma, and I renounce the sangha. There aren’t only the renunciates that are children of the Sakyan. There are also other renunciates and brahmins who practise the monastic life. I can also practise the monastic life with them,’ the bhikkhunīs should admonish that bhikkhunī: ‘Venerable sister, don’t just because of a small matter, angry and dissatisfied, say: “I renounce the Buddha, I renounce the dhamma, and I renounce the sangha. There aren’t only the renunciates that are children of the Sakyan. There are also other renunciates and brahmins who practise the monastic life. I can also practise the monastic life with them.”’ If when the bhikkhunīs admonish that bhikkhunī, she holds firmly on to it and doesn’t give it up, the bhikkhunīs should admonish her three times to give up this matter. If she gives it up by the third time, it’s fine. If not, that bhikkhunī commits an offense that should be given up after three admonishments, a saṅghādisesa."
+msgstr "If a bhikkhunī, just because of a small matter, angry and dissatisfied, says: ‘I renounce the Buddha, I renounce the dhamma, and I renounce the sangha. There aren’t only the renunciates that are Sakyan children. There are also other renunciates and brahmins who practise the monastic life. I can also practise the monastic life with them,’ the bhikkhunīs should admonish that bhikkhunī: ‘Venerable sister, don’t just because of a small matter, angry and dissatisfied, say: “I renounce the Buddha, I renounce the dhamma, and I renounce the sangha. There aren’t only the renunciates that are Sakyan children. There are also other renunciates and brahmins who practise the monastic life. I can also practise the monastic life with them.”’ If when the bhikkhunīs admonish that bhikkhunī, she holds firmly on to it and doesn’t give it up, the bhikkhunīs should admonish her three times to give up this matter. If she gives it up by the third time, it’s fine. If not, that bhikkhunī commits an offense that should be given up after three admonishments, a saṅghādisesa."
 
 #. </p><h4>
 #. <span class="add"><a id="ss17" class="latin">
@@ -1661,7 +1661,7 @@ msgstr "pācittiya 53"
 #. </h4><p>
 msgctxt "lzh-dg-bi-pm:262.1"
 msgid "「若比丘尼，知如是語人未作法，如是惡邪不捨，若畜，同一羯磨、同一止宿，波逸提。"
-msgstr "If a bhikkhunī knows that the person who said this hasn’t yet acted according to dhamma and hasn’t given up this unwholesome wrong view, but takes her in, does formal acts together with her, and stays overnight with her, it’s a pācittiya."
+msgstr "If a bhikkhunī knows that the person who said this hasn’t yet acted according to dhamma and hasn’t given up this unwholesome, wrong view, but takes her in, does formal acts together with her, and stays overnight with her, it’s a pācittiya."
 
 #. </p><h4>
 #. <span class="add"><a id="pc54" class="latin">
