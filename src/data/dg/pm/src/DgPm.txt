@@ -284,7 +284,7 @@ If a bhikkhunī, just because of a small matter, angry and dissatisfied, says: �
 <h3>Saṅghādisesa 17</h3>
 
 <lzh>「若比丘尼，憙鬪諍，不善憶持諍事，後瞋恚，作是語：『僧有愛、有恚、有怖、有癡。』是比丘尼應諫彼比丘尼言：『妹！汝莫憙鬪諍，不善憶持諍事，後瞋恚，作是語：「僧有愛、有恚、有怖、有癡。」而僧不愛、不恚、不怖、不癡；汝自有愛、有恚、有怖、有癡。』是比丘尼諫彼比丘尼時，堅持不捨。彼比丘尼應三諫，捨此事故。乃至三諫，捨者善。不捨者，是比丘尼犯三法應捨，僧伽婆尸沙。</lzh>
-If a bhikkhunī delights in quarreling, holds on to a dispute without remembering correctly, and later out of anger says: ‘The sangha has desires, anger, fear, and delusion,’ the bhikkhunīs should admonish her thus: ‘Younger sister, don’t delight in quarreling, don’t hold on to a dispute without remembering correctly, and don’t later out of anger say: “The sangha has desires, anger, fear, and delusion.” The sangha doesn’t have desires, anger, fear, and delusion. You yourself have desires, anger, fear, and delusion.’ If when the bhikkhunīs admonish that bhikkhunī, she holds firmly on to it and doesn’t give it up, the bhikkhunīs should admonish her three times to give up this matter. If she gives it up by the third time, it’s fine. If not, that bhikkhunī commits an offense that should be given up after three admonishments, a saṅghādisesa.
+If a bhikkhunī delights in quarreling, holds on to a dispute without remembering correctly, and later out of anger says: ‘The sangha has desire, anger, fear, and delusion,’ the bhikkhunīs should admonish her thus: ‘Younger sister, don’t delight in quarreling, don’t hold on to a dispute without remembering correctly, and don’t later out of anger say: “The sangha has desire, anger, fear, and delusion.” The sangha doesn’t have desire, anger, fear, and delusion. You yourself have desire, anger, fear, and delusion.’ If when the bhikkhunīs admonish that bhikkhunī, she holds firmly on to it and doesn’t give it up, the bhikkhunīs should admonish her three times to give up this matter. If she gives it up by the third time, it’s fine. If not, that bhikkhunī commits an offense that should be given up after three admonishments, a saṅghādisesa.
 
 <lzh>「諸大姊！我已說十七僧伽婆尸沙法，九初犯罪，八乃至三諫。若比丘尼犯一一法，應半月二部僧中行摩那埵。行摩那埵已，餘有出罪，應二部四十人僧中，出是比丘尼罪。若少一人，不滿四十眾，出是比丘尼罪，是比丘尼罪不得除，諸比丘尼亦可呵。此是事。</lzh>
 Venerable sisters, I’ve recited the 17 saṅghādisesa rules; nine immediate offenses and eight after the third admonishment. If a bhikkhunī has broken any of these rules, she should undergo mānatta for half a month in both assemblies. After undergoing mānatta, the rehabilitation remains to be done. One should rehabilitate that bhikkhunī in both assemblies, with 40 persons. If there’s even one person less than a group of 40 to rehabilitate that bhikkhunī, that bhikkhunī’s offense hasn’t been cleared, and the bhikkhunīs are also to be criticized. This is the procedure.
@@ -305,7 +305,7 @@ Venerable sisters, the 30 nissaggiya pācittiya rules that are recited every hal
 <h3>Nissaggiya Pācittiya 1</h3>
 
 <lzh>「若比丘尼，衣已竟，迦絺那衣已捨，畜長衣，經十日不淨施，得持。若過，尼薩耆波逸提。</lzh>
-If a bhikkhunī has finished her robes, has relinquished the kaṭhina robe, and stores spare cloth for 10 days without making a pure offering<note>vikappana</note>, she may keep it. If she keeps it longer, it’s a nissaggiya pācittiya.
+If a bhikkhunī has finished her robes, has relinquished the kaṭhina robe, and keeps spare cloth for 10 days without making a pure offering<note>vikappana</note>, she may use it. If she keeps it longer, it’s a nissaggiya pācittiya.
 
 <lzh>nissaggiya pācittiya 2</lzh>
 <h3>Nissaggiya Pācittiya 2</h3>
@@ -317,7 +317,7 @@ If a bhikkhunī has finished her robes, has relinquished the kaṭhina robe, and
 <h3>Nissaggiya Pācittiya 3</h3>
 
 <lzh>「若比丘尼，衣已竟，迦絺那衣已捨，若得非時衣，欲須便受，受已疾疾成衣。若足者善；若不足者，得畜一月，為滿足故。若過畜者，尼薩耆波逸提。</lzh>
-If a bhikkhunī has finished her robes, has relinquished the kaṭhina robe, and obtains out-of-season cloth, she should accept it if she wants or needs it. Having accepted it, she should quickly turn it into a robe. If it’s enough, it’s fine. If it’s not enough, she may store it for one month in order to complete it. If she stores it longer, it’s a nissaggiya pācittiya.
+If a bhikkhunī has finished her robes, has relinquished the kaṭhina robe, and obtains out-of-season cloth, she should accept it if she wants or needs it. Having accepted it, she should quickly turn it into a robe. If it’s enough, it’s fine. If it’s not enough, she may keep it for one month in order to complete it. If she keeps it longer, it’s a nissaggiya pācittiya.
 
 <lzh>nissaggiya pācittiya 4</lzh>
 <h3>Nissaggiya Pācittiya 4</h3>
@@ -395,13 +395,13 @@ If a bhikkhunī gives a robe to another bhikkhunī, and if later out of anger sh
 <h3>Nissaggiya Pācittiya 16</h3>
 
 <lzh>「若諸病比丘尼，畜藥：酥、油、生酥、蜜、石蜜，得食殘宿，乃至七日得服。若過七日服，尼薩耆波逸提。</lzh>
-If sick bhikkhunīs store medicine: ghee, oil, butter, honey, or sugar, they may eat it and keep it overnight, and may take it up to seven days. If they take it longer than seven days, it’s a nissaggiya pācittiya.
+If sick bhikkhunīs keep medicine: ghee, oil, butter, honey, or sugar, they may eat it and keep it overnight, and may take it up to seven days. If they take it longer than seven days, it’s a nissaggiya pācittiya.
 
 <lzh>nissaggiya pācittiya 17</lzh>
 <h3>Nissaggiya Pācittiya 17</h3>
 
 <lzh>「若比丘尼，十日未滿夏三月，若有急施衣，比丘尼知是急施衣，應受；受已乃至衣時應畜。若過畜者，尼薩耆波逸提。</lzh>
-If a bhikkhunī within 10 days before the end of the three summer months, has an urgently offered robe, and she knows that it’s an urgently offered robe, she should accept it. Having accepted it, she should store it until the robe season. If she stores it longer, it’s a nissaggiya pācittiya.
+If a bhikkhunī within 10 days before the end of the three summer months, has an urgently offered robe, and she knows that it’s an urgently offered robe, she should accept it. Having accepted it, she should keep it until the robe season. If she keeps it longer, it’s a nissaggiya pācittiya.
 
 <lzh>nissaggiya pācittiya 18</lzh>
 <h3>Nissaggiya Pācittiya 18</h3>
@@ -443,13 +443,13 @@ If a bhikkhunī, when a supporter has given an item for a certain purpose, and s
 <h3>Nissaggiya Pācittiya 24</h3>
 
 <lzh>「若比丘尼，畜長鉢，尼薩耆波逸提。</lzh>
-If a bhikkhunī stores a spare bowl, it’s a nissaggiya pācittiya.
+If a bhikkhunī keeps a spare bowl, it’s a nissaggiya pācittiya.
 
 <lzh>nissaggiya pācittiya 25</lzh>
 <h3>Nissaggiya Pācittiya 25</h3>
 
 <lzh>「若比丘尼，多畜好色器者，尼薩耆波逸提。</lzh>
-If a bhikkhunī stores many beautiful utensils, it’s a nissaggiya pācittiya.
+If a bhikkhunī keeps many beautiful utensils, it’s a nissaggiya pācittiya.
 
 <lzh>nissaggiya pācittiya 26</lzh>
 <h3>Nissaggiya Pācittiya 26</h3>
