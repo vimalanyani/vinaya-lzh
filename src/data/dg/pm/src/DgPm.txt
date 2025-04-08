@@ -119,7 +119,7 @@ The venerable sisters are pure herein, therefore you’re silent. This matter is
 <h2>Eight Pārājika Rules</h2>
 
 <lzh>「諸大姊！是八波羅夷法，半月半月說，戒經中來。</lzh>
-Venerable sisters, the eight pārājika rules that are recited every half month in the precepts sutta are coming up.
+Venerable sisters, the eight pārājika rules that are recited every half-month in the precepts sutta are coming up.
 
 <lzh>pārājika 1</lzh>
 <h3>Pārājika 1</h3>
@@ -182,7 +182,7 @@ The venerable sisters are pure herein, therefore you’re silent. This matter is
 <h2>17 Saṅghādisesa Rules</h2>
 
 <lzh>「諸大姊！是十七僧伽婆尸沙法，半月半月說，戒經中來。</lzh>
-Venerable sisters, the 17 saṅghādisesa rules that are recited every half month in the precepts sutta are coming up.
+Venerable sisters, the 17 saṅghādisesa rules that are recited every half-month in the precepts sutta are coming up.
 
 <lzh>saṅghādisesa 1</lzh>
 <h3>Saṅghādisesa 1</h3>
@@ -299,7 +299,7 @@ The venerable sisters are pure herein, therefore you’re silent. This matter is
 <<h2>30 Nissaggiya Pācittiya Rules</h2>
 
 <lzh>「諸大姊！是三十尼薩耆波逸提法，半月半月說，戒經中來。</lzh>
-Venerable sisters, the 30 nissaggiya pācittiya rules that are recited every half month in the precepts sutta are coming up.
+Venerable sisters, the 30 nissaggiya pācittiya rules that are recited every half-month in the precepts sutta are coming up.
 
 <lzh>nissaggiya pācittiya 1</lzh>
 <h3>Nissaggiya Pācittiya 1</h3>
@@ -494,7 +494,7 @@ The venerable sisters are pure herein, therefore you’re silent. This matter is
 <h2>178 Pācittiya Rules</h2>
 
 <lzh>「諸大姊！是一百七十八波逸提法，半月半月說，戒經中來。</lzh>
-Venerable sisters, the 178 pācittiya rules that are recited every half month in the precepts sutta are coming up.
+Venerable sisters, the 178 pācittiya rules that are recited every half-month in the precepts sutta are coming up.
 
 <lzh>pācittiya 1</lzh>
 <h3>Pācittiya 1</h3>
@@ -1577,7 +1577,7 @@ The venerable sisters are pure herein, therefore you’re silent. This matter is
 <h2>Eight Pātidesanīya Rules</h2>
 
 <lzh>「諸大姊！是八波羅提提舍尼法，半月半月說，戒經中來。</lzh>
-Venerable sisters, the eight pātidesanīya rules that are recited every half month in the precepts sutta are coming up.
+Venerable sisters, the eight pātidesanīya rules that are recited every half-month in the precepts sutta are coming up.
 
 <lzh>pātidesanīya 1</lzh>
 <h3>Pātidesanīya 1</h3>
@@ -1640,7 +1640,7 @@ The venerable sisters are pure herein, therefore you’re silent. This matter is
 <h2>100 Sekhiya Rules</h2>
 
 <lzh>「諸大姊！此眾學戒法，半月半月說，戒經中來。</lzh>
-Venerable sisters, the many training rules that are recited every half month in the precepts sutta are coming up.
+Venerable sisters, the many training rules that are recited every half-month in the precepts sutta are coming up.
 
 <lzh>sekhiya 1</lzh>
 <h3>Sekhiya 1</h3>
@@ -2255,7 +2255,7 @@ The venerable sisters are pure herein, therefore you’re silent. This matter wi
 <h2>Seven Adhikaraṇasamathas</h2>
 
 <lzh>「諸大姊！是七滅諍法，半月半月說，戒經中來。</lzh>
-Venerable sisters, the seven rules to settle disputes that are recited every half month in the precepts sutta are coming up.
+Venerable sisters, the seven rules to settle disputes that are recited every half-month in the precepts sutta are coming up.
 
 <lzh>「若比丘尼有諍事起，即應除滅。</lzh>
 If the bhikkkhunīs have an arisen matter of dispute, it should be settled.
@@ -2315,7 +2315,7 @@ The venerable sisters are pure herein, therefore you’re silent. This matter is
 <h2>Conclusion</h2>
 
 <lzh>「諸大姊！我已說戒經序，已說八波羅夷法，已說十七僧伽婆尸沙法，已說三十尼薩耆波逸提法，已說一百七十八波逸提法，已說八波羅提提舍尼法，已說眾學戒法，已說七滅諍法。此是佛所說，半月半月說，戒經中來。</lzh>
-Venerable sisters, I’ve recited the introduction to the precepts sutta, the eight pārājika rules, the 17 saṅghādisesa rules, the 30 nissaggiya pācittiya rules, the 178 pācittiya rules, the eight pātidesanīya rules, the many training rules, and the seven rules to settle disputes. This is what the Buddha has spoken, what is recited every half month, what comes up in the precepts sutta.
+Venerable sisters, I’ve recited the introduction to the precepts sutta, the eight pārājika rules, the 17 saṅghādisesa rules, the 30 nissaggiya pācittiya rules, the 178 pācittiya rules, the eight pātidesanīya rules, the many training rules, and the seven rules to settle disputes. This is what the Buddha has spoken, what is recited every half-month, what comes up in the precepts sutta.
 
 <lzh>Concluding verses</lzh>
 <h2>Concluding verses</h2>

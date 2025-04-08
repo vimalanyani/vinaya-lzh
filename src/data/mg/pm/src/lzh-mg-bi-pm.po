@@ -1681,7 +1681,7 @@ msgstr "pācittiya 64"
 #. </h4><p>
 msgctxt "lzh-mg-bi-pm:270.1"
 msgid "若比丘尼作床<span class=\"gaiji\">脚<!--gaiji,腳,1[腳-谷+去],2&#x811A;,3--> </span>。應量作長修伽陀八指。除入梐。若過截已波夜提。"
-msgstr "If a bhikkhunī makes bed feet, she should make them according to the measurements: eight sugata fingerbreadths in length, without the part that’s inserted in the frame. If she exceeds that, it is a pācittiya, after they’ve been cut off."
+msgstr "If a bhikkhunī makes bed feet, she should make them to the measurements: eight sugata fingerbreadths in length, without the part that’s inserted in the frame. If she exceeds that, it is a pācittiya, after they’ve been cut off."
 
 #. </p><h4>
 #. <span class="add"><a id="pc65" class="latin">
@@ -1705,7 +1705,7 @@ msgstr "pācittiya 66"
 #. </h4><p>
 msgctxt "lzh-mg-bi-pm:274.1"
 msgid "若比丘尼。作尼師壇應量。作長二修伽陀磔手。廣一磔手半。更益一磔手。若過截已波夜提。"
-msgstr "If a bhikkhunī makes a sitting cloth, she should make it according to the measurements: two sugata handspans in length, and one and a half handspans in width. One handspan can be added. If she exceeds that, it is a pācittiya, after it has been cut off."
+msgstr "If a bhikkhunī makes a sitting cloth, she should make it to the measurements: two sugata handspans in length, and one and a half handspans in width. One handspan can be added. If she exceeds that, it is a pācittiya, after it has been cut off."
 
 #. </p><h4>
 #. <span class="add"><a id="pc67" class="latin">
@@ -1717,7 +1717,7 @@ msgstr "pācittiya 67"
 #. </h4><p>
 msgctxt "lzh-mg-bi-pm:276.1"
 msgid "若比丘尼。作覆瘡衣。應量作長四修伽陀磔手。廣二磔手半。若過截已波夜提。"
-msgstr "If a bhikkhunī makes a wound-covering cloth, she should make it according to the measurements: four sugata handspans in length, and two and a half handspans in width. If she exceeds that, it is a pācittiya, after it has been cut off."
+msgstr "If a bhikkhunī makes a wound-covering cloth, she should make it to the measurements: four sugata handspans in length, and two and a half handspans in width. If she exceeds that, it is a pācittiya, after it has been cut off."
 
 #. </p><h4>
 #. <span class="add"><a id="pc68" class="latin">
@@ -1794,7 +1794,7 @@ msgstr "pācittiya 73"
 #. </h4><p>
 msgctxt "lzh-mg-bi-pm:289.1"
 msgid "若比丘尼。作安陀會應量作長。四修伽陀磔手廣二磔手。若過作截已波夜提。"
-msgstr "If a bhikkhunī makes a lower robe (antaravāsaka), she should make it according to the measurements: four sugata handspans in length, two handspans in width. If she makes it larger, it is to be cut off, and it is a pācittiya."
+msgstr "If a bhikkhunī makes a lower robe (antaravāsaka), she should make it to the measurements: four sugata handspans in length, two handspans in width. If she makes it larger, it is to be cut off, and it is a pācittiya."
 
 #. </p><h4>
 #. <span class="add"><a id="pc74" class="latin">
@@ -1806,7 +1806,7 @@ msgstr "pācittiya 74"
 #. </h4><p>
 msgctxt "lzh-mg-bi-pm:291.1"
 msgid "若比丘尼。僧祇支應量作。長四修伽陀磔手廣二磔手。若過作截已波夜提。"
-msgstr "A bhikkhunī should make the vest (saṅkaccika) according to the measurements: four sugata handspans in length, two handspans in width. If she makes it larger, it is to be cut off, and it is a pācittiya."
+msgstr "A bhikkhunī should make the vest (saṅkaccika) to the measurements: four sugata handspans in length, two handspans in width. If she makes it larger, it is to be cut off, and it is a pācittiya."
 
 #. </p><h4>
 #. <span class="add"><a id="pc75" class="latin">
@@ -1818,7 +1818,7 @@ msgstr "pācittiya 75"
 #. </h4><p>
 msgctxt "lzh-mg-bi-pm:293.1"
 msgid "若比丘尼。作雨浴衣應量作。長四修伽陀磔手廣二磔手。若過作截已波夜提。"
-msgstr "If a bhikkhunī makes a rains bathing robe, she should make it according to the measurements: four sugata handspans in length, two handspans in width. If she makes it larger, it is to be cut off, and it is a pācittiya."
+msgstr "If a bhikkhunī makes a rains bathing robe, she should make it to the measurements: four sugata handspans in length, two handspans in width. If she makes it larger, it is to be cut off, and it is a pācittiya."
 
 #. </p><h4>
 #. <span class="add"><a id="pc76" class="latin">
@@ -3852,7 +3852,7 @@ msgstr "The seven rules for settling disputes have been recited."
 #. </p><p><a class="sc" id="42"></a>
 msgctxt "lzh-mg-bi-pm:635.1"
 msgid "是事入佛經中。半月半月波羅提木叉中說。及餘隨道法。諸阿梨耶。一心歡喜不諍。一學一道如水乳合。安樂行應當學。"
-msgstr "In these matters, which are included in the Buddha’s suttas, and are recited every half month in the pātimokkha, as well as in the remaining rules that accord with the path, the venerables should train single-mindedly, happily, without quarreling, with the same training and the same path, mixing like water and milk, living peacefully and happily."
+msgstr "In these matters, which are included in the Buddha’s suttas, and are recited every half-month in the pātimokkha, as well as in the remaining rules that accord with the path, the venerables should train single-mindedly, happily, without quarreling, with the same training and the same path, mixing like water and milk, living peacefully and happily."
 
 #. </p><h2>
 #. <span class="add"><a id="conc-verses" class="latin">
