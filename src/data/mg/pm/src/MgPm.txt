@@ -718,7 +718,7 @@ If a bhikkhunī uses bone, ivory, or horn to make a needle case, it’s a pācit
 <lzh>placeholder</lzh>
 <h3>Pācittiya 64</h3>
 <lzh>若比丘尼作床脚。應量作長修伽陀八指。除入梐。若過截已波夜提。</lzh>
-If a bhikkhunī makes bed legs, she should make them according to the measurements: eight sugata fingerbreadths in length, without the part that’s inserted in the frame. If she exceeds that, it’s a pācittiya, after they’ve been cut off.
+If a bhikkhunī makes bed legs, she should make them to the measurements: eight sugata fingerbreadths in length, without the part that’s inserted in the frame. If she exceeds that, it’s a pācittiya, after they’ve been cut off.
 
 <lzh>placeholder</lzh>
 <h3>Pācittiya 65</h3>
@@ -728,12 +728,12 @@ If a bhikkhunī stuffs mats with tūla-cotton for sitting or for sleeping, it’
 <lzh>placeholder</lzh>
 <h3>Pācittiya 66</h3>
 <lzh>若比丘尼。作尼師壇應量。作長二修伽陀磔手。廣一磔手半。更益一磔手。若過截已波夜提。</lzh>
-If a bhikkhunī makes a sitting cloth, she should make it according to the measurements: two sugata handspans in length, and one and a half handspans in width. One handspan can be added. If she exceeds that, it’s a pācittiya, after it has been cut off.
+If a bhikkhunī makes a sitting cloth, she should make it to the measurements: two sugata handspans in length, and one and a half handspans in width. One handspan can be added. If she exceeds that, it’s a pācittiya, after it has been cut off.
 
 <lzh>placeholder</lzh>
 <h3>Pācittiya 67</h3>
 <lzh>若比丘尼。作覆瘡衣。應量作長四修伽陀磔手。廣二磔手半。若過截已波夜提。</lzh>
-If a bhikkhunī makes a wound-covering cloth, she should make it according to the measurements: four sugata handspans in length, and two and a half handspans in width. If she exceeds that, it’s a pācittiya, after it has been cut off.
+If a bhikkhunī makes a wound-covering cloth, she should make it to the measurements: four sugata handspans in length, and two and a half handspans in width. If she exceeds that, it’s a pācittiya, after it has been cut off.
 
 <lzh>placeholder</lzh>
 <h3>Pācittiya 68</h3>
@@ -766,17 +766,17 @@ If a bhikkhunī gives a renunciate’s robe with her own hands to lay people or 
 <lzh>placeholder</lzh>
 <h3>Pācittiya 73</h3>
 <lzh>若比丘尼。作安陀會應量作長。四修伽陀磔手廣二磔手。若過作截已波夜提。</lzh>
-If a bhikkhunī makes a lower robe (antaravāsaka), she should make it according to the measurements: four sugata handspans in length, two handspans in width. If she makes it larger, it’s to be cut off, and it’s a pācittiya.
+If a bhikkhunī makes a lower robe (antaravāsaka), she should make it to the measurements: four sugata handspans in length, two handspans in width. If she makes it larger, it’s to be cut off, and it’s a pācittiya.
 
 <lzh>placeholder</lzh>
 <h3>Pācittiya 74</h3>
 <lzh>若比丘尼。僧祇支應量作。長四修伽陀磔手廣二磔手。若過作截已波夜提。</lzh>
-A bhikkhunī should make the vest (saṅkaccika) according to the measurements: four sugata handspans in length, two handspans in width. If she makes it larger, it’s to be cut off, and it’s a pācittiya.
+A bhikkhunī should make the vest (saṅkaccika) to the measurements: four sugata handspans in length, two handspans in width. If she makes it larger, it’s to be cut off, and it’s a pācittiya.
 
 <lzh>placeholder</lzh>
 <h3>Pācittiya 75</h3>
 <lzh>若比丘尼。作雨浴衣應量作。長四修伽陀磔手廣二磔手。若過作截已波夜提。</lzh>
-If a bhikkhunī makes a rains bathing robe, she should make it according to the measurements: four sugata handspans in length, two handspans in width. If she makes it larger, it’s to be cut off, and it’s a pācittiya.
+If a bhikkhunī makes a rains bathing robe, she should make it to the measurements: four sugata handspans in length, two handspans in width. If she makes it larger, it’s to be cut off, and it’s a pācittiya.
 
 <lzh>placeholder</lzh>
 <h3>Pācittiya 76</h3>
@@ -1636,7 +1636,7 @@ The many training rules have been recited.
 The seven rules for settling disputes have been recited.
 
 <lzh>是事入佛經中。半月半月波羅提木叉中說。及餘隨道法。諸阿梨耶。一心歡喜不諍。一學一道如水乳合。安樂行應當學。</lzh>
-In these matters, which are included in the Buddha’s suttas, and are recited every half month in the pātimokkha, as well as in the remaining rules that accord with the path, the venerables should train single-mindedly, happily, without quarreling, with the same training and the same path, mixing like water and milk, living peacefully and happily.
+In these matters, which are included in the Buddha’s suttas, and are recited every half-month in the pātimokkha, as well as in the remaining rules that accord with the path, the venerables should train single-mindedly, happily, without quarreling, with the same training and the same path, mixing like water and milk, living peacefully and happily.
 
 <h2>Concluding verses</h2>
 <lzh>佛告比丘尼毘婆尸佛如來應供正遍知為寂靜僧。最初說波羅提木叉。</lzh>

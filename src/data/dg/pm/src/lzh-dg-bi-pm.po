@@ -283,7 +283,7 @@ msgstr "8 pārājika rules"
 #. </h2><p>
 msgctxt "lzh-dg-bi-pm:31.1"
 msgid "「諸大姊！是八波羅夷法，半月半月說，戒經中來。"
-msgstr "Venerable sisters, the eight pārājika rules that are recited every half month in the precepts sutta are coming up."
+msgstr "Venerable sisters, the eight pārājika rules that are recited every half-month in the precepts sutta are coming up."
 
 #. </p><h4>
 #. <span class="add"><a id="pj1" class="latin">
@@ -407,7 +407,7 @@ msgstr "17 saṅghādisesa rules"
 #. </h2><p>
 msgctxt "lzh-dg-bi-pm:52.1"
 msgid "「諸大姊！是十七僧伽婆尸沙法，半月半月說，戒經中來。"
-msgstr "Venerable sisters, the 17 saṅghādisesa rules that are recited every half month in the precepts sutta are coming up."
+msgstr "Venerable sisters, the 17 saṅghādisesa rules that are recited every half-month in the precepts sutta are coming up."
 
 #. </p><h4>
 #. <span class="add"><a id="ss1" class="latin">
@@ -638,7 +638,7 @@ msgstr "30 nissaggiya pācittiya rules"
 #. </h2><p>
 msgctxt "lzh-dg-bi-pm:91.1"
 msgid "「諸大姊！是三十尼薩耆波逸提法，半月半月說，戒經中來。"
-msgstr "Venerable sisters, the 30 nissaggiya pācittiya rules that are recited every half month in the precepts sutta are coming up."
+msgstr "Venerable sisters, the 30 nissaggiya pācittiya rules that are recited every half-month in the precepts sutta are coming up."
 
 #. </p><h4>
 #. <span class="add"><a id="np1" class="latin">
@@ -1025,7 +1025,7 @@ msgstr "178 pācittiya rules"
 #. </h2><p>
 msgctxt "lzh-dg-bi-pm:156.1"
 msgid "「諸大姊！是一百七十八波逸提法，半月半月說，戒經中來。"
-msgstr "Venerable sisters, the 178 pācittiya rules that are recited every half month in the precepts sutta are coming up."
+msgstr "Venerable sisters, the 178 pācittiya rules that are recited every half-month in the precepts sutta are coming up."
 
 #. </p><h4>
 #. <span class="add"><a id="pc1" class="latin">
@@ -3189,7 +3189,7 @@ msgstr "8 pātidesanīya rules"
 #. </h2><p>
 msgctxt "lzh-dg-bi-pm:517.1"
 msgid "「諸大姊！是八波羅提提舍尼法，半月半月說，戒經中來。"
-msgstr "Venerable sisters, the eight pātidesanīya rules that are recited every half month in the precepts sutta are coming up."
+msgstr "Venerable sisters, the eight pātidesanīya rules that are recited every half-month in the precepts sutta are coming up."
 
 #. </p><h4>
 #. <span class="add"><a id="pd1" class="latin">
@@ -3312,7 +3312,7 @@ msgstr "100 sekhiya rules"
 #. </h2><p>
 msgctxt "lzh-dg-bi-pm:538.1"
 msgid "「諸大姊！此眾學戒法，半月半月說，戒經中來。"
-msgstr "Venerable sisters, the many training rules that are recited every half month in the precepts sutta are coming up."
+msgstr "Venerable sisters, the many training rules that are recited every half-month in the precepts sutta are coming up."
 
 #. </p><h4>
 #. <span class="add"><a id="sk1" class="latin">
@@ -4539,7 +4539,7 @@ msgstr "Seven adhikaraṇasamathas"
 #. </h2><p>
 msgctxt "lzh-dg-bi-pm:743.1"
 msgid "「諸大姊！是七滅諍法，半月半月說，戒經中來。"
-msgstr "Venerable sisters, the seven rules to settle disputes that are recited every half month in the precepts sutta are coming up."
+msgstr "Venerable sisters, the seven rules to settle disputes that are recited every half-month in the precepts sutta are coming up."
 
 #. </p><p>
 msgctxt "lzh-dg-bi-pm:744.1"
@@ -4655,7 +4655,7 @@ msgstr "Conclusion"
 #. </h2><p><a class="sc" id="65"></a>
 msgctxt "lzh-dg-bi-pm:763.1"
 msgid "「諸大姊！我已說戒經序，已說八波羅夷法，已說十七僧伽婆尸沙法，已說三十尼薩耆波逸提法，已說一百七十八波逸提法，已說八波羅提提舍尼法，已說眾學戒法，已說七滅諍法。此是佛所說，半月半月說，戒經中來。"
-msgstr "Venerable sisters, I’ve recited the introduction to the precepts sutta, the eight pārājika rules, the 17 saṅghādisesa rules, the 30 nissaggiya pācittiya rules, the 178 pācittiya rules, the eight pātidesanīya rules, the many training rules, and the seven rules to settle disputes. This is what the Buddha has spoken, what is recited every half month, what comes up in the precepts sutta."
+msgstr "Venerable sisters, I’ve recited the introduction to the precepts sutta, the eight pārājika rules, the 17 saṅghādisesa rules, the 30 nissaggiya pācittiya rules, the 178 pācittiya rules, the eight pātidesanīya rules, the many training rules, and the seven rules to settle disputes. This is what the Buddha has spoken, what is recited every half-month, what comes up in the precepts sutta."
 
 #. </p><h2>
 #. <span class="add"><a id="conc-verses" class="latin">
