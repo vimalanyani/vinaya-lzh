@@ -80,7 +80,7 @@ Answer: “The sangha has gathered.”
 Answer: “It’s in harmony.”
 
 <lzh>「未受大戒者出？」</lzh>
-“Have those who haven’t yet received the higher precepts left?”
+“Have those who haven’t received the higher precepts yet left?”
 
 <lzh>(有者，遣出。遣已，答言：「已出。」無者，答：「無。」)</lzh>
 If there are (not fully ordained persons), they’re sent away. After they’ve been sent away, one answers: “They’ve left.” If there are none, one answers: “There are none.”
@@ -167,7 +167,7 @@ If a bhikkhunī knows that another bhikkhunī has committed a pārājika, and ne
 <h3>Pārājika 8</h3>
 
 <lzh>「若比丘尼，知比丘，僧為作舉，如法如律，如佛所教，不順從，不懺悔，僧未與作共住；而順從。諸比丘尼語言：『大姊！此比丘為僧所舉，如法如律，如佛所教，不順從，不懺悔，僧未與作共住；汝莫順從。』如是比丘尼諫彼比丘尼時，堅持不捨。彼比丘尼應第二、第三諫，令捨此事故。乃至三諫，捨者善。若不捨者，是比丘尼波羅夷，不共住。犯隨舉故。</lzh>
-If a bhikkhunī knows that a bhikkhu has been suspended by the sangha according to dhamma and vinaya, according to the Buddha’s teaching, but that he doesn’t comply, doesn’t repent, and that the sangha hasn’t yet allowed him back to live with the community again, and she still follows him, the bhikkhunīs should say: ‘Venerable sister, this bhikkhu has been suspended by the sangha according to dhamma and vinaya, according to the Buddha’s teaching, but he doesn’t comply, doesn’t repent, and the sangha hasn’t yet allowed him back to live with the community again; don’t follow him.’ If when the bhikkhunīs admonish that bhikkhunī like this, she holds firmly on to this matter and doesn’t give it up, she should be admonished a second and third time to make her give up this matter. If she gives it up by the third admonishment, it’s fine. If not, that bhikkhunī is pārājika, and doesn’t live in community, because she committed the act of following a suspended one.
+If a bhikkhunī knows that a bhikkhu has been suspended by the sangha according to dhamma and vinaya, according to the Buddha’s teaching, but that he doesn’t comply, doesn’t repent, and that the sangha hasn’t allowed him back to live with the community again yet, and she still follows him, the bhikkhunīs should say: ‘Venerable sister, this bhikkhu has been suspended by the sangha according to dhamma and vinaya, according to the Buddha’s teaching, but he doesn’t comply, doesn’t repent, and the sangha hasn’t allowed him back to live with the community again yet; don’t follow him.’ If when the bhikkhunīs admonish that bhikkhunī like this, she holds firmly on to this matter and doesn’t give it up, she should be admonished a second and third time to make her give up this matter. If she gives it up by the third admonishment, it’s fine. If not, that bhikkhunī is pārājika, and doesn’t live in community, because she committed the act of following a suspended one.
 
 <lzh>「諸大姊！我已說八波羅夷法。若比丘尼，犯一一波羅夷法，不得與諸比丘尼共住如前，後亦如是，是比丘尼得波羅夷罪，不應共住。</lzh>
 Venerable sisters, I’ve recited the eight pārājika rules. If a bhikkhunī has broken any of these pārājika rules, she may not live in community with the bhikkhunīs. As before, so also afterwards.<note>i.e. she reverts to a lay person, as before.</note> She incurs a pārājika offense, and should not live in community.
@@ -218,7 +218,7 @@ If a bhikkhunī previously knows that a woman is a criminal, sentenced to death,
 <h3>Saṅghādisesa 6</h3>
 
 <lzh>「若比丘尼，知比丘尼為僧所舉，如法如律，如佛所教，不順從，未懺悔，僧未與作共住羯磨；為愛故，不問僧，僧不約勅，出界外，作羯磨，與解罪。是比丘尼犯初法應捨，僧伽婆尸沙。</lzh>
-If a bhikkhunī knows that another bhikkhunī has been suspended by the sangha according to dhamma and vinaya, according to the Buddha’s teaching, but doesn’t comply, hasn’t repented, and the sangha hasn’t yet carried out the formal act of living with the community, but out of affection, without asking the sangha, without the sangha’s approval, she goes outside the territory and carries out the formal act to release her from the offense, that bhikkhunī commits an immediate offense that should be given up, a saṅghādisesa.
+If a bhikkhunī knows that another bhikkhunī has been suspended by the sangha according to dhamma and vinaya, according to the Buddha’s teaching, but doesn’t comply, hasn’t repented, and the sangha hasn’t carried out the formal act of living with the community yet, but out of affection, without asking the sangha, without the sangha’s approval, she goes outside the territory and carries out the formal act to release her from the offense, that bhikkhunī commits an immediate offense that should be given up, a saṅghādisesa.
 
 <lzh>saṅghādisesa 7</lzh>
 <h3>Saṅghādisesa 7</h3>
@@ -812,7 +812,7 @@ If a bhikkhunī says: ‘I understand that in the dhamma spoken by the Buddha, e
 <h3>Pācittiya 53</h3>
 
 <lzh>「若比丘尼，知如是語人未作法，如是惡邪不捨，若畜，同一羯磨、同一止宿，波逸提。</lzh>
-If a bhikkhunī knows that the person who said this hasn’t yet acted according to dhamma and hasn’t given up this unwholesome, wrong view, but takes her in, does formal acts together with her, and stays overnight with her, it’s a pācittiya.
+If a bhikkhunī knows that the person who said this hasn’t acted according to dhamma yet and hasn’t given up this unwholesome, wrong view, but takes her in, does formal acts together with her, and stays overnight with her, it’s a pācittiya.
 
 <lzh>pācittiya 54</lzh>
 <h3>Pācittiya 54</h3>
@@ -884,7 +884,7 @@ If a bhikkhunī out of anger and dissatisfaction accuses someone of an unfounded
 <h3>Pācittiya 65</h3>
 
 <lzh>「若比丘尼，剎利水澆頭王，王未出，未藏寶，若入宮過門閾者，波逸提。</lzh>
-If a bhikkhunī enters the palace and crosses the doorsill of a head-anointed khattiya king, when the king hasn’t yet come out, and the jewels haven’t yet been hidden, it’s a pācittiya.
+If a bhikkhunī enters the palace and crosses the doorsill of a head-anointed khattiya king, when the king hasn’t come out yet, and the jewels haven’t been hidden yet, it’s a pācittiya.
 
 <lzh>pācittiya 66</lzh>
 <h3>Pācittiya 66</h3>
@@ -1220,7 +1220,7 @@ If a bhikkhunī knows that a woman is breast-feeding a baby and gives her the fu
 <h3>Pācittiya 121</h3>
 
 <lzh>「若比丘尼，知年不滿二十，與受具足戒，波逸提。</lzh>
-If a bhikkhunī knows that someone isn’t yet 20 and gives her the full ordination, it’s a pācittiya.
+If a bhikkhunī knows that someone isn’t 20 yet and gives her the full ordination, it’s a pācittiya.
 
 <lzh>pācittiya 122</lzh>
 <h3>Pācittiya 122</h3>
@@ -1280,7 +1280,7 @@ If a bhikkhunī gives the full ordination to someone without the sangha’s appr
 <h3>Pācittiya 131</h3>
 
 <lzh>「若比丘尼，年未滿十二歲，授人具足戒者，波逸提。</lzh>
-If a bhikkhunī, who doesn’t yet have 12 vassa, gives the full ordination to someone, it’s a pācittiya.
+If a bhikkhunī, who doesn’t have 12 vassa yet, gives the full ordination to someone, it’s a pācittiya.
 
 <lzh>pācittiya 132</lzh>
 <h3>Pācittiya 132</h3>
