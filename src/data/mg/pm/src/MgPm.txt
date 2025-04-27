@@ -12,7 +12,7 @@ Translated by the renunciates Faxian and Buddhabhadra in Pingyang during the Eas
 
 <h2>Preliminaries</h2>
 <lzh>阿梨耶僧聽。冬時一月過少一夜。餘有一夜三月在。老死至近佛法欲滅。諸阿梨耶。為得道故一心勤精進。所以者何。諸佛一心勤精進故得阿耨多羅三藐三菩提。何況餘助道法。未受具足者已出。僧今和合先作何事。<lzh-note>(一人應答布薩說戒)</lzh-note></lzh>
-“Venerables, may the sangha listen. The first month of the winter season has already passed, except for one night. One night and three months remain. Old age and death are drawing near, and the Buddha’s dhamma will extinguish. Venerables, to realize the path, strive single-mindedly with diligence. Why? Because the Buddhas have striven single-mindedly with diligence, they’ve realized unsurpassed perfect enlightenment, let alone the other supporting path-factors. Those who haven’t yet received the full ordination have already left. The sangha is now in harmony. What are we doing first? (One person should answer: ‘The uposatha precepts’ recitation.’)
+“Venerables, may the sangha listen. The first month of the winter season has already passed, except for one night. One night and three months remain. Old age and death are drawing near, and the Buddha’s dhamma will extinguish. Venerables, to realize the path, strive single-mindedly with diligence. Why? Because the Buddhas have striven single-mindedly with diligence, they’ve realized unsurpassed perfect enlightenment, let alone the other supporting path-factors. Those who haven’t received the full ordination yet have already left. The sangha is now in harmony. What are we doing first? (One person should answer: ‘The uposatha precepts’ recitation.’)
 
 <lzh>諸阿梨耶不來。諸比丘尼說欲及清淨。</lzh>
 Some venerables haven’t come. May the bhikkhunīs convey their consent and purity.
@@ -91,7 +91,7 @@ If a bhikkhunī with her own hand takes someone’s life, seeks and takes a knif
 <lzh>placeholder</lzh>
 <h3>Pārājika 4</h3>
 <lzh>若比丘尼。未知未了自稱得過人法聖知見殊勝。我如是知如是見。彼於後時若檢校若不檢校犯罪。欲求清淨故便作是言。阿梨耶。我不知言知不見言見。空誑不實語除增上慢。是比丘尼得波羅夷不應共住。</lzh>
-If a bhikkhunī, not yet knowing and understanding, claims to have attained a superhuman state, noble extraordinary knowledge and vision: ‘I know in this way, I see in this way,’ and at a later time, whether she’s being examined or not examined about committing the offense, desiring purification, she says: ‘Venerables, I, not knowing said I know, not seeing said I see. It was empty, deceited, untrue speech,’ except in a case of superiority conceit, that bhikkhunī incurs a pārājika, and shouldn’t live in community. 
+If a bhikkhunī, not knowing and understanding yet, claims to have attained a superhuman state, noble extraordinary knowledge and vision: ‘I know in this way, I see in this way,’ and at a later time, whether she’s being examined or not examined about committing the offense, desiring purification, she says: ‘Venerables, I, not knowing said I know, not seeing said I see. It was empty, deceited, untrue speech,’ except in a case of superiority conceit, that bhikkhunī incurs a pārājika, and shouldn’t live in community. 
 
 <lzh>placeholder</lzh>
 <h3>Pārājika 5</h3>
@@ -111,7 +111,7 @@ If a bhikkhunī knows that another bhikkhu[nī] has committed a grave offense, a
 <lzh>placeholder</lzh>
 <h3>Pārājika 8</h3>
 <lzh>若比丘尼。知僧和合如法如比尼與比丘作舉羯磨。未作如法而隨順。諸比丘尼應諫是比丘尼。阿梨耶。是比丘。僧和合如法如比尼。作舉羯磨。未作如法莫隨順。是比丘尼。諸比丘尼諫時作是語。我不隨順誰當隨順。諸比丘尼如是第二第三諫。捨是事好。若不捨者。是比丘尼波羅夷不應共住。</lzh>
-If a bhikkhunī knows that the sangha in harmony has carried out an act of suspension against a bhikkhu according to dhamma and vinaya, and that he hasn’t yet acted according to dhamma, and follows him, the bhikkhunīs should admonish that bhikkhunī: ‘Venerable, the sangha in harmony has carried out an act of suspension against that bhikkhu according to dhamma and vinaya, and he hasn’t yet acted according to dhamma. Don’t follow him.’ If that bhikkhunī, when admonished by the bhikkhunīs, says: ‘If I don’t follow him, who will follow him?,’ the bhikkhunīs should admonish her like this a second and a third time. If she gives up this matter, it’s fine. If not, that bhikkhunī is pārājika, and shouldn’t live in community. 
+If a bhikkhunī knows that the sangha in harmony has carried out an act of suspension against a bhikkhu according to dhamma and vinaya, and that he hasn’t acted according to dhamma yet, and follows him, the bhikkhunīs should admonish that bhikkhunī: ‘Venerable, the sangha in harmony has carried out an act of suspension against that bhikkhu according to dhamma and vinaya, and he hasn’t acted according to dhamma yet. Don’t follow him.’ If that bhikkhunī, when admonished by the bhikkhunīs, says: ‘If I don’t follow him, who will follow him?,’ the bhikkhunīs should admonish her like this a second and a third time. If she gives up this matter, it’s fine. If not, that bhikkhunī is pārājika, and shouldn’t live in community. 
 
 <lzh>諸阿梨耶。已說八波羅夷法若比丘尼犯一一法。是比丘尼不應共住。如前後亦如是。比丘尼得波羅夷罪不應共住。今問諸阿梨耶。是中清淨不第二第三亦如是問諸阿梨耶。是中清淨默然故。是事如是持。</lzh>
 Venerables, the eight pārājika rules have been recited. If a bhikkhunī has committed any of these offenses, she shouldn’t live in community. As before, so afterwards. That bhikkhunī incurs a pārājika offense, and shouldn’t live in community. Now I ask the venerables: ‘Are you pure herein?’ A second and third time are asked in the same way. ‘The venerables are pure herein, therefore you’re silent. This matter is remembered thus.
@@ -168,7 +168,7 @@ If a bhikkhunī crosses a river alone at a ferry crossing place, it’s an immed
 <lzh>placeholder</lzh>
 <h3>Saṅghādisesa 10</h3>
 <lzh>若比丘尼。知比丘尼僧和合如法比尼作舉羯磨。未作如法。先不語僧自與捨。是法初罪僧伽婆尸沙。(十事竟)</lzh>
-If a bhikkhunī knows that the bhikkhunī sangha in harmony has carried out an act of suspension according to dhamma and vinaya (against someone) who hasn’t yet acted according to dhamma, and she herself lifts it, without first speaking with the sangha, it’s an immediate saṅghādisesa offense. (End of 10 rules.)
+If a bhikkhunī knows that the bhikkhunī sangha in harmony has carried out an act of suspension according to dhamma and vinaya (against someone) who hasn’t acted according to dhamma yet, and she herself lifts it, without first speaking with the sangha, it’s an immediate saṅghādisesa offense. (End of 10 rules.)
 
 <lzh>placeholder</lzh>
 <h3>Saṅghādisesa 11</h3>
@@ -549,7 +549,7 @@ If a bhikkhunī who isn’t sick herself lights grass, wood, or cowdung for bodi
 <lzh>placeholder</lzh>
 <h3>Pācittiya 32</h3>
 <lzh>若比丘尼。與未受具戒人同屋過三宿者波夜提。</lzh>
-If a bhikkhunī spends more than three nights in a room with a person who hasn’t yet received the full ordination, it’s a pācittiya.
+If a bhikkhunī spends more than three nights in a room with a person who hasn’t received the full ordination yet, it’s a pācittiya.
 
 <lzh>placeholder</lzh>
 <h3>Pācittiya 33</h3>
@@ -569,12 +569,12 @@ If a bhikkhunī says: ‘Venerables, I know that when one practices the things o
 <lzh>placeholder</lzh>
 <h3>Pācittiya 36</h3>
 <lzh>若比丘尼知是比丘尼惡見不捨僧如法如律作舉羯磨。未作如法如律。共食共同室住波夜提。</lzh>
-If a bhikkhunī knows that that bhikkhunī hasn’t given up this unwholesome view, that the sangha has carried out an act of suspension according to dhamma and vinaya, and that she hasn’t yet acted according to dhamma and vinaya, and eats with her, or lives in the same room with her, it’s a pācittiya.
+If a bhikkhunī knows that that bhikkhunī hasn’t given up this unwholesome view, that the sangha has carried out an act of suspension according to dhamma and vinaya, and that she hasn’t acted according to dhamma and vinaya yet, and eats with her, or lives in the same room with her, it’s a pācittiya.
 
 <lzh>placeholder</lzh>
 <h3>Pācittiya 37</h3>
 <lzh>若沙彌尼作是言。如來說婬欲是障道法。我知習婬欲不能障道。諸比丘尼應諫言。汝沙彌尼莫謗世尊。謗世尊者不善世尊不作是語。世尊說婬欲實障道。汝捨此惡見。如是諫時若堅持不捨者。應第二第三諫。若捨者善。若不捨者應驅出言。從今日。汝沙彌尼不應言佛是我師。亦不得共比丘尼三宿。汝去不得此中住。若比丘尼知沙彌尼惡見不捨驅出。未作如法誘喚畜養共食共住波夜提。</lzh>
-If a sāmaṇerī says: ‘The Tathāgata said that sexual desire is an obstacle to the path. I know that engaging in sexual desire can’t obstruct the path,’ the bhikkhunīs should admonish her: ‘Sāmaṇerī, don’t slander the World-honored One. Slandering the World-honored One isn’t wholesome. The World-honored One didn’t say this. The World-honored One said that sexual desire truly obstructs the path. Give up this unwholesome view.’ If she, when admonished like this, persists firmly, and doesn’t give it up, she should be admonished a second and a third time. If she gives it up, it’s fine. If not, they should expel her, and say: ‘From today on, sāmaṇerī, you shouldn’t say: “The Buddha is my teacher.” You also may not spend three nights with the bhikkhunīs. Go, you may not live here.’ If a bhikkhunī knows that the sāmaṇerī was expelled for not giving up this unwholesome view, and that she hasn’t yet acted according to dhamma, and guides her, summons her, takes her as a student, supports her, eats with her, and lives with her, it’s a pācittiya.
+If a sāmaṇerī says: ‘The Tathāgata said that sexual desire is an obstacle to the path. I know that engaging in sexual desire can’t obstruct the path,’ the bhikkhunīs should admonish her: ‘Sāmaṇerī, don’t slander the World-honored One. Slandering the World-honored One isn’t wholesome. The World-honored One didn’t say this. The World-honored One said that sexual desire truly obstructs the path. Give up this unwholesome view.’ If she, when admonished like this, persists firmly, and doesn’t give it up, she should be admonished a second and a third time. If she gives it up, it’s fine. If not, they should expel her, and say: ‘From today on, sāmaṇerī, you shouldn’t say: “The Buddha is my teacher.” You also may not spend three nights with the bhikkhunīs. Go, you may not live here.’ If a bhikkhunī knows that the sāmaṇerī was expelled for not giving up this unwholesome view, and that she hasn’t acted according to dhamma yet, and guides her, summons her, takes her as a student, supports her, eats with her, and lives with her, it’s a pācittiya.
 
 <lzh>placeholder</lzh>
 <h3>Pācittiya 38</h3>
@@ -708,7 +708,7 @@ If a bhikkhunī, when (the bhikkhunīs) eat together somewhere, goes to other ho
 <lzh>placeholder</lzh>
 <h3>Pācittiya 62</h3>
 <lzh>若比丘尼。入剎利灌頂王宮夫人寶物未藏下至過門限波夜提。</lzh>
-If a bhikkhunī enters the palace of a head-anointed khattiya king when the queen and the jewels haven’t yet been hidden, even if she just crosses the doorsill, it’s a pācittiya.
+If a bhikkhunī enters the palace of a head-anointed khattiya king when the queen and the jewels haven’t been hidden yet, even if she just crosses the doorsill, it’s a pācittiya.
 
 <lzh>placeholder</lzh>
 <h3>Pācittiya 63</h3>

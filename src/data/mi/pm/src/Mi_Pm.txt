@@ -50,7 +50,7 @@ That person can attain a pure life in the Buddha’s dhamma.</verse>
 
 
 <lzh>未受具戒者出(有者依言遣出無者答言此處無未受具戒人)諸大姊。不來諸比丘尼。說欲及清淨。(有者依言說無者答言此處無說欲人)僧今和合。先作何事。(答言說戒羯磨)</lzh>
-Those who haven’t yet received the full precepts should leave.” (If there are such persons, they should be asked to leave. If there are none, one answers: “In this place, there aren’t any persons who haven’t yet received the full precepts.”) 
+Those who haven’t received the full precepts yet should leave.” (If there are such persons, they should be asked to leave. If there are none, one answers: “In this place, there aren’t any persons who haven’t received the full precepts yet.”) 
 “Venerable sisters, have the bhikkhunīs who haven’t come given their consent and their purity?” (If there are such bhikkhunīs, one should reply accordingly; if there are none, one should answer: “In this place, nobody has given consent.”)
 “The sangha is now in harmony. What should we do first?” (One answers: “Recite the formal act of the precepts.”)
 
@@ -160,7 +160,7 @@ If a bhikkhunī knows that a woman has committed a crime and that the ruler does
 <h3>Saṅghādisesa 5</h3>
 
 <lzh>若比丘尼知僧如法擯比丘尼。比丘尼心未調伏不隨順僧。自與眷屬於界外解其擯者。是比丘尼初犯僧伽婆尸沙可悔過。</lzh>
-If a bhikkhunī knows that the sangha has expelled a bhikkhunī according to dhamma, and that that bhikkhunī’s mind hasn’t yet been corrected, and that she doesn’t follow the sangha, but she herself and her followers release her from the expulsion outside the territory, that bhikkhunī commits an immediate saṅghādisesa, from which one can repent.
+If a bhikkhunī knows that the sangha has expelled a bhikkhunī according to dhamma, and that that bhikkhunī’s mind hasn’t been corrected yet, and that she doesn’t follow the sangha, but she herself and her followers release her from the expulsion outside the territory, that bhikkhunī commits an immediate saṅghādisesa, from which one can repent.
 
 <lzh>Saṅghādisesa 6</lzh>
 <h3>Saṅghādisesa 6</h3>
@@ -1048,7 +1048,7 @@ If a bhikkhunī enters a residence where there’s a bhikkhu, and when she sees 
 <h3>Pācittiya 102</h3>
 
 <lzh>若比丘尼不滿十二歲畜眷屬。波逸提。</lzh>
-If a bhikkhunī, who doesn’t yet have 12 vassa, takes on a disciple, it’s a pācittiya.
+If a bhikkhunī, who doesn’t have 12 vassa yet, takes on a disciple, it’s a pācittiya.
 
 <lzh>Pācittiya 103</lzh>
 <h3>Pācittiya 103</h3>
@@ -1060,7 +1060,7 @@ If a bhikkhunī, who has 12 vassa, takes on students when the sangha hasn’t ca
 <h3>Pācittiya 104</h3>
 
 <lzh>若比丘尼。與未滿十二歲已嫁女受具足戒。波逸提。</lzh>
-If a bhikkhunī gives a married woman who isn’t yet 12 years old the full ordination, it’s a pācittiya.
+If a bhikkhunī gives a married woman who isn’t 12 years old yet the full ordination, it’s a pācittiya.
 
 <lzh>Pācittiya 105</lzh>
 <h3>Pācittiya 105</h3>
@@ -1072,7 +1072,7 @@ If a bhikkhunī gives a married woman who is 12 years old the full ordination, w
 <h3>Pācittiya 106</h3>
 
 <lzh>若比丘尼與未滿十八歲童女受學戒。波逸提。</lzh>
-If a bhikkhunī gives a girl who isn’t yet 18 years old the training precepts, it’s a pācittiya.
+If a bhikkhunī gives a girl who isn’t 18 years old yet the training precepts, it’s a pācittiya.
 
 <lzh>Pācittiya 107</lzh>
 <h3>Pācittiya 107</h3>
@@ -1114,7 +1114,7 @@ If a bhikkhunī ordains a prostitute, it’s a pācittiya.
 <h3>Pācittiya 113</h3>
 
 <lzh>若比丘尼與未滿二歲學戒尼受具足戒。波逸提。</lzh>
-If a bhikkhunī gives the full ordination to a nun who hasn’t yet trained in the precepts for two years, it’s a pācittiya.
+If a bhikkhunī gives the full ordination to a nun who hasn’t trained in the precepts for two years yet, it’s a pācittiya.
 
 <lzh>Pācittiya 114</lzh>
 <h3>Pācittiya 114</h3>
@@ -1462,7 +1462,7 @@ If a bhikkhunī hasn’t been summoned by lay people, and enters their house at 
 <h3>Pācittiya 171</h3>
 
 <lzh>若比丘尼受請。主人未唱。隨意食者。波逸提。</lzh>
-If a bhikkhunī accepts an invitation, and just eats food as she pleases, when the owner hasn’t yet asked her to, it’s a pācittiya.
+If a bhikkhunī accepts an invitation, and just eats food as she pleases, when the owner hasn’t asked her to yet, it’s a pācittiya.
 
 <lzh>Pācittiya 172</lzh>
 <h3>Pācittiya 172</h3>

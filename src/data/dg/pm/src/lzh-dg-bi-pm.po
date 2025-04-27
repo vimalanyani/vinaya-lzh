@@ -379,7 +379,7 @@ msgstr "pārājika 8"
 #. </h4><p><a class="sc" id="12"></a>
 msgctxt "lzh-dg-bi-pm:47.1"
 msgid "「若比丘尼，知比丘，僧為作舉，如法如律，如佛所教，不順從，不懺悔，僧未與作共住；而順從。諸比丘尼語言：『大姊！此比丘為僧所舉，如法如律，如佛所教，不順從，不懺悔，僧未與作共住；汝莫順從。』如是比丘尼諫彼比丘尼時，堅持不捨。彼比丘尼應第二、第三諫，令捨此事故。乃至三諫，捨者善。若不捨者，是比丘尼波羅夷，不共住。犯隨舉故。"
-msgstr "If a bhikkhunī knows that a bhikkhu has been suspended by the sangha according to dhamma and vinaya, according to the Buddha’s teaching, but that he doesn’t comply, doesn’t repent, and that the sangha hasn’t yet allowed him back to live with the community again, and she still follows him, the bhikkhunīs should say: ‘Venerable sister, this bhikkhu has been suspended by the sangha according to dhamma and vinaya, according to the Buddha’s teaching, but he doesn’t comply, doesn’t repent, and the sangha hasn’t yet allowed him back to live with the community again; don’t follow him.’ If when the bhikkhunīs admonish that bhikkhunī like this, she holds firmly on to this matter and doesn’t give it up, she should be admonished a second and third time to make her give up this matter. If she gives it up by the third admonishment, it’s fine. If not, that bhikkhunī is pārājika, and doesn’t live in community, because she committed the act of following a suspended one."
+msgstr "If a bhikkhunī knows that a bhikkhu has been suspended by the sangha according to dhamma and vinaya, according to the Buddha’s teaching, but that he doesn’t comply, doesn’t repent, and that the sangha hasn’t allowed him back to live with the community again yet, and she still follows him, the bhikkhunīs should say: ‘Venerable sister, this bhikkhu has been suspended by the sangha according to dhamma and vinaya, according to the Buddha’s teaching, but he doesn’t comply, doesn’t repent, and the sangha hasn’t allowed him back to live with the community again yet; don’t follow him.’ If when the bhikkhunīs admonish that bhikkhunī like this, she holds firmly on to this matter and doesn’t give it up, she should be admonished a second and third time to make her give up this matter. If she gives it up by the third admonishment, it’s fine. If not, that bhikkhunī is pārājika, and doesn’t live in community, because she committed the act of following a suspended one."
 
 #. </p><hr><p><a class="sc" id="13"></a>
 msgctxt "lzh-dg-bi-pm:48.1"
@@ -2597,7 +2597,7 @@ msgstr "pācittiya 131"
 #. </h4><p>
 msgctxt "lzh-dg-bi-pm:418.1"
 msgid "「若比丘尼，年未滿十二歲，授人具足戒者，波逸提。"
-msgstr "If a bhikkhunī, who doesn’t yet have 12 vassa, gives the full ordination to someone, it’s a pācittiya."
+msgstr "If a bhikkhunī, who doesn’t have 12 vassa yet, gives the full ordination to someone, it’s a pācittiya."
 
 #. </p><h4>
 #. <span class="add"><a id="pc132" class="latin">
