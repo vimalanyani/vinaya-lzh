@@ -2404,7 +2404,7 @@ Sikhī Buddha, the Tathāgata, the perfectly enlightened one, spoke this pātimo
 
 <lzh-verse>譬如明眼人　　能避險惡道
 世有聰明人　　能遠離諸惡</lzh-verse>
-<verse>Just as a person with clear eyes can avoid the dangerous evil path.
+<verse>Just as a person with clear eyes can avoid the dangerous evil path,
 There are wise people in the world who can keep away from evil.</verse>
 
 
@@ -2474,7 +2474,7 @@ Not retaliating when people beat and scold, with a mind without hate towards hos
 With a mind ever pure among hateful people, on seeing others doing evil not doing it oneself.</verse>
 
 <verse>The seven Buddhas honored by the world, capable of saving and protecting the world, 
-Spoke this precepts sutta, which I have now finished explaining in detail.
+Spoke this precepts sutta, which I’ve now finished explaining in detail.
 The Buddhas and their disciples venerated this precepts sutta.
 Having venerated this precepts sutta, they venerated each other,
 And having fully developed conscience and prudence, they could attain the path of nibbāna.</verse>

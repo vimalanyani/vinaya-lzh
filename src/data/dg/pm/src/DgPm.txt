@@ -2329,7 +2329,7 @@ If there are still other rules of the Buddha, everyone should train in them toge
 <verse>One gone forth who disturbs others can’t be called a renunciate.</verse>
 
 <lzh>「此是毘婆尸如來．無所著．等正覺，說是戒經。</lzh>
-Vipassī Tathāgata, without attachments and fully enlightened, recited this as his precepts sutta.
+Vipassī Tathāgata, without attachment and fully awakened, recited this as his precepts sutta.
 
 <lzh-verse>「譬如明眼人，能避險惡道，</lzh-verse>
 <verse>Just as a person with clear eyes can avoid the dangerous evil path,</verse>
@@ -2337,7 +2337,7 @@ Vipassī Tathāgata, without attachments and fully enlightened, recited this as 
 <verse>There are wise people in the world who can keep away from evil.</verse>
 
 <lzh>「此是尸棄如來．無所著．等正覺，說是戒經。</lzh>
-Sikhī Tathāgata, without attachments and fully enlightened, recited this as his precepts sutta.
+Sikhī Tathāgata, without attachment and fully awakened, recited this as his precepts sutta.
 
 <lzh-verse>「不謗亦不嫉，當奉持於戒，</lzh-verse>
 <verse>Without slandering and without jealousy, respectfully keeping the precepts,</verse>
@@ -2347,7 +2347,7 @@ Sikhī Tathāgata, without attachments and fully enlightened, recited this as hi
 <verse>Dedicated to the happiness of samādhi, this is called the teaching of the Buddhas.</verse>
 
 <lzh>「此是毘葉羅如來．無所著．等正覺，說是戒經。</lzh>
-Vessabhū Tathāgata, without attachments and fully enlightened, recited this as his precepts sutta.
+Vessabhū Tathāgata, without attachment and fully awakened, recited this as his precepts sutta.
 
 <lzh-verse>「譬如蜂採花，不壞色與香，</lzh-verse>
 <verse>Just as when bees collect from flowers, they don’t damage their color or scent,</verse>
@@ -2359,7 +2359,7 @@ Vessabhū Tathāgata, without attachments and fully enlightened, recited this as
 <verse>He should just observe his own body and conduct, whether it’s straight or not.</verse>
 
 <lzh>「此是拘樓孫如來．無所著．等正覺，說是戒經。</lzh>
-Kakusandha Tathāgata, without attachments and fully enlightened, recited this as his precepts sutta.
+Kakusandha Tathāgata, without attachment and fully awakened, recited this as his precepts sutta.
 
 <lzh-verse>「心莫作放逸，聖法當勤學，</lzh-verse>
 <verse>A mind not given to negligence, will strive to train in the noble dhamma.</verse>
@@ -2367,7 +2367,7 @@ Kakusandha Tathāgata, without attachments and fully enlightened, recited this a
 <verse>In this way without grief, the concentrated mind will enter into nibbāna.</verse>
 <lzh>「此是拘那含牟尼如來．無所著．等正覺，說是戒經。</lzh>
 
-Koṇāgamana Tathāgata, without attachments and fully enlightened, recited this as his precepts sutta.
+Koṇāgamana Tathāgata, without attachment and fully awakened, recited this as his precepts sutta.
 
 <lzh-verse>「一切惡莫作，當奉行諸善，</lzh-verse>
 <verse>Not doing all evil, respectfully practising all good,</verse>
@@ -2375,7 +2375,7 @@ Koṇāgamana Tathāgata, without attachments and fully enlightened, recited thi
 <verse>Purifying one’s mind, this is the teaching of all Buddhas.</verse>
 
 <lzh>「此是迦葉如來．無所著．等正覺，說是戒經。</lzh>
-Kassapa Tathāgata, without attachments and fully enlightened, recited this as his precepts sutta.
+Kassapa Tathāgata, without attachment and fully awakened, recited this as his precepts sutta.
 
 <lzh-verse>「善護於口言，自淨其志意，</lzh-verse>
 <verse>Well-protected in speech, purifying one’s mind,</verse>
@@ -2385,7 +2385,7 @@ Kassapa Tathāgata, without attachments and fully enlightened, recited this as h
 <verse>One who can practise like this, is on the path of the great sages.</verse>
 
 <lzh>「此是釋迦牟尼如來．無所著．等正覺，於十二年中，為無事僧說是戒經。從是已後，廣分別說。諸比丘尼，自為樂法、樂沙門者，有慚、有愧，樂學戒者，當於中學。</lzh>
-Sakyamuni Tathāgata, without attachments and fully enlightened, recited this as his precepts sutta for 12 years to the sangha without offenses. Afterwards, he spoke broadly and in detail. Bhikkhunīs, for your own happiness in the dhamma, for the happiness of renunciates, out of conscience and prudence, for the happiness of those training in the precepts, you should train in them.
+Sakyamuni Tathāgata, without attachment and fully awakened, recited this as his precepts sutta for 12 years to the sangha without offenses. Afterwards, he spoke broadly and in detail. Bhikkhunīs, for your own happiness in the dhamma, for the happiness of renunciates, out of conscience and prudence, for the happiness of those training in the precepts, you should train in them.
 
 <lzh-verse>「明人能護戒，能得三種樂，</lzh-verse>
 <verse>Bright people can protect the precepts, and can attain the three kinds of happiness:</verse>
