@@ -1836,241 +1836,241 @@ Not to wear the (upper) robe unevenly should be trained. (10)
 <h3>Sekhiya 11</h3>
 
 <lzh>好覆身入白衣舍應當學。</lzh>
-To enter a lay house with the body well-covered should be trained.
+To enter lay houses with the body well-covered should be trained.
 
 <lzh>Sekhiya 12</lzh>
 <h3>Sekhiya 12</h3>
 
 <lzh>好覆身入白衣舍坐應當學。</lzh>
-To sit in a lay house with the body well-covered should be trained.
+To sit in lay houses with the body well-covered should be trained.
 
 <lzh>Sekhiya 13</lzh>
 <h3>Sekhiya 13</h3>
 
 <lzh>不反抄衣著右肩上入白衣舍應當學。</lzh>
-Not to enter a lay house with the robe reversed and put on the right shoulder should be trained.
+Not to enter lay houses with the robe reversed and put on the right shoulder should be trained.
 
 <lzh>Sekhiya 14</lzh>
 <h3>Sekhiya 14</h3>
 
 <lzh>不反抄衣著右肩上白衣舍坐應當學。</lzh>
-Not to sit in a lay house with the robe reversed and put on the right shoulder should be trained.
+Not to sit in lay houses with the robe reversed and put on the right shoulder should be trained.
 
 <lzh>Sekhiya 15</lzh>
 <h3>Sekhiya 15</h3>
 
 <lzh>不反抄衣著左肩上入白衣舍應當學。</lzh>
-Not to enter a lay house with the robe reversed and put on the left shoulder should be trained.
+Not to enter lay houses with the robe reversed and put on the left shoulder should be trained.
 
 <lzh>Sekhiya 16</lzh>
 <h3>Sekhiya 16</h3>
 
 <lzh>不反抄衣著左肩上白衣舍坐應當學。</lzh>
-Not to sit in a lay house with the robe reversed and put on the left shoulder should be trained.
+Not to sit in lay houses with the robe reversed and put on the left shoulder should be trained.
 
 <lzh>Sekhiya 17</lzh>
 <h3>Sekhiya 17</h3>
 
 <lzh>不左右反抄衣著兩肩上入白衣舍應當學。</lzh>
-Not to enter a lay house with the robe reversed left and right and put on both shoulders should be trained.
+Not to enter lay houses with the robe reversed left and right and put on both shoulders should be trained.
 
 <lzh>Sekhiya 18</lzh>
 <h3>Sekhiya 18</h3>
 
 <lzh>不左右反抄衣著兩肩上白衣舍坐應當學。</lzh>
-Not to sit in a lay house with the robe reversed left and right and put on both shoulders should be trained.
+Not to sit in lay houses with the robe reversed left and right and put on both shoulders should be trained.
 
 <lzh>Sekhiya 19</lzh>
 <h3>Sekhiya 19</h3>
 
 <lzh>不搖身入白衣舍應當學。</lzh>
-Not to enter a lay house swaying the body should be trained.
+Not to enter lay houses swaying the body should be trained.
 
 <lzh>Sekhiya 20</lzh>
 <h3>Sekhiya 20</h3>
 
 <lzh>不搖身白衣舍坐應當學(二十)</lzh>
-Not to sit in a lay house swaying the body should be trained. (20)
+Not to sit in lay houses swaying the body should be trained. (20)
 
 <lzh>Sekhiya 21</lzh>
 <h3>Sekhiya 21</h3>
 
 <lzh>不搖頭入白衣舍應當學。</lzh>
-Not to enter a lay house swaying the head should be trained.
+Not to enter lay houses swaying the head should be trained.
 
 <lzh>Sekhiya 22</lzh>
 <h3>Sekhiya 22</h3>
 
 <lzh>不搖頭白衣舍坐應當學。</lzh>
-Not to sit in a lay house swaying the head should be trained.
+Not to sit in lay houses swaying the head should be trained.
 
 <lzh>Sekhiya 23</lzh>
 <h3>Sekhiya 23</h3>
 
 <lzh>不搖肩入白衣舍應當學。</lzh>
-Not to enter a lay house swaying the shoulders should be trained.
+Not to enter lay houses swaying the shoulders should be trained.
 
 <lzh>Sekhiya 24</lzh>
 <h3>Sekhiya 24</h3>
 
 <lzh>不搖肩白衣舍坐應當學。</lzh>
-Not to sit in a lay house swaying the shoulders should be trained.
+Not to sit in lay houses swaying the shoulders should be trained.
 
 <lzh>Sekhiya 25</lzh>
 <h3>Sekhiya 25</h3>
 
 <lzh>不携手入白衣舍應當學。</lzh>
-Not to enter a lay house holding hands should be trained.
+Not to enter lay houses holding hands should be trained.
 
 <lzh>Sekhiya 26</lzh>
 <h3>Sekhiya 26</h3>
 
 <lzh>不携手白衣舍坐應當學。</lzh>
-Not to sit in a lay house holding hands should be trained.
+Not to sit in lay houses holding hands should be trained.
 
 <lzh>Sekhiya 27</lzh>
 <h3>Sekhiya 27</h3>
 
 <lzh>不隱人入白衣舍應當學。</lzh>
-Not to enter a lay house hidden from people should be trained.
+Not to enter lay houses hidden from people should be trained.
 
 <lzh>Sekhiya 28</lzh>
 <h3>Sekhiya 28</h3>
 
 <lzh>不隱人白衣舍坐應當學。</lzh>
-Not to sit in a lay house hidden from people should be trained.
+Not to sit in lay houses hidden from people should be trained.
 
 <lzh>Sekhiya 29</lzh>
 <h3>Sekhiya 29</h3>
 
 <lzh>不扠腰入白衣舍應當學。</lzh>
-Not to enter a lay house with the arms akimbo should be trained.
+Not to enter lay houses with the arms akimbo should be trained.
 
 <lzh>Sekhiya 30</lzh>
 <h3>Sekhiya 30</h3>
 
 <lzh>不扠腰白衣舍坐應當學(三十)</lzh>
-Not to sit in a lay house with the arms akimbo should be trained. (30)
+Not to sit in lay houses with the arms akimbo should be trained. (30)
 
 <lzh>Sekhiya 31</lzh>
 <h3>Sekhiya 31</h3>
 
 <lzh>不拄頰入白衣舍應當學。</lzh>
-Not to enter a lay house propping up the cheeks should be trained.
+Not to enter lay houses propping up the cheeks should be trained.
 
 <lzh>Sekhiya 32</lzh>
 <h3>Sekhiya 32</h3>
 
 <lzh>不拄頰白衣舍坐應當學。</lzh>
-Not to sit in a lay house propping up the cheeks should be trained.
+Not to sit in lay houses propping up the cheeks should be trained.
 
 <lzh>Sekhiya 33</lzh>
 <h3>Sekhiya 33</h3>
 
 <lzh>不掉臂入白衣舍應當學。</lzh>
-Not to enter a lay house swinging the arms should be trained.
+Not to enter lay houses swinging the arms should be trained.
 
 <lzh>Sekhiya 34</lzh>
 <h3>Sekhiya 34</h3>
 
 <lzh>不掉臂白衣舍坐應當學。</lzh>
-Not to sit in a lay house swinging the arms should be trained.
+Not to sit in lay houses swinging the arms should be trained.
 
 <lzh>Sekhiya 35</lzh>
 <h3>Sekhiya 35</h3>
 
 <lzh>不高視入白衣舍應當學。</lzh>
-Not to enter a lay house looking up should be trained.
+Not to enter lay houses looking up should be trained.
 
 <lzh>Sekhiya 36</lzh>
 <h3>Sekhiya 36</h3>
 
 <lzh>不高視白衣舍坐應當學。</lzh>
-Not to sit in a lay house looking up should be trained.
+Not to sit in lay houses looking up should be trained.
 
 <lzh>Sekhiya 37</lzh>
 <h3>Sekhiya 37</h3>
 
 <lzh>不左右顧視入白衣舍應當學。</lzh>
-Not to enter a lay house looking around left and right should be trained.
+Not to enter lay houses looking around left and right should be trained.
 
 <lzh>Sekhiya 38</lzh>
 <h3>Sekhiya 38</h3>
 
 <lzh>不左右顧視白衣舍坐應當學。</lzh>
-Not to sit in a lay house looking around left and right should be trained.
+Not to sit in lay houses looking around left and right should be trained.
 
 <lzh>Sekhiya 39</lzh>
 <h3>Sekhiya 39</h3>
 
 <lzh>不蹲行入白衣舍應當學。</lzh>
-Not to enter a lay house while squatting should be trained.
+Not to enter lay houses while squatting should be trained.
 
 <lzh>Sekhiya 40</lzh>
 <h3>Sekhiya 40</h3>
 
 <lzh>不蹲行白衣舍坐應當學(四十)</lzh>
-Not to sit in a lay house while squatting should be trained. (40)
+Not to sit in lay houses while squatting should be trained. (40)
 
 <lzh>Sekhiya 41</lzh>
 <h3>Sekhiya 41</h3>
 
 <lzh>不企行入白衣舍應當學。</lzh>
-Not to enter a lay house on tiptoes should be trained.
+Not to enter lay houses on tiptoes should be trained.
 
 <lzh>Sekhiya 42</lzh>
 <h3>Sekhiya 42</h3>
 
 <lzh>不企行白衣舍坐應當學。</lzh>
-Not to sit in a lay house on tiptoes should be trained.
+Not to sit in lay houses on tiptoes should be trained.
 
 <lzh>Sekhiya 43</lzh>
 <h3>Sekhiya 43</h3>
 
 <lzh>不覆頭入白衣舍應當學。</lzh>
-Not to enter a lay house with the head covered should be trained.
+Not to enter lay houses with the head covered should be trained.
 
 <lzh>Sekhiya 44</lzh>
 <h3>Sekhiya 44</h3>
 
 <lzh>不覆頭白衣舍坐應當學。</lzh>
-Not to sit in a lay house with the head covered should be trained.
+Not to sit in lay houses with the head covered should be trained.
 
 <lzh>Sekhiya 45</lzh>
 <h3>Sekhiya 45</h3>
 
 <lzh>不戲笑入白衣舍應當學。</lzh>
-Not to enter a lay house joking around should be trained.
+Not to enter lay houses joking around should be trained.
 
 <lzh>Sekhiya 46</lzh>
 <h3>Sekhiya 46</h3>
 
 <lzh>不戲笑白衣舍坐應當學。</lzh>
-Not to sit in a lay house joking around should be trained.
+Not to sit in lay houses joking around should be trained.
 
 <lzh>Sekhiya 47</lzh>
 <h3>Sekhiya 47</h3>
 
 <lzh>不高聲入白衣舍應當學。</lzh>
-Not to enter a lay house noisily should be trained.
+Not to enter lay houses noisily should be trained.
 
 <lzh>Sekhiya 48</lzh>
 <h3>Sekhiya 48</h3>
 
 <lzh>不高聲白衣舍坐應當學。</lzh>
-Not to sit in a lay house noisily should be trained.
+Not to sit in lay houses noisily should be trained.
 
 <lzh>Sekhiya 49</lzh>
 <h3>Sekhiya 49</h3>
 
 <lzh>庠序入白衣舍應當學(五十)</lzh>
-To enter a lay house in a dignified way should be trained. (50)
+To enter lay houses in a dignified way should be trained. (50)
 
 <lzh>Sekhiya 50</lzh>
 <h3>Sekhiya 50</h3>
 
 <lzh>庠序白衣舍坐應當學。</lzh>
-To sit in a lay house in a dignified way should be trained.
+To sit in lay houses in a dignified way should be trained.
 
 <lzh>Sekhiya 51</lzh>
 <h3>Sekhiya 51</h3>
@@ -2226,7 +2226,7 @@ Not to throw a ball of food into the mouth from a distance should be trained.
 <h3>Sekhiya 76</h3>
 
 <lzh>不以鉢中有食水灑白衣屋內應當學。</lzh>
-Not to pour out the bowl(-washing) water that contains food inside a lay house should be trained.
+Not to pour out the bowl(-washing) water that contains food inside lay houses should be trained.
 
 <lzh>Sekhiya 77</lzh>
 <h3>Sekhiya 77</h3>
