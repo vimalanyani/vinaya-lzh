@@ -1658,13 +1658,13 @@ To wear the three robes neatly should be trained.
 <h3>Sekhiya 3</h3>
 
 <lzh>「不得反抄衣行入白衣舍，應當學。</lzh>
-Not to walk with the robe reversed<note>Inside out and on the wrong shoulder.</note> while entering lay houses should be trained.
+Not to enter lay houses with the robe reversed<note>Inside out and on the wrong shoulder.</note> should be trained.
 
 <lzh>sekhiya 4</lzh>
 <h3>Sekhiya 4</h3>
 
 <lzh>「不得反抄衣入白衣舍坐，應當學。</lzh>
-Not to sit inside lay houses with the robe reversed<note>Inside out and on the wrong shoulder.</note> should be trained.
+Not to sit in lay houses with the robe reversed<note>Inside out and on the wrong shoulder.</note> should be trained.
 
 <lzh>sekhiya 5</lzh>
 <h3>Sekhiya 5</h3> 
@@ -1676,7 +1676,7 @@ Not to enter lay houses with the robe wrapped around the neck should be trained.
 <h3>Sekhiya 6</h3>
 
 <lzh>「不得衣纏頸入白衣舍坐，應當學。</lzh>
-Not to sit inside lay houses with the robe wrapped around the neck should be trained.
+Not to sit in lay houses with the robe wrapped around the neck should be trained.
 
 <lzh>sekhiya 7</lzh>
 <h3>Sekhiya 7</h3>
@@ -1688,61 +1688,61 @@ Not to enter lay houses with the head covered should be trained.
 <h3>Sekhiya 8</h3>
 
 <lzh>「不得覆頭入白衣舍坐，應當學。</lzh>
-Not to sit inside lay houses with the head covered should be trained.
+Not to sit in lay houses with the head covered should be trained.
 
 <lzh>sekhiya 9</lzh>
 <h3>Sekhiya 9</h3>
 
 <lzh>「不得跳行入白衣舍，應當學。</lzh>
-Not to bounce while entering lay houses should be trained.
+Not to enter lay houses bouncing should be trained.
 
 <lzh>sekhiya 10</lzh>
 <h3>Sekhiya 10</h3>
 
 <lzh>「不得跳行入白衣舍坐，應當學。</lzh>
-Not to bounce while sitting in lay houses should be trained.
+Not to sit in lay houses bouncing should be trained.
 
 <lzh>sekhiya 11</lzh>
 <h3>Sekhiya 11</h3>
 
 <lzh>「不得白衣舍內蹲坐，應當學。</lzh>
-Not to sit squatting on the heels in lay houses should be trained.
+Not to sit in lay houses squatting on the heels should be trained.
 
 <lzh>sekhiya 12</lzh>
 <h3>Sekhiya 12</h3>
 
 <lzh>「不得叉腰行入白衣舍，應當學。</lzh>
-Not to have the hands akimbo while entering lay houses should be trained.
+Not to enter lay houses with the hands akimbo should be trained.
 
 <lzh>sekhiya 13</lzh>
 <h3>Sekhiya 13</h3>
 
 <lzh>「不得叉腰行入白衣舍坐，應當學。</lzh>
-Not to sit with the hands akimbo in lay houses should be trained.
+Not to sit in lay houses with the hands akimbo should be trained.
 
 <lzh>sekhiya 14</lzh>
 <h3>Sekhiya 14</h3>
 
 <lzh>「不得搖身行入白衣舍，應當學。</lzh>
-Not to sway the body while entering lay houses should be trained.
+Not to enter lay houses swaying the body should be trained.
 
 <lzh>sekhiya 15</lzh>
 <h3>Sekhiya 15</h3>
 
 <lzh>「不得搖身行入白衣舍坐，應當學。</lzh>
-Not to sit swaying the body in lay houses should be trained.
+Not to sit in lay houses swaying the body should be trained.
 
 <lzh>sekhiya 16</lzh>
 <h3>Sekhiya 16</h3>
 
 <lzh>「不得掉臂行入白衣舍，應當學。</lzh>
-Not to swing the arms while entering lay houses should be trained.
+Not to enter lay houses swinging the arms should be trained.
 
 <lzh>sekhiya 17</lzh>
 <h3>Sekhiya 17</h3>
 
 <lzh>「不得掉臂行入白衣舍坐，應當學。</lzh>
-Not to sit swinging the arms in lay houses should be trained.
+Not to sit in lay houses swinging the arms should be trained.
 
 <lzh>sekhiya 18</lzh>
 <h3>Sekhiya 18</h3>
@@ -1928,7 +1928,7 @@ Not to take up drinking utensils with a dirty hand should be trained.
 <h3>Sekhiya 48</h3>
 
 <lzh>「不得洗鉢水棄白衣舍內，應當學。</lzh>
-Not to throw away the bowl-washing water inside lay houses should be trained.
+Not to throw away the bowl-washing water in lay houses should be trained.
 
 <lzh>sekhiya 49</lzh>
 <h3>Sekhiya 49</h3>
@@ -2255,7 +2255,7 @@ The venerable sisters are pure herein, therefore you’re silent. This matter wi
 <h2>Seven Adhikaraṇasamathas</h2>
 
 <lzh>「諸大姊！是七滅諍法，半月半月說，戒經中來。</lzh>
-Venerable sisters, the seven rules to settle disputes that are recited every half-month in the precepts sutta are coming up.
+Venerable sisters, the seven rules for settling disputes that are recited every half-month in the precepts sutta are coming up.
 
 <lzh>「若比丘尼有諍事起，即應除滅。</lzh>
 If the bhikkkhunīs have an arisen matter of dispute, it should be settled.
@@ -2303,7 +2303,7 @@ What should be dealt with according to a characteristic-of-seeking-offenses, wil
 What should be dealt with like grass covering the ground, will be dealt with like grass covering the ground.
 
 <lzh>「諸大姊！我已說七滅諍法。</lzh>
-Venerable sisters, I’ve recited the seven rules to settle disputes.
+Venerable sisters, I’ve recited the seven rules for settling disputes.
 
 <lzh>「今問諸大姊：是中清淨不？(如是三說)。</lzh>
 Now I ask the venerable sisters: ‘Are you pure herein?’ (Repeat three times)。
@@ -2315,7 +2315,7 @@ The venerable sisters are pure herein, therefore you’re silent. This matter is
 <h2>Conclusion</h2>
 
 <lzh>「諸大姊！我已說戒經序，已說八波羅夷法，已說十七僧伽婆尸沙法，已說三十尼薩耆波逸提法，已說一百七十八波逸提法，已說八波羅提提舍尼法，已說眾學戒法，已說七滅諍法。此是佛所說，半月半月說，戒經中來。</lzh>
-Venerable sisters, I’ve recited the introduction to the precepts sutta, the eight pārājika rules, the 17 saṅghādisesa rules, the 30 nissaggiya pācittiya rules, the 178 pācittiya rules, the eight pātidesanīya rules, the many training rules, and the seven rules to settle disputes. This is what the Buddha has spoken, what is recited every half-month, what comes up in the precepts sutta.
+Venerable sisters, I’ve recited the introduction to the precepts sutta, the eight pārājika rules, the 17 saṅghādisesa rules, the 30 nissaggiya pācittiya rules, the 178 pācittiya rules, the eight pātidesanīya rules, the many training rules, and the seven rules for settling disputes. This is what the Buddha has spoken, what is recited every half-month, what comes up in the precepts sutta.
 
 <lzh>Concluding verses</lzh>
 <h2>Concluding verses</h2>
