@@ -76,7 +76,7 @@ Venerables, these eight pārājika rules are recited every half-month in the pā
 <lzh>placeholder</lzh>
 <h3>Pārājika 1</h3>
 <lzh>若比丘尼。於和合二部僧中受具足戒。不還戒。戒羸不出。相行婬法。乃至共畜生。是比丘尼犯波羅夷罪不應共住。</lzh>
-If a bhikkhunī who has received the full precepts in the midst of a harmonious twofold sangha, who hasn’t returned the precepts, who hasn’t disclosed her weakness in the precepts, engages in sexual intercourse, even together with an animal, that bhikkhunī commits a pārājika offense, and shouldn’t live in community.
+If a bhikkhunī who has received the full precepts in both sanghas in harmony, who hasn’t returned the precepts, who hasn’t disclosed her weakness in the precepts, engages in sexual intercourse, even together with an animal, that bhikkhunī commits a pārājika offense, and shouldn’t live in community.
 
 <lzh>placeholder</lzh>
 <h3>Pārājika 2</h3>
@@ -128,12 +128,12 @@ If a bhikkhunī accepts to act as a messenger to unite a man and a woman, whethe
 <lzh>placeholder</lzh>
 <h3>Saṅghādisesa 2</h3>
 <lzh>若比丘尼。瞋恨不喜故。於清淨無罪比丘尼。以無根波羅夷法謗。欲破彼比丘尼淨行。彼於後時若檢校若不檢校便作是言。是事無根。我住瞋恨故作是語。是法初罪僧伽婆尸沙。</lzh>
-If a bhikkhunī out of hostility and dissatisfaction, slanders a pure, innocent bhikkhunī with an unfounded pārājika offense, wanting to destroy that bhikkhunī’s monastic life, and at a later time, whether examined or not examined, says: ‘This matter is unfounded. I said this because I was harboring hostility,’ it’s an immediate saṅghādisesa offense.
+If a bhikkhunī, angry and dissatisfied, slanders a pure, innocent bhikkhunī with an unfounded pārājika offense, wanting to destroy that bhikkhunī’s monastic life, and at a later time, whether examined or not examined, says: ‘This matter is unfounded. I said this because I was harboring anger,’ it’s an immediate saṅghādisesa offense.
 
 <lzh>placeholder</lzh>
 <h3>Saṅghādisesa 3</h3>
 <lzh>若比丘尼。瞋恨不喜故。以異分中小小事非波羅夷。比丘尼以波羅夷法謗。欲破彼梵行。彼於後時若檢校若不檢校以異分中小小事。是比丘尼住瞋恨故。是法初罪僧伽婆尸沙。</lzh>
-If a bhikkhunī, out of hostility and dissatisfaction, slanders a bhikkhunī, who isn’t pārājika, with a pārājika offense because of a minor issue from a different matter, wanting to destroy her monastic life, and at a later time, whether examined or not examined about that minor issue from a different matter, that bhikkhunī says that she (spoke) because she harbored hostility, it’s an immediate saṅghādisesa offense.<note> “spoke” 說 is only found in the vibhaṅga version of the rule.</note>
+If a bhikkhunī, angry and dissatisfied, slanders a bhikkhunī, who isn’t pārājika, with a pārājika offense because of a minor issue from a different matter, wanting to destroy her monastic life, and at a later time, whether examined or not examined about that minor issue from a different matter, that bhikkhunī says that she (spoke) because she harbored anger, it’s an immediate saṅghādisesa offense.<note> “spoke” 說 is only found in the vibhaṅga version of the rule.</note>
 
 <lzh>placeholder</lzh>
 <h3>Saṅghādisesa 4</h3>
@@ -183,7 +183,7 @@ If a bhikkhunī says to another bhikkhunī: ‘You can receive the offering of t
 <lzh>placeholder</lzh>
 <h3>Saṅghādisesa 13</h3>
 <lzh>若比丘尼。欲破和合僧故。執持破僧事共諍。諸比丘尼應語是比丘尼。阿梨耶。莫破和合僧勤方便執持破僧事共諍。當與僧同事。何以故。僧和合歡喜不諍。共一學如水乳合。如法說安樂住。是比丘尼。諸比丘尼諫時。堅持不捨者。應第二第三諫。捨者善。若不捨者。是法乃至三諫。僧伽婆尸沙。</lzh>
-If a bhikkhunī, because she wants to split the sangha in harmony, strives with expedient means, holds on to matters which split the sangha, and quarrels with others, the bhikkhunīs should say to that bhikkhunī: ‘Venerable, don’t split the sangha in harmony by striving with expedient means, holding on to matters which split the sangha, and quarreling with others. You should conduct matters together with the sangha. Why? A sangha in harmony is happy and doesn’t quarrel. We should train together, mix like water and milk, speak according to dhamma, and live comfortably.’ If that bhikkhunī when admonished by the bhikkhunīs persists firmly, and doesn’t give it up, she should be admonished a second and a third time. If she gives up this matter, it’s fine. If not, this rule is a saṅghādisesa after three admonishments.
+If a bhikkhunī, because she wants to split the sangha in harmony, holds on to matters which split the sangha, and quarrels with others, the bhikkhunīs should say to that bhikkhunī: ‘Venerable, don’t split the sangha in harmony by striving with skillful means, holding on to matters which split the sangha, and quarreling with others. You should conduct matters together with the sangha. Why? A sangha in harmony is happy and doesn’t quarrel. We should train together, mix like water and milk, speak according to dhamma, and live comfortably.’ If that bhikkhunī when admonished by the bhikkhunīs persists firmly, and doesn’t give it up, she should be admonished a second and a third time. If she gives up this matter, it’s fine. If not, this rule is a saṅghādisesa after three admonishments.
 
 <lzh>placeholder</lzh>
 <h3>Saṅghādisesa 14</h3>
@@ -193,12 +193,12 @@ If bhikkhunīs with the same intentions help each other, whether one, two, or ma
 <lzh>placeholder</lzh>
 <h3>Saṅghādisesa 15</h3>
 <lzh>若比丘尼瞋恚非理謗僧。作如是言。僧隨愛隨瞋隨怖隨癡。僧依愛瞋怖癡。是故呵責。是比丘尼。諸比丘尼應諫作是言。阿梨耶。莫作是語。僧隨愛隨瞋隨怖隨癡。僧依愛瞋怖癡。何以故。僧不隨愛瞋怖癡。汝莫瞋恚非理謗僧。是比丘尼。諸比丘尼諫時。堅持不捨者。應第二第三諫。捨是事好。若不捨。是法乃至三諫。僧伽婆尸沙。</lzh>
-If a bhikkhunī resentfully and unreasonably slanders the sangha, saying: ‘The sangha follows desire, aversion, fear, and delusion. The sangha is relying on desire, aversion, fear, and delusion. For this reason they criticize me,’ the bhikkhunīs should admonish her: ‘Venerable, don’t say: “The sangha follows desire, aversion, fear, and delusion. The sangha is relying on desire, aversion, fear, and delusion.” Why? The sangha doesn’t follow desire, aversion, fear, and delusion. Don’t resentfully and unreasonably slander the sangha.’ If that bhikkhunī when admonished by the bhikkhunīs persists firmly, and doesn’t give it up, she should be admonished a second and a third time. If she gives up this matter, it’s fine. If not, this rule is a saṅghādisesa after three admonishments.
+If a bhikkhunī resentfully and unreasonably slanders the sangha, saying: ‘The sangha follows desire, anger, fear, and delusion. The sangha is relying on desire, anger, fear, and delusion. For this reason they criticize me,’ the bhikkhunīs should admonish her: ‘Venerable, don’t say: “The sangha follows desire, anger, fear, and delusion. The sangha is relying on desire, anger, fear, and delusion.” Why? The sangha doesn’t follow desire, anger, fear, and delusion. Don’t resentfully and unreasonably slander the sangha.’ If that bhikkhunī when admonished by the bhikkhunīs persists firmly, and doesn’t give it up, she should be admonished a second and a third time. If she gives up this matter, it’s fine. If not, this rule is a saṅghādisesa after three admonishments.
 
 <lzh>placeholder</lzh>
 <h3>Saṅghādisesa 16</h3>
 <lzh>若比丘尼。自用戾語。諸比丘尼共法中如法如律教。便自用意作是言。汝莫語我若好若惡。我亦不語汝若好若惡。諸比丘尼應諫彼比丘尼言。阿梨耶。諸比丘尼共法中如法如律教。汝莫自用語。諸比丘尼教汝。汝當信受。汝亦應如法如律教諸比丘尼。何以故。如來弟子中展轉相教展轉相諫。共罪中出故善法得增長。是比丘尼。諸比丘尼諫時。堅持不捨者。應第二第三諫。捨是事善。若不捨是法乃至三諫。僧伽婆尸沙。</lzh>
-If a bhikkhunī speaks obstinately and contrarily when bhikkhunīs of the same affiliation teach her in accordance with dhamma and vinaya, and with obstinate intentions, says: ‘Don’t say whether I’m good or bad. I also don’t say whether you’re good or bad,’ the bhikkhunīs should admonish that bhikkhunī: ‘Venerable, don’t speak obstinately when the bhikkhunīs of the same affiliation teach you according to dhamma and vinaya. When the bhikkhunīs teach you, you should accept it faithfully. You should also teach the bhikkhunīs according to dhamma and vinaya. Why? The disciples of the Tathāgata teach each other and admonish each other, to come out of shared offenses and to achieve growth in wholesome states.’ If that bhikkhunī when admonished by the bhikkhunīs persists firmly, and doesn’t give it up, she should be admonished a second and a third time. If she gives up this matter, it’s fine. If not, this rule is a saṅghādisesa after three admonishments.
+If a bhikkhunī speaks obstinately and contrarily when bhikkhunīs of the same affiliation teach her in accordance with dhamma and vinaya, and with obstinate intentions, says: ‘Don’t talk to me about good and bad. I also won’t talk to you about good and bad,’ the bhikkhunīs should admonish that bhikkhunī: ‘Venerable, don’t speak obstinately when the bhikkhunīs of the same affiliation teach you according to dhamma and vinaya. When the bhikkhunīs teach you, you should accept it faithfully. You should also teach the bhikkhunīs according to dhamma and vinaya. Why? The disciples of the Tathāgata teach each other and admonish each other, to come out of offenses together, and to achieve growth in wholesome states.’ If that bhikkhunī when admonished by the bhikkhunīs persists firmly, and doesn’t give it up, she should be admonished a second and a third time. If she gives up this matter, it’s fine. If not, this rule is a saṅghādisesa after three admonishments.
 
 <lzh>placeholder</lzh>
 <h3>Saṅghādisesa 17</h3>
@@ -225,17 +225,17 @@ Venerables, these 30 nissaggiya pācittiya rules are recited every half-month in
 <lzh>placeholder</lzh>
 <h3>Nissaggiya Pācittiya 1</h3>
 <lzh>若比丘尼。衣已竟迦絺那衣已捨。若得長衣得至十日畜。若過者尼薩耆波夜提。</lzh>
-If a bhikkhunī, when the robes have been finished, and the kaṭhina robe has been relinquished, obtains a spare robe, she may keep it for up to ten days. If she exceeds that, it’s a nissaggiya pācittiya.
+If a bhikkhunī has finished her robes, has relinquished the kaṭhina robe, and obtains a spare robe, she may keep it for up to ten days. If she exceeds that, it’s a nissaggiya pācittiya.
 
 <lzh>placeholder</lzh>
 <h3>Nissaggiya Pācittiya 2</h3>
 <lzh>若比丘尼衣已竟迦絺那衣已捨。五衣中若離一一衣餘處一宿。除僧羯磨尼薩耆波夜提。</lzh>
-If a bhikkhunī, when the robes have been finished, and the kaṭhina robe has been relinquished, spends a night in another place away from any of her five robes, unless the sangha has done a formal act, it’s a nissaggiya pācittiya.
+If a bhikkhunī has finished her robes, has relinquished the kaṭhina robe, and spends a night in another place away from any of her five robes, unless the sangha has done a formal act, it’s a nissaggiya pācittiya.
 
 <lzh>placeholder</lzh>
 <h3>Nissaggiya Pācittiya 3</h3>
 <lzh>若比丘尼。衣已竟迦絺那衣已捨。若得非時衣。比丘尼若須應取疾作衣受。若不足者有望處。為滿故聽一月畜。若過畜者。足不足尼薩耆波夜提。</lzh>
-If a bhikkhunī, when the robes have been finished, and the kaṭhina robe has been relinquished, obtains out-of-season cloth, that bhikkhunī should receive it if she needs it, and quickly make it into a robe. If it’s not sufficient and there’s an expectation to complete it, she’s allowed to keep it for one month. If she keeps it longer, whether it’s sufficient or not, it’s a nissaggiya pācittiya.
+If a bhikkhunī has finished her robes, has relinquished the kaṭhina robe, and obtains out-of-season cloth, that bhikkhunī should receive it if she needs it, and quickly make it into a robe. If it’s not sufficient and there’s an expectation to complete it, she’s allowed to keep it for one month. If she keeps it longer, whether it’s sufficient or not, it’s a nissaggiya pācittiya.
 
 <lzh>placeholder</lzh>
 <h3>Nissaggiya Pācittiya 4</h3>
@@ -245,7 +245,7 @@ If a bhikkhunī takes gold and silver with her own hand, or has others take it o
 <lzh>placeholder</lzh>
 <h3>Nissaggiya Pācittiya 5</h3>
 <lzh>若比丘尼。種種賣買尼薩耆波夜提。</lzh>
-If a bhikkhunī engages in all kinds of trade, it’s a nissaggiya pācittiya.
+If a bhikkhunī engages in all kinds of sales, it’s a nissaggiya pācittiya.
 
 <lzh>placeholder</lzh>
 <h3>Nissaggiya Pācittiya 6</h3>
@@ -270,7 +270,7 @@ If two male or female householders each prepare a robe fund for a bhikkhunī, an
 <lzh>placeholder</lzh>
 <h3>Nissaggiya Pācittiya 10</h3>
 <lzh>為比丘尼故若王若大臣。遣使送衣直與比丘尼。使到比丘尼所白言。阿梨耶。是衣直。若王若大臣所送。阿梨耶。應受是衣價。是比丘尼。應語使如是言。諸比丘尼法。不應受是衣價。我須衣時。得清淨衣者。得自手受作比丘尼衣畜。使語比丘尼。阿梨耶。有執事人。常為諸比丘尼執事不。是比丘尼。應示使執事人。若園民。若優婆塞。應語使到。言善哉執事。如是如是衣價。買如是如是衣。與某甲比丘尼。是比丘尼須衣時。當來當與衣。是使若自勸喻。若使人勸喻已。還到比丘尼所白言。阿梨耶。所示執事人。我已勸喻作衣。阿梨耶須衣時往取。當與阿梨耶衣。須衣比丘尼。應到執事所索衣。應作是言。我須衣我須衣。第二第三亦如是索。若得衣者好。若不得。第四第五第六應在執事前默然立。若得衣者善。若不得。過是求。若得衣。尼薩耆波夜提。若不得衣。隨衣價來處自去。若遣使應作是言。汝為某甲比丘尼送衣價。是比丘尼竟不得用。汝自知。莫使失。是事法爾。</lzh>
-If, for a bhikkhunī, a king or a high official sends a messenger with a robe fund to give to a bhikkhunī, and if that messenger, when they come to the bhikkhunī, say: ‘Venerable, this robe fund was sent by a king or a high official. Venerable, you should accept this robe fund,’ the bhikkhunī should say to the messenger: ‘Under the bhikkhunī rules, I shouldn’t accept this robe fund. When I need a robe, I obtain a pure cloth that I may accept with my own hands, make into a bhikkhunī robe, and keep.’ If the messenger then says to the bhikkhunī: ‘Venerable, is there a manager who always takes care of matters for the bhikkhunīs?’, the bhikkhunī should point out the manager, either a monastery attendant, or a lay person, to the messenger, or should tell them. When the messenger has gone there, he says: ‘It’d be good, manager, if you bought such-and-such a robe with such-and-such a robe fund for bhikkhunī So-and-so. When that bhikkhunī needs a robe, she’ll come, and you should give the robe.’ After the messenger has either personally given the instructions, or has sent others to give the instructions, he returns to the bhikkhunī, and says: ‘Venerable, I’ve instructed the manager you indicated to make a robe. When the venerable needs a robe, you should go and receive one. They should give the venerable a robe.’ When the bhikkhunī needs a robe, she should go to the manager and ask for the robe. She should say: ‘I need a robe. I need a robe.’ For a second and a third time, she should again say this. If she obtains the robe, it’s fine. If she doesn’t obtain it, she may stand silently in front of the manager for a forth, fifth, and sixth time. If she obtains the robe, it’s fine. If she doesn’t obtain it, and ask more times, if she then obtains the robe, it’s a nissaggiya pācittiya. If she doesn’t obtain the robe, she should either go herself to the place from where the robe fund was sent, or send a messenger to say: ‘You sent a robe fund for bhikkhunī So-and-so. That bhikkhunī hasn’t been able to use it in the end. You should know that, so it doesn’t cause you a loss.’ This procedure should be done thus.
+If, for a bhikkhunī, a king or a high official sends a messenger with a robe fund to give to a bhikkhunī, and if that messenger, when they come to the bhikkhunī, say: ‘Venerable, this robe fund was sent by a king or a high official. Venerable, you should accept this robe fund,’ the bhikkhunī should say to the messenger: ‘Under the bhikkhunī rules, I shouldn’t accept this robe fund. When I need a robe, I obtain a pure cloth that I may accept with my own hands, make into a bhikkhunī robe, and keep it.’ If the messenger then says to the bhikkhunī: ‘Venerable, is there a manager who always takes care of matters for the bhikkhunīs?’, the bhikkhunī should point out the manager, either a monastery attendant, or a lay person, to the messenger, or should tell them. When the messenger has gone there, he says: ‘It’d be good, manager, if you bought such-and-such a robe with such-and-such a robe fund for bhikkhunī So-and-so. When that bhikkhunī needs a robe, she’ll come, and you should give the robe.’ After the messenger has either personally given the instructions, or has sent others to give the instructions, he returns to the bhikkhunī, and says: ‘Venerable, I’ve instructed the manager you indicated to make a robe. When the venerable needs a robe, you should go and receive one. They should give the venerable a robe.’ When the bhikkhunī needs a robe, she should go to the manager and ask for the robe. She should say: ‘I need a robe. I need a robe.’ For a second and a third time, she should again say this. If she obtains the robe, it’s fine. If she doesn’t obtain it, she may stand silently in front of the manager for a forth, fifth, and sixth time. If she obtains the robe, it’s fine. If she doesn’t obtain it, and ask more times, if she then obtains the robe, it’s a nissaggiya pācittiya. If she doesn’t obtain the robe, she should either go herself to the place from where the robe fund was sent, or send a messenger to say: ‘You sent a robe fund for bhikkhunī So-and-so. That bhikkhunī hasn’t been able to use it in the end. You should know that, so it doesn’t cause you a loss.’ This procedure should be done thus.
 
 <lzh>placeholder</lzh>
 <h3>Nissaggiya Pācittiya 11</h3>
@@ -330,7 +330,7 @@ If a bhikkhunī has a spare bowl, she may keep it for ten days. If she exceeds t
 <lzh>placeholder</lzh>
 <h3>Nissaggiya Pācittiya 22</h3>
 <lzh>若比丘尼。所用鉢減五綴。更乞新鉢為好故。尼薩耆波夜提。是鉢應僧中捨。比丘尼眾中。最下鉢應與應如是教。汝比丘尼受是鉢乃至破是事法爾。</lzh>
-If a bhikkhunī with a used bowl with less than five mends, asks for a new bowl in order to get something good, it’s a nissaggiya pācittiya. That bowl should be given up in the midst of the sangha. The bhikkhunī sangha’s most inferior bowl should be given to her, and she should be instructed: ‘You, bhikkhunī, should accept this bowl until it breaks.’ This procedure should be done thus.
+If a bhikkhunī, when the bowl she uses has less than five repairs, asks for a new bowl in order to get something good, it’s a nissaggiya pācittiya. That bowl should be given up in the midst of the sangha. The bhikkhunī sangha’s most inferior bowl should be given to her, and she should be instructed: ‘You, bhikkhunī, should accept this bowl until it breaks.’ This procedure should be done thus.
 
 <lzh>placeholder</lzh>
 <h3>Nissaggiya Pācittiya 23</h3>
@@ -340,27 +340,27 @@ If a bhikkhunī is sick, the medicines to be taken are ghee, oil, honey, sugar, 
 <lzh>placeholder</lzh>
 <h3>Nissaggiya Pācittiya 24</h3>
 <lzh>若比丘尼。與比丘尼衣。後瞋恨不喜。若自奪若使人奪作是言。比丘尼還我衣來不與汝。得衣者尼薩耆波夜提。</lzh>
-If a bhikkhunī gives a robe to another bhikkhunī, and if later out of hostility and dissatisfaction, she either takes it back by force herself, or has others take it back, and says: ‘Bhikkhunī, return my robe, it’s not given to you,’ and if she obtains the robe, it’s a nissaggiya pācittiya.
+If a bhikkhunī gives a robe to another bhikkhunī, and if later, angry and dissatisfied, she either takes it back by force herself, or has others take it back, and says: ‘Bhikkhunī, return my robe, it’s not given to you,’ and if she obtains the robe, it’s a nissaggiya pācittiya.
 
 <lzh>placeholder</lzh>
 <h3>Nissaggiya Pācittiya 25</h3>
 <lzh>若比丘尼。種種販賣生色似色者。尼薩耆波夜提。</lzh>
-If a bhikkhunī engages in all kinds of sales with gold and silver, it’s a nissaggiya pācittiya.
+If a bhikkhunī engages in all kinds of trades with gold and silver, it’s a nissaggiya pācittiya.
 
 <lzh>placeholder</lzh>
 <h3>Nissaggiya Pācittiya 26</h3>
 <lzh>若比丘尼。自行乞縷。使非親里織師織者。尼薩耆波夜提。</lzh>
-If a bhikkhunī goes to ask for thread herself to have it woven by unrelated weavers, it’s a nissaggiya pācittiya.
+If a bhikkhunī goes to ask for thread herself to have it woven by an unrelated weaver, it’s a nissaggiya pācittiya.
 
 <lzh>placeholder</lzh>
 <h3>Nissaggiya Pācittiya 27</h3>
 <lzh>若居士居士婦。使織師為比丘尼織作衣。是比丘尼先不請。便往勸織師言。汝知不。此衣為我作。汝好織令緻長廣。當與汝錢錢直食食直。是比丘尼如是勸。與錢錢直食食直得衣者尼薩耆波夜提。</lzh>
-If male or female householders have weavers weave a robe for a bhikkhunī, and that bhikkhunī, without first having been invited, goes and instructs the weavers: ‘Do you know that this robe is made for me? Weave it well to make it fine, long and wide. I’ll give you money, things of monetary value, food, or food funds.’ If that bhikkhunī instructs them like this, gives money, things of monetary value, food, or food funds, and obtains the robe, it’s a nissaggiya pācittiya.
+If male or female householders have a weaver weave a robe for a bhikkhunī, and that bhikkhunī, without first having been invited, goes and instructs the weaver: ‘Do you know that this robe is made for me? Weave it well to make it fine, long and wide. I’ll give you money, things of monetary value, food, or food funds.’ If that bhikkhunī instructs them like this, gives money, things of monetary value, food, or food funds, and obtains the robe, it’s a nissaggiya pācittiya.
 
 <lzh>placeholder</lzh>
 <h3>Nissaggiya Pācittiya 28</h3>
 <lzh>若比丘尼。十日未滿。夏三月得急施衣。比丘尼須者得取畜至衣時。若過時畜尼薩耆波夜提。</lzh>
-If a bhikkhunī, ten days before the end of the three summer months (i.e. the rains retreat), obtains an urgent robe offering, the bhikkhunī should take it if she needs it, and keep it until the robe season. If she keeps it longer, it’s a nissaggiya pācittiya.
+If a bhikkhunī, ten days before the end of the three summer months (i.e. the rains retreat), obtains an urgently offered robe, the bhikkhunī should take it if she needs it, and keep it until the robe season. If she keeps it longer, it’s a nissaggiya pācittiya.
 
 <lzh>placeholder</lzh>
 <h3>Nissaggiya Pācittiya 29</h3>
@@ -526,7 +526,7 @@ If a bhikkhunī eats stored food, it’s a pācittiya.
 <lzh>placeholder</lzh>
 <h3>Pācittiya 28</h3>
 <lzh>若比丘尼。往白衣家。自恣與餅麨得受兩三鉢。出外共不病比丘尼食。若過受出外不共不病比丘尼食者。波夜提。</lzh>
-If a bhikkhunī goes to the house of a lay person, and is invited to take cakes and flour, she may accept two or three bowlfuls. Having gone outside, she should eat them together with the bhikkhunīs who aren’t sick. If she accepts more, or doesn’t go outside to eat them together with the bhikkhunīs who aren’t sick, it’s a pācittiya.
+If a bhikkhunī goes to the house of a lay person, and is invited to cakes and flour, she may accept two or three bowlfuls. Having gone outside, she should eat them together with the bhikkhunīs who aren’t sick. If she accepts more, or doesn’t go outside to eat them together with the bhikkhunīs who aren’t sick, it’s a pācittiya.
 
 <lzh>placeholder</lzh>
 <h3>Pācittiya 29</h3>
@@ -554,7 +554,7 @@ If a bhikkhunī spends more than three nights in a room with a person who hasn�
 <lzh>placeholder</lzh>
 <h3>Pācittiya 33</h3>
 <lzh>若比丘尼與羯磨欲已。後瞋恨不喜作是言。我不與欲不好與。此羯磨不成就。我不與此欲。波夜提。</lzh>
-If a bhikkhunī has given consent to a formal act, and later, out of hostility and dissatisfaction, says: ‘I haven’t given consent, it hasn’t been properly given. This formal act doesn’t stand. I haven’t consented to this,’ it’s a pācittiya.
+If a bhikkhunī has given consent to a formal act, and later, angry and dissatisfied, says: ‘I haven’t given consent, it hasn’t been properly given. This formal act doesn’t stand. I haven’t consented to this,’ it’s a pācittiya.
 
 <lzh>placeholder</lzh>
 <h3>Pācittiya 34</h3>
@@ -574,7 +574,7 @@ If a bhikkhunī knows that that bhikkhunī hasn’t given up this unwholesome vi
 <lzh>placeholder</lzh>
 <h3>Pācittiya 37</h3>
 <lzh>若沙彌尼作是言。如來說婬欲是障道法。我知習婬欲不能障道。諸比丘尼應諫言。汝沙彌尼莫謗世尊。謗世尊者不善世尊不作是語。世尊說婬欲實障道。汝捨此惡見。如是諫時若堅持不捨者。應第二第三諫。若捨者善。若不捨者應驅出言。從今日。汝沙彌尼不應言佛是我師。亦不得共比丘尼三宿。汝去不得此中住。若比丘尼知沙彌尼惡見不捨驅出。未作如法誘喚畜養共食共住波夜提。</lzh>
-If a sāmaṇerī says: ‘The Tathāgata said that sexual desire is an obstacle to the path. I know that engaging in sexual desire can’t obstruct the path,’ the bhikkhunīs should admonish her: ‘Sāmaṇerī, don’t slander the World-honored One. Slandering the World-honored One isn’t wholesome. The World-honored One didn’t say this. The World-honored One said that sexual desire truly obstructs the path. Give up this unwholesome view.’ If she, when admonished like this, persists firmly, and doesn’t give it up, she should be admonished a second and a third time. If she gives it up, it’s fine. If not, they should expel her, and say: ‘From today on, sāmaṇerī, you shouldn’t say: “The Buddha is my teacher.” You also may not spend three nights with the bhikkhunīs. Go, you may not live here.’ If a bhikkhunī knows that the sāmaṇerī was expelled for not giving up this unwholesome view, and that she hasn’t acted according to dhamma yet, and guides her, summons her, takes her as a student, supports her, eats with her, and lives with her, it’s a pācittiya.
+If a sāmaṇerī says: ‘The Tathāgata said that sexual desire is an obstacle to the path. I know that engaging in sexual desire can’t obstruct the path,’ the bhikkhunīs should admonish her: ‘Sāmaṇerī, don’t slander the World-honored One. Slandering the World-honored One isn’t wholesome. The World-honored One didn’t say this. The World-honored One said that sexual desire truly obstructs the path. Give up this unwholesome view.’ If she, when admonished like this, persists firmly, and doesn’t give it up, she should be admonished a second and a third time. If she gives it up, it’s fine. If not, they should expel her, and say: ‘From today on, sāmaṇerī, you shouldn’t say: “The Buddha is my teacher.” You also may not spend three nights with the bhikkhunīs. Go, you may not live here.’ If a bhikkhunī knows that the sāmaṇerī was expelled for not giving up this unwholesome view, and that she hasn’t acted according to dhamma yet, and guides her, summons her, takes her in, supports her, eats with her, and lives with her, it’s a pācittiya.
 
 <lzh>placeholder</lzh>
 <h3>Pācittiya 38</h3>
@@ -632,12 +632,12 @@ If a bhikkhunī has some business there, and may go to an army and spend three n
 <lzh>placeholder</lzh>
 <h3>Pācittiya 48</h3>
 <lzh>若比丘尼。瞋恨不喜打比丘尼者波夜提。</lzh>
-If a bhikkhunī strikes another bhikkhunī out of hostility and dissatisfaction, it’s a pācittiya.
+If a bhikkhunī, angry and dissatisfied, strikes another bhikkhunī, it’s a pācittiya.
 
 <lzh>placeholder</lzh>
 <h3>Pācittiya 49</h3>
 <lzh>若比丘尼。瞋恨不喜掌刀擬比丘尼者波夜提。</lzh>
-If a bhikkhunī threatens another bhikkhunī with her palm as a weapon out of hostility and dissatisfaction, it’s a pācittiya.
+If a bhikkhunī, angry and dissatisfied, threatens another bhikkhunī with her palm as a weapon, it’s a pācittiya.
 
 <lzh>placeholder</lzh>
 <h3>Pācittiya 50</h3>
@@ -695,7 +695,7 @@ If a bhikkhunī, when the sangha wants to settle matters, doesn’t give consent
 <lzh>placeholder</lzh>
 <h3>Pācittiya 60</h3>
 <lzh>若比丘尼。半月說波羅提木叉經時作是言。我今始知是法入修多羅半月波羅提木叉中說。諸比丘尼知彼比丘尼本若二若三。說波羅提木叉經中坐況復多。彼比丘尼不以不知故無罪。隨所犯罪如法治。應呵言。阿梨耶。汝失善利。半月說波羅提木叉。汝不尊重不一心念。不攝耳聽法。呵已波夜提。(六十事竟)</lzh>
-If a bhikkhunī, during the half-monthly pātimokkha sutta recitation, says: ‘I now only know that this rule is included in the sutta, and recited every half-month in the pātimokkha,’ and if the bhikkhunīs know that that bhikkhunī already sat in the recitation of the pātimokkha sutta two, three or even more times, that bhikkhunī isn’t free from offense because she didn’t know. She should be dealt with according to dhamma depending on the offense she committed, and should be criticized: ‘Venerable, you lost good benefits. During the half-monthly pātimokkha recitation, you aren’t respectful, don’t single-mindedly pay attention, and don’t lend an ear to hear the dhamma.’ After criticizing her, it’s a pācittiya. (End of 60 rules.)
+If a bhikkhunī, during the half-monthly pātimokkha sutta recitation, says: ‘I now only realized that this rule is included in the sutta, and recited every half-month in the pātimokkha,’ and if the bhikkhunīs know that that bhikkhunī already sat in the recitation of the pātimokkha sutta two, three or even more times, that bhikkhunī isn’t free from offense because she didn’t know. She should be dealt with according to dhamma depending on the offense she committed, and should be criticized: ‘Venerable, you lost good benefits. During the half-monthly pātimokkha recitation, you aren’t respectful, don’t single-mindedly pay attention, and don’t lend an ear to hear the dhamma.’ After criticizing her, it’s a pācittiya. (End of 60 rules.)
 
 <lzh-division-start>placeholder</lzh-division-start>
 <en-division-start>Chapter 7</en-division-start>
@@ -723,7 +723,7 @@ If a bhikkhunī makes bed legs, she should make them to the measurements: eight 
 <lzh>placeholder</lzh>
 <h3>Pācittiya 65</h3>
 <lzh>若比丘尼。兜羅綿貯褥。若坐若臥。出已波夜提。</lzh>
-If a bhikkhunī stuffs mats with tūla-cotton for sitting or for sleeping, it’s a pācittiya, after it has been taken out.
+If a bhikkhunī stuffs a mat with cotton down<note>tūla</note> for sitting or for sleeping, it’s a pācittiya, after it has been taken out.
 
 <lzh>placeholder</lzh>
 <h3>Pācittiya 66</h3>
@@ -743,7 +743,7 @@ If a bhikkhunī makes a robe as big as the Tathāgata’s robe measurements, or 
 <lzh>placeholder</lzh>
 <h3>Pācittiya 69</h3>
 <lzh>若比丘尼。瞋恨不喜。無根僧伽婆尸法謗波夜提。</lzh>
-If a bhikkhunī, out of hostility and dissatisfaction, slanders someone with an unfounded saṅghādisesa offense, it’s a pācittiya.
+If a bhikkhunī, angry and dissatisfied, slanders someone with an unfounded saṅghādisesa offense, it’s a pācittiya.
 
 <lzh>placeholder</lzh>
 <h3>Pācittiya 70</h3>
@@ -1041,7 +1041,7 @@ If a bhikkhunī goes to watch a musical performance, it’s a pācittiya.
 <lzh>placeholder</lzh>
 <h3>Pācittiya 125</h3>
 <lzh>若比丘尼。鬪諍不和合住。眾主不料理斷滅者波夜提。</lzh>
-If bhikkhunīs are quarelling and don’t live in harmony, and the group’s leader doesn’t take action to settle it, it’s a pācittiya.
+If bhikkhunīs are quarreling and don’t live in harmony, and the group’s leader doesn’t take action to settle it, it’s a pācittiya.
 
 <lzh>placeholder</lzh>
 <h3>Pācittiya 126</h3>
