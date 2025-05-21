@@ -1,0 +1,33 @@
+SarvVb_pc153
+
+<lzh-fascicle-start>十誦律卷第四十七(第七誦之六)
+後秦北印度三藏弗若多羅共羅什譯
+尼律第六</lzh-fascicle-start>
+<en-fascicle-start>Sarvāstivāda Vinaya, fascicle 47 (Part six of the seventh recitation chapter.)
+Translated by the northern Indian Tipiṭaka master Puṇyatāra together with Kumārajīva during the later Qin dynasty.
+Part six of the Bhikkhunī Vinaya.</en-fascicle-start>
+
+
+<h2>Origin Story</h2>
+
+<lzh>佛在俱舍彌國。爾時迦留羅提舍比丘命終，有姊妹比丘尼七人，名偷蘭難陀尼、周那難陀尼、提舍尼、憂波提舍尼、提舍域多尼、提舍婆羅那尼、提舍叉多尼，是諸比丘尼有大勢力，集薪木材燒是比丘身，拾骨起塔。爾時有一比丘名迦陀，從和耆國遊行向維耶離，道中見是塔，問：「是誰塔？」答言：「迦留羅提舍比丘塔。」又言：「此凡夫人，何用起塔？」即壞是塔，敷繩床坐上。偷蘭難陀比丘尼，聞迦陀比丘破其兄塔、敷床坐上，聞已瞋恚，語諸妹言：「各持鍼線來，縫是比丘著床。」</lzh>
+The Buddha was in Kosambī. At that time, Garudatissa bhikkhu passed away. He had seven sisters who were bhikkhunīs, called Thullanandā bhikkhunī, Sundarinandā bhikkhunī, Tissā bhikkhunī, Upatissā bhikkhunī, Tissavatā bhikkhunī, Tissapālevā(tā) bhikkhunī, and Tissarakkhatā bhikkhunī.<note> The names are my best guess. The sisters are mentioned again in pārājika 8 with the same names, and in the dhammaka with slightly different names.</note> These bhikkhunīs were very capable. They gathered branches, wood, and timber, burned this bhikkhu’s body, picked up his bones, and erected a stupa. Then there was a bhikkhu named Kaṭa, who was wandering from the Vajjian country to Vesālī<note> Vesālī is actually *in* the Vajjian country.</note>, and saw this stupa on the way. He asked: “Whose stupa is this?” They answered: “It’s Garudatissa bhikkhu’s stupa.” He replied: “This worldling? What’s the use of building a stupa for him?” Then he broke that stupa, set up a rope-bed and sat on it. Thullanandā bhikkhunī heard that Kaṭa bhikkhu had broken her older brother’s stupa, set up a bed, and sat on it. When she had heard this, she was angry, and said to her younger sisters: “Each of you, bring a needle and thread. We’ll sew that bhikkhu to his bed.”
+<lzh>是僧坊近道，時優波離過，聞如是事，即往語是比丘言：「汝在此中坐者，諸比丘尼正爾當來縫汝著床。」答言：「若縫我著床者，我從此臭身得脫。」優波離言：「汝雖脫臭身，諸比丘尼當得大罪。」是比丘即入禪定，令身不現，優波離即出去。諸比丘尼入，共相謂言：「是比丘在不？」即看不見，手摸繩床看猶覺有暖，作是言：「必是本剃毛人優波離教使走去。」</lzh>
+The monastery was close to the road. Then Upāli passed by and heard of this matter. He went and told that bhikkhu: “You’re sitting here, (but) the bhikkhunīs will soon come and sew you to the bed.” He answered: “If they sew me to this bed, I’ll attain liberation from this stinking body.” Upāli said: “Even though you’ll be liberated from this stinking body, the bhikkhunīs will incur a great offense.” Then that bhikkhu entered jhāna, made his body invisible, and Upāli went away. The bhikkhunīs entered and said to each other: “Is this bhikkhu here or not?” When they couldn’t see him, they felt the rope-bed with their hands, and noticed that it was still warm. They said: “It must be that this former barber Upāli told him to leave.”
+
+<lzh>是中有比丘尼，少欲知足行頭陀，聞是事心不喜，種種因緣呵責言：「云何名比丘尼，有比丘住處，外門不問便入？」種種因緣呵已，向佛廣說。佛以是事集二部僧，知而故問偷蘭難陀比丘尼：「汝實作是事不？」答言：「實作。世尊！」佛以種種因緣呵責：「云何名比丘尼，有比丘住處，外門不問便入？」種種因緣呵已，語諸比丘：「以十利故與比丘尼結戒。從今是戒應如是說：若比丘尼，有比丘住處，外門不問便入，波夜提。」</lzh>
+Among the bhikkhunīs were those of few wishes, who knew moderation and practised the austerities. When they heard of this matter, their minds weren’t pleased, and they criticized her with all kinds of reasons: “How can you be called a bhikkhunī when you just enter a bhikkhu residence without asking at the outer gate?” Having criticized her with all kinds of reasons, they explained it to the Buddha in detail. The Buddha gathered both sanghas because of this matter. He knew, and intentionally asked Thullanandā bhikkhunī: “Did you really do this?” She answered: “I really did this, World-honored One.” The Buddha criticized her with all kinds of reasons: “How can you be called a bhikkhunī when you just enter a bhikkhu residence without asking at the outer gate?” Having criticized her with all kinds of reasons, he said to the bhikkhus: “For 10 benefits, I’ll lay down a precept for the bhikkhunīs. From now on, this precept should be recited thus: 
+
+
+<h2>Final Ruling</h2>
+
+‘If a bhikkhunī just enters a bhikkhu residence without asking at the outer gate, it’s a pācittiya.’”
+
+
+<h2>Explanations</h2>
+
+<lzh>波夜提者，燒煮覆障，若不悔過，能障礙道。</lzh>
+“Pācittiya” means burn, cook, cover, obstruct. If she doesn’t confess the offense, it can obstruct the path. 
+
+<lzh>是中犯者，若比丘尼，有比丘住處，外門不問便入，波夜提。隨不問入，隨得爾所波夜提。(一百五十三事竟)</lzh>
+Herein, this is an offense: If a bhikkhunī just enters a bhikkhu residence without asking at the outer gate, it’s a pācittiya. Whenever she enters without asking, she incurs a pācittiya. (End of rule 153.)
