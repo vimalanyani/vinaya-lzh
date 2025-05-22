@@ -1,0 +1,31 @@
+SarvVb_pc97
+
+<lzh-fascicle-start>十誦律卷第四十五(第七誦之四)
+後秦北印度三藏弗若多羅共羅什譯
+尼律第四(百七十八單提之二)</lzh-fascicle-start>
+<en-fascicle-start>Sarvāstivāda Vinaya, fascicle 45 (Part four of the seventh recitation chapter.)
+Translated by the northern Indian Tipiṭaka master Puṇyatāra together with Kumārajīva during the later Qin dynasty.
+Part four of the Bhikkhunī Vinaya — (Part two of the 178 simple pācittiyas.)</en-fascicle-start>
+
+
+<h2>Origin Story</h2>
+
+<lzh>佛在舍衛國。爾時憍薩羅國主波斯匿王，有小國反。王集四種兵：象兵、馬兵、車兵、步兵，集四種兵已王自往伐。諸比丘尼，從憍薩羅國遊行向舍衛國，道中見是軍。是比丘尼眾中，有長老知法比丘尼言：「我等小避。」諸年少比丘尼言：「何故避去？波斯匿王信佛法，王子祇陀、居士給孤獨、尼師達多、富羅那等，皆信佛法。誰能遮我等者，但當直去。」語已直去，為前軍人所剝脫裸形。諸比丘尼白王言：「前行軍人剝脫我等。」王言：「此兵眾我悉供給聚落金銀廩賞爾乃鬪耳，今奪汝衣不可還得。今國土內有兵眾，汝等何以遊行？若佛聞者，必當與汝結戒：國內疑處、畏處不應遊行。」</lzh>
+The Buddha was in Sāvatthī. At that time, a small country rebeled against the ruler of Kosala, king Pasenadi. The king assembled four kinds of soldiers: elephant troops, cavalry, charioteers, and infantry. Having assembled four kinds of soldiers, the king himself went out to battle. The bhikkhunīs were wandering in Kosala towards Sāvatthī. On the way, they saw this army. Among the bhikkhunī sangha, there were senior bhikkhunīs who knew the dhamma and said: “Let’s avoid them a little.” The young bhikkhunīs said: “Why avoid them? King Pasenadi has faith in the Buddha’s dhamma, prince Jeta, and the householders Anāthapiṇḍika, Isidatta, and Purāṇa, etc. all have faith in the Buddha’s dhamma. Who could obstruct us? We’ll just go straight there.” Having spoken, they went straight there, and they were robbed by the advance party and their bodies were exposed. The bhikkhunīs told the king: “The advance party robbed and undressed us.” The king said: “I provide villages, gold, silver, and grain as rewards to these troops. Only then they fight for me. Now the robes they’ve stolen from you can’t be returned. There are troops in this country now, why did you wander here? If the Buddha hears of this, he must lay down a precept for you: ‘You shouldn’t wander in a dubious, frightening place within the country.’”
+
+<lzh>是中有比丘尼，少欲知足行頭陀，聞是事心不喜，向佛廣說。佛以是事集二部僧，知而故問諸比丘尼：「汝實作是事不？」答言：「實作。世尊！」佛以種種因緣呵責言：「云何名比丘尼，國內疑處畏處遊行？」種種因緣呵已，語諸比丘：「以十利故與比丘尼結戒。從今是戒應如是說：若比丘尼，國內疑處、畏處遊行，波逸提。」</lzh>
+Among the bhikkhunīs were those of few wishes, who knew moderation and practised the austerities. When they heard of this matter, their minds weren’t pleased, and they explained it to the Buddha in detail. The Buddha gathered both sanghas because of this matter. He knew, and intentionally asked the bhikkhunīs: “Did you really do this?” They answered: “We really did this, World-honored One.” The Buddha criticized them with all kinds of reasons: “How can you be called bhikkhunīs when you wander in a dubious, frightening place within the country?” Having criticized them with all kinds of reasons, he said to the bhikkhus: “For 10 benefits, I’ll lay down a precept for the bhikkhunīs. From now on, this precept should be recited thus: 
+
+
+<h2>Final Ruling</h2>
+
+‘If a bhikkhunī wanders in a dubious, frightening place within the country, it’s a pācittiya.’”
+
+
+<h2>Explanations</h2>
+
+<lzh>波逸提者，燒煮覆障，若不悔過，能障礙道。</lzh>
+“Pācittiya” means burn, cook, cover, obstruct. If she doesn’t confess the offense, it can obstruct the path.<note> In this fascicle, as well as in some rules lateron, pācittiya is transliterated as 波逸提, instead of as 波夜提, as before. It seems quite unusual that technical terminology isn’t standardized.</note>
+
+<lzh>是中犯者，若比丘尼，國內疑處、畏處遊行，波逸提。隨遊行，隨得爾所波逸提。(九十七事竟)</lzh>
+Herein, this is an offense: If a bhikkhunī wanders in a dubious, frightening place within the country, it’s a pācittiya. Whenever she wanders, she incurs a pācittiya. (End of rule 97.)
