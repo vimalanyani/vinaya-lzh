@@ -8,6 +8,7 @@ schools = {
     "mg": "Mahāsaṅghika Vinaya",
     "dg": "Dharmaguptaka Vinaya",
     "mi": "Mahīśāsaka Vinaya",
+    "sarv": "Sarvāstivāda Vinaya",
 }
 
 books = {
@@ -110,12 +111,22 @@ def parse_txt_content(file_path, school, book, has_rule_class):
     # Extract the file ID from the first line
     id = lines[0].strip()
 
+    rule_class = ""
+    if id.startswith("Sarv"):
+        rule_class = id[7:9]
+    else:
+        rule_class = id[5:7]
+    if has_rule_class:
+        rule_class = rule_classes[rule_class]
+    else:
+        rule_class = ""
+
     # Initialize data structure
     data = {
         "id": id,
         "school": school,
         "book": book,
-        "rule_class": "" if not has_rule_class else rule_classes[id[5:7]],
+        "rule_class": rule_class,
         "rule_no": extract_rule_number_from_id(id),
         "body": [],
     }
@@ -309,7 +320,10 @@ def extract_id_from_filename(filename):
     if has_id_part is not None:
         return id.split("_")[-1].lower()
 
-    return id[2:].lower()
+    if id.startswith("Sarv"):
+        return id[4:].lower()
+    else:
+        return id[2:].lower()
 
 
 def process_directory(directory_path, output_directory, school, book, has_rule_class):

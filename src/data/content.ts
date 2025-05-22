@@ -79,9 +79,9 @@ export const schoolBookGroups = {
       bookName: "Bhikkhunī Garudhamma",
     },
     {
-      path: "/sarv/pn",
+      path: "/sarv/dm",
       schoolName: "Sarvāstivāda",
-      bookName: "Bhikkhunī Pakiṇṇaka",
+      bookName: "Bhikkhunī Dhammaka",
     },
     {
       path: "/sarv/pm",
