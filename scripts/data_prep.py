@@ -320,7 +320,10 @@ def extract_id_from_filename(filename):
     if has_id_part is not None:
         return id.split("_")[-1].lower()
 
-    return id[2:].lower()
+    if id.startswith("Sarv"):
+        return id[4:].lower()
+    else:
+        return id[2:].lower()
 
 
 def process_directory(directory_path, output_directory, school, book, has_rule_class):
