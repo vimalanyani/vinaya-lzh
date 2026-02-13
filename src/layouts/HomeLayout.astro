@@ -1,6 +1,7 @@
 ---
 import "@fontsource/source-serif-pro";
 import { basePath } from "../utils";
+import '../styles/global.css';
 import { siteName, descriptionPrefix } from "../utils/meta";
 import { ViewTransitions } from "astro:transitions";
 interface Props {
@@ -25,7 +26,7 @@ const socialImgUrl = `${Astro.site}${basePath.substring(1)}/social.png`;
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang="en" class="scroll-smooth">
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
@@ -49,6 +50,7 @@ const socialImgUrl = `${Astro.site}${basePath.substring(1)}/social.png`;
     <meta name="twitter:title" content={metaTitle} />
     <meta name="twitter:description" content={metaDescription} />
     <meta name="twitter:image" content={socialImgUrl} />
+    
     {
       datePublished ? (
         <meta itemprop="datePublished" content={datePublished.toISOString()} />
@@ -60,11 +62,12 @@ const socialImgUrl = `${Astro.site}${basePath.substring(1)}/social.png`;
       ) : null
     }
     <ViewTransitions />
+
   </head>
   <body
     class:list={[
-      "bg-stone-100  text-neutral-700 py-10 px-6 md:mx-auto sm:mb-16 lg:mb-24",
-      "max-w-[920px]",
+      "bg-stone-100 text-neutral-700",
+      "",
     ]}
   >
     <slot />
