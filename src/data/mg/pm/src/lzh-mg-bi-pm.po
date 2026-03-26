@@ -189,7 +189,7 @@ msgstr "pārājika 4"
 #. </h4><p><a class="sc" id="7"></a>
 msgctxt "lzh-mg-bi-pm:20.1"
 msgid "若比丘尼。未知未了自稱得過人法聖知見殊勝。我如是知如是見。彼於後時若檢校若不檢校犯罪。欲求清淨故便作是言。阿梨耶。我不知言知不見言見。空誑不實語除增上慢。是比丘尼得波羅夷不應共住。"
-msgstr "If a bhikkhunī, not yet knowing and understanding, claims to have attained a superhuman state, noble extraordinary knowledge and vision: ‘I know in this way, I see in this way,’ and at a later time, whether she is being examined or not examined about committing the offense, desiring purification, she says: ‘Venerables, I, not knowing said I know, not seeing said I see. It was empty, deceited, untrue speech,’ except in a case of superiority conceit, that bhikkhunī incurs a pārājika, and should not live in community." 
+msgstr "If a bhikkhunī, not yet knowing and understanding, claims to have attained a superhuman state, noble extraordinary knowledge and vision: ‘I know in this way, I see in this way,’ and at a later time, whether she is being examined or not examined about committing the offense, desiring purification, she says: ‘Venerables, I, not knowing said I know, not seeing said I see. It was empty, deceitful, untrue speech,’ except in a case of superiority conceit, that bhikkhunī incurs a pārājika, and should not live in community." 
 
 #. </p><h4>
 #. <span class="add"><a id="pj5" class="latin">
