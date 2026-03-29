@@ -1,0 +1,13 @@
+---
+interface Props extends astroHTML.JSX.HTMLAttributes {
+  breadCrumbs?: string;
+}
+
+const { breadCrumbs, class: styles, ...props } = Astro.props;
+---
+
+<p class:list={["text-3xl border-b-amber-600 shadow-s border-b-2 px-4 pb-8 md:text-6xl mb-8 text-amber-900", styles]} {...props}>
+  {breadCrumbs ?? <slot />}
+</p>
+
+
