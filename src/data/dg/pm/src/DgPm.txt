@@ -22,17 +22,17 @@ Translated by the Tipiṭaka master Buddhayaśas in the later Qin dynasty.</en-d
 <lzh-verse>戒如海無涯，如寶求無厭，</lzh-verse>
 <verse>The precepts are like a limitless ocean, like seeking a jewel untiringly,</verse>
 <lzh-verse>欲護聖法財，眾集聽我說。</lzh-verse>
-<verse>Wishing to protect the benefit of the noble teaching, may the assembly gather and listen to what I say.</verse>
+<verse>Wishing to protect the benefit of the noble teaching, may the sangha gather and listen to what I say.</verse>
 <lzh-verse>欲除八棄法，及滅僧殘法，</lzh-verse>
 <verse>I wish to prevent the eight rules of expulsion, and to cut off the saṅghādisesa rules,</verse>
 <lzh-verse>障三十捨墮，眾集聽我說。</lzh-verse>
-<verse>And to obstruct the thirty rules about giving up; may the assembly gather and listen to what I say.</verse>
+<verse>And to obstruct the thirty rules about giving up; may the sangha gather and listen to what I say.</verse>
 <lzh-verse>毘婆尸式棄，毘舍拘樓孫，</lzh-verse>
 <verse>Vipassī, Sikhī, Vessabhū, Kakusandha,</verse>
 <lzh-verse>拘那含牟尼，迦葉釋迦文，</lzh-verse>
 <verse>Koṇāgamana, Kassapa, and Sakyamuni,</verse>
 <lzh-verse>諸世尊大德，為我說是事，</lzh-verse>
-<verse>These World-honoured Ones of great virtue have spoken of these matters for us.</verse>
+<verse>These World-honored Ones of great virtue have spoken of these matters for us.</verse>
 <lzh-verse>我今欲善說，諸賢咸共聽。</lzh-verse>
 <verse>I now wish to recite well, may the virtuous ones all listen together.</verse>
 <lzh-verse>譬如人毀足，不堪有所涉，</lzh-verse>
@@ -107,7 +107,7 @@ Answer: “Recite the formal act of the precepts.”
 “Has the motion been completed?” Answer: “It’s been completed.”
 
 <lzh>「諸大姊！我今欲說波羅提木叉戒。汝等諦聽，善思念之。若自知有犯者，即應自懺悔；不犯者，默然。默然者，知諸大姊清淨。若有他問者，亦如是答。如是比丘尼在眾中，乃至三問，憶念有罪，不懺悔者，得故妄語罪。故妄語者，佛說障道法。若彼比丘尼，憶念有罪，欲求清淨者，應懺悔。懺悔得安樂。諸大姊！我已說戒經序。</lzh>
-“Venerable sisters! I now wish to recite the pātimokkha precepts. You should listen attentively and consider them well. If you yourself know that you have broken them, then you should confess it; if you haven’t broken them, you should remain silent. By your silence I’ll know that the venerable sisters are pure. If you’re asked by others, you should answer accordingly. If a bhikkhunī in this way in the midst of the assembly when asked up to three times, remembers that she has an offense, but doesn’t confess it, she incurs an offense of intentional lying. The Buddha has said that intentional lying is something that obstructs the path. If that bhikkhunī who remembers that she has an offense desires purification, she should confess it. Confession leads to peace and happiness. Venerable sisters, I’ve recited the introduction to the precepts sutta.
+“Venerable sisters! I now wish to recite the pātimokkha precepts. You should listen attentively and consider them well. If you yourself know that you have broken them, then you should confess it; if you haven’t broken them, you should remain silent. By your silence I’ll know that the venerable sisters are pure. If you’re asked by others, you should answer accordingly. If a bhikkhunī in this way in the midst of the sangha when asked up to three times, remembers that she has an offense, but doesn’t confess it, she incurs an offense of intentional lying. The Buddha has said that intentional lying is something that obstructs the path. If that bhikkhunī who remembers that she has an offense desires purification, she should confess it. Confession leads to peace and happiness. Venerable sisters, I’ve recited the introduction to the precepts sutta.
 
 <lzh>「今問諸大姊：是中清淨不？(如是至三)。</lzh>
 Now I ask the venerable sisters: ‘Are you pure herein?’ (Repeat three times.)
@@ -161,7 +161,7 @@ If a bhikkhunī with a defiled mind knows that a man has a defiled mind, and let
 <h3>Pārājika 7</h3>
 
 <lzh>「若比丘尼，知比丘尼犯波羅夷，不自發露，不語眾人，不白大眾。若於異時，彼比丘尼或命終、或眾中舉、或休道、或入外道眾，後作是言：『我先知有如是如是罪。』是比丘尼波羅夷，不共住。覆藏重罪故。</lzh>
-If a bhikkhunī knows that another bhikkhunī has committed a pārājika, and neither discloses it herself, nor tells members of the assembly, nor informs the great assembly, but if at a later time after that bhikkhunī has either passed away, or been charged in the midst of the assembly, or disrobed, or joined a non-Buddhist group, she should say: ‘I previously already knew that she had such-and-such an offense,’ that bhikkhunī is pārājika, and doesn’t live in community, because she concealed a grave offense.
+If a bhikkhunī knows that another bhikkhunī has committed a pārājika, and neither discloses it herself, nor tells members of the group, nor informs the great sangha, but if at a later time after that bhikkhunī has either passed away, or been charged in the midst of the sangha, or disrobed, or joined a non-Buddhist group, she should say: ‘I previously already knew that she had such-and-such an offense,’ that bhikkhunī is pārājika, and doesn’t live in community, because she concealed a grave offense.
 
 <lzh>pārājika 8</lzh>
 <h3>Pārājika 8</h3>
@@ -287,7 +287,7 @@ If a bhikkhunī, just because of a small matter, angry and dissatisfied, says: �
 If a bhikkhunī delights in quarreling, holds on to a dispute without remembering correctly, and later out of anger says: ‘The sangha has desire, anger, fear, and delusion,’ the bhikkhunīs should admonish her thus: ‘Younger sister, don’t delight in quarreling, don’t hold on to a dispute without remembering correctly, and don’t later out of anger say: “The sangha has desire, anger, fear, and delusion.” The sangha doesn’t have desire, anger, fear, and delusion. You yourself have desire, anger, fear, and delusion.’ If when the bhikkhunīs admonish that bhikkhunī, she holds firmly on to it and doesn’t give it up, the bhikkhunīs should admonish her three times to give up this matter. If she gives it up by the third time, it’s fine. If not, that bhikkhunī commits an offense that should be given up after three admonishments, a saṅghādisesa.
 
 <lzh>「諸大姊！我已說十七僧伽婆尸沙法，九初犯罪，八乃至三諫。若比丘尼犯一一法，應半月二部僧中行摩那埵。行摩那埵已，餘有出罪，應二部四十人僧中，出是比丘尼罪。若少一人，不滿四十眾，出是比丘尼罪，是比丘尼罪不得除，諸比丘尼亦可呵。此是事。</lzh>
-Venerable sisters, I’ve recited the 17 saṅghādisesa rules; nine immediate offenses and eight after the third admonishment. If a bhikkhunī has broken any of these rules, she should undergo mānatta for half a month in both assemblies. After undergoing mānatta, the rehabilitation remains to be done. One should rehabilitate that bhikkhunī in both assemblies, with 40 persons. If there’s even one person less than a group of 40 to rehabilitate that bhikkhunī, that bhikkhunī’s offense hasn’t been cleared, and the bhikkhunīs are also to be criticized. This is the procedure.
+Venerable sisters, I’ve recited the 17 saṅghādisesa rules; nine immediate offenses and eight after the third admonishment. If a bhikkhunī has broken any of these rules, she should undergo mānatta for half a month in both sanghas. After undergoing mānatta, the rehabilitation remains to be done. One should rehabilitate that bhikkhunī in both sanghas, with 40 persons. If there’s even one person less than a group of 40 to rehabilitate that bhikkhunī, that bhikkhunī’s offense hasn’t been cleared, and the bhikkhunīs are also to be criticized. This is the procedure.
 
 <lzh>「今問諸大姊：是中清淨不？(如是至三)。</lzh>
 Now I ask the venerable sisters: ‘Are you pure herein?’ (Repeat three times)
@@ -305,7 +305,7 @@ Venerable sisters, the 30 nissaggiya pācittiya rules that are recited every hal
 <h3>Nissaggiya Pācittiya 1</h3>
 
 <lzh>「若比丘尼，衣已竟，迦絺那衣已捨，畜長衣，經十日不淨施，得持。若過，尼薩耆波逸提。</lzh>
-If a bhikkhunī has finished her robes, has relinquished the kaṭhina robe, and keeps a spare robe for 10 days without making a pure offering<note>vikappana</note>, she may use it. If she keeps it longer, it’s a nissaggiya pācittiya.
+If a bhikkhunī has finished her robes, has relinquished the kaṭhina robe, and keeps a spare robe for 10 days without making a pure offering<note>vikappana</note>, she may hold on to it. If she keeps it longer, it’s a nissaggiya pācittiya.
 
 <lzh>nissaggiya pācittiya 2</lzh>
 <h3>Nissaggiya Pācittiya 2</h3>
@@ -323,7 +323,7 @@ If a bhikkhunī has finished her robes, has relinquished the kaṭhina robe, and
 <h3>Nissaggiya Pācittiya 4</h3>
 
 <lzh>「若比丘尼，從非親里居士、居士婦乞衣，除餘時，尼薩耆波逸提。是中時者：若奪衣、失衣、燒衣、漂衣，是名時。</lzh>
-If a bhikkhunī asks for a robe from an unrelated male or female householder, except at a suitable time, it’s a nissaggiya pācittiya. This is a suitable time: If the robe has been stolen, lost, burnt, or washed away. This is called the suitable time.
+If a bhikkhunī asks for a robe from an unrelated male or female householder, except at a suitable time, it’s a nissaggiya pācittiya. This is a suitable time: If the robe has been stolen, lost, burnt, or washed away. This is called the time.
 
 <lzh>nissaggiya pācittiya 5</lzh>
 <h3>Nissaggiya Pācittiya 5</h3>
@@ -2398,7 +2398,7 @@ Sakyamuni Tathāgata, without attachment and fully awakened, recited this as his
 <lzh-verse>如過去諸佛，及以未來者，</lzh-verse>
 <verse>As the Buddhas of the past, and those of the future,</verse>
 <lzh-verse>現在諸世尊，能勝一切憂，</lzh-verse>
-<verse>And the World-honoured Ones of the present, could overcome all sorrows,</verse>
+<verse>And the World-honored Ones of the present, could overcome all sorrows,</verse>
 <lzh-verse>皆共尊敬戒，此是諸佛法。</lzh-verse>
 <verse>All should honor the precepts; this is the teaching of the Buddhas.</verse>
 <lzh-verse>若有自為身，欲求於佛道，</lzh-verse>
@@ -2416,7 +2416,7 @@ Sakyamuni Tathāgata, without attachment and fully awakened, recited this as his
 <lzh-verse>弟子之所行，入寂滅涅槃。</lzh-verse>
 <verse>The disciples practised accordingly, and entered extinguishment, nibbāna.</verse>
 <lzh-verse>世尊涅槃時，興起於大悲，</lzh-verse>
-<verse>When the World-honoured Ones attained nibbāna, they gave rise to great compassion.</verse>
+<verse>When the World-honored Ones attained nibbāna, they gave rise to great compassion.</verse>
 <lzh-verse>集諸比丘眾，與如是教誡：</lzh-verse>
 <verse>Gathering the bhikkhu sangha, they taught as follows:</verse>
 <lzh-verse>『莫謂我涅槃，淨行者無護。</lzh-verse>
@@ -2424,7 +2424,7 @@ Sakyamuni Tathāgata, without attachment and fully awakened, recited this as his
 <lzh-verse>我今說戒經，亦善說毘尼，</lzh-verse>
 <verse>I’ll now speak the precepts sutta, and will well-recite the vinaya.</verse>
 <lzh-verse>我雖般涅槃，當視如世尊。</lzh-verse>
-<verse>Even if I enter Parinibbāna, these should be regarded as the World-honoured One.</verse>
+<verse>Even if I enter Parinibbāna, these should be regarded as the World-honored One.</verse>
 <lzh-verse>此經久住世，佛法得熾盛，</lzh-verse>
 <verse>This sutta has stayed in the world for a long time, and the Buddha-dhamma has flourished.</verse>
 <lzh-verse>以是熾盛故，得入於涅槃。</lzh-verse>

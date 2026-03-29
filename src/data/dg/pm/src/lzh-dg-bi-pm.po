@@ -101,7 +101,7 @@ msgstr "Koṇāgamana, Kassapa, and Sakyamuni,"
 #. <br>
 msgctxt "lzh-dg-bi-pm:12.3"
 msgid "諸世尊大德，為我說是事，"
-msgstr "These World-honoured Ones of great virtue have spoken of these matters for us."
+msgstr "These World-honored Ones of great virtue have spoken of these matters for us."
 
 #. <br>
 msgctxt "lzh-dg-bi-pm:12.4"
@@ -4822,7 +4822,7 @@ msgstr "As the Buddhas of the past, and those of the future,"
 #. <br>
 msgctxt "lzh-dg-bi-pm:782.2"
 msgid "現在諸世尊，能勝一切憂，"
-msgstr "And the World-honoured Ones of the present, could overcome all sorrows,"
+msgstr "And the World-honored Ones of the present, could overcome all sorrows,"
 
 #. <br>
 msgctxt "lzh-dg-bi-pm:782.3"
@@ -4867,7 +4867,7 @@ msgstr "The disciples practised accordingly, and entered extinguishment, nibbān
 #. </p><p>
 msgctxt "lzh-dg-bi-pm:786.1"
 msgid "世尊涅槃時，興起於大悲，"
-msgstr "When the World-honoured Ones attained nibbāna, they gave rise to great compassion."
+msgstr "When the World-honored Ones attained nibbāna, they gave rise to great compassion."
 
 #. <br>
 msgctxt "lzh-dg-bi-pm:786.2"
@@ -4887,7 +4887,7 @@ msgstr "I’ll now speak the precepts sutta, and will well-recite the vinaya."
 #. <br>
 msgctxt "lzh-dg-bi-pm:787.2"
 msgid "我雖般涅槃，當視如世尊。"
-msgstr "Even if I enter Parinibbāna, these should be regarded as the World-honoured One."
+msgstr "Even if I enter Parinibbāna, these should be regarded as the World-honored One."
 
 #. </p><p>
 msgctxt "lzh-dg-bi-pm:788.1"
