@@ -718,7 +718,7 @@ If a bhikkhunī uses bone, ivory, or horn to make a needle case, it’s a pācit
 <lzh>placeholder</lzh>
 <h3>Pācittiya 64</h3>
 <lzh>若比丘尼作床脚。應量作長修伽陀八指。除入梐。若過截已波夜提。</lzh>
-If a bhikkhunī makes bed legs, she should make them to the measurements: eight sugata fingerbreadths in length, without the part that’s inserted in the frame. If she exceeds that, it’s a pācittiya, after they’ve been cut off.
+If a bhikkhunī makes a bed, the legs should be made to the measurements: eight sugata fingerbreadths in length, without the part that’s inserted in the frame. If she makes them higher, it’s a pācittiya, after they’ve been cut off.
 
 <lzh>placeholder</lzh>
 <h3>Pācittiya 65</h3>
@@ -738,7 +738,7 @@ If a bhikkhunī makes a wound-covering cloth, she should make it to the measurem
 <lzh>placeholder</lzh>
 <h3>Pācittiya 68</h3>
 <lzh>若比丘尼。效如來衣量等作衣。若過量截已波夜提。如來衣量長九修伽陀磔手。廣六磔手。</lzh>
-If a bhikkhunī makes a robe as big as the Tathāgata’s robe measurements, or bigger, it’s a pācittiya, after it has been cut off. The Tathāgata’s robe measurements are nine sugata handspans in length, six handspans in width.
+If a bhikkhunī makes a robe according to the Tathāgata’s robe measurements, or larger, it’s a pācittiya, after it has been cut off. The Tathāgata’s robe measurements are nine sugata handspans in length, six handspans in width.
 
 <lzh>placeholder</lzh>
 <h3>Pācittiya 69</h3>
@@ -1568,7 +1568,7 @@ Not to defecate or urinate while standing, unless one is sick, should be trained
 <lzh>諸阿梨耶。已說眾學法。今問諸阿梨耶。是中清淨不。第二第三亦如是問。諸阿梨耶。是中清淨默然故。是事如是持。</lzh>
 Venerables, the many training rules have been recited. Now I ask the venerables: ‘Are you pure herein?’ A second and third time are asked in the same way. ‘The venerables are pure herein, therefore you’re silent. This matter is remembered thus.
 
-<h2>7 Adhikaraṇasamatha Rules</h2>
+<h2>Seven Adhikaraṇasamathas</h2>
 <lzh>諸阿梨耶。是七滅諍法。半月半月波羅提木叉中說。</lzh>
 Venerables, these seven rules for settling disputes are recited every half-month in the pātimokkha.
 
