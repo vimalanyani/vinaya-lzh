@@ -1,0 +1,127 @@
+MuVb_pj5
+
+
+<lzh-fascicle-start>根本說一切有部苾芻尼毘奈耶卷第五
+三藏法師義淨奉　制譯</lzh-fascicle-start>
+<en-fascicle-start>Mūlasarvāstivāda bhikkhunī vinaya, fascicle 5.
+Respectfully translated by the Tipiṭaka master Yìjìng.</en-fascicle-start>
+
+<lzh>摩觸學處第五</lzh>
+The 5th training precept: Touching.<note>The Mūlasarvāstivāda bhikkhunī vibhaṅga, T1443, is unique in its structure in that it includes both the rules shared with the bhikkhus, and the rules that are unique to bhikkhunīs, i.e. the “unshared rules”. This makes this text extremely long. I have opted not to translate the shared rules, since none of the other schools include them. As my translation project is mainly for the purpose of comparative study, the shared rules are outside the scope of what I’m interested in. I just wanted to mention that this is therefore not a complete translation of the Mūlasarvāstivāda bhikkhunī vibhaṅga.</note>
+
+<h2>Origin Story</h2>
+
+<lzh>緣在室羅伐城，世尊猶未制諸苾芻尼不住阿蘭若。如世尊說：「我今為利益悲愍諸聲聞故，所應作者皆已作訖。汝等亦應如是作意，可依蘭若、或於樹下空閑靜處、山間巖窟及草蘊中、或居敞露或住林野，靜慮而住，勿為放逸後為自悔。此即是我之所教誨。」諸苾芻尼，皆詣蘭若宴默靜心。時蓮花色尼不離欲染。未出家時，顏容端正、儀貌超絕、眾人愛樂，得五百金錢，方與男子共為歡會。時有婆羅門子，見蓮花色情極染著，告言：「情樂共作交歡。」蓮花色曰：「君若求歡，可持五百金錢。」報言：「我今無錢。」蓮花色曰：「可去求覓方宜來此。」彼往傭力。于時具壽大目乾連，令蓮花色尼斷諸惡法置涅槃路，超出三界離諸欲染，證解脫樂成阿羅漢，每往暗林宴默習定而住，受解脫樂。</lzh>
+At Sāvatthī. The World-honored One hadn’t laid down the precept that bhikkhunīs may not live in the wilderness yet. As the World-honored One has said: “What should be done for the benefit of and out of compassion for my disciples, that I’ve all done now. You should pay attention in this way, and live in the wilderness, under a tree, in a remote, quiet place, on a cliff or in a cave in the mountains, on a heap of grass, out in the open, or in a forest. Abide in meditation, don’t be negligent, so you’d have regrets later. This is my instruction.” The bhikkhunīs all went into the wilderness to practise with a quiet and serene mind. Then Uppalavaṇṇā wasn’t free from desire and defilements yet. When she hadn’t gone forth yet, she was good-looking, and her appearance was attractive. Many people lusted after her, and for 500 gold coins, she had sex with men. Then there was a brahmin’s son, who saw Uppalavaṇṇā, and felt extreme defiled attachment. He told her: “I’d like to have sex with you.” Uppalavaṇṇā said: “Sir, if you’re looking for intimacy, please bring 500 gold coins.” He replied: “I don’t have money at the moment.” Uppalavaṇṇā said: “Please go and search for it, and then it’s suitable to come here.” He went and found employment. Then the venerable Mahāmoggallāna made Uppalavaṇṇā bhikkhunī abandon the bad ways, and set her on the path to nibbāna. She transcended the three worlds, became free from desire and defilements, realized the happiness of liberation, and became an arahant. She always went to the Dark Wood<note>Andhavana</note> to abide in stillness and practise concentration, and to feel the happiness of liberation.
+
+<lzh>其婆羅門子，傭力經求得金錢五百，還來追訪蓮花色尼。聞已出家，持五百錢詣尼等中，問言：「蓮花色尼今在何處？」諸尼報曰：「彼在暗林。」婆羅門子尋至尼邊，見在樹下宴默而住，便即告言：「我今具持五百金錢，可見同歡。」蓮花色曰：「婆羅門子！斯之惡法我已捨棄。」又即問曰：「仁於我身有何樂見而生染欲？」婆羅門子言：「我甚愛樂聖者眉眼。」蓮花色尼以神通力，出己眼睛置於掌內，告曰：「仁今於此肉團有何所樂？」婆羅門子見情生忿恚，告言：「禿沙門女而作幻術。」捲打尼頭捨之而去。即以此緣白尼，尼白苾芻，苾芻白佛。佛告諸苾芻尼：「譬如肉團棄四衢路鳥獸皆集，女人亦爾。由是義故，諸苾芻尼不應住阿蘭若。」</lzh>
+That brahmin’s son had been employed, and he had sought for and obtained 500 gold coins. He returned and asked for Uppalavaṇṇā. Hearing that she had gone forth, he took the 500 coins, went to the bhikkhunīs and asked: “Where is Uppalavaṇṇā bhikkhunī now?” The bhikkhunīs replied: “She’s in the Dark Wood.” The brahmin’s son went to the bhikkhunī, saw that she was staying under a tree in stillness, and then said: “I now brought the full sum of 500 gold coins, please have sex with me.” Uppalavaṇṇā said: “Brahmin’s son, I’ve abandoned these bad ways.” She also asked him: “What in my body do you like to see that arouses lust?” The brahmin’s son said: “I deeply love the noble one’s eyes.” Uppalavaṇṇa then took out her eyeball with supernormal powers, placed it into her palm, and said: “What do you love about this lump of meat?” When the brahmin’s son saw it, he got angry and said: “The bald renunciate has created a magical illusion.” He beat the bhikkhunī on the head with his fist, let her go, and left. She then informed the other bhikkhunīs of this matter. The bhikkhunīs told the bhikkhus, and the bhikkhus told the Buddha. The Buddha said to the bhikkhunīs: “Just as birds and beasts all gather when a lump of meat has been thrown away at a crossroads, it’s the same for women. For this reason, the bhikkhunīs shouldn’t live in the wilderness.”
+
+<lzh>世尊既制苾芻尼不許住阿蘭若，于時諸苾芻尼便入室羅伐城，於衢路中而為宴坐，為惡男子及竊盜者之所逼惱。以緣白佛，佛言：「應置尼寺。」</lzh>
+When the World-honored One had laid down the precept that bhikkhunīs aren’t allowed to live in the wilderness, the bhikkhunīs entered Sāvatthī and sat in meditation at the thoroughfares. They were harrassed by evil men and thieves. They informed the Buddha of this matter, and the Buddha said: “You should set up a bhikkhunī monastery.”
+
+<lzh>於此城中有長者毘舍佉，信心深厚，見尼問言：「聖者！有何所須？」諸苾芻尼具陳其事，毘舍佉聞，白言：「聖者！我有寬廣居住處所，至寺成時，哀愍我故，願見就住。」諸尼便詣而為居止，毘舍佉每日詣苾芻尼處以申敬禮。毘舍佉儀貌端正，珠髻難陀尼見時心便染著，身現患狀入房而臥。毘舍佉晨朝早起巡禮佛塔，便入寺中，見一尼守寺，餘皆乞食，便即頂禮，問言：「聖者！諸尼何去？」報曰：「皆出乞食。」毘舍佉即欲出寺，珠髻難陀尼便於房中大聲呻喚，毘舍佉聞情懷悲愍，便往守寺尼所，白言：</lzh>
+In the city, there was the householder Visākha, who had deep faith. He saw the bhikkhunīs and asked: “Noble ones, what do you need?” The bhikkhunīs explained the matter to him in detail, and when Visākha heard it, he said: “Noble ones, I have a spacious building as my residence. When I’ve turned it into a monastery, please live there, out of compassion for me.” The bhikkhunīs then went and stayed there. Every day, Visākha went to the bhikkhunīs to pay respects. Visākha was good-looking, and when Sundarīnandā bhikkhunī saw him, defiled attachment arose in her mind. Her body became sick, and she entered her room and lay down. Visākha got up early in the morning, circumambulated a Buddhist stupa, and then entered the monastery. He saw one bhikkhunī guarding the monastery, and the others had all gone on almsround. He then paid respect at her feet, and asked: “Noble one, where have the bhikkhunīs gone?” She replied: “They’ve all gone on almsround.” Visākha then wanted to leave the monastery, but Sundarīnandā bhikkhunī wailed loudly in her room. Visākha heard it and felt compassion. He went to the bhikkhunī guarding the monastery and said:
+
+<lzh>「聖者！房中是誰大聲呻喚？」答曰：「房有病尼。」聞已入房，虔誠敬禮，問言：「聖者！有何所苦？」尼曰：「我之患苦，卒難申說。」報言：「何不醫療？」尼曰：「此不可治。」毘舍佉言：「聖者！其藥豈難得耶？」尼曰：「不難，然我之願求不可得。」毘舍佉言：「聖者！既為出家，如是盡形應從他求湯藥飲食衣服臥具。如世尊說：『應從淨人受。』聖者所須但令我辦，我自惠施。」尼曰：「誠如所言，知法之人亦須斟量。」毘舍佉聞已倍生敬重，歎言：「奇哉！苾芻尼甚為少欲。」便禮尼足，而說伽他曰：</lzh>
+“Noble one, who was it that wailed loudly in the room?” She answered: “There’s a sick bhikkhunī in the room.” Having heard this, he entered the room, sincerely paid respect, and asked: “Noble one, what do you suffer from?” The bhikkhunī said: “My illness is hard to explain.” He replied: “Why don’t you get medical care?” The bhikkhunī said: “This can’t be treated.” Visākha said: “Noble one, might the medicine be hard to get?” The bhikkhunī said: “It’s not hard, but I can’t get what I want.” Visākha said: “Noble one, you’ve gone forth. Therefore, for your whole life, you should ask others for tonics and medicines, drinks and food, robes and bedding. As the World-honored One has said: ‘You should receive from attendants.’ Whatever the noble one needs, just let me prepare it. I’ll personally give it.” The bhikkhunī said: “Such sincere words. All the people who know the dhamma need to take you as their example.” When Visākha heard this, he felt twice as much respect, and praised her: “Sādhu! The bhikkhunīs truly have few wishes.” He paid respect at the bhikkhunī’s feet again, and spoke this verse:
+
+<lzh-verse>「我於聖者所，  
+今發淨信心；	
+縱使須身肉，  
+我亦能相惠。」	</lzh-verse>
+<verse>“I’ve aroused pure faith
+Towards the nobe one,
+Even if she needed my own flesh,
+I could also offer it.”</verse>
+
+<lzh>時毘舍佉說斯頌已，尼出鄙言：「請為惡法。」彼聞掩耳，白言：「聖者！勿於我所而說此言。」尼曰：「爾有意樂，但作強言。」毘舍佉即欲出去，尼復告曰：「若不隨順，且來扼頭及諸支體。」彼便扼頭，尼受樂想。餘尼入見，毘舍佉羞恥低頭而出，即以此緣告諸苾芻，苾芻白佛。佛以此緣集苾芻尼眾，諸佛常法知而故問，告珠髻難陀苾芻尼曰：「汝實如此作斯不端嚴事耶？」白言：「實爾。」世尊訶責：「汝所為者，非沙門女法、非隨順行、非淨行法。」種種訶責已，告諸苾芻尼：「我觀十利，廣說乃至於聲聞尼毘奈耶制其學處，應如是說：</lzh>
+When Visākha had spoken this verse, the bhikkhunī blurted out these vulgar words: “Please do bad things with me.” He heard it, covered his ears, and said: “Noble one, don’t say such words to me.” The bhikkhunī said: “So much for your good intentions. You merely speak dramatic words.” Visākha then wanted to leave, but the bhikkhunī added: “If you don’t agree with me, then just come and stroke my head and my limbs.” He then stroked her head, and the bhikkhunī felt pleasure. Other bhikkhunīs entered and saw it. Visākha left ashamed and with his head hanging. Then for this reason, they told the bhikkhus, and the bhikkhus told the Buddha. The Buddha gathered the bhikkhunī sangha for this reason. Buddhas are always in the state of knowing, and intentionally ask. He said to Sundarīnandā bhikkhunī: “Did you really do this unbecoming act in this way?” She answered: “I really did.” The World-honored One criticized her: “What you did is against the rules of renunciates, conduct not to be practised, against the pure dhamma.” Having criticized her in all kinds of ways, he told the bhikkhunīs: “I see 10 benefits, as explained in detail, down to: “In the vinaya of my bhikkhunī disciples, I’ll lay down another training precept. You should recite it like this:
+
+<h2>Final Ruling</h2>
+
+<lzh>「若復苾芻尼自有染心，共染心男子，從目已下、膝已上，作受樂心身相摩觸、若極摩觸。於如是事，此苾芻尼亦得波羅市迦，不應共住。」</lzh>
+‘If a bhikkhunī with a defiled mind and a man with defiled mind have their bodies touch each other with the intention to feel pleasure, below the eyes<note>The pātimokkha says: Below the armpits.</note> and above the knees, and if it’s a strong touch, in this way that bhikkhunī incurs a pārājika, and shouldn’t live in community.’”
+
+<h2>Explanations</h2>
+
+<lzh>苾芻尼義廣如上說，乃至白四羯磨受近圓。</lzh>
+“A bhikkhunī” is as explained in detail above, down to “fully ordained in a formal act with a motion as fourth.”<note>The explanation is found in pārājika 1. See text below.</note>
+
+<lzh>若復苾芻尼者，謂有染心尼情纏染欲。</lzh>
+“A bhikkhunī” means a bhikkhunī with a defiled mind afflicted by lust. 
+
+<lzh>共染心男子者，謂是丈夫亦有欲心。</lzh>
+“And a man with a defiled mind” means this man also has a lustful mind.
+
+<lzh>從目已下膝已上者，謂指身分齊。</lzh>
+“Below the eyes and above the knees” means within the indicated area of the body.
+
+<lzh>身相摩觸作受樂心者，謂受觸樂。</lzh>
+“Their bodies touch each other with the intention to feel pleasure” means they feel pleasure from the touch.
+
+<lzh>若極摩觸者，謂於是事堅相摩觸，得根本罪。</lzh>
+“And if it’s a strong touch” means a firm touch here. She then incurs the pārājika offense.
+
+<lzh>此中犯相其事云何？</lzh>
+Herein, what are the factors for committing this offense?
+
+<lzh>若苾芻尼有染心，與染心男子。目已下、膝已上，身相摩觸，或極摩觸、堅相摩觸，得根本罪。若苾芻尼有染心，與無染心男子，身相摩觸，得窣吐羅底也。若苾芻尼無染心，男子或有染心或無染心，尼觸，防心者無犯。若尼有病，男為摩身，尼起染心，得惡作罪。無染心者無犯，及病惱所纏者無犯。</lzh>
+If a bhikkhunī with a defiled mind and a man with a defiled mind have their bodies touch each other below the eyes and above the knees, with a strong touch, a firm touch, she incurs a pārājika offense. If a bhikkhunī with a defiled mind and a man with an undefiled mind have their bodies touch each other, she incurs a thullaccaya. If a bhikkhunī has an undefiled mind and a man, whether he has a defiled or undefiled mind, touches the bhikkhunī, her mind is restrained and there’s no offense. If a bhikkhunī is sick, and when a man touches her body, a defiled mindstate arises in her, she incurs a dukkaṭa offense. If her mind is undefiled, there’s no offense. Also if she’s afflicted with illness, there’s no offense.
+
+<lzh-verse>攝頌曰：
+兩俱有染心，  
+目已下至膝，	
+若相摩觸者，  
+此獲根本罪。	
+若尼有染心，  
+男子無婬意，	
+尼共相摩觸，  
+此得吐羅愆。	
+二俱無染意，  
+或男有染心，	
+假使尼觸時，  
+防心故無犯。	
+苾芻尼病患，  
+男子為摩身，	
+尼若起染心，  
+當招惡作罪。	</lzh-verse>
+Recite the summary verse:
+<verse>Both have defiled minds
+Below the eyes down to the knees,
+If they touch each other,
+It fulfills the pārājika offense.
+
+If the bhikkhunī has a defiled mind,
+But the man has no sexual intentions,
+And they touch each other,
+The bhikkhunī incurs a thullaccaya.
+
+Both have no defiled intentions,
+Or the man has a defiled mind,
+Even if they touch each other,
+Since her mind is protected, there’s no offense.
+
+The bhikkhunī is sick,
+And a man touches her body,
+If a defiled mind arises in her,
+She should confess a dukkaṭa offense.</verse>
+
+
+****
+
+From Pārājika 1: The definition of a bhikkhunī<note>Pārājika 1 is outside the scope of my translation project, since I only translate the bhikkhunī-specific (i.e. the unshared) rules. But since the definition is found in the unshared rules of other schools, I include it here for the purpose of comparative studies.</note>
+
+<lzh>若復苾芻尼者，有其五種：一、名字苾芻尼，二、自言苾芻尼，三、乞求苾芻尼，四、破煩惱苾芻尼，五、白四羯磨苾芻尼。
+名字苾芻尼者，如人立字名作苾芻尼、或世共許、或是苾芻尼種族，因此喚為苾芻尼，是謂名字苾芻尼。
+云何自言苾芻尼？若人實非苾芻尼，自言我是苾芻尼，或是賊住等自稱苾芻尼，是謂自言苾芻尼。
+云何乞求苾芻尼？如諸俗人常為乞求以自活命，是名乞求苾芻尼。
+云何破煩惱苾芻尼？若能斷諸漏，所有焦熱諸苦異熟，未來生死能善了知，永除根本如斷多羅樹頭證不生法，是名破煩惱苾芻尼。
+云何白四羯磨近圓苾芻尼？謂身無障難、作法圓滿是不應呵，是名羯磨苾芻尼。今此所言苾芻尼義者，意取第五。</lzh>
+“A bhikkhunī” means: There are these five kinds: 1) A bhikkhunī by name. 2) A self-declared bhikkhunī. 3) A bhikkhunī through begging. 4) A bhikkhunī through destroying the defilements. 5) A bhikkhunī through a formal act with a motion as fourth. 
+“A bhikkhunī by name” means people have given her the name “bhikkhunī”, either by being widely acknowledged in the world, or by that bhikkhunī’s family calling her “bhikkhunī”. This is called “a bhikkhunī by name”.
+What is a self-declared bhikkhunī? If people are unsure whether or not she’s a bhikkhunī, she herself says “I’m a bhikkhunī”, or she’s living in community by theft and claims to be a bhikkhunī. This is what is meant by self-declared bhikkhunī.
+What is a bhikkhunī though begging? Like a lay person always sustaining her life through begging. This is called a bhikkhunī through begging. 
+What is a bhikkhunī through destroying the defilements? If she’s able to cut off the taints, completely burns off the ripening of suffering, fully understands future birth and death, forever pulls out the roots, as when cutting off the crown of a palm tree, and realizes the unborn state, this is called a bhikkhunī through destroying the defilements.
+What is a fully ordained bhikkhunī through a formal act with a motion as fourth? Her body is free from the obstacles, and they carried out a complete procedure that shouldn’t be criticized. This is called a bhikkhunī through a formal act.
+Among these definitions for a bhikkhunī just mentioned, the meaning to be applied is the fifth.
