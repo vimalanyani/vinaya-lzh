@@ -1793,7 +1793,7 @@ Not with the arms akimbo.
 <h3>Sekhiya 20</h3>
 
 <lzh>不拊肩。入白衣舍。應當學。</lzh>
-Not to enter lay houses putting one’s arm around someone else’s shoulder should be trained.
+Not to enter lay houses putting one’s arm around someone else’s shoulders should be trained.
 
 <h3>Sekhiya 21</h3>
 
@@ -2128,7 +2128,7 @@ Not to someone with their arms akimbo.
 <h3>Sekhiya 87</h3>
 
 <lzh>不為拊肩者說法。除病。應當學。</lzh>
-Not to teach dhamma to someone with their arm around someone else’s shoulder, unless they’re sick, should be trained.
+Not to teach dhamma to someone with their arm around someone else’s shoulders, unless they’re sick, should be trained.
 
 <lzh>不為乘</lzh>
 Not to someone in a vehicle.
