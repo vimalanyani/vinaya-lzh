@@ -1788,7 +1788,7 @@ Not with the robe pulled up on both sides.
 <h3>Sekhiya 19</h3>
 
 <lzh>不叉腰。</lzh>
-Not with arms akimbo.
+Not with the arms akimbo.
 
 <h3>Sekhiya 20</h3>
 
@@ -2123,7 +2123,7 @@ Not to someone with their clothes pulled up on both sides.
 <h3>Sekhiya 86</h3>
 
 <lzh>不為叉腰者。</lzh>
-Not to someone with arms akimbo.
+Not to someone with their arms akimbo.
 
 <h3>Sekhiya 87</h3>
 
