@@ -1,0 +1,2393 @@
+MuPm
+
+<lzh-division-start>根本說一切有部苾芻尼戒經
+三藏法師義淨奉　制譯</lzh-division-start>
+
+<en-division-start>Taishō vol.24 no.1455
+Mūlasarvāstivāda Bhikkhunī Precepts Sutta
+Respectfully translated by the Tipiṭaka master Yìjìng.</en-division-start>
+
+
+<h2>Introductory Verses</h2>
+
+<lzh-verse>別解脫經難得聞　　經於無量俱胝劫
+讀誦受持亦如是　　如說行者更難遇
+諸佛出現於世樂　　演說微妙正法樂
+僧伽一心同見樂　　和合俱修勇進樂
+若見聖人則為樂　　并與共住亦為樂
+若不見諸愚癡人　　是則名為常受樂
+見具尸羅者為樂　　若見多聞亦名樂
+見阿羅漢是真樂　　由於後有不生故
+於河津處妙階樂　　以法降怨戰勝樂
+證得正慧果生時　　能除我慢盡為樂
+若有能為決定意　　善伏根欲具多聞
+從少至老處林中　　寂靜閑居蘭若樂</lzh-verse>
+<verse>It’s difficult to be able to hear the sutta of the code of discipline, in innumerable millions of eons.<note>俱胝 = koṭī, 10 millions.</note>
+Upholding the recitation is equally difficult, meeting one practising accordingly is even more difficult.
+
+The Buddhas arise for the happiness of the world, they teach the subtle and true dhamma for happiness.
+A single-minded sangha with a common view brings happiness, they practise in harmony and boldly advance towards happiness.
+
+Seeing a noble one brings happiness, and living together with them also leads to happiness.
+Not seeing fools, this is called lasting happiness.
+
+Seeing one endowed with sila brings happiness, seeing one who has heard much is also happiness.
+Seeing an arahant is true happiness, because they’ll not be born again.
+
+Good steps at a river ford are happiness, overcoming enemies by dhamma is superior happiness.
+When one realizes the arising of the fruit of true wisdom, and can eradicate the conceit of self, that is happiness. 
+
+If one has the ability to act with mental resolve, to well restrain the faculties and desire, to possess much learing,
+To live in the forest from youth to old age, and to abide in the calmness of the wilderness, that is happiness.</verse>
+
+
+<h2>Preliminaries</h2>
+
+<lzh>諸大德。春時爾許過。餘有爾許在。老死既侵命根漸減。大師教法不久當滅。諸大德。應懃光顯。莫為放逸。由不放逸。必當證得如來應正等覺。何況所餘覺品善法。大德僧伽。先作何事。佛聲聞眾少求少事。未受近圓者出。不來諸苾芻尼說欲及清淨(其持欲者各對比坐而說)。</lzh>
+“Venerables, so-and-so much of the spring season has already passed, so-and-so much is still left. Old age and death are already approaching, our life faculties dwindle away. The dhamma taught by the Great Teacher will vanish in no long time. Venerables, you should strive with brilliance. Don’t be negligent. By non-negligence, you’ll certainly realize unsurpassed perfect enlightenment, let alone other awakening factors and wholesome states. Venerable sangha, what are we doing first? The assembly of the Buddha’s disciples has few desires and few affairs. Those who aren’t fully ordained yet leave. The bhikkhunīs who haven’t come have given consent and purity. (Those who have received the consent should each tell the person sitting next to them).
+
+
+<h2>Introductory Verses</h2>
+
+<lzh-verse>合十指恭敬　　禮釋迦師子
+別解脫調伏　　我說仁善聽
+聽已當正行　　如大仙所說
+於諸小罪中　　勇猛亦懃護
+心馬難制止　　勇決恒相續
+別解脫如銜　　有百針極利
+若人違軌則　　聞教便能止
+大士若良馬　　當出煩惱陣
+若人無此銜　　亦不曾憙樂
+彼沒煩惱陣　　迷轉於生死</lzh-verse>
+<verse>Joining the ten fingers in respect, we venerate the Sakyan lion.
+I’ll recite the vinaya code of discipline, and you should listen well.
+
+Having heard, you should practise rightly, according to what was spoken by the great sage.
+The many small offenses, you should vigorously and diligently keep.
+
+The horse-like mind is difficult to restrain, it vigorously continues on and on.
+The code of discipline is like a horse’s bit, that has 100 extremely sharp needles.
+
+If someone who has broken a rule hears the teaching, they can still stop.
+A great sage is like a good horse who can emerge from the army of defilements.
+
+A person without this horse’s bit can’t attain happiness.
+They founder against the army of defilements, and revolve confused in births and deaths.</verse>
+
+
+<lzh>大德尼僧伽聽。今僧伽黑月十四日(或云白月十五日)作褒灑陀。若苾芻尼僧伽時至聽者。苾芻尼僧伽應許。苾芻尼僧伽。今作褒灑陀。說波羅底木叉戒經。白如是。</lzh>Venerables, may the bhikkhunī sangha listen. Today on the dark moon day of the 14th (or say the full moon day of the 15th) the sangha carries out the uposatha. If the right time has come for the bhikkhunī sangha to allow it, the bhikkhunī sangha should approve. The bhikkhunī sangha now carries out the uposatha and recites the pātimokkha precept sutta. This is the motion.
+
+
+<h2>Introduction</h2>
+
+<lzh>諸大德。我今作褒灑陀。說波羅底木叉戒經。仁等諦聽。善思念之。若有犯者。當發露。無犯者默然。默然故。知諸大德清淨。如餘問時即如實答。我今於此勝苾芻尼眾中。乃至三問亦應如實答。若苾芻尼憶知有犯不發露者。得故妄語罪。諸大德。佛說故妄語是障礙法。是故苾芻尼欲求清淨者。當發露。發露即安樂。不發露不安樂。</lzh>
+Venerables, I’ll now carry out the uposatha and recite the pātimokkha precept sutta. Listen carefully and consider it well. If you have an offense, you should disclose it. If you have no offense, you should remain silent. By your silence I’ll know that the venerables are pure. Just as at other times when you’re asked, you should answer truthfully, I’ll now in the midst of this excellent bhikkhunī sangha ask up to three times, and you should answer truthfully. If a bhikkhunī remembers and knows that she has an offense but doesn’t disclose it, she incurs an offense of intentional lying. Venerables, the Buddha said that intentional lying is an obstructive state. Therefore, a bhikkhunī seeking purity should disclose it. Disclosing it leads to peace and happiness. Not disclosing it leads to non-peace and non-happiness.
+
+<lzh>諸大德。我已說戒經序。今問。諸大德。是中清淨不(如是三說)諸大德。是中清淨默然故。我今如是持。</lzh>
+Venerables, I’ve recited the introduction of the precepts sutta. Now I ask the venerables: ‘Are you pure herein?’ (Repeat three times.) The venerables are pure herein, therefore you’re silent. I now remember it like this.
+
+
+<h2>Eight Pārājika Rules</h2>
+
+<lzh>諸大德。此八波羅市迦法。半月半月戒經中說。</lzh>
+Venerables, these eight pārājika rules are recited every half-month in the precepts sutta.
+
+
+<lzh>攝頌曰。</lzh>
+Recite the summary verse:
+
+<lzh-verse>不淨不與取　　斷人稱上法
+觸八事覆隨　　斯皆不共住</lzh-verse>
+<verse>Impure, taking what isn’t given,
+Killing a person, superhuman state,
+Touching, the eight things, hiding, and following,
+With all these there’s no living together.</verse>
+
+<h3>Pārājika 1</h3>
+
+<lzh>若復苾芻尼與諸苾芻尼同得學處。不捨學處。學羸不自說。作不淨行。兩交會法。乃至共傍生。此苾芻尼亦得波羅市迦。不當學住。</lzh>
+If a bhikkhunī has obtained the precepts together with the other bhikkhunīs, hasn’t given up the precepts, whose training is weak but she hasn’t herself disclosed it, engages in impure conduct, in the act of sexual intercourse, even together with an animal, that bhikkhunī incurs a pārājika, and shouldn’t train and live in community.
+
+<h3>Pārājika 2</h3>
+
+<lzh>若復苾芻尼若在聚落。若空閑處。他不與物以盜心取。如是盜時。若王若大臣。若捉若殺。若縛若驅擯。若呵責言。咄女子。汝是賊癡無所知。作如是盜。如是盜者。此苾芻尼亦得波羅市迦。不當學住。</lzh>
+If a bhikkhunī in a village or in the wilderness, takes an object not given by others with the intention of stealing, and when she steals it like this, the king or a high official would arrest, kill, bind, or banish her, or criticize her, saying: ‘Hey woman! You’re a thief, a fool, you have no knowledge!’, if she steals like this, is a thief like this, that bhikkhunī incurs a pārājika, and shouldn’t train and live in community.
+
+<h3>Pārājika 3</h3>
+
+<lzh>若復苾芻尼若人若人胎。故自手斷其命。或持刀授與。或自持刀。或求持刀者。若勸死讚死。語言。咄女子。何用此罪累不淨惡活為。汝今寧死死勝生。隨自心念。以餘言說勸讚令死。彼因死者。此苾芻尼亦得波羅市迦。不當學住。</lzh>
+If a bhikkhunī intentionally takes the life of a human being or of a human fetus, with her own hand, or by giving them a knife, or by herself holding the knife, or by seeking an assassin, or by recommending and praising death, saying: ‘Hey, woman! What use is this corrupted, fettered, impure, bad life? You should now rather die. Death is better than living on,’ or if she has such intentions and with other words recommends and praises (death) to make someone die, and they therefore die, that bhikkhunī incurs a pārājika, and shouldn’t train and live in community.
+
+<h3>Pārājika 4</h3>
+
+<lzh>若復苾芻尼實無知無遍知自知。不得上人法寂靜。聖者殊勝證悟智見安樂住。而言我知我見。彼於異時。若問若不問。欲自清淨故。作如是說。諸具壽。我實不知不見。言知言見。虛誑妄語。除增上慢。此苾芻尼亦得波羅市迦。不當學住。</lzh>
+If a bhikkhunī is truly without knowledge and without thorough comprehension, and knows herself that she hasn’t attained a superhuman state, stilling, the noble ones’ extraordinary realization of knowledge and vision, and a peaceful, happy abiding, but she says: ‘I know, I see’, and at a later time, whether questioned or not questioned, seeking purification, she says: ‘Long-lived ones, I, not truly knowing and seeing, said I knew, I saw. It was empty, deceitful, false speech’, except in a case of superiority conceit, that bhikkhunī incurs a pārājika, and shouldn’t train and live in community.
+
+<h3>Pārājika 5</h3>
+
+<lzh>若復苾芻尼自有染心。共染心男子。從自腋已下膝已上作受樂心。身相摩觸。若極摩觸。於如是事。此苾芻尼亦得波羅市迦。不當學住。</lzh>
+If a bhikkhunī with a defiled mind and a man with defiled mind have their bodies touch each other with the intention to feel pleasure, below the armpits<note> The vibhaṅga says “below the eyes”.</note> and above the knees, and if it’s a strong touch, in this way that bhikkhunī incurs a pārājika, and shouldn’t train and live in community.
+
+<h3>Pārājika 6</h3>
+
+<lzh>若復苾芻尼自有染心共染心男子。掉舉戲笑。指其處所。定時現相。來去丈夫。情相許可。在可行非處。縱身而臥。於是八事共相領受。若苾芻尼作如是事者。亦得波羅市迦。不當學住。</lzh>
+If a bhikkhunī with a defiled mind, and a man with a defiled mind, act frivolously, play, laugh, indicate a place, set a time, display a sign, come and go while permitting feelings like husband (and wife), and lay down with their bodies relaxed in a place suitable for sex; if they undertake these eight things together, and if the bhikkhunī does these things, she incurs a pārājika, and shouldn’t train and live in community.
+
+<h3>Pārājika 7</h3>
+
+<lzh>若復苾芻尼先知他苾芻尼犯他勝罪。而不曾說。彼身死後。若歸俗若出去。方作是語。尼眾應知。我先知此苾芻尼犯他勝罪。於如是事。此苾芻尼亦得波羅市迦。不當學住。</lzh>
+If a bhikkhunī knew previously that another bhikkhunī has committed a pārājika offense and didn’t tell anyone, and after the other dies, or returns to lay life, or leaves, she says: ‘The bhikkhunī sangha should know that I knew previously that that bhikkhunī had committed a pārājika offense’, in such a case, this bhikkhunī incurs a pārājika, and shouldn’t train and live in community.
+
+<h3>Pārājika 8</h3>
+
+<lzh>若復苾芻尼知彼苾芻和合僧伽。與作捨置羯磨。苾芻尼眾亦復與作不禮敬法。彼苾芻於僧伽處現恭敬相。希求拔濟。自於界內乞解捨置法。彼苾芻尼報苾芻言。聖者。勿於僧伽處現恭敬相。希求拔濟。自於界內乞解捨置法。我為聖者供給衣鉢及餘資具。悉令無乏。當可安心讀誦作意。時諸苾芻尼告此尼曰。汝豈不知眾與此人作捨置羯磨。苾芻尼與作不禮敬法。彼苾芻起謙下心。自於界內乞解捨置法。汝便供給衣鉢等物。令無乏少。汝今應捨此隨從事。諸苾芻尼如是諫時。捨者善。若不捨者。應可再三慇懃正諫。隨教應詰。令捨是事。捨者善。若不捨者。此苾芻尼亦得波羅市迦。不當學住。</lzh>
+If a bhikkhunī knows that a harmonious sangha has carried out a formal act of suspension against a bhikkhu, that the bhikkhunī sangha has also carried out the procedure of not-paying-respect, and that that bhikkhu shows respect to the sangha, wants to be released, and asks within the territory to have the suspension procedure lifted, but that bhikkhunī replies to that bhikkhu: ‘Noble one, don’t show respect to the sangha, seek to be released, and ask within the territory to have the suspension procedure lifted. I’ll provide robes, bowls, and other requisites to the noble one with nothing lacking. Please be at ease and just recite suttas as you like’, then the bhikkhunīs should say to that bhikkhunī: ‘How could you not know that the sangha has carried out a formal act of suspension against this person, and that the bhikkhunīs have carried out the procedure of not-paying-respect? That bhikkhu has humbled himself and asked within the territory to have the suspension procedure lifted. But you still provide robes, bowls, and other items with nothing lacking. You should give up this matter of following him now.’ When the bhikkhunīs admonish her like this, and she gives it up, it’s fine. If not, they should again admonish her earnestly and correctly three times. They should reprove her according to the instructions to make her give up this matter. If she gives it up, it’s fine. If not, that bhikkhunī incurs a pārājika, and shouldn’t train and live in community.
+
+
+<lzh>諸大德。我已說八他勝法。苾芻尼於此隨犯一一事。不得與諸苾芻尼共住如前。後亦如是。得他勝罪。不應共住。今問諸大德。是中清淨不(如是三說)諸大德。是中清淨默然故。我今如是持。</lzh>
+Venerables, I’ve recited the eight pārājika rules. If a bhikkhunī has committed any of these offenses, she may not live together with the other bhikkhunīs. As before, so afterwards, she incurs a pārājika offense and shouldn’t live in community. Now I ask the venerables: ‘Are you pure herein?’ (Repeat three times.) The venerables are pure herein, therefore you’re silent. I now remember it like this.
+
+
+<h2>20 Saṅghādisesa Rules</h2>
+
+<lzh>諸大德。是二十僧伽伐尸沙法。半月半月戒經中說。</lzh>
+Venerables, these twenty saṅghādisesa rules are recited every half-month in the precepts sutta.
+
+
+<lzh>攝頌曰。</lzh>
+Recite the summary verse:
+
+<lzh-verse>媒嫁及二謗　　二染并四獨
+夫棄契作解　　二諍雜獨住
+破僧與隨伴　　污家并惡性
+眾教有二十　　八三諫應知</lzh-verse>
+<verse>Matchmaking, two rules about accusing,
+Two rules about defiled (minds), and four about being alone,
+Rejected by the husband, contract, performing reinstatement,
+Two rules about quarreling, in chaos, living apart,
+Schism, following as companions,
+Corrupting families, and bad behaviour,
+There are twenty saṅghādisesas,
+Eight should be remembered as with three admonishments.</verse>
+
+<h3>Saṅghādisesa 1</h3>
+
+<lzh>若復苾芻尼作媒嫁事。持男意語女。持女意語男。若為成婦及私通事。乃至須臾頃。僧伽伐尸沙。</lzh>
+If a bhikkhunī engages in matchmaking activites, and informs a woman of a man’s intentions, or informs a man of a woman’s intentions, whether for marriage or for an affair, or even just for a moment, it’s a saṅghādisesa.
+
+<h3>Saṅghādisesa 2</h3>
+
+<lzh>若復苾芻尼懷瞋不捨故。於清淨苾芻尼。以無根波羅市迦法謗。欲壞彼淨行。後於異時。若問若不問。知此是無根謗。彼苾芻尼由瞋恚故。作是語者。僧伽伐尸沙。</lzh>
+If a bhikkhunī, because of harboring anger and not letting it go, slanders a pure bhikkhunī with an unfounded pārājika offense, wishing to destroy her monastic life, and if at a later time, whether she is questioned or not questioned, it becomes known that it was unfounded slander, and that that bhikkhunī said it out of anger, it’s a saṅghādisesa.
+
+<h3>Saṅghādisesa 3</h3>
+
+<lzh>若復苾芻尼懷瞋不捨故。於清淨苾芻尼以異非分波羅市迦法謗。欲壞彼淨行。後於異時。若問若不問。知此是異非分事。以少相似法而為毀謗。彼苾芻尼。由瞋恚故。作是語者。僧伽伐尸沙。</lzh>
+If a bhikkhunī, because of harboring anger and not letting it go, slanders a pure bhikkhunī with a different, imaginary pārājika offense, wishing to destroy her monastic life, and if at a later time, whether she is questioned or not questioned, it becomes known that it’s a different, imaginary matter, and that (the pure bhikkhunī) was disparaged and slandered with a few aspects that resemble the rule, and that the (first) bhikkhunī said it out of anger, it’s a saṅghādisesa.
+
+<h3>Saṅghādisesa 4</h3>
+
+<lzh>若復苾芻尼有染心。從染心男子共相領受。隨取何物。僧伽伐尸沙。</lzh>
+If a bhikkhunī, with a defiled mind, accepts and then takes any item from a man with a defiled mind, it’s a saṅghādisesa.
+
+<h3>Saṅghādisesa 5</h3>
+
+<lzh>若復苾芻尼向苾芻尼作如是語。隨汝無染心受染心男子物。我復何過者。僧伽伐尸沙。</lzh>
+If a bhikkhunī says to another bhikkhunī: ‘Just as you don’t have a defiled mind, and accept items from a man with a defiled mind, why would there be a transgression for me?’, it’s a saṅghādisesa.
+
+<h3>Saṅghādisesa 6</h3>
+
+<lzh>若復苾芻尼獨從尼寺向餘處宿者。僧伽伐尸沙。</lzh>
+If a bhikkhunī stays overnight alone in another place away from the bhikkhunī monastery, it’s a saṅghādisesa.
+
+<h3>Saṅghādisesa 7</h3>
+
+<lzh>若復苾芻尼獨從尼寺晝向俗家者。僧伽伐尸沙。</lzh>
+If a bhikkhunī leaves the bhikkhunī monastery and goes to lay houses alone during daytime, it’s a saṅghādisesa.
+
+<h3>Saṅghādisesa 8</h3>
+
+<lzh>若復苾芻尼獨在道行者。僧伽伐尸沙。</lzh>
+If a bhikkhunī wanders on a road alone, it’s a saṅghādisesa.
+
+<h3>Saṅghādisesa 9</h3>
+
+<lzh>若復苾芻尼獨浮渡河者僧伽伐尸沙。</lzh>
+If a bhikkhunī swims across a river alone, it’s a saṅghādisesa.
+
+<h3>Saṅghādisesa 10</h3>
+
+<lzh>若復苾芻尼知他婦女作非法事。眾人共嫌為夫所棄。并白王知度令出家者。僧伽伐尸沙。</lzh>
+If a bhikkhunī knows that someone’s wife has engaged in unlawful activities, that the people are all upset about her, that the husband has rejected her and also informed the king, and she gives her the going forth, it’s a saṅghādisesa.
+
+<h3>Saṅghādisesa 11</h3>
+
+<lzh>若復苾芻尼依他舊契。自為己索亡人物者。僧伽伐尸沙。</lzh>
+If a bhikkhunī, on the basis of someone else’s old contract, herself claims a dead person’s item for herself, it’s a saṅghādisesa.
+
+<h3>Saṅghādisesa 12</h3>
+
+<lzh>若復苾芻尼知苾芻尼被苾芻尼眾。為作捨置羯磨。便出界外。為作解法者僧伽伐尸沙。</lzh>
+If a bhikkhunī knows that the bhikkhunī sangha has carried out a formal act of suspension against a bhikkhunī, and just leaves the territory to carry out a procedure of reinstatement, it’s a saṅghādisesa.
+
+<h3>Saṅghādisesa 13</h3>
+
+<lzh>若復苾芻尼。共諸苾芻尼鬪諍紛擾作如是語。我捨佛法僧非但此沙門釋女具戒具德。有勝善法。於餘沙門。亦具戒具德。有勝善法。我當詣彼修習梵行。時諸苾芻尼語言。汝可捨此罪惡之見。如是諫時。捨者善。若不捨者。應可再三慇懃正諫。隨教應詰。令捨是事。捨者善。若不捨者。僧伽伐尸沙。</lzh>
+If a bhikkhunī quarrels with the bhikkhunīs, and when agitated, says: ‘I renounce the Buddha, the dhamma, and the sangha. There aren’t just these renunciates who are Sakyan daughters that are endowed with precepts, endowed with virtue, and have a superior dhamma. Other renunciates also are endowed with precepts, endowed with virtue, and have a superior dhamma. I’ll go there to practise the monastic life’, then the bhikkhunīs should say: ‘Please give up this blameworthy, wrong view.’ When they carry out this admonishment and she gives it up, it’s fine. If not, they should again admonish her earnestly and correctly three times. They should reprove her according to the instructions to make her give up this matter. If she gives it up, it’s fine. If not, it’s a saṅghādisesa.
+
+<h3>Saṅghādisesa 14</h3>
+
+<lzh>若復苾芻尼。共諸苾芻尼鬪諍紛擾。諸苾芻尼語是苾芻尼言。姊妹。莫鬪諍紛擾。此苾芻尼作如是語。汝有愛恚怖癡。於鬪諍人有遮不遮。諸苾芻尼語言。大德。他諫誨時莫作是語。汝有愛恚怖癡。於鬪諍人有遮不遮。姊妹可止。此語諸苾芻尼。如是諫時。捨者善。若不捨者。應可再三慇懃正諫。隨教應詰。令捨是事。捨者善。若不捨者僧伽伐尸沙。</lzh>
+If a bhikkhunī quarrels with the bhikkhunīs and is agitated, the bhikkhunīs should say to her: ‘Sister, don’t quarrel and be agitated.’ If that bhikkhunī answers: ‘You have desire, hatred, fear, and delusion. You prevent some people from quarreling, and not others’, the bhikkhunīs should say: ‘Venerable, when others admonish you, don’t say: “You have desire, hatred, fear and delusion. You prevent some people from quarreling, and not others.” Sister, please stop speaking like this.’ When the bhikkhunīs admonish her like this and she gives it up, it’s fine. If not, they should again admonish her earnestly and correctly three times. They should reprove her according to the instructions to make her give up this matter. If she gives it up, it’s fine. If not, it’s a saṅghādisesa.
+
+<h3>Saṅghādisesa 15</h3>
+
+<lzh>若復苾芻尼共餘苾芻尼雜亂而住。掉舉戲笑。諸苾芻尼語是苾芻尼言。姊妹。莫雜亂住掉舉戲笑。汝雜亂住時。令善法衰損。不得增益。應可別住。別住之時令善法增益。不復衰損。諸苾芻尼如是諫時。捨者善。若不捨者。應可再三慇懃正諫。隨教應詰。令捨是事。捨者善。若不捨者。僧伽伐尸沙。</lzh>
+If a bhikkhunī lives in chaos together with another bhikkhunī, acting frivolously, playing and laughing, the bhikkhunīs should say to those bhikkhunīs: ‘Sisters, don’t live in chaos, acting frivolously, playing and laughing. When you live in chaos, you let wholesome states decline and won’t be able to make them grow. You should live apart. When you live apart, you’ll make wholesome states grow, not decline anymore.’ When the bhikkhunīs admonish them like this and they give it up, it’s fine. If not, they should again admonish them earnestly and correctly three times. They should reprove them according to the instructions to make them give up this matter. If they give it up, it’s fine. If not, it’s a saṅghādisesa.
+
+<h3>Saṅghādisesa 16</h3>
+
+<lzh>若復苾芻尼知餘苾芻尼樂為獨住。諸苾芻尼語是苾芻尼言。大德。莫為獨住。汝獨住時令善法衰損。不得增益。姊妹。應可共住。令善法增益。不復衰損。諸苾芻尼亦應告言。大德。勿樂獨住。令善法衰損。大德。應可捨此獨住惡見。作是諫時。捨者善。若不捨者。應可再三慇懃正諫隨教應詰。令捨是事。捨者善。若不捨者。僧伽伐尸沙。</lzh>
+If a bhikkhunī knows that other bhikkhunīs are willing to live apart, and that<note> The manuscript has the plural 諸 here, but it must be a typo.</note> bhikkhunī says to those bhikkhunīs: ‘Venerables, don’t live apart. When you live apart, you’ll make wholesome states decline and won’t be able to make them grow. Sisters, you should live together to make wholesome states grow and not decline anymore’, the bhikkhunīs should tell her: ‘Venerable, don’t claim that living apart makes wholesome states decline. Venerable, you should give up this wrong view about living apart.’ When they admonish her like this and she gives it up, it’s fine. If not, they should again admonish her earnestly and correctly three times. They should reprove her according to the instructions to make her give up this matter. If she gives it up, it’s fine. If not, it’s a saṅghādisesa. 
+
+<h3>Saṅghādisesa 17</h3>
+
+<lzh>若復苾芻尼興方便。欲破和合僧伽。於破僧事堅執不捨。諸苾芻尼應語彼苾芻尼言。姊妹。莫欲破和合僧伽堅執而住。姊妹。應與僧伽和合共住歡喜無諍。一心一說如水乳合。大師教法令得光顯安樂久住。具壽。汝可捨破僧事。諸苾芻尼如是諫時。捨者善。若不捨者。應可再三慇懃正諫。隨教應詰。令捨是事。捨者善。若不捨者。僧伽伐尸沙。</lzh>
+If a bhikkhunī wants to split the harmonious sangha with skillful means, holds firmly on to matters that split the sangha, and doesn’t give them up, the bhikkhunīs should say to that bhikkhunī: ‘Sister, don’t wish to split the harmonious sangha and dwell holding firmly on to it. Sister, you should live in harmony with the sangha, happy, without quarreling, with one mind and one recitation, mixing like water and milk. The dhamma taught by the Great Teacher lets us attain brilliance and live peacefully and happily for a long time. Long-lived one, please give up this matter of splitting the sangha.’ When the bhikkhunīs admonish her like this and she gives it up, it’s fine. If not, they should again admonish her earnestly and correctly three times. They should reprove her according to the instructions to make her give up this matter. If she gives it up, it’s fine. If not, it’s a saṅghādisesa. 
+
+<h3>Saṅghādisesa 18</h3>
+
+<lzh>若復苾芻尼若一若二若多。與彼苾芻尼共為伴黨。同邪違正隨順而住。時此苾芻尼語諸苾芻尼言。大德。莫共彼苾芻尼有所論說。若好若惡。何以故。彼苾芻尼是順法律依法律。語言無虛妄。彼愛樂者我亦愛樂。諸苾芻尼應語此苾芻尼言。具壽。莫作是說。彼苾芻尼是順法律依法律。語言無虛妄。彼愛樂者我亦愛樂。何以故。彼苾芻尼非順法律不依法律。語言皆虛妄。汝莫樂破僧。當樂和合僧。應與僧和合歡喜無諍。一心一說如水乳合。大師教法令得光顯安樂久住。具壽。可捨破僧惡見。順邪違正。勸作諍事堅執而住。諸苾芻尼如是諫時。捨者善。若不捨者。應可再三慇懃正諫。隨教應詰。令捨是事。捨者善。若不捨者。僧伽伐尸沙。</lzh>
+If bhikkhunīs, one, two or many, are the companions of that bhikkhunī, and dwell following the same mistaken, incorrect way, and then those bhikkhunīs say to the other bhikkhunīs: ‘Venerables, don’t say whether that bhikkhunī’s statements are good or bad. Why? That bhikkhunī follows the dhamma and the vinaya, and relies on the dhamma and the vinaya. Her speech isn’t empty and false. What she delights in, we also delight in’, the bhikkhunīs should say to those bhikkhunīs: ‘Long-lived ones, don’t say this: “That bhikkhunī follows the dhamma and the vinaya, and relies on the dhamma and the vinaya. Her speech isn’t empty and false. What she delights in, we also delight in.” Why? That bhikkhunī doesn’t follow the dhamma and the vinaya and doesn’t rely on the dhamma and the vinaya. Her speech is all empty and false. Don’t delight in splitting the sangha. You should delight in a harmonious sangha, you should be in harmony with the sangha, happy, without quarreling, with one mind and one recitation, mixing like water and milk. The dhamma taught by the Great Teacher lets us attain brilliance and live peacefully and happily for a long time. Long-lived ones, please give up this wrong view of splitting the sangha, of following this mistaken, incorrect way, of advocating for disputes, and of dwelling holding firmly on to them.’ When the bhikkhunīs admonish them like this and they give it up, it’s fine. If not, they should again admonish them earnestly and correctly three times. They should reprove them according to the instructions to make them give up this matter. If they give it up, it’s fine. If not, it’s a saṅghādisesa.
+
+<h3>Saṅghādisesa 19</h3>
+
+<lzh>若復眾多苾芻尼於村落城邑住。污他家行惡行。污他家亦眾見聞知。行惡行亦眾見聞知。諸苾芻尼應語彼苾芻尼言。具壽。汝等污他家行惡行。污他家亦眾見聞知。行惡行亦眾見聞知。汝等可去不應住此。彼苾芻尼語諸苾芻尼言。大德。有愛恚怖癡。有如是同罪。苾芻尼有驅者有不驅者。時諸苾芻尼語彼苾芻尼言。具壽。莫作是語。諸大德。有愛恚怖癡。有如是同罪。苾芻尼有驅者有不驅者。何以故。諸苾芻尼無愛恚怖癡。汝等污他家行惡行。污他家亦眾見聞知。行惡行亦眾見聞知。具壽。汝等應捨愛恚等。言諸苾芻尼。如是諫時。捨者善。若不捨者。應可再三慇懃正諫。隨教應詰。令捨是事。捨者善。若不捨者。僧伽伐尸沙。</lzh>
+If many bhikkhunīs live by a village or town, corrupt families, and engage in unwholesome conduct, and the corrupted families are seen, heard, and known by many, and their engaging in unwholesome conduct is also seen, heard, and known by many, the bhikkhunīs should say to those bhikkhunīs: ‘Long-lived ones, you corrupt families, and engage in unwholesome conduct. The corrupted families are seen, heard, and known by many, and your engaging in unwholesome conduct is also seen, heard, and known by many. Please leave. You shouldn’t live here.’ If those bhikkhunīs then say to the bhikkhunīs: ‘The venerables have desire, anger, fear, and delusion. There are also other bhikkhunīs with the same offense. Some of them are expelled, and some aren’t,’ the bhikkhunīs should say to those bhikkhunīs: ‘Long-lived ones, don’t say this: “The venerables have desire, anger, fear, and delusion. There are also other bhikkhunīs with the same offense. Some of them are expelled, and some aren’t.” Why? The bhikkhunīs don’t have desire, anger, fear, and delusion. You corrupt families, and engage in unwholesome conduct. The corrupted families are seen, heard, and known by many, and your engaging in unwholesome conduct is also seen, heard, and known by many. Long-lived ones, you should give up this speech about desire, anger, etc.’ When the bhikkhunīs admonish them like this and they give it up, it’s fine. If not, they should again admonish them earnestly and correctly three times. They should reprove them according to the instructions to make them give up this matter. If they give it up, it’s fine. If not, it’s a saṅghādisesa.
+
+<h3>Saṅghādisesa 20</h3>
+
+<lzh>若復苾芻尼惡性不受人語。諸苾芻尼於佛所說戒經中。如法如律勸誨之時。不受諫語言。諸大德。莫向我說少許若好若惡。我亦不向諸大德說若好若惡。諸大德止。莫勸我。莫論說我。諸苾芻尼語是苾芻尼言。具壽。汝莫不受諫語。諸苾芻尼於佛所說戒經中。如法如律勸誨之時。應受諫語。具壽。如法諫諸苾芻尼。諸苾芻尼亦如法諫具壽。如是如來應正等覺佛聲聞眾。便得增長。共相諫誨。具壽。汝等應捨此事。諸苾芻尼如是諫時。捨者善。若不捨者。應可再三慇懃正諫。隨教應詰。令捨是事。捨者善。若不捨者。僧伽伐尸沙。</lzh>
+If a bhikkhunī with a bad character doesn’t accept being spoken to, and when the bhikkhunīs exhort and teach her about the precepts sutta taught by the Buddha, according to dhamma and vinaya, she doesn’t accept admonishment and says: ‘Venerables, don’t speak to me about these trifles, whether good or bad. I’ll also not speak to the venerables about good and bad. May the venerables stop. Don’t exhort me. Don’t discuss with me’, then the bhikkhunīs should say to that bhikkhunī: ‘Long-lived one, don’t not accept admonishment. When the bhikkhunīs exhort and teach you about the precepts sutta taught by the Buddha, according to dhamma and vinaya, you should accept admonishment. Long-lived one, you should admonish the bhikkhunīs according to dhamma. The bhikkhunīs will also admonish the long-lived one according to dhamma. In this way, the assembly of disciples of the unsurpassed and perfectly enlightened Buddha will attain growth through mutual admonishment and teaching. Long-lived one, you should give up this matter.’ When the bhikkhunīs admonish her like this and she gives it up, it’s fine. If not, they should again admonish her earnestly and correctly three times. They should reprove her according to the instructions to make her give up this matter. If she gives it up, it’s fine. If not, it’s a saṅghādisesa. 
+
+
+<lzh>諸大德。我已說二十僧伽伐尸沙法。十二初犯八至三諫若苾芻尼隨一一犯故覆藏者。二部僧伽應與作半月行摩那𭅤。行摩那𭅤竟。餘有出罪。若稱可二部僧伽意者。二部僧伽各二十眾。當於四十眾中出是苾芻尼罪。若少一人不滿四十眾。是苾芻尼罪。不得除。二部僧伽得罪此是出罪法。</lzh>
+Venerables, I’ve recited the 20 saṅghādisesa rules; 12 immediate offenses, and eight offenses after the third admonishment. If a bhikkhunī has committed any of these, and intentionally conceals it, both sanghas should make her undertake probation<note>Mānatta</note> for half a month. After she has finished the probation, the rehabilitation still has to be done. If it pleases both sanghas, both sanghas consisting of 20 persons each should rehabilitate that bhikkhunī in the midst of this assembly of 40. If there’s one person less than a full group of 40, that bhikkhunī’s offense hasn’t been cleared, and both sanghas incur an offense. This is the procedure for rehabilitation.
+
+
+<lzh>今問諸大德。是中清淨不(如是三說)諸大德。是中清淨默然故我今如是持(尼無二不定法)。</lzh>
+Now I ask the venerables: ‘Are you pure herein?’ (Repeat three times.) The venerables are pure herein, therefore you’re silent. I now remember it like this. (Bhikkhunīs don’t have aniyatas.)
+
+
+<h2>33 Nissaggiya Pācittiya Rules</h2>
+
+
+<lzh>諸大德。此三十三泥薩祇波逸底迦法。半月半月戒經中說。</lzh>
+Venerables, these 33 three nissaggiya pācittiya rules are recited every half-month in the precepts sutta.
+
+
+<lzh>初攝頌曰。</lzh>
+Recite the first summary verse:
+
+<lzh-verse>持離畜浣衣　　取衣乞過受
+同價及別主　　遣使送衣直</lzh-verse>
+<verse>Holding on, away, keeping, washing a robe,
+Taking a robe, asking, and accepting excessively,
+One fund, separate owners,
+Sending a messenger with a robe fund.</verse>
+
+<h3>Nissaggiya Pācittiya 1</h3>
+
+<lzh>若復苾芻尼作衣已竟。羯恥那衣復出。得長衣齊。十日不分別應畜。若過畜者。泥薩祇波逸底迦。</lzh>
+If a bhikkhunī has finished making her robes, has removed the kaṭhina robe, and obtains a spare robe, she can keep it for up to ten days without sharing it<note> vikappana</note>. If she keeps it longer, it’s a nissaggiya pācittiya.
+
+<h3>Nissaggiya Pācittiya 2</h3>
+
+<lzh>若復苾芻尼作衣已竟。羯恥那衣復出。於五衣中離一一衣界外宿。下至一夜。除得眾法。泥薩祇波逸底迦。</lzh>
+If a bhikkhunī has finished making her robes, has removed the kaṭhina robe, and stays overnight outside the territory away from any of her five robes, even just one night, unless she received a sangha procedure, it’s a nissaggiya pācittiya.
+
+<h3>Nissaggiya Pācittiya 3</h3>
+
+<lzh>若復苾芻尼作衣已竟。羯恥那衣復出。得非時衣。欲須應受受已。當疾成衣。若有望處求令滿足。若不足者。得畜經一月。若過者。泥薩祇波逸底迦。</lzh>
+If a bhikkhunī has finished making her robes, has removed the kaṭhina robe, and obtains out-of-season cloth, she should accept it if she wants and needs it. Having received it, she should quickly turn it into a robe. If there’s grounds for hope, she may try to make it complete. If it’s not enough, she may keep it for one month. If she exceeds that, it’s a nissaggiya pācittiya.
+
+<h3>Nissaggiya Pācittiya 4</h3>
+
+<lzh>若復苾芻尼與非親苾芻浣染打故衣者。泥薩祇波逸底迦。</lzh>
+If a bhikkhunī washes, dyes, or beats the old robe of an unrelated bhikkhu, it’s a nissaggiya pācittiya.
+
+<h3>Nissaggiya Pācittiya 5</h3>
+
+<lzh>若復苾芻尼從非親苾芻取衣者。除貿易。泥薩祇波逸底迦。</lzh>
+If a bhikkhunī takes a robe from an unrelated bhikkhu, except as a trade, it’s a nissaggiya pācittiya.
+
+<h3>Nissaggiya Pācittiya 6</h3>
+
+<lzh>若復苾芻尼從非親居士居士婦乞衣。除餘時。泥薩祇波逸底迦。餘時者。若苾芻尼奪衣失衣。燒衣吹衣漂衣。此是時。</lzh>
+If a bhikkhunī asks for a robe from an unrelated male or female householder, except at a suitable time, it’s a nissaggiya pācittiya. These are the suitable times: If the bhikkhunī’s robe was stolen, lost, burnt, blown away, or washed away. These are the times.
+
+<h3>Nissaggiya Pācittiya 7</h3>
+
+<lzh>若復苾芻尼奪衣。失衣燒衣吹衣漂衣。從非親居士居士婦乞衣。彼多施衣苾芻尼。若須應受上下二衣。若過受者。泥薩祇波逸底迦。</lzh>
+If a bhikkhunī, when her robe has been stolen, lost, burnt, blown away, or washed away, asks for a robe from an unrelated male or female householder, and they offer many robes, the bhikkhunī should, if she needs them, accept two robes, an upper and a lower robe. If she accepts more, it’s a nissaggiya pācittiya.
+
+<h3>Nissaggiya Pācittiya 8</h3>
+
+<lzh>若復苾芻尼。有非親居士居士婦共辦衣價。當買如是清淨衣。與某甲苾芻尼及時應用。此苾芻尼先不受請。因他告知。便詣彼家作如是語。善哉仁者。為我所辦衣價可買如是清淨衣。及時與我為好故。若得衣者。泥薩祇波逸底迦。</lzh>
+If a bhikkhunī has unrelated male or female householders, who prepare a robe fund together to buy such-and-such a pure robe for bhikkhunī So-and-so, and if when it’s time that it should be used, that bhikkhunī, without having first received an invitation, in order to inform them, just goes to their house and says: ‘People, it’d be good if you bought such-and-such a pure robe with the robe fund you’ve prepared for me, and give it to me when it’s time,’ in order to get something good, and if she obtains the robe, it’s a nissaggiya pācittiya.
+
+<h3>Nissaggiya Pācittiya 9</h3>
+
+<lzh>若復苾芻尼有非親居士居士婦。各辦衣價。當買如是清淨衣。與某甲苾芻尼。此苾芻尼先不受請。因他告知。便詣彼家作如是語。善哉仁者。為我所辦衣價。可共買如是清淨衣。及時與我為好故。若得衣者。泥薩祇波逸底迦。</lzh>
+If a bhikkhunī has unrelated male or female householders, who each prepare a robe fund to buy such-and-such a pure robe for bhikkhunī So-and-so, and if that bhikkhunī, without having first received an invitation, in order to inform them, just goes to their house and says: ‘People, it’d be good if you bought such-and-such a pure robe together with the robe funds you’ve prepared for me, and give it to me when it’s time,’ in order to get something good, and if she obtains the robe, it’s a nissaggiya pācittiya.
+
+<h3>Nissaggiya Pācittiya 10</h3>
+
+<lzh>若復苾芻尼若王若大臣婆羅門居士等。遣使為苾芻尼送衣價。彼使持衣價至苾芻尼所。白言。聖者。此物是某甲王大臣婆羅門居士等遣我送來。聖者哀愍為受。是苾芻尼語彼使言。仁此衣價我不應受。若得順時淨衣應受。彼使白言聖者。有執事人不須衣。苾芻尼言有。若僧伽淨人。若鄔波斯伽。此是苾芻尼執事人。彼使往執事人所。與衣價已。語言。汝可以此衣價。買順時清淨衣。與某甲苾芻尼令其披服。彼使善教執事人已還至苾芻尼所白言。聖者。所示執事人。我已與衣價。得清淨衣應受。苾芻尼須衣。應往執事人所。若二若三令彼憶念。告言。我須衣。若得者善。若不得者。乃至四五六返往。彼默然隨處而住。若四五六返得衣者善。若不得衣過。是求得衣者。泥薩祇波逸底迦。若竟不得衣。是苾芻尼應隨彼送衣價處。若自往若遣可信人。往報言。人為某甲苾芻尼送衣價。彼苾芻尼竟不得衣。仁應知。勿令失。此是時。</lzh>
+If there’s a bhikkhunī and a king, a high official, a brahmin, a householder, etc. sends a messenger with a robe fund for the bhikkhunī, and if that messenger holding the robe fund goes to the bhikkhunī and says: ‘Noble one, this item was brought by me from king, high official, brahmin, householder, etc. So-and-so. May the noble one compassionately accept it,’ the bhikkhunī should say to the messenger: ‘Person, I can’t accept this robe fund. If I obtain a pure robe at a suitable time, I’ll accept it.’ If the messenger says: ‘Noble one, do you have a manager?’, a bhikkhunī who needs a robe should answer: ‘Yes, either a sangha attendant or lay woman, these are the bhikkhunīs’ managers.’ The messenger goes to the manager, gives them the robe fund, and says: ‘Please buy a pure cloth at a suitable time with this robe fund for bhikkhunī So-and-so, and let her wear it.’ Having instructed the manager well, the messenger returns to the bhikkhunī, and says: ‘Noble one, I’ve given the robe fund to the manager you indicated. When you obtain the pure robe, you should accept it.’ When the bhikkhunī needs a robe, she should go to the manager, up to a second or a third time, and remind him by saying: ‘I need a robe.’ If she obtains it, it’s fine. If she doesn’t obtain it, she may return there a forth, fifth, and sixth time, and stay in that place silently. If when returning four, five or six times, she obtains the robe, it’s fine. If she doesn’t obtain the robe, and continues to ask to obtain the robe, it’s a nissaggiya pācittiya. If she doesn’t obtain the robe in the end, that bhikkhunī should either go to the place where the robe fund was sent from herself, or send a trustworthy person to inform them: ‘You’ve sent a robe fund for bhikkhunī So-and-so. That bhikkhunī hasn’t obtained the robe in the end. You should know. Don’t let it be lost.’ This is the procedure.
+
+
+<lzh>第二攝頌曰。</lzh>
+Recite the second summary verse:
+
+<lzh-verse>捉金銀出納　　賣買鉢乞線
+織師自奪衣　　迴他病長鉢</lzh-verse>
+<verse>Taking gold and silver, trade,
+Sales, bowl, asking for thread,
+Weavers, taking a robe back oneself,
+Diverting someone’s (offering), sick, a spare bowl.</verse>
+
+<h3>Nissaggiya Pācittiya 11</h3>
+
+<lzh>若復苾芻尼自手捉金銀錢等。若教他捉者。泥薩祇波逸底迦。</lzh>
+If a bhikkhunī takes gold, silver, money, etc. with her own hands or instructs others to take it, it’s a nissaggiya pācittiya.
+
+<h3>Nissaggiya Pācittiya 12</h3>
+
+<lzh>若復苾芻尼種種出納求利者。泥薩祇波逸底迦。</lzh>
+If a bhikkhunī seeks profits with all sorts of trades, it’s a nissaggiya pācittiya.
+
+<h3>Nissaggiya Pācittiya 13</h3>
+
+<lzh>若復苾芻尼種種賣買者。泥薩祇波逸底迦。</lzh>
+If a bhikkhunī engages in all sorts of sales, it’s a nissaggiya pācittiya.
+
+<h3>Nissaggiya Pācittiya 14</h3>
+
+<lzh>若復苾芻尼有鉢減五綴。堪得受用。為好故更求餘鉢得者。泥薩祇波逸底迦。彼苾芻尼應於眾中捨此鉢。取眾中最下鉢。與彼苾芻尼報言。此鉢還汝不應守持。不應分別。亦不施人。應自審詳徐徐受用。乃至破應護持。此是其法。</lzh>
+If a bhikkhunī has a bowl with less than five repairs, that is suitable to be used, and she still asks for another bowl in order to get something good, and she obtains one, it’s a nissaggiya pācittiya. That bhikkhunī should give up that bowl in the midst of the sangha, and receive the sangha’s most inferior bowl. That bhikkhunī should be informed thus: ‘This bowl is returned to you. You shouldn’t determine it, shouldn’t share it<note> vikappana</note>, and shouldn’t give it to others. You should meticulously, slowly use it up. Until it breaks, you should guard and keep it.’ This is the procedure.
+
+<h3>Nissaggiya Pācittiya 15</h3>
+
+<lzh>若復苾芻尼自乞縷線。使非親織師織作衣。若得衣者。泥薩祇波逸底迦。</lzh>
+If a bhikkhunī asks for thread herself to have an unrelated weaver weave it into a robe, and if she obtains the robe, it’s a nissaggiya pācittiya.
+
+<h3>Nissaggiya Pācittiya 16</h3>
+
+<lzh>若復苾芻尼有非親居士居士婦。為苾芻尼使非親織師織作衣。此苾芻尼先不受請。便生異念。詣彼織師所。作如是言。汝今知不。此衣為我織。善哉織師。應好織淨梳治。善揀擇極堅打。我當以少鉢食。或鉢食類。或復食直而相濟給。若苾芻尼以如是物與織師求得衣者。泥薩祇波逸底迦。</lzh>
+If a bhikkhunī has unrelated male or female householders who have an unrelated weaver weave a robe for her, and if that bhikkhunī, without having first received an invitation, has different intentions, goes to that weaver, and says: ‘Do you now know that this robe is woven for me? Weaver, it’d be good if you wove it well, combed it cleanly, checked<note> The vibhaṅga explains “check” as “removing the knots to make it refined.”</note> it well, and beat it very hard. I’ll give you some almsfood, something like almsfood, or money for food, and we’ll be of help to each other’, and if that bhikkhunī gives such things to the weaver, and asks for and obtains the robe, it’s a nissaggiya pācittiya.
+
+<h3>Nissaggiya Pācittiya 17</h3>
+
+<lzh>若復苾芻尼與苾芻尼衣。彼於後時惱瞋罵詈生嫌賤心。若自奪若教他奪。報言。還我衣來。不與汝。若衣離彼身自受用者。泥薩祇波逸底迦。</lzh>
+If a bhikkhunī gives a robe to another bhikkhunī, and if at a later time, out of anger, she abuses her, gives rise to resentment, and either snatches it back herself or instructs others to snatch it back, and says: ‘Return my robe. It’s not given to you,’ and if she takes the robe away from her, and uses it herself, it’s a nissaggiya pācittiya.
+
+<h3>Nissaggiya Pācittiya 18</h3>
+
+<lzh>若復苾芻尼知他與眾物。自迴入己者。泥薩祇波逸底迦。</lzh>
+If a bhikkhunī knows that someone has given an item to the sangha, and diverts it to herself, it’s a nissaggiya pācittiya.
+
+<h3>Nissaggiya Pācittiya 19</h3>
+
+<lzh>如世尊說。聽諸病苾芻尼。所有諸藥隨意服食。謂酥油糖蜜。於七日中應自守持觸宿而服。若苾芻尼過七日服者。泥薩祇波逸底迦。</lzh>
+As the World-honored One has said, sick bhikkhunīs are allowed to take and eat available medicines at will, namely ghee, oil, sugar, and honey. Within seven days, they may determine them themselves, keep them overnight, and take them. If a bhikkhunī takes them longer than seven days, it’s a nissaggiya pācittiya.
+
+<h3>Nissaggiya Pācittiya 20</h3>
+
+<lzh>若復苾芻尼畜長鉢得經一宿。若過畜者。泥薩祇波逸底迦。</lzh>
+If a bhikkhunī keeps a spare bowl, she may do so for one night. If she exceeds that, it’s a nissaggiya pācittiya.
+
+
+<lzh>第三攝頌曰。</lzh>
+Recite the third summary verse:
+
+<lzh-verse>不著捨不捨　　乞金銀染衣
+得利有五殊　　買藥衣二價</lzh-verse>
+<verse>Not wearing, relinquishing, not relinquishing,
+Asking for gold and silver, dyeing a robe,<note> The rule isn’t about dyeing, but about robe funds. The rule in the vibhaṅga is about dyeing.</note>
+Five rules about obtaining a fund,
+Buying medicines, two rules about prices for robes.</verse>
+
+<h3>Nissaggiya Pācittiya 21</h3>
+
+<lzh>若復苾芻尼於半月內不著五衣者。泥薩祇波逸底迦。</lzh>
+If a bhikkhunī doesn’t wear the five determined robes within a half-month, it’s a nissaggiya pācittiya.<note> The rule in the vibhaṅga is slightly different: If a bhikkhunī doesn’t look after the five determined robes within a half-month, it’s a nissaggiya pācittiya.</note>
+
+<h3>Nissaggiya Pācittiya 22</h3>
+
+<lzh>若復苾芻尼非時捨羯恥那衣者。泥薩祇波逸底迦。</lzh>
+If a bhikkhunī relinquishes the kaṭhina robe at the wrong time, it’s a nissaggiya pācittiya.
+
+<h3>Nissaggiya Pācittiya 23</h3>
+
+<lzh>若復苾芻尼依時不捨羯恥那衣者。泥薩祇波逸底迦。</lzh>
+If a bhikkhunī doesn’t relinquish the kaṭhina robe at the right time, it’s a nissaggiya pācittiya.
+
+<h3>Nissaggiya Pācittiya 24</h3>
+
+<lzh>若復苾芻尼乞求金銀者。泥薩祇波逸底迦。</lzh>
+If a bhikkhunī asks for gold and silver, it’s a nissaggiya pācittiya.
+
+<h3>Nissaggiya Pācittiya 25</h3>
+
+<lzh>若復苾芻尼以衣利直。將充食用者。泥薩祇波逸底迦。</lzh>
+If a bhikkhunī uses a fund for robes to supplement her food, it’s a nissaggiya pācittiya.<note> This rule is a little different in the vibhaṅga: If a bhikkhunī uses a fund for dyeing robes to supplement her food, it’s a nissaggiya pācittiya. So the rule is about dyeing robes. This is interesting because the summary verse here in the pātimokkha also indicates that it should be about dyeing, but the rule doesn’t say that.</note>
+
+<h3>Nissaggiya Pācittiya 26</h3>
+
+<lzh>若復苾芻尼得別衣利。充食用者。泥薩祇波逸底迦。</lzh>
+If a bhikkhunī obtains offerings from several people intended for a robe and uses them to supplement her food, it’s a nissaggiya pācittiya.
+
+<h3>Nissaggiya Pācittiya 27</h3>
+
+<lzh>若復苾芻尼得臥具利。將充食用者。泥薩祇波逸底迦。</lzh>
+If a bhikkhunī obtains offerings intended for bedding and uses them to supplement her food, it’s a nissaggiya pācittiya.
+
+<h3>Nissaggiya Pācittiya 28</h3>
+
+<lzh>若復苾芻尼得夏安居利。充食用者。泥薩祇波逸底迦。</lzh>
+If a bhikkhunī obtains offerings for the rains retreat and uses them to supplement her food, it’s a nissaggiya pācittiya.<note> In the vibhaṅga, the rule says: If a bhikkhunī obtains offerings intended for the running of the monastery and uses them to supplement her food, it’s a nissaggiya pācittiya.</note>
+
+<h3>Nissaggiya Pācittiya 29</h3>
+
+<lzh>若復苾芻尼得多人利。迴入己者。泥薩祇波逸底迦。</lzh>
+If a bhikkhunī obtains offerings intended for many people and diverts them to herself, it’s a nissaggiya pācittiya.
+
+<h3>Nissaggiya Pācittiya 30</h3>
+
+<lzh>若復苾芻尼得僧祇利物。迴入己者。泥薩祇波逸底迦。</lzh>
+If a bhikkhunī obtains offerings and goods intended for the sangha and diverts them to herself, it’s a nissaggiya pācittiya.
+
+<h3>Nissaggiya Pācittiya 31</h3>
+
+<lzh>若復苾芻尼買諸藥物繫竟復解。解而復繫者。泥薩祇波逸底迦。</lzh>
+If a bhikkhunī buys medicinal products, and when she has wrapped them, she unwraps them again, and when she has unwrapped them, she wraps them again, it’s a nissaggiya pācittiya.
+
+<h3>Nissaggiya Pācittiya 32</h3>
+
+<lzh>若復苾芻尼持貴價重衣者。泥薩祇波逸底迦。</lzh>
+If a bhikkhunī takes an expensive heavy robe, it’s a nissaggiya pācittiya.
+
+<h3>Nissaggiya Pācittiya 33</h3>
+
+<lzh>若復苾芻尼持貴價輕衣者。泥薩祇波逸底迦。</lzh>
+If a bhikkhunī takes an expensive light robe, it’s a nissaggiya pācittiya.
+
+
+<lzh>諸大德。我已說三十三泥薩祇波逸底迦法。今問諸大德。是中清淨不(如是三說)。諸大德。是中清淨默然故。我今如是持。</lzh>
+Venerables, I’ve recited the 33 nissaggiya pācittiya rules. Now I ask the venerables: ‘Are you pure herein?’ (Repeat three times.) The venerables are pure herein, therefore you’re silent. I now remember it like this.
+
+
+<h2>180 Pācittiya Rules</h2>
+
+
+<lzh>諸大德此一百八十波逸底迦法。半月半月戒經中說。</lzh>
+Venerables, these 180 pācittiya rules are recited every half-month in the precepts sutta.
+
+
+<lzh>第一攝頌曰。</lzh>
+Recite the first summary verse:
+
+<lzh-verse>妄毀及離間　　發舉說同聲
+說罪得上人　　隨親輒輕毀</lzh-verse>
+<verse>Lying, disparaging, divisively,
+Taking up, teaching, reciting together,
+Telling of an offense, attaining a superhuman state,
+According to friendships, just belittling.</verse>
+
+<h3>Pācittiya 1</h3>
+
+<lzh>若復苾芻尼故妄語者。波逸底迦。</lzh>
+If a bhikkhunī intentionally lies, it’s a pācittiya.
+
+<h3>Pācittiya 2</h3>
+
+<lzh>若復苾芻尼毀訾語故。波逸底迦。</lzh>
+If a bhikkhunī speaks disparagingly, it’s a pācittiya.
+
+<h3>Pācittiya 3</h3>
+
+<lzh>若復苾芻尼離間語故。波逸底迦。</lzh>
+If a bhikkhunī speaks divisively, it’s a pācittiya.
+
+<h3>Pācittiya 4</h3>
+
+<lzh>若復苾芻尼知和合僧伽。如法斷諍事已除滅。後於羯磨處。更發舉者。波逸底迦。</lzh>
+If a bhikkhunī knows that the harmonious sangha has already settled a dispute according to dhamma, but later, at the place for formal acts, takes it up again, it’s a pācittiya.
+
+<h3>Pācittiya 5</h3>
+
+<lzh>若復苾芻尼為男子說法。過五六語。除有智女人。波逸底迦。</lzh>
+If a bhikkhunī teaches dhamma to a man with more than five or six sentences, unless there’s a knowledgeable woman, it’s a pācittiya.
+
+<h3>Pācittiya 6</h3>
+
+<lzh>若復苾芻尼與未近圓人同句讀誦。及教授法者。波逸底迦。</lzh>
+If a bhikkhunī recites suttas with the same sentences with a not fully ordained person, and teaches them the dhamma, it’s a pācittiya.
+
+<h3>Pācittiya 7</h3>
+
+<lzh>若復苾芻尼知他苾芻尼有麁惡罪。向未近圓人說除眾羯磨。波逸底迦。</lzh>
+If a bhikkhunī knows that another bhikkhunī has committed a coarse, unwholesome offense, and tells a not fully ordained person, unless the sangha did a formal act, it’s a pācittiya.
+
+<h3>Pācittiya 8</h3>
+
+<lzh>若復苾芻尼實得上人法。向未近圓人說者。波逸底迦。</lzh>
+If a bhikkhunī really attains a superhuman state, and tells a not fully ordained person, it’s a pācittiya.
+
+<h3>Pācittiya 9</h3>
+
+<lzh>若復苾芻尼先同心許。後作是說。諸具壽。以僧利物隨親厚處。迴與別人者。波逸底迦。</lzh>
+If a bhikkhunī first agrees with others, and later says: ‘The long-lived ones distribute the sangha’s offerings to other people according to personal friendships’, it’s a pācittiya.
+
+<h3>Pācittiya 10</h3>
+
+<lzh>若復苾芻尼半月半月說戒經時。作如是語。諸具壽。何用說此小隨小學處。為說是戒。時令諸苾芻尼心生惡作惱悔懷憂。若作如是輕呵戒者。波逸底迦。</lzh>
+If a bhikkhunī, when the precepts sutta is being recited every half-month, says: ‘Long-lived ones, what’s the use of reciting these minor precepts that we hardly need to follow? When these precepts are recited, they make the bhikkhunīs’ minds give rise to unwholesomeness, and cause irritation, regret, and worry’, and if she like this belittles and criticizes the precepts, it’s a pācittiya.
+
+
+<lzh>第二攝頌曰。</lzh>
+Recite the second summary verse:
+
+<lzh-verse>種子輕惱教　　安床草葉敷
+強住脫床虫　　過三外道處</lzh-verse>
+<verse>Seeds, belittling, resenting instruction,
+Placing beds, laying out grass and leaves,
+Staying by force, loose beds, insects,
+Exceeding three (layers), a non-Buddhist place.</verse>
+
+<h3>Pācittiya 11</h3>
+
+<lzh>若復苾芻尼自壞種子有情村。及令他壞者。波逸底迦。</lzh>
+If a bhikkhunī damages seeds and plants<note>有情村 = bhūtagāma, “being-village”</note> herself, or has others damage them, it’s a pācittiya.
+
+<h3>Pācittiya 12</h3>
+
+<lzh>若復苾芻尼嫌毀輕賤苾芻尼者。波逸底迦。</lzh>
+If a bhikkhunī resentfully disparages and belittles another bhikkhunī, it’s a pācittiya.
+
+<h3>Pācittiya 13</h3>
+
+<lzh>若復苾芻尼違惱言教者。波逸底迦。</lzh>
+If a bhikkhunī opposes and resents instruction, it’s a pācittiya.
+
+<h3>Pācittiya 14</h3>
+
+<lzh>若復苾芻尼於露地處安僧敷具及諸床座。去時不自舉。不教人舉。若有苾芻尼不囑授者。除餘緣故。波逸底迦。</lzh>
+If a bhikkhunī places the sangha’s sitting mats, beds and seats outdoors, and when she leaves neither picks them up herself, nor instructs others to pick them up, and if there’s a bhikkhunī doesn’t inform her, unless there’s a suitable reason, it’s a pācittiya. 
+
+<h3>Pācittiya 15</h3>
+
+<lzh>若復苾芻尼於僧房內。若草若葉自敷教人敷。去時不自舉。不教人舉。若有苾芻尼不囑授。除餘緣故。波逸底迦。</lzh>
+If a bhikkhunī lays out grass or leaves in a sangha building herself, or instructs others to lay them out, and when she leaves neither picks them up herself, nor instructs others to pick them up, and if there’s a bhikkhunī doesn’t inform her, unless there’s a suitable reason, it’s a pācittiya. 
+
+<h3>Pācittiya 16</h3>
+
+<lzh>若復苾芻尼於僧住處。知諸苾芻尼先此處住。後來於中故相惱觸於彼臥具。若坐若臥。作如是念。彼若生苦者。自當避我去。波逸底迦。</lzh>
+If a bhikkhunī knows that other bhikkhunīs have stayed in a place first, in a sangha residence, and she later goes in, intentionally irritates them, touches their bedding for sitting or for sleeping, and thinks: ‘If that makes them suffer, they should avoid me and leave themselves’, it’s a pācittiya.
+
+<h3>Pācittiya 17</h3>
+
+<lzh>若復苾芻尼於僧住處。知重房棚上脫脚床。及餘坐物。放身坐臥者。波逸底迦。</lzh>
+If a bhikkhunī knows that on the upper level of a multi-level building in a sangha residence is a bed with loose legs, or other sitting equipment, and she sits or lies down relaxing the body, it’s a pācittiya.
+
+<h3>Pācittiya 18</h3>
+
+<lzh>若復苾芻尼知水有蟲。自澆草土。若和牛糞。及教人澆者。波逸底迦。</lzh>
+If a bhikkhunī knows that there are insects in the water, and pours it on grass and earth, or mixes it with cow dung herself, or instructs others to pour it, it’s a pācittiya.
+
+<h3>Pācittiya 19</h3>
+
+<lzh>若復苾芻尼作大住處。於門梐邊應安橫扂。及諸窓牖并安水竇。若起牆時是濕泥者。應二三重齊橫扂處。若過者。波逸底迦。</lzh>
+If a bhikkhunī builds a large residence, she should install a horizontal door latch next to the door frame, and set up a water drain at the windows. When she erects the walls, she should make two to three layers of wet mud, and level it with the horizontal door latch. If she exceeds that, it’s a pācittiya.
+
+<h3>Pācittiya 20</h3>
+
+<lzh>若復苾芻尼於外道住處。得經一宿一食。除病因緣。若過者。波逸底迦。</lzh>
+If a bhikkhunī stays in a non-Buddhist residence, she may stay for one night and one meal, unless the reason is illness. If she exceeds that, it’s a pācittiya.
+
+
+<lzh>第三攝頌曰。</lzh>
+Recite the third summary verse:
+
+<lzh-verse>過三不餘食　　勸足并別眾
+非時觸不受　　蟲外道觀裝</lzh-verse>
+<verse>Exceeding three (bowlfuls), no leftover food,
+Encouraging when one has had enough, separate group,
+Wrong time, touched, not accepted,
+Insects, non-Buddhist renunciates, watching setting out.</verse>
+
+<h3>Pācittiya 21</h3>
+
+<lzh>若復眾多苾芻尼往俗家中。有淨信婆羅門居士。慇懃勸請與餅麨飯。苾芻尼須者應兩三鉢受。若過受者。波逸底迦。既受得已還至住處。若有苾芻尼當學分食。此是時。</lzh>
+If many bhikkhunīs go to lay houses, and there’s a brahmin householder with pure faith, who earnestly invites them to cakes, flour, and rice, the bhikkhunīs should accept two or three bowlfuls if they need them. If they accept more, it’s a pācittiya. After they’ve received them, they should return to their residence. If there are other bhikkhunīs training in community, they should share the food. This is the procedure.
+
+<h3>Pācittiya 22</h3>
+
+<lzh>若復苾芻尼足食竟。不作餘食法。更食者。波逸底迦。</lzh>
+If a bhikkhunī has eaten enough and is finished, doesn’t carry out the procedure for leftover food, and eats again, it’s a pācittiya.
+
+<h3>Pācittiya 23</h3>
+
+<lzh>若復苾芻尼知他苾芻尼足食竟。不作餘食法。勸令更食。告言。具壽。當噉此食。以此因緣欲使他犯生憂惱者。波逸底迦。</lzh>
+If a bhikkhunī knows that another bhikkhunī has eaten enough and is finished, and hasn’t carried out the procedure for leftover food, and encourages her to eat again, saying: ‘Long-lived one, you should eat this food’, because she wants to make her commit an offense by this and make her worry, it’s a pācittiya.
+
+<h3>Pācittiya 24</h3>
+
+<lzh>若復苾芻尼別眾食者。除餘時。波逸底迦。餘時者。病時作時。道行時船行時。大眾食時。沙門施食時。此是時。</lzh>
+If a bhikkhunī eats in a separate group, except at a suitable time, it’s a pācittiya. These are the suitable times: When she’s sick, working, wandering on a road, traveling on a boat, when there’s a meal for the sangha, and when renunciates give a meal. These are the times.
+
+<h3>Pācittiya 25</h3>
+
+<lzh>若復苾芻尼非時食者。波逸底迦。</lzh>
+If a bhikkhunī eats at the wrong time, it’s a pācittiya.
+
+<h3>Pācittiya 26</h3>
+
+<lzh>若復苾芻尼食曾經觸食者。波逸底迦。</lzh>
+If a bhikkhunī eats food that has already been touched, it’s a pācittiya.<note> This rule is about stored food that was offered, but not eaten the same morning.</note>
+
+<h3>Pācittiya 27</h3>
+
+<lzh>若復苾芻尼不受食舉著口中而噉咽者。除水及齒木。波逸底迦。</lzh>
+If a bhikkhunī puts food that hasn’t been accepted into her mouth and swallows it, except for water and tooth-wood, it’s a pācittiya.
+
+<h3>Pācittiya 28</h3>
+
+<lzh>若復苾芻尼知水有虫受用者。波逸底迦。</lzh>
+If a bhikkhunī knows that there are insects in the water, and uses it, it’s a pācittiya.
+
+<h3>Pācittiya 29</h3>
+
+<lzh>若復苾芻尼自手授與無衣外道及餘外道男女食者。波逸底迦。</lzh>
+If a bhikkhunī offers food with her own hands to naked non-Buddhist renunciates, or other male or female non-Buddhist renunciates, it’s a pācittiya.
+
+<h3>Pācittiya 30</h3>
+
+<lzh>若復苾芻尼往觀整裝軍者。波逸底迦。</lzh>
+If a bhikkhunī goes to see an army setting out, it’s a pācittiya.
+
+
+<lzh>第四攝頌曰。</lzh>
+Recite the fourth summary verse:
+
+<lzh-verse>觀軍二打擬　　覆罪詣俗家
+然火與欲過　　說欲非障法</lzh-verse>
+<verse>Two rules on watching the army, striking, raising,
+Concealing an offense, going to lay houses,
+Lighting a fire, giving consent, exceeding,
+Saying that desire is not an obstructive state.</verse>
+
+<h3>Pācittiya 31</h3>
+
+<lzh>若復苾芻尼有因緣往軍中。應齊二夜。若過宿者。波逸底迦。</lzh>
+If a bhikkhunī has a reason to go to an army, she may stay up to two nights. If she stays longer, it’s a pācittiya.
+
+<h3>Pācittiya 32</h3>
+
+<lzh>若復苾芻尼在軍中宿經二夜。觀整裝軍。見先旗兵。及看布陣散兵者。波逸底迦。</lzh>
+If a bhikkhunī, when staying with the army for two nights, watches the army setting out, the lead standard bearer, battle formations, or scattered soldiers, it’s a pācittiya.
+
+<h3>Pācittiya 33</h3>
+
+<lzh>若復苾芻尼瞋恚故不喜。打苾芻尼者。波逸底迦。</lzh>
+If a bhikkhunī, angry and dissatisfied, strikes another bhikkhunī, it’s a pācittiya.
+
+<h3>Pācittiya 34</h3>
+
+<lzh>若復苾芻尼瞋恚故不喜。擬手向苾芻尼者。波逸底迦。</lzh>
+If a bhikkhunī, angry and dissatisfied, raises her hand against another bhikkhunī, it’s a pācittiya.
+
+<h3>Pācittiya 35</h3>
+
+<lzh>若復苾芻尼知他苾芻尼有麁惡罪。覆藏者。波逸底迦。</lzh>
+If a bhikkhunī knows that another bhikkhunī has committed a coarse, unwholesome offense, and conceals it, it’s a pācittiya.
+
+<h3>Pācittiya 36</h3>
+
+<lzh>若復苾芻尼語餘苾芻尼。作如是語。具壽。共汝詣俗家。當與汝美好飲食令得飽滿。彼苾芻尼至俗家竟。不與食。語言。具壽。汝去。我與汝共坐共語不樂。我獨坐獨語樂。作是語時。欲令生惱者。波逸底迦。</lzh>
+If a bhikkhunī says to another bhikkhunī: ‘Long-lived one, lets go to lay houses together. I’ll give you good food and drinks that will make you feel full’, and if that bhikkhunī, when they’ve reached the lay houses, doesn’t give food, and says: ‘Long-lived one, go away. I’m not happy to sit and talk with you. I’m happy to sit and talk alone’, then when she says this, wanting to irritate her, it’s a pācittiya.
+
+<h3>Pācittiya 37</h3>
+
+<lzh>若復苾芻尼無病為身。若自然火。若教他然者。波逸底迦。</lzh>
+If a bhikkhunī, who isn’t sick, for bodily comfort lights a fire herself, or instructs others to light one, it’s a pācittiya.
+
+<h3>Pācittiya 38</h3>
+
+<lzh>若復苾芻尼。與他欲已。後便悔言。還我欲來。不與汝者。波逸底迦。</lzh>
+If a bhikkhunī gives consent to others, and later regrets it, and says: ‘Return my consent. I haven’t given it to you’, it’s a pācittiya.
+
+<h3>Pācittiya 39</h3>
+
+<lzh>若復苾芻尼與未近圓人同室宿。過二夜者。波逸底迦。</lzh>
+If a bhikkhunī stays overnight in the same room with a not fully ordained person for more than two nights, it’s a pācittiya.
+
+<h3>Pācittiya 40</h3>
+
+<lzh>若復苾芻尼作如是語。我知佛所說法。欲是障礙者。習行之時非是障礙。諸苾芻尼應語彼苾芻尼言。具壽。汝莫作是語。我知佛所說。欲是障礙法者。習行之時非是障礙。汝莫謗世尊。謗世尊者不善。世尊不作是語。世尊以無量門。於諸欲法說為障礙。汝可棄捨如是惡見。諸苾芻尼如是諫時。捨者善。若不捨者。乃至二三隨正應諫。隨正應教令捨是事。捨者善。若不捨者。波逸底迦。</lzh>
+If a bhikkhunī says: ‘I understand that in the dhamma taught by the Buddha desire is an obstruction. But when one practises it, it’s not an obstruction’, the bhikkhunīs should say to that bhikkhunī: ‘Long-lived one, don’t say this: “I understand that (in the dhamma) taught by the Buddha desire is an obstructive state. But when one practises it, it’s not an obstruction.” Don’t slander the World-honored One. Slandering the World-honored One isn’t wholesome. The World-honored One didn’t say this. The World-honored One has taught with innumerable approaches that states of desire are obstructions. Please abandon this wrong view.’ When the bhikkhunīs admonish her like this and she gives it up, it’s fine. If not, they should admonish her correctly a second and a third time. They should teach her correctly to make her give up this matter. If she gives it up, it’s fine. If not, it’s a pācittiya.
+
+
+<lzh>第五攝頌曰。</lzh>
+Recite the fifth summary verse:
+
+<lzh-verse>與惡見同宿　　求寂壞色衣
+捉寶洗傍生　　惱指水同宿</lzh-verse>
+<verse>Staying overnight with one of wrong view,
+Sāmaṇerī, staining the robe color,
+Taking a jewel, bathing, animal,
+Irritating, fingers, water, staying overnight together.</verse>
+
+<h3>Pācittiya 41</h3>
+
+<lzh>若復苾芻尼知如是語人。未為隨法不捨惡見。共為言說共住受用。同室而宿者。波逸底迦。</lzh>
+If a bhikkhunī knows that the person, who has spoken like this, hasn’t given up this wrong view according to dhamma yet, and she speaks with her, uses lives with her, and stays overnight in the same room with her, it’s a pācittiya.
+
+<h3>Pācittiya 42</h3>
+
+<lzh>若復苾芻尼見有求寂女。作如是語。我知佛所說法。欲是障礙者。習行之時非是障礙。諸苾芻尼應語彼求寂女言。汝莫作是語。我知佛所說。欲是障礙法者。習行之時非是障礙。汝莫謗世尊。謗世尊者不善。世尊不作是語。世尊以無量門。於諸欲法說為障礙。汝可棄捨如是惡見。諸苾芻尼語彼求寂女時。捨此事者善。若不捨者。乃至二三隨正應諫。隨正應教。令捨是事。捨者善。若不捨者。諸苾芻尼應語彼求寂女言。汝從今已去。不應說言。如來應正等覺是我大師。若有尊宿及同梵行者。不應隨行。如餘求寂女。得與苾芻尼二夜同宿。汝今無是事。汝愚癡人。可速滅去。若苾芻尼知是被擯求寂女而攝受饒益。同室宿者。波逸底迦。</lzh>
+If a bhikkhunī sees that there’s a sāmaṇerī who says: ‘I understand that in the dhamma spoken by the Buddha desire is an obstruction. But when one practises it, it’s not an obstruction’, the bhikkhunīs should say to that sāmaṇerī: ‘Don’t say this: “I understand that (in the dhamma) taught by the Buddha desire is an obstructive state. But when one practises it, it’s not an obstruction.” Don’t slander the World-honored One. Slandering the World-honored One isn’t wholesome. The World-honored One didn’t say this. The World-honored One has taught with innumerable approaches that states of desire are obstructions. Please abandon this wrong view.’ When the bhikkhunīs admonish that sāmaṇerī like this and she gives up this matter, it’s fine. If not, they should admonish her correctly a second and a third time. They should teach her correctly to make her give up this matter. If she gives it up, it’s fine. If not, the bhikkhunīs should say to that sāmaṇerī: ‘From now on, you shouldn’t say: “The Tathāgata, the perfectly enlightened one, is my Great Teacher.” If there are honored elders and fellow monastics, you shouldn’t follow them around. The other sāmaṇerīs may stay overnight together with the bhikkhunīs for two nights, but for you it’s now no more the case. You foolish person, please leave quickly.’ If a bhikkhunī knows that that sāmaṇerī has been expelled, and takes her in, helps her, and stays overnight in the same room with her, it’s a pācittiya.
+
+<h3>Pācittiya 43</h3>
+
+<lzh>若復苾芻尼得新衣。當作三種染壞色。若青若泥若赤。隨一而壞。若不作三種壞色而受用者。波逸底迦。</lzh>
+If a bhikkhunī obtains a new robe, she should make three kinds of dye to stain the color: blue-green, mud color, or red; one of these should be used to stain. If she doesn’t make these three kinds of colors to stain, and uses (the robe), it’s a pācittiya.
+
+<h3>Pācittiya 44</h3>
+
+<lzh>若復苾芻尼寶及寶類。若自捉若教人捉。除在寺內及白衣舍。波逸底迦。若在寺內及白衣舍。見寶及寶類。應作是念。然後當取。若有認者我當與之。此是時。</lzh>
+If a bhikkhunī takes a jewel or something similar to a jewel herself, or instructs others to take it, except in a monastery or in a lay house, it’s a pācittiya. If she sees a jewel or something similar to a jewel in a monastery or a lay house, she should think: ‘Later, someone will fetch it. If someone recognizes it, I’ll give it back’. This is the procedure.
+
+<h3>Pācittiya 45</h3>
+
+<lzh>若復苾芻尼半月應洗浴。故違而浴者。除餘時波逸底迦。餘時者。熱時病時。作時行時。風時雨時風雨時。此是時。</lzh>
+A bhikkhunī should bathe every half-month. If she intentionally breaks the rule and bathes (more often), except at a suitable time, it’s a pācittiya. These are the suitable times: when it’s hot, when she’s sick, working, traveling, when it’s windy, rainy, or windy and rainy. These are the times.
+
+<h3>Pācittiya 46</h3>
+
+<lzh>若復苾芻尼故斷傍生命者。波逸底迦。</lzh>
+If a bhikkhunī intentionally ends the life of an animal, it’s a pācittiya.
+
+<h3>Pācittiya 47</h3>
+
+<lzh>若復苾芻尼故惱他苾芻尼。乃至少時不樂。以此為緣者。波逸底迦。</lzh>
+If a bhikkhunī intentionally irritates another bhikkhunī, so that she’s unhappy even for a short time, for this reason, it’s a pācittiya.
+
+<h3>Pācittiya 48</h3>
+
+<lzh>若復苾芻尼以指擊攊他者。波逸底迦。</lzh>
+If a bhikkhunī tickles someone with the fingers, it’s a pācittiya.
+
+<h3>Pācittiya 49</h3>
+
+<lzh>若復苾芻尼水中戲者。波逸底迦。</lzh>
+If a bhikkhunī plays in the water, it’s a pācittiya.
+
+<h3>Pācittiya 50</h3>
+
+<lzh>若復苾芻尼共男子同室宿者。波逸底迦。</lzh>
+If a bhikkhunī stays overnight in the same room with a man, it’s a pācittiya.
+
+
+<lzh>第六攝頌曰。</lzh>
+Recite the sixth summary verse:
+
+<lzh-verse>怖藏瞋二道　　掘地四月請
+拒教竊聽言　　默然從座起</lzh-verse>
+<verse>Frightening, hiding, anger, two rules about roads,
+Digging earth, four-month invitation,
+Resisting instruction, secretly listening to speech,
+Silently rising from one’s seat.</verse>
+
+<h3>Pācittiya 51</h3>
+
+<lzh>若復苾芻尼若自恐怖。若教人恐怖他苾芻尼。下至戲笑者。波逸底迦。</lzh>
+If a bhikkhunī frightens another bhikkhunī herself, or instructs others to frighten her, even just for fun, it’s a pācittiya.
+
+<h3>Pācittiya 52</h3>
+
+<lzh>若復苾芻尼自藏苾芻苾芻尼。若正學女求寂求寂女衣鉢。及餘資具若教人藏者。除餘緣故。波逸底迦。</lzh>
+If a bhikkhunī herself hides a bhikkhu’s, bhikkhunī’s, sikkhamānā’s, sāmaṇera’s, or sāmaṇerī’s robe, bowl, or other requisite, or instructs others to hide them, unless there’s a suitable reason, it’s a pācittiya.
+
+<h3>Pācittiya 53</h3>
+
+<lzh>若復苾芻尼瞋恚故。知彼苾芻尼清淨無犯以無根僧伽伐尸沙法謗者。波逸底迦。</lzh>
+If a bhikkhunī knows that another bhikkhunī is pure and without offense, and out of anger slanders her with an unfounded saṅghādisesa offense, it’s a pācittiya.
+
+<h3>Pācittiya 54</h3>
+
+<lzh>若復苾芻尼共男子同道行。更無女人。乃至一村間者。波逸底迦。</lzh>
+If a bhikkhunī wanders on the same road together with a man, without a woman, even just within one village, it’s a pācittiya.
+
+<h3>Pācittiya 55</h3>
+
+<lzh>若復苾芻尼與賊商旅共同道行。乃至一村間者。波逸底迦。</lzh>
+If a bhikkhunī wanders on the same road with thiefs or traveling merchants, even just within one village, it’s a pācittiya.
+
+<h3>Pācittiya 56</h3>
+
+<lzh>若復苾芻尼自手掘地。若教人掘者。波逸底迦。</lzh>
+If a bhikkhunī digs the earth with her own hands, or instructs others to dig, it’s a pācittiya.
+
+<h3>Pācittiya 57</h3>
+
+<lzh>若復苾芻尼有四月請。須時應受。若過受者。除餘時。波逸底迦。餘時者。謂別請更請。慇懃請常請。此是時。</lzh>
+If a bhikkhunī has an invitation for four months to receive things whenever she needs something, and if she accepts things for longer, except at a suitable time, it’s a pācittiya. These are the suitable times: A personal invitation, a repeated invitation, an eager invitation, or a permanent invitation. These are the times.
+
+<h3>Pācittiya 58</h3>
+
+<lzh>若復苾芻尼聞諸苾芻尼作如是語。具壽。仁今當習如是學處。彼作是語。我實不能用。汝愚癡不分明不善解者。所說之言。受行學處。我若見餘善閑三藏。當隨彼言而受行者。波逸底迦。若苾芻尼實欲求解彼者。當問三藏。此是時。</lzh>
+If a bhikkhunī hears the bhikkhunīs say: ‘Long-lived one, you should now train in such-and-such a precept,’ and she says: ‘I really can’t apply this. You’re foolish, don’t distinguish clearly, and don’t understand well what was said about practising the precept. If I see others who are well learned in the three baskets, I’ll follow their advice and train’, it’s a pācittiya. If the bhikkhunī really wants and seeks to understand that, she should ask (knowers of) the three baskets. This is the procedure.
+
+<h3>Pācittiya 59</h3>
+
+<lzh>若復苾芻尼知餘苾芻尼評論事生求過紛擾諍競而住。默然往彼聽其所說。作如是念。我欲聽已。當令鬪亂。以此為緣者。波逸底迦。</lzh>
+If a bhikkhunī knows that other bhikkhunīs are discussing matters, seeking for transgressions, and abiding in turmoil and quarrels, and she silently goes there to listen to what they say, thinking: ‘After I’ve listened, I want to make them quarrel’, for this reason, it’s a pācittiya. 
+
+<h3>Pācittiya 60</h3>
+
+<lzh>若復苾芻尼知眾如法評論事時。默然從座起去。有苾芻尼不囑授者。除餘緣故。波逸底迦。</lzh>
+If a bhikkhunī knows that the sangha is discussing matters according to dhamma at that time, and silently rises from her seat, leaves, and doesn’t inform the other bhikkhunīs, unless there’s a suitable reason, it’s a pācittiya.
+
+
+<lzh>第七攝頌曰。</lzh>
+Recite the seventh summary verse:
+
+<lzh-verse>不恭敬飲酒　　入聚往餘家
+明相攝耳筒　　床足綿敷具</lzh-verse>
+<verse>Not showing respect, drinking alcohol,
+Entering a village, going to other houses,
+Dawn, lending an ear, a case,
+Bed legs, cotton down, sitting mat.</verse>
+
+<h3>Pācittiya 61</h3>
+
+<lzh>若復苾芻尼不恭敬者。波逸底迦。</lzh>
+If a bhikkhunī doesn’t show respect, it’s a pācittiya.
+
+<h3>Pācittiya 62</h3>
+
+<lzh>若復苾芻尼飲諸酒者。波逸底迦。</lzh>
+If a bhikkhunī drinks alcohol, it’s a pācittiya.
+
+<h3>Pācittiya 63</h3>
+
+<lzh>若復苾芻尼非時入聚落。不囑餘苾芻尼。除餘緣。故波逸底迦。</lzh>
+If a bhikkhunī enters a village at the wrong time without informing another bhikkhunī, unless there’s a suitable reason, it’s a pācittiya.
+
+<h3>Pācittiya 64</h3>
+
+<lzh>若復苾芻尼受食家請。食前食後行詣餘家。不囑授者。波逸底迦。</lzh>
+If a bhikkhunī accepts an invitation for a meal at a house, and before or after the meal she goes to other houses without informing them, it’s a pācittiya.
+
+<h3>Pācittiya 65</h3>
+
+<lzh>若復苾芻尼明相未出。剎帝利灌頂王未藏寶及寶類。若入過宮門閫者。除餘緣故波逸底迦。</lzh>
+If a bhikkhunī, when it’s not dawn yet, and the head-anointed khattiya king hasn’t hidden the jewels and things similar to jewels yet, enters and crosses the palace doorsill, unless there’s a suitable reason, it’s a pācittiya. 
+
+<h3>Pācittiya 66</h3>
+
+<lzh>若復苾芻尼半月半月說戒經時。作如是語。具壽。我今始知。是法戒經中說。諸苾芻尼知是苾芻尼。若二若三同作長淨。況復過此。應語彼言。具壽。非不知故得免其罪。汝所犯罪應如法說悔。當勸喻言。具壽。此法希奇難可逢遇。汝說戒時。不恭敬不住心。不慇重不作意。不一想不攝耳。不策念而聽法者。波逸底迦。</lzh>
+If a bhikkhunī, when the precepts sutta is being recited every half-month, says: ‘Long-lived ones, I’ve now only realized that this rule is recited in the precepts sutta’, and the bhikkhunīs know that that bhikkhunī has already done the uposatha with them two or three times, let alone more often, they should say to her: ‘Long-lived one, you don’t get an exemption from that offense because of not knowing. Whatever offense you’ve commited, you should confess according to dhamma.’ They should exhort her like this: ‘Long-lived one, this dhamma is rare, and very difficult to encounter. When the precepts are being recited, you don’t respect them, don’t direct your mind, are not eager, don’t pay attention, are not focused, don’t lend an ear, and don’t exert your attention to hear the dhamma.’ This is a pācittiya.
+
+<h3>Pācittiya 67</h3>
+
+<lzh>若復苾芻尼用骨牙角。作針筒成者。應打碎。波逸底迦。</lzh>
+If a bhikkhunī uses bone, ivory, or horn to make a needle case, when it’s finished it should be broken, and it’s a pācittiya.
+
+<h3>Pācittiya 68</h3>
+
+<lzh>若復苾芻尼作大木床足。應高佛八指。除入梐木。若過者。應截去。波逸底迦。</lzh>
+If a bhikkhunī makes a large wooden bed, the legs should be eight fingerbreadths of the Buddha in height, without the part that’s inserted in the wood of the frame. If she makes them higher, they should be cut off, and it’s a pācittiya.
+
+<h3>Pācittiya 69</h3>
+
+<lzh>若復苾芻尼以草木綿貯僧床座者。應撤去。波逸底迦。</lzh>
+If a bhikkhunī stuffs the sangha’s beds and seats with grass, wood, or cotton down, it should be taken out, and it’s a pācittiya.
+
+<h3>Pācittiya 70</h3>
+
+<lzh>若復苾芻尼作尼師但那。當應量作。是中量者。長佛二張手。廣一張手半長廣中。更增一張手。若過作者。應截去。波逸底迦。</lzh>
+If a bhikkhunī makes a sitting mat, it should be made according to the measurements. These are the measurements: two handspans of the Buddha in length, 1.5 handspans in width. To the length and the width, one handspan should be added. If she makes it larger, it should be cut off, and it’s a pācittiya.
+
+
+<lzh>第八攝頌曰。</lzh>
+Recite the eighth summary verse:
+
+<lzh-verse>覆瘡佛衣量　　蒜剃洗手拍
+自煮食水灑　　生草棄牆外</lzh-verse>
+<verse>Wound-covering, the Buddha’s robe measurements,　　
+Garlic, shaving, washing, patting with the hand,
+Cooking food oneself, sprinkling water,
+Fresh grass, throwing over a wall.</verse>
+
+<h3>Pācittiya 71</h3>
+
+<lzh>若復苾芻尼作覆瘡衣。當應量作。是中量者。長佛四張手。廣二張手。若過作者。應截去。波逸底迦。</lzh>
+If a bhikkhunī makes a wound-covering cloth, it should be made according to the measurements. These are the measurements: four handspans of the Buddha in length, two handspans in width. If she makes it larger, it should be cut off, and it’s a pācittiya.
+
+<h3>Pācittiya 72</h3>
+
+<lzh>若復苾芻尼同佛衣量作衣。或復過者。波逸底迦。是中佛衣量者。長佛十張手。廣六張手。此是佛衣量。</lzh>
+If a bhikkhunī makes a robe according to the Buddha’s robe measurements or larger, it’s a pācittiya. These are the Buddha’s robe measurements: 10 handspans of the Buddha in length, six handspans in width. These are the Buddha’s robe measurements.
+
+<h3>Pācittiya 73</h3>
+
+<lzh>若復苾芻尼噉蒜者。波逸底迦。</lzh>
+If a bhikkhunī eats garlic, it’s a pācittiya.
+
+<h3>Pācittiya 74</h3>
+
+<lzh>若復苾芻尼剃隱處毛者。波逸底迦。</lzh>
+If a bhikkhunī shaves the hair in the hidden place, it’s a pācittiya.
+
+<h3>Pācittiya 75</h3>
+
+<lzh>若復苾芻尼若洗淨時。應齊二指節。若過者。波逸底迦。</lzh>
+If a bhikkhunī washes herself, she should limit it to two finger joints. If she exceeds that, it’s a pācittiya.
+
+<h3>Pācittiya 76</h3>
+
+<lzh>若復苾芻尼以手拍隱處者。波逸底迦。</lzh>
+If a bhikkhunī pats the hidden place with her hand, it’s a pācittiya.
+
+<h3>Pācittiya 77</h3>
+
+<lzh>若復苾芻尼自手煮生食者。波逸底迦。</lzh>
+If a bhikkhunī cooks fresh food with her own hands, it’s a pācittiya.
+
+<h3>Pācittiya 78</h3>
+
+<lzh>若復苾芻尼以水灑上眾者。波逸底迦。</lzh>
+If a bhikkhunī sprinkles water on a senior monastic, it’s a pācittiya.
+
+<h3>Pācittiya 79</h3>
+
+<lzh>若復苾芻尼在生草上。大小便洟唾者。波逸底迦。</lzh>
+If a bhikkhunī defecates, urinates, drops snot, or spits on fresh grass, it’s a pācittiya.
+
+<h3>Pācittiya 80</h3>
+
+<lzh>若復苾芻尼不善觀察。以不淨棄牆外者。波逸底迦。</lzh>
+If a bhikkhunī, without investigating properly, just throws excrements over a wall, it’s a pācittiya.
+
+
+<lzh>第九攝頌曰。</lzh>
+Recite the ninth summary verse:
+
+<lzh-verse>為獨有五種　　由耳語有四
+若懷瞋恚心　　椎胸皆不合</lzh-verse>
+<verse>Five rules about being alone,
+Four about whispering into the ear,
+If the mind is angry,
+Beating the chest when in disharmony with all.</verse>
+
+<h3>Pācittiya 81</h3>
+
+<lzh>若復苾芻尼獨與男子在屏處立者。波逸底迦。</lzh>
+If a bhikkhunī stands alone with a man in a secluded place, it’s a pācittiya.
+
+<h3>Pācittiya 82</h3>
+
+<lzh>若復苾芻尼獨與苾芻在屏處立者。波逸底迦。</lzh>
+If a bhikkhunī stands alone with a bhikkhu in a secluded place, it’s a pācittiya.
+
+<h3>Pācittiya 83</h3>
+
+<lzh>若復苾芻尼獨與男子在露處立者。波逸底迦。</lzh>
+If a bhikkhunī stands alone with a man outdoors, it’s a pācittiya.
+
+<h3>Pācittiya 84</h3>
+
+<lzh>若復苾芻尼獨與苾芻在露處立者。波逸底迦。</lzh>
+If a bhikkhunī stands alone with a bhikkhu outdoors, it’s a pācittiya.
+
+<h3>Pācittiya 85</h3>
+
+<lzh>若復苾芻尼獨住一房者。波逸底迦。</lzh>
+If a bhikkhunī stays alone in a room, it’s a pācittiya.
+
+<h3>Pācittiya 86</h3>
+
+<lzh>若復苾芻尼共男子耳語者。波逸底迦。</lzh>
+If a bhikkhunī whispers into a man’s ear, it’s a pācittiya.
+
+<h3>Pācittiya 87</h3>
+
+<lzh>若復苾芻尼受男子耳語者。波逸底迦。</lzh>
+If a bhikkhunī lets a man whisper into her ear, it’s a pācittiya.
+
+<h3>Pācittiya 88</h3>
+
+<lzh>若復苾芻尼共苾芻耳語者。波逸底迦。</lzh>
+If a bhikkhunī whispers into a bhikkhu’s ear, it’s a pācittiya.
+
+<h3>Pācittiya 89</h3>
+
+<lzh>若復苾芻尼受苾芻耳語者。波逸底迦。</lzh>
+If a bhikkhunī lets a bhikkhu whisper into her ear, it’s a pācittiya.
+
+<h3>Pācittiya 90</h3>
+
+<lzh>若復苾芻尼瞋恚故。便自椎胸生苦痛者波逸底迦。</lzh>
+If a bhikkhunī out of anger beats her own chest and gives rise to pain, it’s a pācittiya.
+
+
+<lzh>第十攝頌曰。</lzh>
+Recite the 10th summary verse:
+
+<lzh-verse>呪誓不觀事　　坐床以樹膠
+在四白衣家　　看病不同臥</lzh-verse>
+<verse>Cursing, not investigating a matter,
+Sitting on a bed, made of tree gum,
+Four rules about lay houses,
+Looking after the sick, not lying down together.</verse>
+
+<h3>Pācittiya 91</h3>
+
+<lzh>若復苾芻尼以自梵行而為呪誓者。波逸底迦。</lzh>
+If a bhikkhunī curses her own monastic life, it’s a pācittiya.
+
+<h3>Pācittiya 92</h3>
+
+<lzh>若復苾芻尼不善觀事而詰他者。波逸底迦。</lzh>
+If a bhikkhunī doesn’t thoroughly investigate a matter, and reproves others, it’s a pācittiya.
+
+<h3>Pācittiya 93</h3>
+
+<lzh>若復苾芻尼於屏闇處。不觀床座而坐臥者。波逸底迦。</lzh>
+If a bhikkhunī, in a secluded, dark place, sits or lies on a bed or seat without investigating, it’s a pācittiya.
+
+<h3>Pācittiya 94</h3>
+
+<lzh>若復苾芻尼以樹膠作生支者。波逸底迦。</lzh>
+If a bhikkhunī makes a dildo out of tree gum, it’s a pācittiya.
+
+<h3>Pācittiya 95</h3>
+
+<lzh>若復苾芻尼在白衣家說法去時。不囑授家主收攝臥具者。波逸底迦。</lzh>
+If a bhikkhunī speaks on the dhamma in a lay house, and when leaving doesn’t inform the owner to collect the bedding, it’s a pācittiya.
+
+<h3>Pācittiya 96</h3>
+
+<lzh>若復苾芻尼在白衣家主人未許。於床座上輒坐者。波逸底迦。</lzh>
+If a bhikkhunī just sits on a bed or seat in a lay house when the owner hasn’t allowed it yet, it’s a pācittiya.
+
+<h3>Pācittiya 97</h3>
+
+<lzh>若復苾芻尼在白衣家。不問主人輒坐者。波逸底迦。</lzh>
+If a bhikkhunī just sits down in a lay house without asking the owner, it’s a pācittiya.<note>The vibhaṅga says: If a bhikkhunī just stays overnight in a lay house without asking the owner, it’s a pācittiya.</note>
+
+<h3>Pācittiya 98</h3>
+
+<lzh>若復苾芻尼知苾芻尼先在白衣家。後來令他去者。波逸底迦。</lzh>
+If a bhikkhunī knows that another bhikkhunī has been staying at a lay house first, and she arrives later and makes her leave, it’s a pācittiya.
+
+<h3>Pācittiya 99</h3>
+
+<lzh>若復苾芻尼於親弟子及依止弟子。見有病患不瞻侍者。波逸底迦。</lzh>
+If a bhikkhunī sees that the students close to her and the students depending on her are sick, and doesn’t take care of them, it’s a pācittiya.
+
+<h3>Pācittiya 100</h3>
+
+<lzh>若復苾芻尼二尼同一床臥者。波逸底迦。</lzh>
+If two bhikkhunīs lie down together on one bed, it’s a pācittiya.
+
+
+<lzh>第十一攝頌曰。</lzh>
+Recite the 11th summary verse:
+
+<lzh-verse>二安居二怖　　天祠未滿年
+畜眾二嫁人　　僧未與無限</lzh-verse>
+<verse>Two rules about the rains retreat, two about danger,
+Deva temples, not enough vassa,
+Taking on students, two rules about married women,
+The sangha hasn’t given (allowance) without limit yet.</verse>
+
+<h3>Pācittiya 101</h3>
+
+<lzh>若復苾芻尼夏安居未為。隨意人間遊行者。波逸底迦。</lzh>
+If a bhikkhunī, during the rains retreat before the invitation ceremony, wanders among the people, it’s a pācittiya.
+
+<h3>Pācittiya 102</h3>
+
+<lzh>若復苾芻尼夏安居。滿不離舊處人間遊行者。波逸底迦。</lzh>
+If a bhikkhunī, when the rains retreat is over, doesn’t leave her old place and wander among the people, it’s a pācittiya.
+
+<h3>Pācittiya 103</h3>
+
+<lzh>若復苾芻尼知王國中有賊怖處。而遊行者。波逸底迦。</lzh>
+If a bhikkhunī knows that there are criminals in a dangerous place between kingdoms, and wanders there, it’s a pācittiya.
+
+<h3>Pācittiya 104</h3>
+
+<lzh>若復苾芻尼知彼處所有虎狼師子怖。而遊行者。波逸底迦。</lzh>
+If a bhikkhunī knows that in a place there are dangers from tigers, wolves or lions, and wanders there, it’s a pācittiya.
+
+<h3>Pācittiya 105</h3>
+
+<lzh>若復苾芻尼往天祠中作論議者。波逸底迦。</lzh>
+If a bhikkhunī goes to a deva temple to engage in debates, it’s a pācittiya.
+
+<h3>Pācittiya 106</h3>
+
+<lzh>若復苾芻尼未滿十二歲。與他出家受近圓者。波逸底迦。</lzh>
+If a bhikkhunī, who doesn’t have 12 vassa yet, gives others the going forth and the full ordination, it’s a pācittiya.
+
+<h3>Pācittiya 107</h3>
+
+<lzh>若復苾芻尼僧伽未與畜眾法。輒畜弟子者。波逸底迦。</lzh>
+If a bhikkhunī just takes on students when the sangha hasn’t carried out the procedure for taking on students yet, it’s a pācittiya.
+
+<h3>Pācittiya 108</h3>
+
+<lzh>若復苾芻尼知曾嫁女人年未滿十二。與出家者。波逸底迦。</lzh>
+If a bhikkhunī knows that a married woman isn’t 12 years old yet, and gives her the going forth, it’s a pācittiya.
+
+<h3>Pācittiya 109</h3>
+
+<lzh>若復苾芻尼知曾嫁女人年滿十二。不與正學法而受近圓者。波逸底迦。</lzh>
+If a bhikkhunī knows that a married woman is 12 years old, and gives her the full ordination without giving her the sikkhamānā rules, it’s a pācittiya.
+
+<h3>Pācittiya 110</h3>
+
+<lzh>若復苾芻尼僧伽未與無限畜眾法。輒多畜者。波逸底迦。</lzh>
+If a bhikkhunī just takes on many people, when the sangha hasn’t carried out the procedure for taking on students without limit yet, it’s a pācittiya.
+
+
+<lzh>第十二攝頌曰。</lzh>
+Recite the 12th summary verse:
+
+<lzh-verse>度娠不教誡　　不護不隨身
+二童女惡人　　多憂二六法</lzh-verse>
+<verse>Ordaining a pregnant woman, not teaching,
+Not protecting, not taking away,
+Two rules about girls, a bad person,
+Excessively grieving, two about the six rules.</verse>
+
+<h3>Pācittiya 111</h3>
+
+<lzh>若復苾芻尼度有娠女人出家者。波逸底迦。</lzh>
+If a bhikkhunī gives the going forth to a pregnant woman, it’s a pācittiya.
+
+<h3>Pācittiya 112</h3>
+
+<lzh>若復苾芻尼與他出家。并受近圓不教誡者。波逸底迦。</lzh>
+If a bhikkhunī gives someone the going forth and the full ordination, and doesn’t teach her, it’s a pācittiya.<note> The vibhaṅga says: If a bhikkhunī gives someone the going forth and the full ordination, and doesn’t teach her the precepts, it’s a pācittiya.</note>
+
+<h3>Pācittiya 113</h3>
+
+<lzh>若復苾芻尼與他出家。并受近圓。不攝受衛護者。波逸底迦。</lzh>
+If a bhikkhunī gives someone the going forth and the full ordination, and doesn’t support and protect her, it’s a pācittiya.
+
+<h3>Pācittiya 114</h3>
+
+<lzh>若復苾芻尼與他出家。不將隨身去者。波逸底迦。</lzh>
+If a bhikkhunī gives someone the going forth and doesn’t take her away with her, it’s a pācittiya.
+
+<h3>Pācittiya 115</h3>
+
+<lzh>若復苾芻尼知童女年未滿二十。與受近圓者。波逸底迦。</lzh>
+If a bhikkhunī knows that a girl isn’t 20 yet, and gives her the full ordination, it’s a pācittiya.
+
+<h3>Pācittiya 116</h3>
+
+<lzh>若復苾芻尼知童女年滿二十。不與二歲學六法六隨法。即受近圓者。波逸底迦。</lzh>
+If a bhikkhunī knows that a girl is 20, doesn’t give her the two-year training in the six rules and the six supplementary rules, and just gives her the full ordination, it’s a pācittiya.
+
+<h3>Pācittiya 117</h3>
+
+<lzh>若復苾芻尼知惡性女人好為鬪諍。與出家者。波逸底迦。</lzh>
+If a bhikkhunī knows that a woman has a bad character and enjoys quarreling, and gives her the going forth, it’s a pācittiya.<note> The vibhaṅga adds: and the full ordination.</note>
+
+<h3>Pācittiya 118</h3>
+
+<lzh>若復苾芻尼知多憂惱女人度出家者。波逸底迦。</lzh>
+If a bhikkhunī knows that a woman is excessively grieving, and gives her the going forth, it’s a pācittiya.
+
+<h3>Pācittiya 119</h3>
+
+<lzh>若復苾芻尼知女人未滿二歲學六法六隨法。與受近圓者。波逸底迦。</lzh>
+If a bhikkhunī knows that a woman hasn’t completed the two-year training in the six rules and the six supplementary rules yet, and gives her the full ordination, it’s a pācittiya.
+
+<h3>Pācittiya 120</h3>
+
+<lzh>若復苾芻尼知女人二歲。學六法及六隨法了。不與受近圓者。波逸底迦。</lzh>
+If a bhikkhunī knows that a woman has completed the two-year training in the six rules and the six supplementary rules, and doesn’t give her the full ordination, it’s a pācittiya.
+
+
+<lzh>第十三攝頌曰。</lzh>
+Recite the 13th summary verse:
+
+<lzh-verse>未放與我衣　　收斂年年受
+欲半月無僧　　安居隨意責</lzh-verse>
+<verse>Not released, ‘Give me a robe’,
+Relinquishing, accepting every year,
+Consent, half-month, without monks,
+Rains retreat, invitation ceremony, scolding.</verse>
+
+<h3>Pācittiya 121</h3>
+
+<lzh>若復苾芻尼知他婦女夫主未放。度出家者。波逸底迦。</lzh>
+If a bhikkhunī knows that a woman’s husband hasn’t released her yet, and gives her the going forth, it’s a pācittiya.
+
+<h3>Pācittiya 122</h3>
+
+<lzh>若復苾芻尼知彼女人希受近圓。告云汝與我衣。當授汝近圓者。波逸底迦。</lzh>
+If a bhikkhunī knows that a woman hopes to receive the full ordination and tells her: ‘If you give me a robe, I’ll give you the full ordination’, it’s a pācittiya.
+
+<h3>Pācittiya 123</h3>
+
+<lzh>若復苾芻尼報俗女云。汝應收斂家業。我當與汝出家。如教作訖。不度出家者。波逸底迦。</lzh>
+If a bhikkhunī tells a lay woman: ‘You should relinquish your family property. I’ll give you the going forth’, and if when (the woman) has acted according to her instructions, she doesn’t give her the going forth, it’s a pācittiya.
+
+<h3>Pācittiya 124</h3>
+
+<lzh>若復苾芻尼於每年中。與他出家及受近圓者。波逸底迦。</lzh>
+If a bhikkhunī gives the going forth and the full ordination to someone every year, it’s a pācittiya.
+
+<h3>Pācittiya 125</h3>
+
+<lzh>若復苾芻尼經宿與欲者。波逸底迦。</lzh>
+If a bhikkhunī gives consent the previous day, it’s a pācittiya.
+
+<h3>Pācittiya 126</h3>
+
+<lzh>若復苾芻尼半月半月應求教授。若不求者。波逸底迦。</lzh>
+A bhikkhunī should ask for instruction every half-month. If she doesn’t ask, it’s a pācittiya.
+
+<h3>Pācittiya 127</h3>
+
+<lzh>若復苾芻尼無苾芻處作長淨者。波逸底迦。</lzh>
+If a bhikkhunī carries out the uposatha in a place without bhikkhus, it’s a pācittiya.
+
+<h3>Pācittiya 128</h3>
+
+<lzh>若復苾芻尼無苾芻處作安居者。波逸底迦。</lzh>
+If a bhikkhunī spends the rains retreat in a place without bhikkhus, it’s a pācittiya.
+
+<h3>Pācittiya 129</h3>
+
+<lzh>若復苾芻尼安居了。不於二部眾中。以三事作隨意者。波逸底迦。</lzh>
+If a bhikkhunī, when the rains retreat is finished, doesn’t carry out the invitation ceremony with both sanghas regarding the three things, it’s a pācittiya.
+
+<h3>Pācittiya 130</h3>
+
+<lzh>若復苾芻尼訶責眾者。波逸底迦。</lzh>
+If a bhikkhunī criticizes the sangha, it’s a pācittiya.
+
+
+<lzh>第十四攝頌曰。</lzh>
+Recite the 14th summary verse:
+
+<lzh-verse>罵眾五種慳　　讚家寺食法
+更食給孩子　　洗裙令浣衣</lzh-verse>
+<verse>Abusing the sangha, five rules on being stingy:
+Praise, families, monasteries, food, and dhamma,
+Eating again, caring for children,
+Bathing skirt, having someone wash a robe.</verse>
+
+<h3>Pācittiya 131</h3>
+
+<lzh>若復苾芻尼罵眾者。波逸底迦。</lzh>
+If a bhikkhunī abuses the sangha, it’s a pācittiya.
+
+<h3>Pācittiya 132</h3>
+
+<lzh>若復苾芻尼見讚歎他起慳嫉心者。波逸底迦。</lzh>
+If a bhikkhunī sees someone else being praised, and gets jealous, it’s a pācittiya.
+
+<h3>Pācittiya 133</h3>
+
+<lzh>若復苾芻尼於家慳者。波逸底迦。</lzh>
+If a bhikkhunī is stingy with families, it’s a pācittiya.
+
+<h3>Pācittiya 134</h3>
+
+<lzh>若復苾芻尼於寺慳者。波逸底迦。</lzh>
+If a bhikkhunī is stingy with monasteries, it’s a pācittiya.
+
+<h3>Pācittiya 135</h3>
+
+<lzh>若復苾芻尼於利養飲食慳者。波逸底迦。</lzh>
+If a bhikkhunī is stingy with offerings, drinks, and food, it’s a pācittiya.
+
+<h3>Pācittiya 136</h3>
+
+<lzh>若復苾芻尼慳法者。波逸底迦。</lzh>
+If a bhikkhunī is stingy with the dhamma, it’s a pācittiya.
+
+<h3>Pācittiya 137</h3>
+
+<lzh>若復苾芻尼食竟更食者。波逸底迦。</lzh>
+If a bhikkhunī eats again after having eaten, it’s a pācittiya.
+
+<h3>Pācittiya 138</h3>
+
+<lzh>若復苾芻尼給養他孩兒者。波逸底迦。</lzh>
+If a bhikkhunī cares for someone else’s child, it’s a pācittiya.
+
+<h3>Pācittiya 139</h3>
+
+<lzh>若復苾芻尼不畜洗裙者。波逸底迦。</lzh>
+If a bhikkhunī doesn’t keep a bathing skirt, it’s a pācittiya.
+
+<h3>Pācittiya 140</h3>
+
+<lzh>若復苾芻尼令浣衣人洗衣者。波逸底迦。</lzh>
+If a bhikkhunī has a washer wash a robe, it’s a pācittiya.
+
+
+<lzh>第十五攝頌曰。</lzh>
+Recite the 15th summary verse:
+
+<lzh-verse>上眾沙門衣　　二病衣從乞
+不共出不分　　鬪不囑學呪</lzh-verse>
+<verse>Senior monastic, a renunciate’s robe,
+Two rules about menstrual robes, asking from someone,
+Not removing together, not distributing,
+Quarreling, not informing, learning magic.</verse>
+
+<h3>Pācittiya 141</h3>
+
+<lzh>若復苾芻尼共上眾換衣者。波逸底迦。</lzh>
+If a bhikkhunī exchanges a robe with a more senior monastic, it’s a pācittiya.
+
+<h3>Pācittiya 142</h3>
+
+<lzh>若復苾芻尼輒將沙門法衣與俗人者。波逸底迦。</lzh>
+If a bhikkhunī just gives a renunciate’s dhamma robe to a lay person, it’s a pācittiya.
+
+<h3>Pācittiya 143</h3>
+
+<lzh>若復苾芻尼不畜病衣者。波逸底迦。</lzh>
+If a bhikkhunī doesn’t keep a menstrual robe, it’s a pācittiya.
+
+<h3>Pācittiya 144</h3>
+
+<lzh>若復苾芻尼大眾病衣將私用者。波逸底迦。</lzh>
+If a bhikkhunī privately uses the sangha’s menstrual robe, it’s a pācittiya.
+
+<h3>Pācittiya 145</h3>
+
+<lzh>若復苾芻尼知是貧人。從乞羯恥那衣者。波逸底迦。</lzh>
+If a bhikkhunī knows that someone is poor, and asks them for the kaṭhina robe, it’s a pācittiya.
+
+<h3>Pācittiya 146</h3>
+
+<lzh>若復苾芻尼不共出羯恥那衣者。波逸底迦。</lzh>
+If a bhikkhunī doesn’t remove the kaṭhina robe together with the others, it’s a pācittiya.
+
+<h3>Pācittiya 147</h3>
+
+<lzh>若復苾芻尼不共他分衣者。波逸底迦。</lzh>
+If a bhikkhunī doesn’t distribute robes together with the others, it’s a pācittiya.
+
+<h3>Pācittiya 148</h3>
+
+<lzh>若復苾芻尼自知有力。見他尼鬪不勸止息者。波逸底迦。</lzh>
+If a bhikkhunī knows she has the ability, sees other bhikkhunīs quarrel, and doesn’t advise them to end it, it’s a pācittiya.
+
+<h3>Pācittiya 149</h3>
+
+<lzh>若復苾芻尼棄住處不囑授者。波逸底迦。</lzh>
+If a bhikkhunī departs from her residence and doesn’t inform anyone, it’s a pācittiya.
+
+<h3>Pācittiya 150</h3>
+
+<lzh>若復苾芻尼從俗人受學呪法者。波逸底迦。</lzh>
+If a bhikkhunī learns magic arts from a lay person, it’s a pācittiya.
+
+
+<lzh>第十六攝頌曰。</lzh>
+Recite the 16th summary verse:
+
+<lzh-verse>教呪法賣麨　　營理使他尼
+撚縷織蓋行　　鞋瘡度婬女</lzh-verse>
+<verse>Teaching magic arts, selling flour,
+Chores, making other bhikkhunīs (work),
+Spinning thread, weaving, walking with an umbrella,
+Shoes, wound, ordaining a prostitute.</verse>
+
+<h3>Pācittiya 151</h3>
+
+<lzh>若復苾芻尼教俗人呪法者。波逸底迦。</lzh>
+If a bhikkhunī teaches magic arts to a lay person, it’s a pācittiya.
+
+<h3>Pācittiya 152</h3>
+
+<lzh>若復苾芻尼賣麨食者。波逸底迦。</lzh>
+If a bhikkhunī sells flour to eat, it’s a pācittiya.
+
+<h3>Pācittiya 153</h3>
+
+<lzh>若復苾芻尼營理俗人家務者。波逸底迦。</lzh>
+If a bhikkhunī does household chores for lay people, it’s a pācittiya.
+
+<h3>Pācittiya 154</h3>
+
+<lzh>若復苾芻尼令他諸尼移轉坐床勞倦者。波逸底迦。</lzh>
+If a bhikkhunī has other bhikkhunīs move seats and beds around, and makes them exhausted, it’s a pācittiya.
+
+<h3>Pācittiya 155</h3>
+
+<lzh>若復苾芻尼自手撚縷者。波逸底迦。</lzh>
+If a bhikkhunī spins thread with her own hands, it’s a pācittiya.
+
+<h3>Pācittiya 156</h3>
+
+<lzh>若復苾芻尼自織絡者。波逸底迦。</lzh>
+If a bhikkhunī weaves herself, it’s a pācittiya.
+
+<h3>Pācittiya 157</h3>
+
+<lzh>若復苾芻尼持傘蓋行者。波逸底迦。</lzh>
+If a bhikkhunī walks around holding an umbrella, it’s a pācittiya.
+
+<h3>Pācittiya 158</h3>
+
+<lzh>若復苾芻尼著彩色鞋履者。波逸底迦。</lzh>
+If a bhikkhunī wears colorful shoes, it’s a pācittiya.
+
+<h3>Pācittiya 159</h3>
+
+<lzh>若復苾芻尼臂上有瘡。令他數解數繫者。波逸底迦。</lzh>
+If a bhikkhunī has a wound on her arm, and makes someone wrap and unwrap it repeatedly, it’s a pācittiya.
+
+<h3>Pācittiya 160</h3>
+
+<lzh>若復苾芻尼度婬女出家者。波逸底迦。</lzh>
+If a bhikkhunī gives the going forth to a prostitute, it’s a pācittiya.
+
+
+<lzh>第十七攝頌曰。</lzh>
+Recite the 17th summary verse:
+
+<lzh-verse>尼不許揩身　　約人有五別
+香及胡麻水　　輒問俗莊嚴</lzh-verse>
+<verse>A bhikkhunī may not massage her body:
+Five rules about different people,
+Perfume, sesame, and water (massage),
+Just asking, worldly adornments.</verse>
+
+<h3>Pācittiya 161</h3>
+
+<lzh>若復苾芻尼使苾芻尼令揩身者。波逸底迦。</lzh>
+If a bhikkhunī has another bhikkhunī massage her body, it’s a pācittiya.
+
+<h3>Pācittiya 162</h3>
+
+<lzh>若復苾芻尼令式叉摩拏女揩身者。波逸底迦。</lzh>
+If a bhikkhunī has a sikkhamānā massage her body, it’s a pācittiya.
+
+<h3>Pācittiya 163</h3>
+
+<lzh>若復苾芻尼使求寂女揩身者。波逸底迦。</lzh>
+If a bhikkhunī has a sāmaṇerī massage her body, it’s a pācittiya.
+
+<h3>Pācittiya 164</h3>
+
+<lzh>若復苾芻尼使俗女揩身者。波逸底迦。</lzh>
+If a bhikkhunī has a lay woman massage her body, it’s a pācittiya.
+
+<h3>Pācittiya 165</h3>
+
+<lzh>若復苾芻尼使外道女揩身者。波逸底迦。</lzh>
+If a bhikkhunī has a non-Buddhist renunciate woman massage her body, it’s a pācittiya.
+
+<h3>Pācittiya 166</h3>
+
+<lzh>若復苾芻尼以香塗身者。波逸底迦。</lzh>
+If a bhikkhunī applies perfume to her body, it’s a pācittiya.
+
+<h3>Pācittiya 167</h3>
+
+<lzh>若復苾芻尼以胡麻滓揩身者。波逸底迦。</lzh>
+If a bhikkhunī applies sesame dregs to her body, it’s a pācittiya.
+
+<h3>Pācittiya 168</h3>
+
+<lzh>若復苾芻尼使他以水揩身者。波逸底迦。</lzh>
+If a bhikkhunī has someone massage her body with water, it’s a pācittiya.
+
+<h3>Pācittiya 169</h3>
+
+<lzh>若復苾芻尼不求容許輒請問者。波逸底迦。</lzh>
+If a bhikkhunī just asks a question without requesting permission, it’s a pācittiya.
+
+<h3>Pācittiya 170</h3>
+
+<lzh>若復苾芻尼著俗莊嚴具者。波逸底迦。</lzh>
+If a bhikkhunī wears worldly adornments, it’s a pācittiya.
+
+
+<lzh>第十八攝頌曰。</lzh>
+Recite the 18th summary verse:
+
+<lzh-verse>相牽舞歌樂　　獨出大小行
+刷篦梳三假　　墮罪百八十</lzh-verse>
+<verse>Leading another, dancing, singing, music,
+Going out alone to defecate or urinate,
+Brush, fine comb, coarse comb, three, a wig,
+The 180 pācittiya offenses.</verse>
+
+<h3>Pācittiya 171</h3>
+
+<lzh>若復苾芻尼以手相牽河中洗浴者。波逸底迦。</lzh>
+If a bhikkhunī leads another by the hand while bathing in a river, it’s a pācittiya.
+
+<h3>Pācittiya 172</h3>
+
+<lzh>若復苾芻尼自作舞教他作舞者。波逸底迦。</lzh>
+If a bhikkhunī dances herself, or teaches others to dance, it’s a pācittiya.
+
+<h3>Pācittiya 173</h3>
+
+<lzh>若復苾芻尼唱歌者。波逸底迦。</lzh>
+If a bhikkhunī sings songs, it’s a pācittiya.
+
+<h3>Pācittiya 174</h3>
+
+<lzh>若復苾芻尼作樂者。波逸底迦。</lzh>
+If a bhikkhunī makes music, it’s a pācittiya.
+
+<h3>Pācittiya 175</h3>
+
+<lzh>若復苾芻尼獨出寺外。於空宅內大小行者。波逸底迦。</lzh>
+If a bhikkhunī leaves the monastery alone and defecates and urinates in an empty dwelling, it’s a pācittiya.
+
+<h3>Pācittiya 176</h3>
+
+<lzh>若復苾芻尼畜香草根刷者。波逸底迦。</lzh>
+If a bhikkhunī keeps a brush made of the roots of aromatic herbs, it’s a pācittiya.
+
+<h3>Pācittiya 177</h3>
+
+<lzh>若復苾芻尼畜細篦者。波逸底迦。</lzh>
+If a bhikkhunī keeps a fine comb, it’s a pācittiya.
+
+<h3>Pācittiya 178</h3>
+
+<lzh>若復苾芻尼畜麁梳者。波逸底迦。</lzh>
+If a bhikkhunī keeps a coarse comb, it’s a pācittiya.
+
+<h3>Pācittiya 179</h3>
+
+<lzh>若復苾芻尼用前三事者。波逸底迦。</lzh>
+If a bhikkhunī uses the things of the three previous rules, it’s a pācittiya.
+
+<h3>Pācittiya 180</h3>
+
+<lzh>若復苾芻尼畜假髻莊具者。波逸底迦。</lzh>
+If a bhikkhunī keeps a wig adornment, it’s a pācittiya.
+
+
+<lzh>諸大德。我已說一百八十波逸底迦法。今問。諸大德。是中清淨不(如是三說)。諸大德。是中清淨默然故。我今如是持。</lzh>
+Venerables, I’ve recited the 180 pācittiya rules. Now I ask the venerables: ‘Are you pure herein?’ (Repeat three times.) The venerables are pure herein, therefore you’re silent. I now remember it like this.
+
+
+<h2>11 Pātidesanīya Rules</h2>
+
+
+<lzh>諸大德。此十一波羅底提舍尼法。半月半月戒經中說。</lzh>
+Venerables, these 11 pātidesanīya rules are recited every half-month in the precepts sutta.
+
+
+<lzh>攝頌曰。</lzh>
+Recite the summary verse:
+
+<lzh-verse>[1] 乳 [2] 酪及 [3] 生酥　　[4] 熟酥 [5] 油 [6] 糖 [7] 蜜
+[8] 魚 [9] 肉并 [10] 乾脯　　得法學人家</lzh-verse>
+<verse>Milk, curds, fresh butter,
+Ghee, oil, sugar, honey,
+Fish, meat, dried meat,
+Obtaining from a family in training.</verse>
+
+<h3>Pātidesanīya 1–10</h3>
+
+<lzh>若復苾芻尼無病為己詣白衣家乞乳。若使人乞而飲用者。是苾芻尼應還。村外住處。詣諸苾芻尼所。各別告言。大德。我犯對說惡法。是不應為。今對說悔。是名對說法。如是酥等乃至乾脯十事乞。皆有犯。如上廣說。</lzh>
+If a bhikkhunī, who isn’t sick, goes to lay houses and asks for milk for herself, or has someone ask, and drinks it, that bhikkhunī should return to the residence outside the village, go to the bhikkhunīs, and tell each of them individually: ‘Venerable, I’ve committed a bad offense to be confessed, that shouldn’t be done. I now confess and repent.’ This is called a pātidesanīya offense.
+
+<h3>Pātidesanīya 1</h3>
+
+<lzh>乳</lzh>
+Milk
+
+<h3>Pātidesanīya 2</h3>
+
+<lzh>酪及</lzh>
+Curds
+
+<h3>Pātidesanīya 3</h3>
+
+<lzh>生酥</lzh>
+Fresh butter
+
+<h3>Pātidesanīya 4</h3>
+
+<lzh>熟酥</lzh>
+Ghee
+
+<h3>Pātidesanīya 5</h3>
+
+<lzh>油</lzh>
+Oil
+
+<h3>Pātidesanīya 6</h3>
+
+<lzh>糖</lzh>
+Sugar
+
+<h3>Pātidesanīya 7</h3>
+
+<lzh>蜜</lzh>
+Honey
+
+<h3>Pātidesanīya 8</h3>
+
+<lzh>魚</lzh>
+Fish
+
+<h3>Pātidesanīya 9</h3>
+
+<lzh>肉并</lzh>
+Meat
+
+<h3>Pātidesanīya 10</h3>
+
+<lzh>乾脯</lzh>
+Dried meat
+
+<h3>Pātidesanīya 11</h3>
+
+<lzh>若復苾芻尼知是學家僧伽。與作學家羯磨。苾芻尼先不受請。便詣彼家自手受食食。是苾芻尼應還村外住處。詣諸苾芻尼所。各別告言。大德。我犯對說惡法。是不應為。今對說悔。是名對說法。</lzh>
+If a bhikkhunī knows that there’s a family in training for whom the sangha has carried out the formal act for families-in-training, and that bhikkhunī, without having first received an invitation, just goes to that family, accepts food with her own hands, and eats it, that bhikkhunī should return to the residence outside the village, go to the bhikkhunīs, and tell each of them individually: ‘Venerable, I’ve committed a bad offense to be confessed, that shouldn’t be done. I now confess and repent.’ This is called a pātidesanīya offense.
+
+<lzh>諸大德。我已說十一波羅底提舍尼法。今問。諸大德。是中清淨不(如是三說)諸大德。是中清淨默然故。我今如是持。</lzh>
+Venerables, I’ve recited the 11 pātidesanīya rules. Now I ask the venerables: ‘Are you pure herein?’ (Repeat three times). The venerables are pure herein, therefore you’re silent. I now remember it like this.
+
+
+<h2>102 Sekhiya Rules</h2>
+
+
+<lzh>諸大德。此眾學法半月半月戒經中說。</lzh>
+Venerables, these many training rules are recited every half-month in the precepts sutta.
+
+
+<lzh>總攝頌曰。</lzh>
+Recite the general summary verse:
+
+<lzh-verse>衣食形齊整　　俗舍善容儀
+護鉢除病人　　洟唾過人樹</lzh-verse>
+<verse>Neat robes, food, and appearance,
+Good deportment in lay houses
+Guarding the bowl, except for sick people,
+Snot, saliva, a tree taller than a person.</verse>
+
+<h3>Sekhiya 1</h3>
+
+<lzh>齊整著裙。應當學。</lzh>
+Wearing the skirt neatly should be trained.
+
+<h3>Sekhiya 2</h3>
+
+<lzh>不太高。</lzh>
+Not too high.
+
+<h3>Sekhiya 3</h3>
+
+<lzh>不大下。</lzh>
+Not too low.
+
+<h3>Sekhiya 4</h3>
+
+<lzh>不象鼻。</lzh>
+Not like an elephant’s trunk.
+
+<h3>Sekhiya 5</h3>
+
+<lzh>不蛇頭。</lzh>
+Not like a snake’s head.
+
+<h3>Sekhiya 6</h3>
+
+<lzh>不多羅葉。</lzh>
+Not like a palm<note>tāla.</note> leaf.
+
+<h3>Sekhiya 7</h3>
+
+<lzh>不豆團形。著裙。應當學。</lzh>
+Not wearing the skirt in the shape of a ball of beans should be trained.
+
+<h3>Sekhiya 8</h3>
+
+<lzh>齊整著五衣。應當學。</lzh>
+Wearing the five robes neatly should be trained.
+
+<h3>Sekhiya 9</h3>
+
+<lzh>不太高。</lzh>
+Not too high.
+
+<h3>Sekhiya 10</h3>
+
+<lzh>不太下。</lzh>
+Not too low.
+
+<h3>Sekhiya 11</h3>
+
+<lzh>好正披。</lzh>
+Wrapped around well and straight.
+
+<h3>Sekhiya 12</h3>
+
+<lzh>好正覆。</lzh>
+Covering (the body) well and straight.
+
+<h3>Sekhiya 13</h3>
+
+<lzh>少語言。</lzh>
+Speaking in a quiet voice.
+
+<h3>Sekhiya 14</h3>
+
+<lzh>不高視。入白衣舍。應當學。</lzh>
+Not to enter lay houses looking up should be trained.
+
+<h3>Sekhiya 15</h3>
+
+<lzh>若月期將至。不應往白衣舍。應當學。</lzh>
+Not to go to lay houses when menstruating should be trained.
+
+<h3>Sekhiya 16</h3>
+
+<lzh>不覆頭。</lzh>
+Not with the head covered.
+
+<h3>Sekhiya 17</h3>
+
+<lzh>不偏抄衣。</lzh>
+Not with the robe pulled up on one side.
+
+<h3>Sekhiya 18</h3>
+
+<lzh>不雙抄衣。</lzh>
+Not with the robe pulled up on both sides.
+
+<h3>Sekhiya 19</h3>
+
+<lzh>不叉腰。</lzh>
+Not with arms akimbo.
+
+<h3>Sekhiya 20</h3>
+
+<lzh>不拊肩。入白衣舍。應當學。</lzh>
+Not to enter lay houses putting one’s arm around someone else’s shoulder should be trained.
+
+<h3>Sekhiya 21</h3>
+
+<lzh>不蹲行。</lzh>
+Not squatting.
+
+<h3>Sekhiya 22</h3>
+
+<lzh>不足指行。</lzh>
+Not on tiptoes.
+
+<h3>Sekhiya 23</h3>
+
+<lzh>不跳行。</lzh>
+Not dancing.
+
+<h3>Sekhiya 24</h3>
+
+<lzh>不庂足行。</lzh>
+Not walking while tilting the feet.
+
+<h3>Sekhiya 25</h3>
+
+<lzh>不努身行。入白衣舍。應當學。</lzh>
+Not to enter lay houses with a protruding body should be trained.
+
+<h3>Sekhiya 26</h3>
+
+<lzh>不搖身。</lzh>
+Not swaying the body.
+
+<h3>Sekhiya 27</h3>
+
+<lzh>不掉臂。</lzh>
+Not swinging the arms.
+
+<h3>Sekhiya 28</h3>
+
+<lzh>不搖頭。</lzh>
+Not swaying the head.
+
+<h3>Sekhiya 29</h3>
+
+<lzh>不肩排。</lzh>
+Not jostling with the shoulders.
+
+<h3>Sekhiya 30</h3>
+
+<lzh>不連手。入白衣舍。應當學。</lzh>
+Not to enter lay houses holding hands should be trained.
+
+<h3>Sekhiya 31</h3>
+
+<lzh>在白衣舍。未請坐不應坐。應當學。</lzh>
+Not to sit in lay houses when not invited to sit down yet should be trained.
+
+<h3>Sekhiya 32</h3>
+
+<lzh>在白衣舍。不善觀察不應坐。應當學。</lzh>
+Not to sit in lay houses without investigating properly should be trained.
+
+<h3>Sekhiya 33</h3>
+
+<lzh>在白衣舍。不放身坐。應當學。</lzh>
+Not to sit in lay houses with a relaxed body should be trained.
+
+<h3>Sekhiya 34</h3>
+
+<lzh>在白衣舍。不壘足。</lzh>
+Not to put one foot on the other in lay houses.
+
+<h3>Sekhiya 35</h3>
+
+<lzh>不重內踝。</lzh>
+Not to overlap the inner ankles.
+
+<h3>Sekhiya 36</h3>
+
+<lzh>不重外踝。</lzh>
+Not to overlap the outer ankles.
+
+<h3>Sekhiya 37</h3>
+
+<lzh>不急斂足。</lzh>
+Not to draw the feet back hastily.
+
+<h3>Sekhiya 38</h3>
+
+<lzh>不長舒足。</lzh>
+Not to stretch the legs out long.
+
+<h3>Sekhiya 39</h3>
+
+<lzh>不露身。應當學。</lzh>
+Not to expose the body should be trained.
+
+<h3>Sekhiya 40</h3>
+
+<lzh>恭敬受食。應當學。</lzh>
+To receive food respectfully should be trained.
+
+<h3>Sekhiya 41</h3>
+
+<lzh>不得滿鉢受飯。</lzh>
+Not to accept rice until the bowl is full…
+
+<h3>Sekhiya 42</h3>
+
+<lzh>更安羹菜。
+…</lzh>And still add curries and vegetables…
+
+<h3>Sekhiya 43</h3>
+
+<lzh>令食流溢於鉢緣邊。
+…</lzh>so that the food overflows over the brim of the bowl.
+
+<h3>Sekhiya 44</h3>
+
+<lzh>應留屈指用意受食。應當學。</lzh>
+To leave (the space of) a bent finger, and accept food mindfully should be trained.
+
+<h3>Sekhiya 45</h3>
+
+<lzh>行食未至。不豫申鉢。應當學。</lzh>
+Not to hold the bowl up when the food servers haven’t reached one yet should be trained.
+
+<h3>Sekhiya 46</h3>
+
+<lzh>不安鉢在食上。應當學。</lzh>
+Not to put the bowl on top of the food should be trained.
+
+<h3>Sekhiya 47</h3>
+
+<lzh>恭敬而食。應當學。</lzh>
+To eat respectfully should be trained.
+
+<h3>Sekhiya 48</h3>
+
+<lzh>不極小團。</lzh>
+Not in an excessively small ball.
+
+<h3>Sekhiya 49</h3>
+
+<lzh>不極大團。</lzh>
+Not in an excessively large ball.
+
+<h3>Sekhiya 50</h3>
+
+<lzh>圓整而食。應當學。</lzh>
+To eat with well-rounded (balls) should be trained.
+
+<h3>Sekhiya 51</h3>
+
+<lzh>若食未至。不張口待。應當學。</lzh>
+Not to wait with the mouth open when the food hasn’t arrived yet should be trained.
+
+<h3>Sekhiya 52</h3>
+
+<lzh>不含食語。應當學。</lzh>
+Not to speak with food in the mouth should be trained.
+
+<h3>Sekhiya 53</h3>
+
+<lzh>不得以飯覆羹菜。</lzh>
+Not to cover the curries and vegetables with rice.
+
+<h3>Sekhiya 54</h3>
+
+<lzh>不將羹菜覆飯更望得。應當學。</lzh>
+Not to cover the rice with curries and vegetables hoping to get more should be trained.
+
+<h3>Sekhiya 55</h3>
+
+<lzh>不彈舌食。</lzh>
+Not to cluck with the tongue.
+
+<h3>Sekhiya 56</h3>
+
+<lzh>不㗘㗱食。</lzh>
+Not to eat chewing loudly.<note>This is the parallel to the capucapu rule in the Pāli vinaya.</note>
+
+<h3>Sekhiya 57</h3>
+
+<lzh>不呵氣食。</lzh>
+Not to eat breathing out.
+
+<h3>Sekhiya 58</h3>
+
+<lzh>不吹氣食。</lzh>
+Not to eat blowing air.
+
+<h3>Sekhiya 59</h3>
+
+<lzh>不散手食。</lzh>
+Not to scatter food with the hand.
+
+<h3>Sekhiya 60</h3>
+
+<lzh>不毀呰食。</lzh>
+Not to disparage the food.
+
+<h3>Sekhiya 61</h3>
+
+<lzh>不填頰食。</lzh>
+Not to eat stuffing the cheeks.
+
+<h3>Sekhiya 62</h3>
+
+<lzh>不齧半食。</lzh>
+Not to bite off halves when eating should be trained.
+
+<h3>Sekhiya 63</h3>
+
+<lzh>不舒舌食。</lzh>
+Not to eat sticking out the tongue should be trained.
+
+<h3>Sekhiya 64</h3>
+
+<lzh>不作窣覩波形食。應當學。</lzh>
+Not to make a stupa shape with food should be trained.
+
+<h3>Sekhiya 65</h3>
+
+<lzh>不舐手。</lzh>
+Not to lick the hand.
+
+<h3>Sekhiya 66</h3>
+
+<lzh>不舐鉢。</lzh>
+Not to lick the bowl.
+
+<h3>Sekhiya 67</h3>
+
+<lzh>不振手。</lzh>
+Not to shake the hand.
+
+<h3>Sekhiya 68</h3>
+
+<lzh>不振鉢。</lzh>
+Not to shake the bowl.
+
+<h3>Sekhiya 69</h3>
+
+<lzh>常看鉢食。應當學。</lzh>
+To eat continuously looking at the bowl should be trained.
+
+<h3>Sekhiya 70</h3>
+
+<lzh>不輕慢心觀比坐鉢中食。應當學。</lzh>
+Not to look at the bowl of the person sitting next to one with a mind of disdain should be trained.
+
+<h3>Sekhiya 71</h3>
+
+<lzh>不以污手捉淨水瓶。應當學。</lzh>
+Not to take up a pitcher of clean water with a dirty hand should be trained.
+
+<h3>Sekhiya 72</h3>
+
+<lzh>在白衣舍。不棄洗鉢水。除問主人。應當學。</lzh>
+Not to throw away the bowl-washing water at a lay house unless one has asked the owner should be trained.
+
+<h3>Sekhiya 73</h3>
+
+<lzh>不得以殘食置鉢水中。應當學。</lzh>
+Not to put leftover food into bowl-washing water should be trained.
+
+<h3>Sekhiya 74</h3>
+
+<lzh>地上無替不應安鉢。應當學。</lzh>
+Not to put the bowl on the ground without a stand should be trained.
+
+<h3>Sekhiya 75</h3>
+
+<lzh>不立洗鉢。應當學。</lzh>
+Not to wash the bowl while standing should be trained.
+
+<h3>Sekhiya 76</h3>
+
+<lzh>不於危險岸處置鉢。</lzh>
+Not to put down the bowl at a dangerous edge.
+
+<h3>Sekhiya 77</h3>
+
+<lzh>亦不逆流酌水。應當學。</lzh>
+And not to scoop up water against the stream.
+
+<h3>Sekhiya 78</h3>
+
+<lzh>人坐己立不為說法。除病。應當學。</lzh>
+Not to teach dhamma to a person who is sitting when one is standing, unless they’re sick, should be trained.
+
+<h3>Sekhiya 79</h3>
+
+<lzh>人臥己坐不為說法。除病。應當學。</lzh>
+Not to teach dhamma to a person who is lying down when one is sitting, unless they’re sick, should be trained.
+
+<h3>Sekhiya 80</h3>
+
+<lzh>人在高座己在下座。不為說法。除病。應當學。</lzh>
+Not to teach dhamma to a person in a high seat when one is in a low seat, unless they’re sick, should be trained.
+
+<h3>Sekhiya 81</h3>
+
+<lzh>人在前行己在後行。不為說法。除病。應當學。</lzh>
+Not to teach dhamma to a person walking in front when one is walking behind, unless they’re sick, should be trained.
+
+<h3>Sekhiya 82</h3>
+
+<lzh>人在道己在非道。不為說法。除病。應當學。</lzh>
+Not to teach dhamma to a person on the path when one is off the path, unless they’re sick, should be trained.
+
+<h3>Sekhiya 83</h3>
+
+<lzh>不為覆頭者。</lzh>
+Not to someone with the head covered.
+
+<h3>Sekhiya 84</h3>
+
+<lzh>不為偏抄衣。</lzh>
+Not to someone with their clothes pulled up on one side.
+
+<h3>Sekhiya 85</h3>
+
+<lzh>不為雙抄衣。</lzh>
+Not to someone with their clothes pulled up on both sides.
+
+<h3>Sekhiya 86</h3>
+
+<lzh>不為叉腰者。</lzh>
+Not to someone with arms akimbo.
+
+<h3>Sekhiya 87</h3>
+
+<lzh>不為拊肩者說法。除病。應當學。</lzh>
+Not to teach dhamma to someone with their arm around someone else’s shoulder, unless they’re sick, should be trained.
+
+<lzh>不為乘</lzh>
+Not to someone in a vehicle.
+
+<h3>Sekhiya 88</h3>
+
+<lzh>象</lzh>
+On an elephant.
+
+<h3>Sekhiya 89</h3>
+
+<lzh>馬</lzh>
+On a horse.
+
+<h3>Sekhiya 90</h3>
+
+<lzh>車</lzh>
+On a cart.
+
+<h3>Sekhiya 91</h3>
+
+<lzh>輿者說法。除病。應當學。</lzh>
+Not to teach dhamma to someone in a palanquin, unless they’re sick, should be trained.
+
+<h3>Sekhiya 92</h3>
+
+<lzh>不為著屐靴鞋及</lzh>
+Not to someone wearing wooden sandals, boots, and shoes.
+
+<h3>Sekhiya 93</h3>
+
+<lzh>履屨者說法。除病。應當學。</lzh>
+Not to teach dhamma to someone wearing straw sandals, unless they’re sick, should be trained.
+
+<h3>Sekhiya 94</h3>
+
+<lzh>不為戴帽。</lzh>
+Not to someone wearing a hat.
+
+<h3>Sekhiya 95</h3>
+
+<lzh>著冠。</lzh>
+Wearing a crown.
+
+<h3>Sekhiya 96</h3>
+
+<lzh>及作佛頂髻者。</lzh>
+Or making a Buddha’s protuberance out of hair.<note>I.e. with a topknot.</note>
+
+<h3>Sekhiya 97</h3>
+
+<lzh>不為纏頭。</lzh>
+Not to someone with their head wrapped.
+
+<h3>Sekhiya 98</h3>
+
+<lzh>不為冠花者說法。除病。應當學。</lzh>
+Not to teach dhamma to someone wearing a crown of flowers, unless they’re sick, should be trained.
+
+<h3>Sekhiya 99</h3>
+
+<lzh>不為持蓋者說法。除病。應當學。</lzh>
+Not to teach dhamma to someone holding an umbrella, unless they’re sick, should be trained.
+
+<h3>Sekhiya 100</h3>
+
+<lzh>不立大小便。除病。應當學。</lzh>
+Not to defecate or urinate while standing, unless one is sick, should be trained.
+
+<h3>Sekhiya 101</h3>
+
+<lzh>不得水中大小便洟唾。除病。應當學。</lzh>
+Not to defecate, urinate, drop snot, or spit in water, unless one is sick, should be trained.
+
+<h3>Sekhiya 102</h3>
+
+<lzh>不得上過人樹。除有難緣。應當學。</lzh>
+Not to climb up a tree that’s taller than a person, unless there are difficulties, should be trained.
+
+
+<lzh>諸大德。我已說眾多學法。今問。諸大德。是中清淨不(如是三說)。諸大德。是中清淨默然故。我今如是持。</lzh>
+Venerables, I’ve recited these many training rules. Now I ask the venerables: ‘Are you pure herein?’ (Repeat three times.) The venerables are pure herein, therefore you’re silent. I now remember it like this.
+
+
+<h2>Seven Adhikaraṇasamathas</h2>
+
+
+<lzh>諸大德。此七滅諍法半月半月戒經中說。</lzh>
+Venerables, these seven rules for settling disputes are recited every half-month in the precepts sutta.
+
+
+<lzh>攝頌曰。</lzh>
+Recite the summary verse:
+
+<lzh-verse>現前并憶念　　不癡與求罪
+多人語自言　　草掩除眾諍</lzh-verse>
+<verse>Presence and memory,
+Non-confusion and seeking offenses,
+The speech of many people and admitting oneself,
+And covering with grass end the sanghas’s disputes.</verse>
+
+<h3>Adhikaraṇasamatha 1</h3>
+
+<lzh>應與現前毘奈耶　當與現前毘奈耶</lzh>
+What should be dealt with by a removal in the presence, will be dealt with by a removal in the presence.
+
+<h3>Adhikaraṇasamatha 2</h3>
+
+<lzh>應與憶念毘奈耶　當與憶念毘奈耶</lzh>
+What should be dealt with by a removal due to memory, will be dealt with by a removal due to memory.
+
+<h3>Adhikaraṇasamatha 3</h3>
+
+<lzh>應與不癡毘奈耶　當與不癡毘奈耶</lzh>
+What should be dealt with by a removal due to non-confusion, will be dealt with by a removal due to non-confusion.
+
+<h3>Adhikaraṇasamatha 4</h3>
+
+<lzh>應與求罪自性毘奈耶　當與求罪自性毘奈耶</lzh>
+What should be dealt with by a removal due to a character of seeking offenses, will be dealt with by a removal due to a character of seeking offenses.
+
+<h3>Adhikaraṇasamatha 5</h3>
+
+<lzh>應與多人語毘奈耶　當與多人語毘奈耶</lzh>
+What should be dealt with by a removal through the speech of many people, will be dealt with by a removal through the speech of many people.
+
+<h3>Adhikaraṇasamatha 6</h3>
+
+<lzh>應與自言毘奈耶　當與自言毘奈耶</lzh>
+What should be dealt with by a removal through what they’ve admitted, will be be dealt with by a removal through what they’ve admitted.
+
+<h3>Adhikaraṇasamatha 7</h3>
+
+<lzh>應與草掩毘奈耶　當與草掩毘奈耶</lzh>
+What should be dealt with by a removal through covering with grass, will be dealt with by a removal through covering with grass.
+
+
+<lzh>若有諍事起。當以七法順大師教。如法如律而除滅之。</lzh>
+If disputes have arisen, they’ll be settled through these seven principles, in line with the Great Teacher’s instruction, according to dhamma and vinaya.
+
+
+<lzh>諸大德。我已說七滅諍法。今問。諸大德。是中清淨不(如是三說)。諸大德。是中清淨默然故。我今如是持。</lzh>
+Venerables, I’ve recited the seven rules for settling disputes. Now I ask the venerables: ‘Are you pure herein?’ (Repeat three times.) The venerables are pure herein, therefore you’re silent. I now remember it like this.
+
+
+<h2>Conclusion</h2>
+
+<lzh>諸大德。我已說戒經序已說八波羅市迦法。二十僧伽伐尸沙法。三十三泥薩祇波逸底迦法。一百八十波逸底迦法。十一波羅底提舍尼法眾學法。七滅諍法。此是如來應正等覺戒經中所說所攝。若更有餘法之隨法。與此相應者。皆當修學。仁等共集歡喜無諍。一心一說如水乳合。慇懃光顯大師聖教。令安樂住。勿為放逸。應當修學。</lzh>
+Venerables, I’ve recited the introduction to the precepts sutta, I’ve recited the eight pārājika rules, the 20 saṅghādisesa rules, the 33 nissaggiya pācittiya rules, the 180 pācittiya rules, the 11 pātidesanīya rules, the many training rules, and the seven rules for settling disputes. This is what the Tathāgata, the perfectly enlightened one has recited and included in the precepts sutta. If there are still other rules that accord with the dhamma, and that agree with this, they all should be practised and trained in. You should gather together, happy, without quarreling, with one mind and one recitation, mixing like water and milk, striving with brilliance in the Great Teacher’s noble teaching, which leads to a peaceful and happy abiding. Don’t be negligent. This should be practised and trained in.
+
+
+<h2>Concluding Verses</h2>
+
+<lzh-verse>忍是勤中上　　能得涅槃處
+出家惱他人　　不名為沙門</lzh-verse>
+<verse>Endurance is the highest effort by which one can attain nibbāna.
+One gone forth who disturbs others can’t be called a renunciate.</verse>
+
+<lzh>此是毘鉢尸如來應正等覺。說是戒經。</lzh>
+This is what Vipassī Tathāgata, the perfectly enlightened one, recited as his precepts sutta.
+
+<lzh-verse>明眼避險途　　能至安隱處
+智者於生界　　能遠離諸惡</lzh-verse>
+<verse>People with clear eyes avoid the dangerous road, and can reach the peaceful, hidden place.
+Wise people have arisen in the world who can dwell away from evil.</verse>
+
+<lzh>此是尸棄如來應正等覺。說是戒經。</lzh>
+This is what Sikhī Tathāgata, the perfectly enlightened one, recited as his precepts sutta.
+
+<lzh-verse>不毀亦不害　　善護於戒經
+飲食知止足　　受用下臥具
+勤修增上定　　此是諸佛教</lzh-verse>
+<verse>Not disparaging and not harming, well protected in the precepts sutta,
+Knowing moderation in food and drink, and in the use of bedding,
+Striving for the superior concentration, this is the teaching of the Buddhas.</verse>
+
+<lzh>此是毘舍浮如來應正等覺。說是戒經。</lzh>
+This is what Vessabhū Tathāgata, the perfectly enlightened one, recited as his precepts sutta.
+
+<lzh-verse>譬如蜂採花　　不壞色與香
+但取其味去　　苾芻入聚然
+不違逆他人　　不觀作不作
+但自觀身行　　若正若不正</lzh-verse>
+<verse>Just as when bees collect from flowers, they don’t damage their color or scent,
+Just taking their flavor they depart; A bhikkhu entering a village
+Shouldn’t oppose other people, and not observe what is or isn’t being done.
+He should just observe his own body and conduct, whether it’s straight or not.</verse>
+
+<lzh>此是俱留孫如來應正等覺。說是戒經。</lzh>
+This is what Kakusandha Tathāgata, the perfectly enlightened one, recited as his precepts sutta.
+
+<lzh-verse>勿著於定心　　勤修寂靜處
+能救護無憂　　常令念不失
+若人能惠施　　福增怨自息
+修善除眾惡　　惑盡至涅槃</lzh-verse>
+<verse>Not attaching to a concentrated mind, striving for the quiet place,
+One can rescue oneself, be free from sorrow, and make mindfulness last long.
+If one can be kind and generous, one’s merit increases and enmity ends by itself.
+Practising the good and abandoning all evil, delusion ceases and one reaches nibbāna.</verse>
+
+<lzh>此是羯諾迦牟尼如來應正等覺。說是戒經。</lzh>
+This is what Koṇāgamana Tathāgata, the perfectly enlightened one, recited as his precepts sutta.
+
+<lzh-verse>一切惡莫作　　一切善應修
+遍調於自心　　是則諸佛教</lzh-verse>
+<verse>Not doing all evil, practising all good,
+Fully taming one’s mind, this is the teaching of all Buddhas.</verse>
+
+<lzh>此是迦攝波如來應正等覺。說是戒經。</lzh>
+This is what Kassapa Tathāgata, the perfectly enlightened one, recited as his precepts sutta.
+
+<lzh-verse>護身為善哉　　能護語亦善
+護意為善哉　　盡護最為善
+苾芻護一切　　能解脫眾苦
+善護於口言　　亦善護於意
+身不作諸惡　　常淨三種業
+是則能隨順　　大仙所行道</lzh-verse>
+<verse>Protecting the body is good, protecting the speech is also good,
+Protecting the mind is good, protecting everything is the best.
+A bhikkhu who protects everything, will be liberated from much suffering.
+Well-protected in speech, and well-protected in the mind,
+Not doing any evil with the body, constantly purifying the three courses of action,
+One who can follow this, is on the path practised by the great sages.</verse>
+
+<lzh>此是釋迦如來應正等覺。說是戒經。</lzh>
+This is what Sakyamuni Tathāgata, the perfectly enlightened one, recited as his precepts sutta.
+
+
+<lzh-verse>毘鉢尸式棄　　毘舍俱留孫
+羯諾迦牟尼　　迦攝釋迦尊
+如是天中天　　無上調御者
+七佛皆雄猛　　能救護世間
+具足大名稱　　咸說此戒法
+諸佛及弟子　　咸共尊敬戒
+恭敬戒經故　　獲得無上果
+汝當求出離　　於佛教勤修
+降伏生死軍　　如象摧草舍
+於此法律中　　常為不放逸
+能竭煩惱海　　當盡苦邊際
+所為說戒經　　和合作長淨
+當共尊敬戒　　如𤛆牛愛尾
+我已說戒經　　眾僧長淨竟
+福利諸有情　　皆共成佛道</lzh-verse>
+<verse>Vipassī, Sikhī, Vessabhū, Kakusandha,
+Koṇāgamana, Kassapa, and Sakyamuni,
+Those gods among gods, those supremely tamed ones,
+The seven Buddhas, the heros, protectors of the world,
+Endowed with fame and praise, all taught these precepts.
+These Buddhas and their disciples, all honored these precepts.
+Because of honoring the precepts sutta, they attained the supreme fruit.
+You should seek renunciation, and strive in the Buddha’s teaching,
+Overcoming the army of birth and death, like an elephant breaking down a grass hut.
+In this dhamma and vinaya, never be negligent.
+You can exhaust the ocean of defilements, and reach the end of suffering.
+With this recitation of the precepts sutta, carry out the uposatha in harmony.
+Honor the precepts together, like a yak loves its tail.
+I’ve recited the precepts sutta, the sangha’s uposatha is finished.
+For the welfare of all beings, may all attain the Buddha’s path.”</verse>
+
+
+<lzh>根本說一切有部苾芻尼戒經</lzh>
+Mūlasarvāstivāda Bhikkhunī Precepts Sutta.
