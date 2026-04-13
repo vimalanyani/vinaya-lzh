@@ -12,7 +12,7 @@ const { bookList } = Astro.props;
 ---
 
 <>
-  <ul class="mt-4 mb-8 lg:mb-10 text-xl leading-9">
+  <ul class="nav-list mt-4 mb-8 lg:mb-10 text-xl leading-9">
     {
       bookList.map((book) => {
         let href = "/#" + createAnchor(book.schoolName + " " + book.bookName);
@@ -22,7 +22,7 @@ const { bookList } = Astro.props;
         }
 
         return (
-          <li>
+          <li class="pl-2  mb-0 pb-2 font-sans">
             <Link href={href} text={book.bookName} />
           </li>
         );

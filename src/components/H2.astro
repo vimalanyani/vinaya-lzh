@@ -6,6 +6,6 @@ interface Props extends astroHTML.JSX.HTMLAttributes {
 const { heading, class: styles, ...props } = Astro.props;
 ---
 
-<h2 class:list={["text-4xl text-neutral-700 mt-6 mb-3", styles]} {...props}>
+<h2 class:list={["text-4xl text-neutral-700 mt-6 mb-3 pt-2", styles]} {...props}>
   {heading ?? <slot />}
 </h2>

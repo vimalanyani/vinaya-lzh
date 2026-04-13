@@ -1,0 +1,15 @@
+---
+import H1 from "../components/H1.astro";
+
+const { pageHeader, breadCrumbsList } = Astro.props;
+
+---
+
+ <header>
+        <p class="text-xl px-4 text-stone-500 italic pb-4 leading-7">
+			
+			{breadCrumbsList}
+		</p>
+
+        <H1 heading={pageHeader} />
+</header>

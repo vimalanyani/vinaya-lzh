@@ -1,15 +1,13 @@
 ---
 import { orderBookData } from "../utils";
 import { siteName, dateFirstPublished } from "../utils/meta";
-import Layout from "../layouts/Layout.astro";
+import Layout from "../layouts/HomeLayout.astro";
 import H2 from "../components/H2.astro";
 import LinkedBookIndexList from "../components/LinkedBookIndexList.astro";
 import LinkedRuleIndexList from "../components/LinkedRuleIndexList.astro";
 import { getAllBookRuleData } from "../utils";
 import { schoolBookGroups } from "../data/content";
 import type { BookData } from "../data/types";
-
-type Data = Partial<Record<keyof typeof schoolBookGroups, BookData[]>> | null;
 
 let data: Data = {};
 
@@ -45,13 +43,15 @@ const orderedData = Object.values(data).map((schoolBookData) =>
   orderBookData(schoolBookData)
 );
 
+
 const dateFormatOptions = {
   year: "numeric",
   month: "long",
   day: "numeric",
 } as const;
----
 
+
+---
 <Layout
   title={siteName}
   prefixedDescription="the Chinese Bhikkhunī Vinayas"
@@ -59,31 +59,37 @@ const dateFormatOptions = {
   dateModified={new Date()}
   isIndexPage
 >
+
   <main>
-    <h1 class="text-5xl md:text-6xl mb-8">
+    <h1 class="homeWidth text-3xl border-b-amber-600 shadow-s border-b-2 px-4 py-8 md:text-6xl mb-8 text-amber-900">
       {siteName}
     </h1>
-
+   <div class="wrapper w-100 shadow-lg pb-10">
+    <div id="navcards" class="homeWidth grid lg:grid-cols-2 gap-8">
     {
       orderedData.map((bookData) => {
         return (
-          <section>
-            <H2>{bookData[0].schoolName}</H2>
+          <section          
+          class="border border-amber-900 px-4 pb-2 bg-stone-50 shadow-lg shadow-amber-900/20 rounded-lg mt-0">
+            <H2 class="border-b border-orange-600 pb-2 pl-2">{bookData[0].schoolName}</H2>
             <LinkedBookIndexList bookList={bookData} />
           </section>
         );
       })
     }
-    <hr />
+    </div>
+</div>     
+    <div id="LinkedRoleIndexLists" class="inset-shadow-lg inset-shadow-stone-900 bg-gradient-to-b from-orange-100 from-0% via-orange-50 via-1% to-amber-50 to-2% pt-8   shadow-lg border-t-2 border-b-2 border-amber-900 pb-10">
     {
       orderedData.map((bookData) => {
         return <LinkedRuleIndexList bookData={bookData} />;
       })
     }
-
-    <div class="mt-20">
-      <p>Translated by Vimalañāṇī Bhikkhunī</p>
-      <p>
+    </div>
+    <div class="wrapper w-100  inset-shadow-lg inset-shadow-amber-900 ">
+    <div class="mt-20 homeWidth mt-10 pt-10 px-4 ">
+      <p class="text-lg">Translated by Vimalañāṇī Bhikkhunī</p>
+      <p class="text-lg">
         Published: {
           new Date(dateFirstPublished).toLocaleDateString(
             "en-GB",
@@ -91,11 +97,12 @@ const dateFormatOptions = {
           )
         }
       </p>
-      <p>
+      <p class="text-lg">
         Last updated: {
           new Date().toLocaleDateString("en-GB", dateFormatOptions)
         }
       </p>
+    </div>
     </div>
   </main>
 </Layout>
