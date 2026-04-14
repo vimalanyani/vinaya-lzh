@@ -1,0 +1,52 @@
+MuVb_np4
+
+
+<lzh>與非親苾芻浣故衣學處第四</lzh>
+The 4th training precept: Washing an old robe for an unrelated bhikkhu.
+
+<note>Np4 is technically classified as a shared rule, and therefore outside the scope of my translation project. But it’s not actually shared. It’s a very curious case of a rule being “mirrored”, and therefore I decided to include it. The bhikkhu rule prohibits having a bhikkhunī wash, dye, or beat one’s robe. If this rule was shared, the bhikkhunī rule should prohibit having a bhikkhu wash, dye, or beat one’s robe. However, it actually prohibits the bhikkhunī from washing, dyeing, or beating the bhikkhu’s robe. The same action thus leads to a nissaggiya pācittiya for both the bhikkhu and the bhikkhunī. This is the only vinaya as far as I know that includes “rule-mirroring” like this.</note>
+
+(This rule begins with a long story that has nothing to do with bhikkhunīs and has therefore been left out. Then the backstory of Udāyī and Guttā is given which is also too long to include, but which I summarize here:
+
+Ven. Udāyī promises his former wife Guttā to ordain her, but on the eve of the ordination, he has second thoughts and runs away to Rājagaha. Guttā is distraught, but gets ordained by the bhikkhunīs instead. Udāyī eventually feels remorse, hears from a traveling bhikkhu that she was ordained, and goes back to Sāvatthī. A bhikkhunī finds out that he’s back and recommends to Ven. Guttā that she take him as her teacher. She goes to see him, and he criticizes her for taking ordination without him, but eventually teaches her the dhamma. He starts to reminisce about old times and lust arises. Guttā sees it and leaves, but he chases after her, and has an erection. Then his lust vanishes. Guttā returns and tells him she left to preserve both their statuses as monastics. She offers to wash his lower robe which is stained with semen. She sees it and lust arises.)
+
+Translation of the rule:
+
+<h2>Origin Story</h2>
+
+<lzh>時彼笈多欲心亂故，取精一渧置於口中，復取一渧著女根內。有情業力事不思議，時有中蘊是最後生而來依託。笈多至寺便為浣衣。諸尼見問，笈多具答其事。諸尼謂曰：「我意言汝為求勝法往大德處，寧知更有此惡事耶？」笈多報曰：「彼之大德是持戒者，自出家後我之身分曾不重觸。」諸尼報曰：「不觸身分尚有斯事，如其觸著汝欲如何？」諸苾芻尼知其事已，往白苾芻，苾芻白佛。佛告諸苾芻：「彼尼無犯波羅市迦。若有娠者，應安屏室與食供給無令闕事。後時生子當名童子迦攝波，於我法中而為出家，斷諸有漏成阿羅漢，我弟子中辯才巧妙善能宣說最為第一。」爾時世尊遂作是念：「若有苾芻尼，與非親族苾芻浣故衣者有斯過失。」世尊以此因緣，如前集眾問實訶責，廣說乃至「制其學處，應如是說：</lzh>
+Then because Guttā’s mind was disturbed by lust, she took a drop of the semen and put it into her mouth. She also took another drop and inserted it into her vagina. The power of karma of living beings is unfathomable. Then in the intermediate state, aggregates took their final rebirth, came and settled in her. Guttā went to the monastery and washed the robe. The bhikkhunīs saw her and asked, and Guttā fully answered about the incident. The bhikkhunīs said: “We thought that you went to the venerable seeking the superior dhamma. Who would’ve known that you still would do this evil thing?” Guttā replied: “That venerable is keeping precepts, and since I’ve gone forth, no part of my body has ever again touched him.” The bhikkhunīs replied: “If no part of your body has touched him, but this incident still happened, if he had touched you, what would you’ve wanted?” When the bhikkhunīs knew about this matter, they went and told the bhikkhus, and the bhikkhus told the Buddha. The Buddha said to the bhikkhus: “That bhikkhunī hasn’t committed a pārājika. If she’s pregnant, you should put her into a secluded room, give her food, and provide for her with nothing lacking. Later she’ll give birth to a son who’ll be named Kumārakassapa. He’ll go forth in my dhamma, cut off the taints, and become an arahant. Among my disciples who are skilled in eloquence and capable of teaching, he’ll be the foremost.” At that time, the World-honored One also thought: “If a bhikkhunī washes an old robe for an unrelated bhikkhu, there’s this fault.” The World-honored One gathered the sangha for this reason as before, asked if it was true, and criticized her, as explained in detail, down to: “I’ll lay down another training precept. You should recite it like this:
+
+<h2>Final Ruling</h2>
+
+<lzh>若復苾芻尼，與非親苾芻浣染打故衣者，泥薩祇波逸底迦。」</lzh>
+‘If a bhikkhunī washes, dyes, or beats the old robe of an unrelated bhikkhu, it’s a nissaggiya pācittiya.’”
+
+<h2>Explanations</h2>
+
+<lzh>苾芻尼者，謂是笈多，或復餘尼。</lzh>
+“A bhikkhunī” means Guttā, or any other bhikkhunī.
+
+<lzh>言親者，謂從七祖父母兩人已來皆是親族，過此便非。</lzh>
+“Related” means seven previous generations on both the father’s and the mother’s side all are relations. Further back aren’t.
+
+<lzh>苾芻者，謂是鄔陀夷。</lzh>
+“A bhikkhu” means Udāyī.
+
+<lzh>故衣者，七種衣中隨是一數。云何為七？一者毛，二者苾摩迦(此方無)，三者奢搦迦(此方無)，四者羯播死迦(白疊)，五獨孤洛迦(紵布)，六高詀薄迦(是上毛緂，此方無)，七者阿般蘭得迦(是北方地名，其處有此衣也。亦有釋云即是絁絹之類)。</lzh>
+“An old robe” means one among the seven kinds of robes. Which seven? 1) Wool. 2) Bhaṅga<note>Hemp.</note> (It doesn’t exist here.) 3) Sāṇa<note>Coarse hemp.</note> (It doesn’t exist here.) 4) Kappāsika (white cotton.) 5) Dukūla (ramie cloth.) 6) Superior kambala (a superior woolen cloth in bright colors. It doesn’t exist here.) 7) Aparāntaka (This is the name of a place in the north. In that place, they have this robe. It’s also said that this is a kind of coarse silk.)
+
+<lzh>言浣者，謂以水浸。</lzh>
+“Washing” means immersing in water.
+
+<lzh>染者，下至一入色。</lzh>
+“Dyeing” means even dipping it in color once.
+
+<lzh>打者，乃至以手一打。</lzh>
+“Beating” means even just beating it once with the hand.
+
+<lzh>泥薩祇波逸底迦者，廣說如前。</lzh>
+“A nissaggiya pācittiya” is as explained in detail before.
+
+<lzh>此中犯相其事云何？若苾芻尼知非親族苾芻，作非親族想，令浣故衣，犯捨墮；染打亦如是。於三事中或令三事俱作，或令作二或令作一；又於三中隨一為初，與非親苾芻，皆得本罪。若非親苾芻疑，亦捨墮。若是親，作非親想，得惡作。若是親而起疑心，得惡作罪。</lzh>
+Herein, what are the factors for committing this offense? If a bhikkhunī knows that this is an unrelated bhikkhu, and perceives him to be unrelated, and applies herself to washing his old robe, she commits a nissaggiya pācittiya. The same for dyeing and beating. Among these three things, she might do all three, or two, or one. No matter which of the three she does first for an unrelated bhikkhu, in all cases she incurs the offense. If she has doubts whether the bhikkhu is unrelated, it’s also a nissaggiya pācittiya. If he’s related, but she perceives him as unrelated, she incurs a dukkaṭa. If he’s related and she has doubts, she incurs a dukkaṭa offense.

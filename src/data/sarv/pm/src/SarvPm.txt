@@ -118,7 +118,7 @@ If a bhikkhunī takes the life of a human being or a human-like being, intention
 <h3>Pārājika 4</h3>
 
 <lzh>若比丘尼。不知不見。空無過人法。自言。我如是知如是見。是比丘尼後時若問若不問。貪利養故。不知言知。不見言見。空誑妄語。除增上慢。是比丘尼犯波羅夷。不應共住。</lzh>
-If a bhikkhunī, not knowing and seeing, vainly, without a superhuman state, says about herself: ‘I know in this way, I see in this way’, and that bhikkhunī at a later time, whether questioned or not questioned, (says:) ‘Because of craving for gains, I, not knowing said I know, not seeing said I see. It was empty, deceited, false speech’, except in a case of superiority conceit, that bhikkhunī commits a pārājika, and shouldn’t live in community.
+If a bhikkhunī, not knowing and seeing, vainly, without a superhuman state, says about herself: ‘I know in this way, I see in this way’, and that bhikkhunī at a later time, whether questioned or not questioned, (says:) ‘Because of craving for gains, I, not knowing said I know, not seeing said I see. It was empty, deceitful, false speech’, except in a case of superiority conceit, that bhikkhunī commits a pārājika, and shouldn’t live in community.
 
 <h3>Pārājika 5</h3>
 
@@ -214,7 +214,7 @@ If bhikkhunīs who are supported by a village, engage in unwholesome conduct and
 <h3>Saṅghādisesa 13</h3>
 
 <lzh>有比丘尼惡性戾語。諸比丘尼。說如法如律如戒經中事。是比丘尼戾語不受。語諸比丘尼言。汝莫語我好惡。我亦不語汝好惡。諸比丘尼應如是言。諸比丘尼。說如法如律如戒經中事。汝莫戾語當隨順語。諸比丘尼。當為汝說如法如律。汝亦當為諸比丘尼說如法如律。何以故。如是者。諸如來眾得增長利益。以共語相教共罪中出故。汝當捨是戾語事。諸比丘尼如是諫時。堅持是事不捨者。諸比丘尼當再三諫。令捨是事故再三諫時捨者善。不捨者僧伽婆尸沙可沙可悔過。</lzh>
-If there’s a bhikkhunī of bad character and obstinate speech, and when the bhikkhunīs speak about matters according to dhamma, according to vinaya, according to the precepts’ sutta, that bhikkhunī speaks obstinately, doesn’t accept it, and says to the bhikkhunīs: ‘Don’t talk to me about good and bad. I also won’t talk to you about good and bad’, the bhikkhunīs should speak in this way: ‘The bhikkhunīs speak about matters according to dhamma, according to vinaya, according to the precepts’ sutta. Don’t speak obstinately. You should speak following along with us. The bhikkhunīs should speak to you according to dhamma and vinaya. You also should speak to the bhikkhunīs according to dhamma and vinaya. Why? In this way, the assemblies of the Tathāgata obtain growth and benefit, and because of talking to each other and teaching each other, they come out of offenses together. You should give up this matter of speaking obstinately.’ When the bhikkhunīs admonish her in this way, and she holds firmly on to this matter and doesn’t give it up, the bhikkhunīs should admonish her three more times to make her give up this matter. If she gives it up at the third admonishment, it’s fine. If not, it’s a saṅghādisesa, from which one can repent.
+If there’s a bhikkhunī of bad character and obstinate speech, and when the bhikkhunīs speak about matters according to dhamma, according to vinaya, according to the precepts’ sutta, that bhikkhunī speaks obstinately, doesn’t accept it, and says to the bhikkhunīs: ‘Don’t talk to me about good and bad. I also won’t talk to you about good and bad’, the bhikkhunīs should speak in this way: ‘The bhikkhunīs speak about matters according to dhamma, according to vinaya, according to the precepts’ sutta. Don’t speak obstinately. You should speak following along with us. The bhikkhunīs should speak to you according to dhamma and vinaya. You also should speak to the bhikkhunīs according to dhamma and vinaya. Why? In this way, the sangha of the Tathāgata obtains growth and benefit, and because of talking to each other and teaching each other, they come out of offenses together. You should give up this matter of speaking obstinately.’ When the bhikkhunīs admonish her in this way, and she holds firmly on to this matter and doesn’t give it up, the bhikkhunīs should admonish her three more times to make her give up this matter. If she gives it up at the third admonishment, it’s fine. If not, it’s a saṅghādisesa, from which one can repent.
 
 <h3>Saṅghādisesa 14</h3>
 
@@ -424,7 +424,7 @@ If a bhikkhunī speaks divisively, it’s a pācittiya.
 <h3>Pācittiya 4</h3>
 
 <lzh>若比丘尼。僧如法斷諍竟。還更發起。波夜提。</lzh>
-If a bhikkhunī, when the sangha has settled a matter according to dhamma, still takes it up again, it’s a pācittiya.
+If a bhikkhunī, when the sangha has settled a dispute according to dhamma, still takes it up again, it’s a pācittiya.
 
 <h3>Pācittiya 5</h3>
 
@@ -444,7 +444,7 @@ If a bhikkhunī knows that another bhikkhunī has an unwholesome offense, and te
 <h3>Pācittiya 8</h3>
 
 <lzh>若比丘尼先自勸與。後作是言。諸比丘尼。隨親厚迴僧物與。波夜提。</lzh>
-If a bhikkhunī first herself recommended to give something out, and later says: ‘The bhikkhunīs give out the sangha’s items according to personal friedships’, it’s a pācittiya.
+If a bhikkhunī first herself recommended to give something out, and later says: ‘The bhikkhunīs distribute the sangha’s items according to personal friedships’, it’s a pācittiya.
 
 <h3>Pācittiya 9</h3>
 
@@ -694,7 +694,7 @@ If a bhikkhunī digs the earth with her own hands, or instructs others to dig, s
 <h3>Pācittiya 58</h3>
 
 <lzh>若比丘尼。受四月自恣請。過是受者。波夜提。除常請數數請別請。</lzh>
-If a bhikkhunī has accepted an invitation for four months, and accepts it for longer, it’s a pācittiya, unless it’s a permanent invitation, a repeated invitation, or an individual invitation.
+If a bhikkhunī has accepted an invitation for four months, and accepts it for longer, it’s a pācittiya, unless it’s a permanent invitation, a repeated invitation, or a personal invitation.
 
 <h3>Pācittiya 59</h3>
 
@@ -749,7 +749,7 @@ If a bhikkhunī uses bone, ivory, tooth, or horn to make a needle case, it’s a
 <h3>Pācittiya 69</h3>
 
 <lzh>若比丘尼。欲作床者。當應量作。足高八指。除入梐。過是作者。波夜提。</lzh>
-If a bhikkhunī wants to make a bed, she should make it to the measurements: the legs should be 8 fingerbreadths high, without the part that’s inserted in the frame. If she makes them higher, it’s a pācittiya.
+If a bhikkhunī wants to make a bed, she should make it to the measurements: the legs should be  eight fingerbreadths high, without the part that’s inserted in the frame. If she makes them higher, it’s a pācittiya.
 
 <h3>Pācittiya 70</h3>
 
@@ -1069,7 +1069,7 @@ If a bhikkhunī gives a robe to a lay person, it’s a pācittiya.
 <h3>Pācittiya 133</h3>
 
 <lzh>若比丘尼。月病休止。浣病衣已淨不起去。波夜提。</lzh>
-If a bhikkhunī, when her menses has ended and she has washed the cloth cleanly, doesn’t let go of it, it’s a pācittiya.
+If a bhikkhunī, when her menses has ended and she has washed the menstrual robe cleanly, doesn’t let go of it, it’s a pācittiya.
 
 <h3>Pācittiya 134</h3>
 
@@ -1099,7 +1099,7 @@ If a bhikkhunī, when the sangha is settling matters, doesn’t go along with it
 <h3>Pācittiya 139</h3>
 
 <lzh>若比丘尼。不以房舍囑他。至聚落中。波夜提。</lzh>
-If a bhikkhunī, without informing others at the residence, walks among the villages, it’s a pācittiya.
+If a bhikkhunī, without informing others at the residence, goes to a village, it’s a pācittiya.
 
 <h3>Pācittiya 140</h3>
 
@@ -1433,12 +1433,12 @@ To sit in lay houses with the body well restrained should be trained.
 <h3>Sekhiya 21</h3>
 
 <lzh>不高視入白衣舍。應當學。</lzh>
-Not to enter lay houses while looking up high should be trained.
+Not to enter lay houses looking up should be trained.
 
 <h3>Sekhiya 22</h3>
 
 <lzh>不高視白衣舍坐。應當學。</lzh>
-Not to sit in lay houses while looking up high should be trained.
+Not to sit in lay houses looking up should be trained.
 
 <h3>Sekhiya 23</h3>
 
@@ -1493,22 +1493,22 @@ Not to sit in lay houses with the head wrapped should be trained.
 <h3>Sekhiya 33</h3>
 
 <lzh>不肘隱人肩入白衣舍。應當學。</lzh>
-Not to enter lay houses leaning one’s elbows on someone else’s shoulders should be trained.
+Not to enter lay houses putting one’s arm around someone else’s shoulders should be trained.
 
 <h3>Sekhiya 34</h3>
 
 <lzh>不肘隱人肩白衣舍坐。應當學。</lzh>
-Not to sit in lay houses leaning one’s elbows on someone else’s shoulders should be trained.
+Not to sit in lay houses putting one’s arm around someone else’s shoulders should be trained.
 
 <h3>Sekhiya 35</h3>
 
 <lzh>不叉腰入白衣舍。應當學。</lzh>
-Not to enter lay houses with arms akimbo should be trained.
+Not to enter lay houses with the arms akimbo should be trained.
 
 <h3>Sekhiya 36</h3>
 
 <lzh>不叉腰白衣舍坐。應當學。</lzh>
-Not to sit in lay houses with arms akimbo should be trained.
+Not to sit in lay houses with the arms akimbo should be trained.
 
 <h3>Sekhiya 37</h3>
 
@@ -1788,7 +1788,7 @@ Not to teach dhamma to a person with their head wrapped, unless they’re sick, 
 <h3>Sekhiya 92</h3>
 
 <lzh>肘隱人不應為說法。除病。應當學。</lzh>
-Not to teach dhamma to a person leaning their elbows on someone else, unless they’re sick, should be trained.
+Not to teach dhamma to a person putting their arm around someone else, unless they’re sick, should be trained.
 
 <h3>Sekhiya 93</h3>
 
