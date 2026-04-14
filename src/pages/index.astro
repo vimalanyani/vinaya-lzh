@@ -9,6 +9,8 @@ import { getAllBookRuleData } from "../utils";
 import { schoolBookGroups } from "../data/content";
 import type { BookData } from "../data/types";
 
+type Data = Partial<Record<keyof typeof schoolBookGroups, BookData[]>> | null;
+
 let data: Data = {};
 
 for (const [schoolKey, schoolBooks] of Object.entries(schoolBookGroups)) {
