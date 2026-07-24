@@ -1582,25 +1582,25 @@ If a bhikkhunī recites non-Buddhist magic, or teaches others to recite it, it�
 <h3>Pācittiya 191</h3>
 
 <lzh>若比丘尼一眾授具足戒。波逸提。</lzh>
-If a bhikkhunī gives the full ordination to a group, it’s a pācittiya.
+If a bhikkhunī gives the full ordination in one sangha only, it’s a pācittiya.
 
 <lzh>Pācittiya 192</lzh>
 <h3>Pācittiya 192</h3>
 
 <lzh>若比丘尼自作畜眾羯磨。波逸提。</lzh>
-If a bhikkhunī carries out the formal act to take on students herself, it’s a pācittiya.
+If a bhikkhunī carries out the formal act to take on students by herself, it’s a pācittiya.
 
 <lzh>Pācittiya 193</lzh>
 <h3>Pācittiya 193</h3>
 
 <lzh>若比丘尼自作二歲學戒羯磨。波逸提。</lzh>
-If a bhikkhunī carries out the formal act for training two years in the precepts herself, it’s a pācittiya.
+If a bhikkhunī carries out the formal act for training two years in the precepts by herself, it’s a pācittiya.
 
 <lzh>Pācittiya 194</lzh>
 <h3>Pācittiya 194</h3>
 
 <lzh>若比丘尼自受二歲學戒。波逸提。</lzh>
-If a bhikkhunī gives the training precepts for two years herself, it’s a pācittiya.
+If a bhikkhunī gives the training precepts for two years by herself, it’s a pācittiya.
 
 <lzh>Pācittiya 195</lzh>
 <h3>Pācittiya 195</h3>
