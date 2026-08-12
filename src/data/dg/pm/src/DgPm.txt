@@ -296,7 +296,7 @@ Now I ask the venerable sisters: ‘Are you pure herein?’ (Repeat three times)
 The venerable sisters are pure herein, therefore you’re silent. This matter is remembered thus.
 
 <lzh>30 nissaggiya pācittiya rules</lzh>
-<<h2>30 Nissaggiya Pācittiya Rules</h2>
+<h2>30 Nissaggiya Pācittiya Rules</h2>
 
 <lzh>「諸大姊！是三十尼薩耆波逸提法，半月半月說，戒經中來。</lzh>
 Venerable sisters, the 30 nissaggiya pācittiya rules that are recited every half-month in the precepts sutta are coming up.
@@ -1112,13 +1112,13 @@ If a bhikkhunī makes a bathing robe, she should make it to the measurements. �
 <h3>Pācittiya 103</h3>
 
 <lzh>「若比丘尼，縫僧伽梨，過五日，除難事起，波逸提。</lzh>
-If a bhikkhunī takes more than five days to sew a sanghati, except when difficulties arise,<note>The vibhaṅga has a more elaborate version of this rule.</note> it’s a pācittiya.
+If a bhikkhunī takes more than five days to sew a saṅghāṭī, except when difficulties arise,<note>The vibhaṅga has a more elaborate version of this rule.</note> it’s a pācittiya.
 
 <lzh>pācittiya 104</lzh>
 <h3>Pācittiya 104</h3>
 
 <lzh>「若比丘尼，過五日不看僧伽梨，波逸提。</lzh>
-If a bhikkhunī doesn’t look after her sanghati for more than five days, it’s a pācittiya.
+If a bhikkhunī doesn’t look after her saṅghāṭī for more than five days, it’s a pācittiya.
 
 <lzh>pācittiya 105</lzh>
 <h3>Pācittiya 105</h3>
@@ -2424,7 +2424,7 @@ Sakyamuni Tathāgata, without attachment and fully awakened, recited this as his
 <lzh-verse>我今說戒經，亦善說毘尼，</lzh-verse>
 <verse>I’ll now speak the precepts sutta, and will well-recite the vinaya.</verse>
 <lzh-verse>我雖般涅槃，當視如世尊。</lzh-verse>
-<verse>Even if I enter Parinibbāna, these should be regarded as the World-honored One.</verse>
+<verse>Even if I enter parinibbāna, these should be regarded as the World-honored One.</verse>
 <lzh-verse>此經久住世，佛法得熾盛，</lzh-verse>
 <verse>This sutta has stayed in the world for a long time, and the Buddha-dhamma has flourished.</verse>
 <lzh-verse>以是熾盛故，得入於涅槃。</lzh-verse>
