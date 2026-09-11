@@ -1,0 +1,34 @@
+  .homeWidth{
+    margin:0 auto;
+    max-width: 940px;
+    margin-bottom:30px;
+  }
+  p{
+    font-size: 1.5rem;
+    line-height: 2rem;
+    }
+    article p{
+        padding-bottom: 2rem;
+        font-size: 1.5rem;
+    }
+
+    p.groupingInfo{
+        font-style: italic;
+        color:rgb(87, 83, 78);
+        font-size: 1.1rem;
+        list-style: 130%;
+        padding-bottom: 0;
+    }
+    p.verses{
+        padding-bottom: 1rem;
+        min-width:450px;
+        max-width:55%;
+    }
+    h3.pmRuleTitle{
+        font-size: 2rem;
+        padding-bottom: 0.5ex;
+    }
+
+  /* to only show the school name once */
+  /* #LinkedRoleIndexLists H2.sectionTitle{ display: none;} */
+  /* #LinkedRoleIndexLists H2.sectionTitle:first-of-type{ display:block} */

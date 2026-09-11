@@ -1,5 +1,8 @@
 ---
+import '../../styles/global.css';
 import Layout from "../../layouts/Layout.astro";
+import NavMenu from "../../components/NavMenu.astro";
+import Header from '../../components/Header.astro';
 import H1 from "../../components/H1.astro";
 import H2 from "../../components/H2.astro";
 import Link from "../../components/Link.astro";
@@ -37,44 +40,38 @@ const {
   next_file,
   rulePath,
 } = Astro.props;
+const pageHeader = book.split(" ")[1] + " " + rule_no;
+const breadCrumbs = school + " / " + book;
 ---
 
 <Layout
   title={`${school} · ${book} ${rule_no}`}
   prefixedDescription={`the ${school} ${book} ${rule_no}`}
 >
-  <nav class="fixed top-8 right-8">
-    <Link
-      href="/"
-      text="INDEX"
-      class="no-underline border-stone-300 border-2 py-2 px-4 rounded-full hover:shadow-md hover:border-amber-600 bg-stone-100"
-    />
-  </nav>
+<NavMenu/>
   <main>
-    <article>
-      <header>
-        <p class="text-xl leading-7">{school}</p>
-        <p class="text-xl leading-7 mb-4">{book}</p>
-        <H1 heading={rule_class + " " + rule_no} />
-      </header>
+    <article>        
+        <Header  pageHeader={pageHeader} breadCrumbsList={breadCrumbs}></Header>
 
       {
         body.map((section) => {
           const { h2, en, en_grouping_info, en_verse } = section;
           return (
-            <section class="my-8 leading-relaxed">
+            <section class="my-1 leading-relaxed">
               {h2 ? <H2 heading={h2} /> : null}
               {en_grouping_info.map((line) => (
                 <RuleBodyContent
                   content={line}
-                  styles="text-xl py-1 leading-6 text-neutral-600 italic"
+                  styles="groupingInfo"
                 />
               ))}
               {en.map((line) => (
                 <RuleBodyContent content={line} />
               ))}
               {en_verse.map((line) => (
-                <RuleBodyContent content={line} />
+                <RuleBodyContent content={line} 
+                styles="verses"
+                />
               ))}
             </section>
           );

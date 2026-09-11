@@ -16,7 +16,7 @@ const hasNote = Boolean(content.match(hasNotePattern));
 const contentWithNoteMarkup = content
   .replace(
     /<note>/g,
-    '<span tabindex="0" class="inline-block note-wrapper relative text-3xl text-amber-600 ml-1"> <i class="note"><span class="max-w-[900px] py-4 mx-auto" style="display:inherit;">'
+    '<span tabindex="0" class="inline-block note-wrapper relative text-3xl text-amber-700 ml-1"> <i class="note"><span class="max-w-[900px] py-4 mx-auto" style="display:inherit;">'
   )
   .replace(/<\/note>/g, "</span></i>*</span>");
 ---
@@ -25,21 +25,21 @@ const contentWithNoteMarkup = content
   {
     hasNote ? (
       <p
-        class:list={["text-2xl leading-9 py-2", styles]}
+        class:list={["hasNote content", styles]}
         set:html={contentWithNoteMarkup}
       />
     ) : h3 ? (
       <Fragment>
         {h3Preceding ? (
-          <p class:list={["text-2xl leading-9 py-2", styles]}>{h3Preceding}</p>
+          <p class:list={["", styles]}>{h3Preceding}</p>
         ) : null}
-        <h3 class:list={["text-3xl leading-9 py-2", styles]}>{h3}</h3>
+        <h3 class:list={["pmRuleTitle", styles]}>{h3}</h3>
         {h3After ? (
-          <p class:list={["text-2xl leading-9 py-2", styles]}>{h3After}</p>
+          <p class:list={[" ", styles]}>{h3After}</p>
         ) : null}
       </Fragment>
     ) : content ? (
-      <p class:list={["text-2xl leading-9 py-2", styles]}>{content}</p>
+      <p class:list={["content", styles]}>{content}</p>
     ) : null
   }
 </Fragment>
@@ -63,14 +63,12 @@ const contentWithNoteMarkup = content
     bottom: 0;
     left: 0;
     right: 0;
-    background: #fff;
+    border-top:1px solid #fcda84;
+    background: #fafaf9;
     color: #23262d;
     padding: 0.5rem 0.75rem;
-    border-radius: 0.25rem;
-    box-shadow:
-      7.1px 6.7px 5.3px rgba(0, 0, 0, 0.016),
-      23.9px 22.3px 17.9px rgba(0, 0, 0, 0.024),
-      107px 100px 80px rgba(0, 0, 0, 0.04);
+    border-radius: 0rem;
+      box-shadow: rgba(0, 0, 0, 0.8) 0px 30px 50px;
     font-weight: bold;
     font-size: 1rem;
   }
